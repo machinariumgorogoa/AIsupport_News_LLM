@@ -28,6 +28,8 @@ jobs:
           import json
           from datetime import datetime
           import time
+          import os
+          FEISHU_WEBHOOK = os.environ['FEISHU_WEBHOOK']
           
           # LLM/AI行业RSS源
           RSS_SOURCES = [
