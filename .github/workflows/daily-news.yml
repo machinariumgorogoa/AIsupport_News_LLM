@@ -33,9 +33,11 @@ jobs:
           SERPER_API_KEY = os.environ['SERPER_API_KEY']
 
           search_queries = [
-              "LLM大模型 最新发布 2025",
-              "AI人工智能 行业动态 2025",
-              "ChatGPT Claude 更新 2025"
+              "LLM大模型 最新发布",
+              "AI人工智能 行业动态",
+              "ChatGPT Claude 更新",
+              "OpenAI Anthropic 新闻",
+              "大模型 融资 发布"
           ]
 
           all_results = []
@@ -46,15 +48,21 @@ jobs:
                   response = requests.post(
                       'https://google.serper.dev/search',
                       headers=headers,
-                      json={'q': query, 'num': 3, 'hl': 'zh-cn', 'gl': 'cn'}
+                      json={
+                          'q': query, 
+                          'num': 10,
+                          'hl': 'zh-cn', 
+                          'gl': 'cn',
+                          'tbs': 'qdr:d'
+                      }
                   )
                   data = response.json()
                   if 'organic' in data:
-                      for item in data['organic'][:2]:
+                      for item in data['organic'][:4]:
                           all_results.append({
                               'title': item['title'],
                               'link': item['link'],
-                              'snippet': item.get('snippet', '')[:100] + '...'
+                              'snippet': item.get('snippet', '')[:80] + '...'
                           })
               except Exception as e:
                   print(f"Search failed for {query}: {e}")
@@ -62,7 +70,7 @@ jobs:
           date_str = datetime.now().strftime("%Y-%m-%d")
           lines = [f"🤖 LLM行业早报 ({date_str})", ""]
 
-          for i, item in enumerate(all_results[:5], 1):
+          for i, item in enumerate(all_results[:20], 1):
               lines.append(f"{i}. {item['title']}")
               lines.append(f"   {item['snippet']}")
               lines.append(f"   {item['link']}")
