@@ -32,6 +32,20 @@ jobs:
           FEISHU_WEBHOOK = os.environ['FEISHU_WEBHOOK']
           SERPER_API_KEY = os.environ['SERPER_API_KEY']
 
+          # 简单节假日判断（2026年）
+          holidays = ['2026-01-01', '2026-01-02', '2026-01-03',  # 元旦
+                      '2026-02-17', '2026-02-18', '2026-02-19', '2026-02-20', '2026-02-21', '2026-02-22', '2026-02-23',  # 春节
+                      '2026-04-04', '2026-04-05', '2026-04-06',  # 清明
+                      '2026-05-01', '2026-05-02', '2026-05-03',  # 五一
+                      '2026-06-19', '2026-06-20', '2026-06-21',  # 端午
+                      '2026-09-25', '2026-09-26', '2026-09-27',  # 中秋
+                      '2026-10-01', '2026-10-02', '2026-10-03', '2026-10-04', '2026-10-05', '2026-10-06', '2026-10-07', '2026-10-08']  # 国庆
+
+          today = datetime.now().strftime('%Y-%m-%d')
+          if today in holidays:
+              print(f"Today {today} is holiday, skip")
+              exit(0)
+
           search_queries = [
               "LLM大模型 最新发布",
               "AI人工智能 行业动态",
@@ -79,10 +93,8 @@ jobs:
 
           date_str = datetime.now().strftime("%Y-%m-%d")
           
-          # 构建卡片元素
           elements = []
           
-          # 标题
           elements.append({
               "tag": "div",
               "text": {
@@ -91,9 +103,8 @@ jobs:
               }
           })
           
-          elements.append({"tag": "hr"})  # 分割线
-          
-          # 新闻列表
+          elements.append({"tag": "hr"})
+
           for i, item in enumerate(filtered_results[:10], 1):
               elements.append({
                   "tag": "div",
@@ -104,18 +115,15 @@ jobs:
               })
               elements.append({"tag": "hr"})
           
-          # 底部版权
+          # 底部版权（居中模拟）
           elements.append({
-              "tag": "note",
-              "elements": [
-                  {
-                      "tag": "plain_text",
-                      "content": "©️ machinariumAIsupport"
-                  }
-              ]
+              "tag": "div",
+              "text": {
+                  "tag": "lark_md",
+                  "content": "          ©️ machinariumAIsupport"
+              }
           })
 
-          # 飞书卡片格式
           payload = {
               "msg_type": "interactive",
               "card": {
@@ -127,7 +135,7 @@ jobs:
                           "tag": "plain_text",
                           "content": f"AI业界动态早报 | {date_str}"
                       },
-                      "template": "blue"
+                      "template": "purple"
                   },
                   "elements": elements
               }
