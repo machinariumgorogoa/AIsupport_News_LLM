@@ -1,0 +1,81 @@
+name: Daily LLM News to Feishu
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 北京时间每天8:00（UTC 0:00）
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  push-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install requests feedparser
+      
+      - name: Fetch and send LLM news
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_NEWS_LLM }}  # 你的Secret名称
+        run: |
+          python << 'EOF'
+          import requests
+          import feedparser
+          import json
+          from datetime import datetime
+          import time
+          
+          # LLM/AI行业RSS源
+          RSS_SOURCES = [
+              {"name": "机器之心", "url": "https://www.jiqizhixin.com/rss"},
+              {"name": "HuggingFace", "url": "https://huggingface.co/blog/rss.xml"},
+              {"name": "Paper Digest", "url": "https://www.paperdigest.org/feed/"},
+          ]
+          
+          news_items = []
+          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+          
+          for source in RSS_SOURCES:
+              try:
+                  feed = feedparser.parse(source["url"])
+                  for entry in feed.entries[:3]:  # 每个源取3条
+                      news_items.append({
+                          "title": entry.title,
+                          "link": entry.link,
+                          "source": source["name"]
+                      })
+                  time.sleep(1)  # 防爬
+              except Exception as e:
+                  print(f"Failed: {source['name']}: {e}")
+          
+          # 格式化
+          date_str = datetime.now().strftime("%Y-%m-%d")
+          lines = [f"🤖 LLM行业早报 ({date_str})", ""]
+          
+          for i, item in enumerate(news_items[:8], 1):  # 最多8条
+              lines.append(f"{i}. 【{item['source']}】{item['title']}")
+              lines.append(f"   {item['link']}")
+              lines.append("")
+          
+          content = "\n".join(lines)
+          
+          # 飞书文本格式
+          payload = {
+              "msg_type": "text",
+              "content": {"text": content}
+          }
+          
+          resp = requests.post(
+              FEISHU_WEBHOOK,
+              json=payload,
+              headers={"Content-Type": "application/json"}
+          )
+          
+          print(f"Status: {resp.status_code}")
+          if resp.status_code != 200:
+              raise Exception(f"Failed: {resp.text}")
+          EOF
