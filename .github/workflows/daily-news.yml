@@ -67,14 +67,30 @@ jobs:
               except Exception as e:
                   print(f"Search failed for {query}: {e}")
 
-          date_str = datetime.now().strftime("%Y-%m-%d")
-          lines = [f"🤖 LLM行业早报 ({date_str})", ""]
+          # 过滤国外域名
+          foreign_domains = ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 
+                            'medium.com', 'github.com', 'arxiv.org', 'huggingface.co',
+                            'openai.com', 'anthropic.com', 'claude.ai']
+          
+          filtered_results = []
+          for item in all_results:
+              link = item['link'].lower()
+              if not any(domain in link for domain in foreign_domains):
+                  filtered_results.append(item)
 
-          for i, item in enumerate(all_results[:20], 1):
+          date_str = datetime.now().strftime("%Y-%m-%d")
+          lines = [f"🤖 AI业界动态早报-machinariumAIsupport-每日早8点自动定时推送 ({date_str})", ""]
+          lines.append("=" * 50)
+          lines.append("")
+
+          for i, item in enumerate(filtered_results[:10], 1):  # 最多10条
               lines.append(f"{i}. {item['title']}")
               lines.append(f"   {item['snippet']}")
               lines.append(f"   {item['link']}")
               lines.append("")
+
+          lines.append("=" * 50)
+          lines.append("©️machinariumAIsupport")
 
           content = "\n".join(lines)
 
