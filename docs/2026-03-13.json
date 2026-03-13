@@ -7,63 +7,63 @@
   "news": [
     {
       "index": 1,
-      "title": "霸榜全球大模型，力压Claude、GPT，MiniMax凭什么？",
-      "link": "http://www.36kr.com/p/3720864696070913",
-      "snippet": "53分钟前 — MiniMax M2.5连续霸榜全球！ OpenRouter实时数据显示，这款由Minimax在2月12..."
+      "title": "目前市场上似乎只有三类真正可行的AI 产品",
+      "link": "https://zhuanlan.zhihu.com/p/2015734245822314030",
+      "snippet": "... 大语言模型产品本质上都是chatbots。它们虽然被贴上了五花八门的标签，也许这个LLM 能读取你的邮件，那个能..."
     },
     {
       "index": 2,
-      "title": "模型不再是关键？LangChain 创始人：真正决定Agent 上限的是运行框架 - InfoQ",
-      "link": "https://www.infoq.cn/article/pdg3TkbgvSc2PolE5ioy",
-      "snippet": "1小时前 — 但大概在11、12 月，随着最新一批云模型发布，模型能力变得极强，大家发现它们真的可以直接在循环里跑起来。..."
+      "title": "怎么理解与构建推理型大模型-腾讯云开发者社区",
+      "link": "https://cloud.tencent.com/developer/article/2638654",
+      "snippet": "本文将介绍构建推理模型（Reasoning LLMs）的四种主要方法，即如何为大语言模型（LLMs）增强推理能力。希望这..."
     },
     {
       "index": 3,
-      "title": "大模型推理加速新进展：光明实验室发布Nüwa，重塑VLM 空间感知的Token 裁剪 ...",
-      "link": "https://zhuanlan.zhihu.com/p/2015749609104875704",
-      "snippet": "6小时前 — 近日，由光明实验室媒体智能团队马飞研究员主导的大模型Token裁剪工作Nüwa被人工智能领域顶级国际会议I..."
+      "title": "LLM幻觉不只是「胡说八道」？新理论首次拆解幻觉的两大根源丨 ...",
+      "link": "https://i.ifeng.com/c/8rSb0O6yYLn",
+      "snippet": "Agent拐点：新物种正在诞生. 英伟达最强开源权重AI模型：Nemotron 3 Super登场，120B参数、吞吐量..."
     },
     {
       "index": 4,
-      "title": "昨晚，谷歌悄悄发了“新模型”，为多模态智能应用铺平了道路",
+      "title": "昨晚，谷歌悄悄发了“新模型”，为多模态智能应用铺平了道路 - 搜狐",
       "link": "https://m.sohu.com/a/995963181_211762?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "snippet": "5小时前 — 就在昨晚，谷歌发了首个原生多模态嵌入模型Gemini Embedding 2。 跟以往的纯文本基础模型不同..."
+      "snippet": "就在昨晚，谷歌发了首个原生多模态嵌入模型Gemini Embedding 2。 跟以往的纯文本基础模型不同，Gemini..."
     },
     {
       "index": 5,
-      "title": "人工智能产业日报(03.12) : AI产业新动态 - 亿欧",
-      "link": "https://www.iyiou.com/data/202603131123988",
-      "snippet": "人工智能产业日报(03.12) : AI产业新动态 · 谷歌推出人工智能灾害预测方法Groundsource · 首搭8..."
+      "title": "人工智能产业日报(03.13) : AI产业新动态",
+      "link": "https://www.iyiou.com/data/202603141124141",
+      "snippet": "谷歌推出基于AI的灾害预测方法Groundsource；问界M9焕新发布，搭载新一代激光雷达，引领中国品牌向上突破；海光..."
     },
     {
       "index": 6,
-      "title": "人工智能热潮推高电子产品价格 - 新华网",
+      "title": "人工智能热潮推高电子产品价格",
       "link": "http://www.news.cn/liangzi/20260313/7346bfbb913b4a668e74831cf6377fc4/c.html",
       "snippet": "人工智能热潮推高电子产品价格-\"多家企业表示，芯片供应紧缺已在推高AI基础设施及所有依赖内存的产品成本，包括笔记本电脑、..."
     },
     {
       "index": 7,
-      "title": "新浪人工智能热点小时报丨2026年03月12日22时",
-      "link": "https://k.sina.com.cn/article_7857201856_1d45362c00190357uw.html?from=tech",
-      "snippet": "政府工作报告明确提出深化拓展“人工智能+”，促进新一代智能终端和智能体加快推广，推动重点行业领域人工智能商业化规模化应用..."
+      "title": "新浪人工智能热点小时报丨2026年03月14日06时",
+      "link": "https://k.sina.com.cn/article_7857201856_1d45362c0019036zcq.html?from=tech",
+      "snippet": "1、从“经验”到“算法”：AI如何重塑养猪业？ · 2、美国商务部撤回拟议的人工智能芯片出口规则。 · 3、微软CEO ..."
     },
     {
       "index": 8,
       "title": "【理论学术动态导读】牢牢掌握人工智能发展和治理主动权",
       "link": "https://theory.gmw.cn/2026-03/13/content_38646335.htm",
-      "snippet": "新一轮科技革命和产业变革加速演进，人工智能已成为引领这一轮科技革命和产业变革的战略性技术，正在深刻改变全球经济格局和竞争..."
+      "snippet": "新一轮科技革命和产业变革加速演进，人工智能已成为引领科技革命和产业变革的战略性技术，正在深刻改变全球经济格局和竞争态势。..."
     },
     {
       "index": 9,
-      "title": "2026年国内如何注册和升级Claude 账号保姆教程（基本成功！）",
-      "link": "https://upchatgpt.cn/how-register-claude-account-in-china-2026/",
-      "snippet": "2026 国内如何注册Claude 账号教程 · 谷歌邮箱：直接在谷歌搜索谷歌邮箱就可以进行注册，你要是有安装谷歌（Ch..."
+      "title": "不只會回文了！Claude推「互動視覺」新功能，可以直接在對話框裡 ...",
+      "link": "https://today.line.me/tw/v3/article/zN25jxk",
+      "snippet": "... Claude 如同擁有一塊隨時可用的「數位白板」。這些圖表為暫時性，會隨對話演進而不斷調整或更新，協助使用者即時..."
     },
     {
       "index": 10,
-      "title": "GPT-5.2 上线！全面超越Claude Opus4.5 及Gemimi 3.0 Pro",
-      "link": "https://zhuanlan.zhihu.com/p/1982932770171938155",
-      "snippet": "GPT-5.2 正式上线，一次性甩出三个版本：Instant、Thinking、Pro. 说句不夸张的，现在这个状态，C..."
+      "title": "为什么OpenAI反而在追赶Claude Code？ - Binance",
+      "link": "https://www.binance.com/zh-CN/square/post/301120051766353",
+      "snippet": "本文通过对OpenAI 高管、工程师以及多位开发者的采访，揭示了这场竞赛背后的真实过程：从早期OpenAI Codex ..."
     }
   ]
 }
