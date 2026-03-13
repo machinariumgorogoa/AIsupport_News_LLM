@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -24,8 +27,6 @@ jobs:
           FEISHU_WEBHOOK_2: ${{ secrets.FEISHU_NEWS_LLM_2 }}
           SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
-          TENCENT_CLOUD_API_KEY: ${{ secrets.TENCENT_CLOUD_API_KEY }}
-          TENCENT_CLOUD_ENV_ID: ${{ secrets.TENCENT_CLOUD_ENV_ID }}
         run: |
           python << 'EOF'
           import os
@@ -37,8 +38,6 @@ jobs:
           FEISHU_WEBHOOK_2 = os.environ['FEISHU_WEBHOOK_2']
           SERVERCHAN_KEY = os.environ['SERVERCHAN_KEY']
           SERPER_API_KEY = os.environ['SERPER_API_KEY']
-          TENCENT_API_KEY = os.environ['TENCENT_CLOUD_API_KEY']
-          TENCENT_ENV = os.environ['TENCENT_CLOUD_ENV_ID']
 
           holidays = ['2026-01-01', '2026-01-02', '2026-01-03',
                       '2026-02-17', '2026-02-18', '2026-02-19', '2026-02-20', '2026-02-21', '2026-02-22', '2026-02-23',
@@ -100,7 +99,7 @@ jobs:
 
           date_str = datetime.now().strftime("%Y-%m-%d")
           
-          # 构建飞书卡片（原有逻辑不变）
+          # 构建飞书卡片
           def build_feishu_card():
               elements = []
               elements.append({
@@ -184,35 +183,37 @@ jobs:
           except Exception as e:
               print(f"ServerChan failed: {e}")
 
-          # 推送到微信小程序云开发（新增）
+          # 保存到 docs/news.json 供小程序读取（新增）
           try:
-              # 准备数据
-              news_list = []
-              for item in filtered_results[:10]:
-                  news_list.append({
-                      'title': item['title'],
-                      'link': item['link'],
-                      'snippet': item['snippet']
-                  })
-              
-              # 调用云函数
-              cloud_url = f"https://api.weixin.qq.com/tcb/invokecloudfunction?access_token={TENCENT_API_KEY}&env={TENCENT_ENV}&name=addNews"
-              
-              payload_wx = {
-                  'date': date_str,
-                  'newsList': news_list,
-                  'header': {
-                      'title': f"AI业界动态早报 | {date_str}",
-                      'subtitle': "machinariumAIsupport | 每日早8点自动推送"
-                  }
+              news_data = {
+                  "date": date_str,
+                  "header": {
+                      "title": "AI业界动态早报",
+                      "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+                  },
+                  "news": []
               }
               
-              resp = requests.post(
-                  cloud_url,
-                  json=payload_wx,
-                  headers={"Content-Type": "application/json"}
-              )
-              print(f"WeChat MiniProgram sent: {resp.status_code}, {resp.text}")
+              for i, item in enumerate(filtered_results[:10], 1):
+                  news_data["news"].append({
+                      "index": i,
+                      "title": item['title'],
+                      "link": item['link'],
+                      "snippet": item['snippet']
+                  })
+              
+              with open('docs/news.json', 'w', encoding='utf-8') as f:
+                  json.dump(news_data, f, ensure_ascii=False, indent=2)
+              
+              print("Saved to docs/news.json")
           except Exception as e:
-              print(f"WeChat MiniProgram failed: {e}")
+              print(f"Save to file failed: {e}")
           EOF
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add docs/news.json
+          git diff --staged --quiet || git commit -m "Update daily news [skip ci]"
+          git push
