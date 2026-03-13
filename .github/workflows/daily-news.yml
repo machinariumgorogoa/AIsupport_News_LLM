@@ -2,7 +2,7 @@ name: Daily LLM News to Feishu
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '25 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -24,6 +24,7 @@ jobs:
           FEISHU_WEBHOOK_2: ${{ secrets.FEISHU_NEWS_LLM_2 }}
           SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          
         run: |
           python << 'EOF'
           import os
