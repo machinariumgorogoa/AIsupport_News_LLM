@@ -42,68 +42,114 @@ jobs:
           # 获取今天日期
           date_str = (datetime.now() + timedelta(hours=8)).strftime('%Y-%m-%d')
 
-          search_queries = [
-              "LLM大模型 最新发布",
-              "AI人工智能 行业动态",
-              "ChatGPT Claude 更新",
-              "OpenAI Anthropic 新闻",
-              "大模型 融资 发布"
-          ]
-
-          all_results = []
           headers_serper = {'X-API-KEY': SERPER_API_KEY, 'Content-Type': 'application/json'}
+          
+          # 用于去重
+          seen_links = set()
+          all_results = []
 
-          for query in search_queries:
-              try:
-                  response = requests.post(
-                      'https://google.serper.dev/search',
-                      headers=headers_serper,
-                      json={
-                          'q': query, 
+          def search_news(queries, source_filter=None, max_per_query=4):
+              """执行搜索，返回结果列表"""
+              results = []
+              for query in queries:
+                  try:
+                      search_params = {
+                          'q': query,
                           'num': 10,
-                          'hl': 'zh-cn', 
+                          'hl': 'zh-cn',
                           'gl': 'cn',
                           'tbs': 'qdr:d'
                       }
-                  )
-                  data = response.json()
-                  if 'organic' in data:
-                      for item in data['organic'][:4]:
-                          all_results.append({
-                              'title': item['title'],
-                              'link': item['link'],
-                              'snippet': item.get('snippet', '')[:60] + '...'
-                          })
-              except Exception as e:
-                  print(f"Search failed for {query}: {e}")
+                      
+                      response = requests.post(
+                          'https://google.serper.dev/search',
+                          headers=headers_serper,
+                          json=search_params
+                      )
+                      data = response.json()
+                      
+                      if 'organic' in data:
+                          for item in data['organic'][:max_per_query]:
+                              link = item['link']
+                              # 去重检查
+                              if link not in seen_links:
+                                  seen_links.add(link)
+                                  results.append({
+                                      'title': item['title'],
+                                      'link': link,
+                                      'snippet': item.get('snippet', '')[:60] + '...'
+                                  })
+                  except Exception as e:
+                      print(f"Search failed for {query}: {e}")
+              return results
 
+          # ========== 第一次搜索：猎头聚焦 ==========
+          print("=== 第一次搜索：猎头聚焦 ===")
+          
+          # 高管流动关键词
+          executive_queries = [
+              "AI 人工智能 高管 离职 入职 任命 VP 总监 CTO CEO 总裁 site:36kr.com OR site:huxiu.com OR site:jiqizhixin.com",
+              "大模型 人才 流动 跳槽 挖角 团队 组织架构调整 site:36kr.com OR site:huxiu.com OR site:jiqizhixin.com",
+              "AI 融资 并购 收购 轮次 估值 投资方 领投 site:36kr.com OR site:huxiu.com OR site:jiqizhixin.com"
+          ]
+          
+          priority_results = search_news(executive_queries, max_per_query=5)
+          print(f"猎头聚焦结果: {len(priority_results)} 条")
+          
+          all_results.extend(priority_results)
+
+          # ========== 第二次搜索：兜底补充（如果不足10条） ==========
+          if len(all_results) < 10:
+              print(f"=== 第二次搜索：兜底补充（还需 {10 - len(all_results)} 条） ===")
+              
+              fallback_queries = [
+                  "LLM大模型 最新发布",
+                  "AI人工智能 行业动态",
+                  "ChatGPT Claude 更新",
+                  "OpenAI Anthropic 新闻",
+                  "大模型 融资 发布"
+              ]
+              
+              # 计算还需多少条
+              remaining_slots = 10 - len(all_results)
+              max_per_query = max(2, remaining_slots // len(fallback_queries) + 1)
+              
+              fallback_results = search_news(fallback_queries, max_per_query=max_per_query)
+              print(f"兜底补充结果: {len(fallback_results)} 条")
+              
+              all_results.extend(fallback_results)
+
+          # 截取前10条
+          final_results = all_results[:10]
+          print(f"最终结果: {len(final_results)} 条")
+
+          # 过滤国外域名
           foreign_domains = ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 
                             'medium.com', 'github.com', 'arxiv.org', 'huggingface.co',
                             'openai.com', 'anthropic.com', 'claude.ai']
           
           filtered_results = []
-          for item in all_results:
+          for item in final_results:
               link = item['link'].lower()
               if not any(domain in link for domain in foreign_domains):
                   filtered_results.append(item)
 
-          # 构建新闻数据
+          # 如果过滤后不足10条，不再补充（保持简单）
+          filtered_results = filtered_results[:10]
+
+          # 重新编号
+          for i, item in enumerate(filtered_results, 1):
+              item['index'] = i
+
+          # 构建新闻数据（格式完全不变）
           news_data = {
               "date": date_str,
               "header": {
                   "title": "🤖 AI业界动态早报",
                   "subtitle": "machinariumAIsupport | 每日早8点自动推送"
               },
-              "news": []
+              "news": filtered_results
           }
-          
-          for i, item in enumerate(filtered_results[:10], 1):
-              news_data["news"].append({
-                  "index": i,
-                  "title": item['title'],
-                  "link": item['link'],
-                  "snippet": item['snippet']
-              })
 
           # 构建飞书卡片
           def build_feishu_card():
@@ -117,7 +163,7 @@ jobs:
               })
               elements.append({"tag": "hr"})
 
-              for i, item in enumerate(filtered_results[:10], 1):
+              for i, item in enumerate(filtered_results, 1):
                   elements.append({
                       "tag": "div",
                       "text": {
@@ -166,7 +212,7 @@ jobs:
           # 发送到Server酱
           try:
               lines = [f"🤖 AI业界动态早报", f"machinariumAIsupport | 每日早8点自动推送", f"📅 {date_str}", "=" * 40, ""]
-              for i, item in enumerate(filtered_results[:10], 1):
+              for i, item in enumerate(filtered_results, 1):
                   lines.append(f"{i}. {item['title']}")
                   lines.append(f"   {item['snippet']}")
                   lines.append(f"   {item['link']}")
@@ -183,32 +229,31 @@ jobs:
           except Exception as e:
               print(f"ServerChan failed: {e}")
 
-          # 保存到 docs 目录（模式B：按日期命名 + latest.json）
+          # 保存到 docs 目录
           try:
               import os
               
-              # 确保 docs 目录存在
               os.makedirs('docs', exist_ok=True)
               
-              # 1. 保存当天日期文件（如 2026-03-13.json）
+              # 1. 保存当天日期文件
               daily_file = f'docs/{date_str}.json'
               with open(daily_file, 'w', encoding='utf-8') as f:
                   json.dump(news_data, f, ensure_ascii=False, indent=2)
               print(f"Saved to {daily_file}")
               
-              # 2. 同时更新 latest.json（始终指向最新）
+              # 2. 更新 latest.json
               with open('docs/latest.json', 'w', encoding='utf-8') as f:
                   json.dump(news_data, f, ensure_ascii=False, indent=2)
               print("Updated docs/latest.json")
               
-              # 3. 生成索引文件（列出所有历史日期，方便小程序获取列表）
+              # 3. 生成索引文件
               import glob
-              history_files = glob.glob('docs/2*.json')  # 匹配 20xx-xx-xx.json
+              history_files = glob.glob('docs/2*.json')
               dates = sorted([os.path.basename(f).replace('.json', '') for f in history_files], reverse=True)
               
               index_data = {
                   "latest": date_str,
-                  "history": dates[:30]  # 最近30天
+                  "history": dates[:30]
               }
               with open('docs/index.json', 'w', encoding='utf-8') as f:
                   json.dump(index_data, f, ensure_ascii=False, indent=2)
