@@ -2,7 +2,7 @@ name: Daily LLM News to Feishu
 
 on:
   schedule:
-    - cron: '30 23 * * *'  # 北京时间 07:30
+    - cron: '30 23 * * *'  # UTC 23:30 = 北京时间 07:30（次日）
   workflow_dispatch:
 
 jobs:
@@ -39,68 +39,104 @@ jobs:
           SERVERCHAN_KEY = os.environ['SERVERCHAN_KEY']
           SERPER_API_KEY = os.environ['SERPER_API_KEY']
 
-          # 获取今天日期
+          # 获取今天日期（北京时间）
           date_str = (datetime.now() + timedelta(hours=8)).strftime('%Y-%m-%d')
 
           headers_serper = {'X-API-KEY': SERPER_API_KEY, 'Content-Type': 'application/json'}
           
-          # 用于去重
-          seen_links = set()
+          # 境外域名排除列表
+          foreign_domains = ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 
+                            'medium.com', 'github.com', 'arxiv.org', 'huggingface.co',
+                            'openai.com', 'anthropic.com', 'claude.ai']
+          
           all_results = []
+          seen_links = set()  # 简单去重
 
-          def search_news(queries, source_filter=None, max_per_query=4):
-              """执行搜索，返回结果列表"""
-              results = []
-              for query in queries:
-                  try:
-                      search_params = {
+          def search_serper(query, max_results=10):
+              """执行Serper搜索，返回结果列表"""
+              try:
+                  response = requests.post(
+                      'https://google.serper.dev/search',
+                      headers=headers_serper,
+                      json={
                           'q': query,
-                          'num': 10,
+                          'num': max_results,
                           'hl': 'zh-cn',
                           'gl': 'cn',
                           'tbs': 'qdr:d'
-                      }
-                      
-                      response = requests.post(
-                          'https://google.serper.dev/search',
-                          headers=headers_serper,
-                          json=search_params
-                      )
-                      data = response.json()
-                      
-                      if 'organic' in data:
-                          for item in data['organic'][:max_per_query]:
-                              link = item['link']
-                              # 去重检查
-                              if link not in seen_links:
-                                  seen_links.add(link)
+                      },
+                      timeout=15
+                  )
+                  data = response.json()
+                  
+                  results = []
+                  if 'organic' in data:
+                      for item in data['organic']:
+                          link = item['link']
+                          # 去重检查
+                          if link not in seen_links:
+                              seen_links.add(link)
+                              # 过滤境外域名
+                              if not any(domain in link.lower() for domain in foreign_domains):
                                   results.append({
                                       'title': item['title'],
                                       'link': link,
                                       'snippet': item.get('snippet', '')[:60] + '...'
                                   })
-                  except Exception as e:
-                      print(f"Search failed for {query}: {e}")
-              return results
+                  return results
+              except Exception as e:
+                  print(f"Search error: {e}")
+                  return []
 
-          # ========== 第一次搜索：猎头聚焦 ==========
-          print("=== 第一次搜索：猎头聚焦 ===")
+          def score_hunter_value(item):
+              """计算猎头价值分"""
+              title = item['title'].lower()
+              score = 0
+              
+              # P0: 高管流动
+              if any(word in title for word in ['离职', '入职', '加盟', '任命', '跳槽', '创业', '加入']):
+                  if any(word in title for word in ['cto', 'ceo', '总裁', 'vp', '总监', '负责人', '高管', '创始人', '合伙人', '科学家']):
+                      score += 100
+              
+              # P1: 融资并购
+              if any(word in title for word in ['融资', '并购', '收购', '合并', '估值', '轮次', '领投', '跟投']):
+                  score += 80
+              
+              # P2: 上市/IPO
+              if any(word in title for word in ['上市', 'ipo', '挂牌', '独角兽']):
+                  score += 70
+              
+              # P3: 重大产品发布
+              if any(word in title for word in ['发布', '推出', '开源']) and \
+                 any(word in title for word in ['模型', '大模型', 'gpt', 'claude', 'gemini', '产品', '平台']):
+                  score += 60
+              
+              # P4: 战略组织调整
+              if any(word in title for word in ['战略', '组织架构', '调整', '重组', '裁员', '扩招', '撤销', '并入']):
+                  score += 50
+              
+              return score
+
+          # ========== 第1次搜索：新策略（精准公式） ==========
+          print("=== 第1次搜索：精准公式 ===")
           
-          # 高管流动关键词
-          executive_queries = [
-              "AI 人工智能 高管 离职 入职 任命 VP 总监 CTO CEO 总裁 site:36kr.com OR site:huxiu.com OR site:jiqizhixin.com",
-              "大模型 人才 流动 跳槽 挖角 团队 组织架构调整 site:36kr.com OR site:huxiu.com OR site:jiqizhixin.com",
-              "AI 融资 并购 收购 轮次 估值 投资方 领投 site:36kr.com OR site:huxiu.com OR site:jiqizhixin.com"
-          ]
+          LAYER_1 = "(离职 OR 加盟 OR 创业 OR 融资 OR 并购 OR 上市 OR 发布 OR 负责人 OR 创始人)"
+          LAYER_2 = "(AI OR 人工智能 OR 大模型 OR 字节 OR 阿里 OR 腾讯 OR OpenAI OR 智谱 OR MiniMax OR 月之暗面 OR Kimi OR 阶跃 OR 商汤 OR 讯飞)"
+          priority_query = f"{LAYER_1} AND {LAYER_2}"
           
-          priority_results = search_news(executive_queries, max_per_query=5)
-          print(f"猎头聚焦结果: {len(priority_results)} 条")
+          priority_results = search_serper(priority_query, max_results=10)
+          print(f"精准公式结果: {len(priority_results)} 条")
+          
+          # 打分
+          for item in priority_results:
+              item['score'] = score_hunter_value(item)
+              item['source'] = 'priority'
           
           all_results.extend(priority_results)
 
-          # ========== 第二次搜索：兜底补充（如果不足10条） ==========
+          # ========== 第2次搜索：原版保底（如果<10条） ==========
           if len(all_results) < 10:
-              print(f"=== 第二次搜索：兜底补充（还需 {10 - len(all_results)} 条） ===")
+              print(f"=== 第2次搜索：原版保底（还需 {10 - len(all_results)} 条） ===")
               
               fallback_queries = [
                   "LLM大模型 最新发布",
@@ -110,35 +146,26 @@ jobs:
                   "大模型 融资 发布"
               ]
               
-              # 计算还需多少条
-              remaining_slots = 10 - len(all_results)
-              max_per_query = max(2, remaining_slots // len(fallback_queries) + 1)
-              
-              fallback_results = search_news(fallback_queries, max_per_query=max_per_query)
-              print(f"兜底补充结果: {len(fallback_results)} 条")
-              
-              all_results.extend(fallback_results)
+              remaining = 10 - len(all_results)
+              for query in fallback_queries:
+                  if len(all_results) >= 10:
+                      break
+                  results = search_serper(query, max_results=3)
+                  for item in results:
+                      item['score'] = score_hunter_value(item)
+                      item['source'] = 'fallback'
+                  all_results.extend(results)
+                  print(f"  {query}: {len(results)} 条")
 
-          # 截取前10条
+          # 排序取前10
+          all_results.sort(key=lambda x: x['score'], reverse=True)
           final_results = all_results[:10]
-          print(f"最终结果: {len(final_results)} 条")
 
-          # 过滤国外域名
-          foreign_domains = ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 
-                            'medium.com', 'github.com', 'arxiv.org', 'huggingface.co',
-                            'openai.com', 'anthropic.com', 'claude.ai']
-          
-          filtered_results = []
-          for item in final_results:
-              link = item['link'].lower()
-              if not any(domain in link for domain in foreign_domains):
-                  filtered_results.append(item)
-
-          # 如果过滤后不足10条，不再补充（保持简单）
-          filtered_results = filtered_results[:10]
+          print(f"\n最终结果: {len(final_results)} 条")
+          print(f"来源分布: priority={sum(1 for r in final_results if r['source']=='priority')}, fallback={sum(1 for r in final_results if r['source']=='fallback')}")
 
           # 重新编号
-          for i, item in enumerate(filtered_results, 1):
+          for i, item in enumerate(final_results, 1):
               item['index'] = i
 
           # 构建新闻数据（格式完全不变）
@@ -148,10 +175,10 @@ jobs:
                   "title": "🤖 AI业界动态早报",
                   "subtitle": "machinariumAIsupport | 每日早8点自动推送"
               },
-              "news": filtered_results
+              "news": final_results
           }
 
-          # 构建飞书卡片
+          # 构建飞书卡片（原版逻辑）
           def build_feishu_card():
               elements = []
               elements.append({
@@ -163,7 +190,7 @@ jobs:
               })
               elements.append({"tag": "hr"})
 
-              for i, item in enumerate(filtered_results, 1):
+              for i, item in enumerate(final_results, 1):
                   elements.append({
                       "tag": "div",
                       "text": {
@@ -212,7 +239,7 @@ jobs:
           # 发送到Server酱
           try:
               lines = [f"🤖 AI业界动态早报", f"machinariumAIsupport | 每日早8点自动推送", f"📅 {date_str}", "=" * 40, ""]
-              for i, item in enumerate(filtered_results, 1):
+              for i, item in enumerate(final_results, 1):
                   lines.append(f"{i}. {item['title']}")
                   lines.append(f"   {item['snippet']}")
                   lines.append(f"   {item['link']}")
@@ -229,9 +256,10 @@ jobs:
           except Exception as e:
               print(f"ServerChan failed: {e}")
 
-          # 保存到 docs 目录
+          # 保存到 docs 目录（原版逻辑）
           try:
               import os
+              import glob
               
               os.makedirs('docs', exist_ok=True)
               
@@ -247,7 +275,6 @@ jobs:
               print("Updated docs/latest.json")
               
               # 3. 生成索引文件
-              import glob
               history_files = glob.glob('docs/2*.json')
               dates = sorted([os.path.basename(f).replace('.json', '') for f in history_files], reverse=True)
               
