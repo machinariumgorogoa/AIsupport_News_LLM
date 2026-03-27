@@ -27,6 +27,7 @@ jobs:
           FEISHU_WEBHOOK_2: ${{ secrets.FEISHU_NEWS_LLM_2 }}
           SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
         run: |
           python << 'EOF'
           import os
@@ -38,21 +39,45 @@ jobs:
           FEISHU_WEBHOOK_2 = os.environ['FEISHU_WEBHOOK_2']
           SERVERCHAN_KEY = os.environ['SERVERCHAN_KEY']
           SERPER_API_KEY = os.environ['SERPER_API_KEY']
+          KIMI_API_KEY = os.environ['KIMI_API_KEY']
 
           # 获取今天日期（北京时间）
           date_str = (datetime.now() + timedelta(hours=8)).strftime('%Y-%m-%d')
 
           headers_serper = {'X-API-KEY': SERPER_API_KEY, 'Content-Type': 'application/json'}
-          
+
+          def call_kimi(prompt, max_tokens=1000):
+              """调用 Kimi API"""
+              try:
+                  response = requests.post(
+                      'https://api.moonshot.cn/v1/chat/completions',
+                      headers={
+                          'Authorization': f'Bearer {KIMI_API_KEY}',
+                          'Content-Type': 'application/json'
+                      },
+                      json={
+                          'model': 'kimi-k2.5',
+                          'messages': [{'role': 'user', 'content': prompt}],
+                          'temperature': 0.2,
+                          'max_tokens': max_tokens
+                      },
+                      timeout=30
+                  )
+                  result = response.json()
+                  return result['choices'][0]['message']['content'].strip()
+              except Exception as e:
+                  print(f"Kimi API error: {e}")
+                  return None
+
           # 境外域名排除列表
           foreign_domains = ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 
                             'medium.com', 'github.com', 'arxiv.org', 'huggingface.co',
                             'openai.com', 'anthropic.com', 'claude.ai']
           
           all_results = []
-          seen_links = set()  # 简单去重
+          seen_links = set()
 
-          def search_serper(query, max_results=10):
+          def search_serper(query, max_results=20):
               """执行Serper搜索，返回结果列表"""
               try:
                   response = requests.post(
@@ -73,15 +98,14 @@ jobs:
                   if 'organic' in data:
                       for item in data['organic']:
                           link = item['link']
-                          # 去重检查
                           if link not in seen_links:
                               seen_links.add(link)
-                              # 过滤境外域名
                               if not any(domain in link.lower() for domain in foreign_domains):
                                   results.append({
                                       'title': item['title'],
                                       'link': link,
-                                      'snippet': item.get('snippet', '')[:60] + '...'
+                                      'snippet': item.get('snippet', '')[:80] + '...',
+                                      'raw_snippet': item.get('snippet', '')
                                   })
                   return results
               except Exception as e:
@@ -93,83 +117,170 @@ jobs:
               title = item['title'].lower()
               score = 0
               
-              # P0: 高管流动
-              if any(word in title for word in ['离职', '入职', '加盟', '任命', '跳槽', '创业', '加入']):
-                  if any(word in title for word in ['cto', 'ceo', '总裁', 'vp', '总监', '负责人', '高管', '创始人', '合伙人', '科学家']):
-                      score += 100
-              
-              # P1: 融资并购
               if any(word in title for word in ['融资', '并购', '收购', '合并', '估值', '轮次', '领投', '跟投']):
-                  score += 80
-              
-              # P2: 上市/IPO
+                  score += 100
+              if any(word in title for word in ['离职', '入职', '加盟', '任命', '跳槽', '创业', '加入', 'cto', 'ceo', '总裁', 'vp', '总监', '负责人', '高管', '创始人', '合伙人', '科学家']):
+                  score += 90
               if any(word in title for word in ['上市', 'ipo', '挂牌', '独角兽']):
-                  score += 70
-              
-              # P3: 重大产品发布
+                  score += 80
               if any(word in title for word in ['发布', '推出', '开源']) and \
                  any(word in title for word in ['模型', '大模型', 'gpt', 'claude', 'gemini', '产品', '平台']):
                   score += 60
-              
-              # P4: 战略组织调整
-              if any(word in title for word in ['战略', '组织架构', '调整', '重组', '裁员', '扩招', '撤销', '并入']):
+              if any(word in title for word in ['芯片', '机器人', 'Figure', '具身', '传感器', '算力', '硬件']):
                   score += 50
               
               return score
 
-          # ========== 第1次搜索：新策略（精准公式） ==========
-          print("=== 第1次搜索：精准公式 ===")
+          # ========== 搜索阶段：获取原始20条 ==========
+          print("=== 搜索阶段 ===")
           
           LAYER_1 = "(离职 OR 加盟 OR 创业 OR 融资 OR 并购 OR 上市 OR 发布 OR 负责人 OR 创始人)"
-          LAYER_2 = "(AI OR 人工智能 OR 大模型 OR 字节 OR 阿里 OR 腾讯 OR OpenAI OR 智谱 OR MiniMax OR 月之暗面 OR Kimi OR 阶跃 OR 商汤 OR 讯飞)"
+          LAYER_2 = "(AI OR 人工智能 OR 大模型 OR 字节 OR 阿里 OR 腾讯 OR OpenAI OR 智谱 OR MiniMax OR 月之暗面 OR Kimi OR 阶跃 OR 商汤 OR 讯飞 OR 具身智能 OR 机器人)"
           priority_query = f"{LAYER_1} AND {LAYER_2}"
           
-          priority_results = search_serper(priority_query, max_results=10)
-          print(f"精准公式结果: {len(priority_results)} 条")
-          
-          # 打分
+          priority_results = search_serper(priority_query, max_results=20)
+          print(f"Serper返回: {len(priority_results)} 条")
+
+          # 保存原始数据（调试用）
+          raw_data = {
+              "date": date_str,
+              "count": len(priority_results),
+              "items": priority_results
+          }
+
           for item in priority_results:
               item['score'] = score_hunter_value(item)
-              item['source'] = 'priority'
+
+          # ========== LLM 语义去重 ==========
+          print("=== LLM 语义去重 ===")
           
-          all_results.extend(priority_results)
-
-          # ========== 第2次搜索：原版保底（如果<10条） ==========
-          if len(all_results) < 10:
-              print(f"=== 第2次搜索：原版保底（还需 {10 - len(all_results)} 条） ===")
+          def dedup_by_llm(items, target_count=10):
+              """使用LLM进行语义去重，确保返回target_count条"""
+              if len(items) <= target_count:
+                  return items
               
-              fallback_queries = [
-                  "LLM大模型 最新发布",
-                  "AI人工智能 行业动态",
-                  "ChatGPT Claude 更新",
-                  "OpenAI Anthropic 新闻",
-                  "大模型 融资 发布"
-              ]
+              titles_text = "\n".join([f"{i+1}. {item['title']}\n   摘要：{item['raw_snippet'][:50]}" for i, item in enumerate(items)])
               
-              remaining = 10 - len(all_results)
-              for query in fallback_queries:
-                  if len(all_results) >= 10:
-                      break
-                  results = search_serper(query, max_results=3)
-                  for item in results:
-                      item['score'] = score_hunter_value(item)
-                      item['source'] = 'fallback'
-                  all_results.extend(results)
-                  print(f"  {query}: {len(results)} 条")
+              prompt = f"""作为AI新闻编辑，分析以下{len(items)}条新闻，找出报道同一事件（尤其是同一公司融资、同一产品发布、同一高管变动等）的重复条目。
 
-          # 排序取前10
-          all_results.sort(key=lambda x: x['score'], reverse=True)
-          final_results = all_results[:10]
+新闻列表：
+{titles_text}
 
-          print(f"\n最终结果: {len(final_results)} 条")
-          print(f"来源分布: priority={sum(1 for r in final_results if r['source']=='priority')}, fallback={sum(1 for r in final_results if r['source']=='fallback')}")
+任务：
+1. 识别重复报道同一事件的新闻（标题不同但内容相同，或同一事件的不同角度报道）
+2. 每组重复只保留1条（选择标题最准确、信息最完整的那条）
+3. 确保最终保留{target_count}条高质量、不重复的新闻
+4. 优先考虑：融资新闻 > 大模型技术动态 > 硬件产品
 
+请直接返回要保留的序号（例如：1,3,5,7,9,11,13,15,17,19），用逗号分隔，不要解释，只输出序号。"""
+
+              result = call_kimi(prompt, max_tokens=200)
+              if result:
+                  try:
+                      import re
+                      numbers = re.findall(r'\d+', result)
+                      indices = [int(n) - 1 for n in numbers if 1 <= int(n) <= len(items)]
+                      if len(indices) >= target_count * 0.5:  # 至少保留一半
+                          return [items[i] for i in indices[:target_count]]
+                  except Exception as e:
+                      print(f"Parse error: {e}, fallback to score ranking")
+              
+              # 如果LLM失败，按分数取前target_count条
+              items.sort(key=lambda x: x['score'], reverse=True)
+              return items[:target_count]
+
+          deduped_results = dedup_by_llm(priority_results, target_count=10)
+          print(f"去重后: {len(deduped_results)} 条")
+
+          # ========== LLM 智能分类 ==========
+          print("=== LLM 智能分类 ===")
+          
+          def classify_by_llm(items):
+              """使用LLM将新闻分为3类"""
+              if not items:
+                  return {"融资速报": [], "行业动态-大模型": [], "行业动态-AI硬件/具身智能": []}
+              
+              titles_text = "\n".join([f"{i+1}. {item['title']}" for i, item in enumerate(items)])
+              
+              prompt = f"""将以下新闻标题分类到3个类别中：
+
+类别定义：
+1. 融资速报：公司融资、并购、上市、估值、IPO、投资相关
+2. 行业动态-大模型：大模型发布、技术更新、AI算法、模型能力、AI应用落地、政策监管（非融资类）
+3. 行业动态-AI硬件/具身智能：机器人、芯片、传感器、自动驾驶、具身智能、AI硬件产品
+
+新闻列表：
+{titles_text}
+
+请按以下JSON格式返回（必须确保3个类别都有数组，即使为空）：
+{{
+  "融资速报": [1, 2],
+  "行业动态-大模型": [3, 4, 5],
+  "行业动态-AI硬件/具身智能": [6]
+}}
+
+只输出JSON，不要解释。"""
+
+              result = call_kimi(prompt, max_tokens=500)
+              categories = {"融资速报": [], "行业动态-大模型": [], "行业动态-AI硬件/具身智能": []}
+              
+              if result:
+                  try:
+                      # 提取JSON部分
+                      import re
+                      json_match = re.search(r'\{.*\}', result, re.DOTALL)
+                      if json_match:
+                          parsed = json.loads(json_match.group())
+                          # 验证并转换索引
+                          for cat, indices in parsed.items():
+                              if cat in categories:
+                                  valid_indices = [i-1 for i in indices if isinstance(i, int) and 1 <= i <= len(items)]
+                                  categories[cat] = [items[i] for i in valid_indices]
+                  except Exception as e:
+                      print(f"Classification parse error: {e}")
+                      # 回退到规则分类
+                      for item in items:
+                          title_lower = item['title'].lower()
+                          if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', '轮', '领投', '跟投']):
+                              categories["融资速报"].append(item)
+                          elif any(w in title_lower for w in ['芯片', '机器人', '具身', '传感器', '硬件', 'figure', '特斯拉']):
+                              categories["行业动态-AI硬件/具身智能"].append(item)
+                          else:
+                              categories["行业动态-大模型"].append(item)
+              else:
+                  # LLM失败，使用规则分类
+                  for item in items:
+                      title_lower = item['title'].lower()
+                      if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', '轮', '领投', '跟投']):
+                          categories["融资速报"].append(item)
+                      elif any(w in title_lower for w in ['芯片', '机器人', '具身', '传感器', '硬件', 'figure', '特斯拉']):
+                          categories["行业动态-AI硬件/具身智能"].append(item)
+                      else:
+                          categories["行业动态-大模型"].append(item)
+              
+              # 确保每类至少1条（如果总数够）
+              all_items = items[:]
+              for cat in categories:
+                  if not categories[cat] and all_items:
+                      categories[cat].append(all_items.pop(0))
+              
+              return categories
+
+          classified = classify_by_llm(deduped_results)
+          print(f"分类结果: 融资{len(classified['融资速报'])}条, 大模型{len(classified['行业动态-大模型'])}条, 硬件{len(classified['行业动态-AI硬件/具身智能'])}条")
+
+          # 构建扁平版本（小程序用）：按分类排序，不暴露category字段
+          final_results = []
+          for cat_name in ["融资速报", "行业动态-大模型", "行业动态-AI硬件/具身智能"]:
+              for item in classified[cat_name]:
+                  final_results.append(item)
+          
           # 重新编号
           for i, item in enumerate(final_results, 1):
               item['index'] = i
 
-          # 构建新闻数据（格式完全不变）
-          news_data = {
+          # 构建标准JSON（小程序格式不变）
+          news_data_standard = {
               "date": date_str,
               "header": {
                   "title": "🤖 AI业界动态早报",
@@ -178,8 +289,31 @@ jobs:
               "news": final_results
           }
 
-          # 构建飞书卡片（原版逻辑）
-          def build_feishu_card():
+          # 构建分组JSON（飞书用）
+          news_data_grouped = {
+              "date": date_str,
+              "header": {
+                  "title": "🤖 AI业界动态早报",
+                  "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+              },
+              "categories": [
+                  {
+                      "name": "融资速报",
+                      "items": [{"title": item['title'], "link": item['link'], "snippet": item['snippet'], "index": item['index']} for item in classified["融资速报"]]
+                  },
+                  {
+                      "name": "行业动态-大模型",
+                      "items": [{"title": item['title'], "link": item['link'], "snippet": item['snippet'], "index": item['index']} for item in classified["行业动态-大模型"]]
+                  },
+                  {
+                      "name": "行业动态-AI硬件/具身智能",
+                      "items": [{"title": item['title'], "link": item['link'], "snippet": item['snippet'], "index": item['index']} for item in classified["行业动态-AI硬件/具身智能"]]
+                  }
+              ]
+          }
+
+          # ========== 飞书卡片构建（分组格式） ==========
+          def build_feishu_card_grouped():
               elements = []
               elements.append({
                   "tag": "div",
@@ -190,16 +324,63 @@ jobs:
               })
               elements.append({"tag": "hr"})
 
-              for i, item in enumerate(final_results, 1):
+              # 融资速报
+              if classified["融资速报"]:
                   elements.append({
                       "tag": "div",
                       "text": {
                           "tag": "lark_md",
-                          "content": f"**{i}.** [{item['title']}]({item['link']})\n{item['snippet']}"
+                          "content": "**💰 融资速报**"
                       }
                   })
+                  for item in classified["融资速报"]:
+                      elements.append({
+                          "tag": "div",
+                          "text": {
+                              "tag": "lark_md",
+                              "content": f"**{item['index']}.** [{item['title']}]({item['link']})\n{item['snippet']}"
+                          }
+                      })
                   elements.append({"tag": "hr"})
-              
+
+              # 行业动态-大模型
+              if classified["行业动态-大模型"]:
+                  elements.append({
+                      "tag": "div",
+                      "text": {
+                          "tag": "lark_md",
+                          "content": "**🧠 行业动态-大模型**"
+                      }
+                  })
+                  for item in classified["行业动态-大模型"]:
+                      elements.append({
+                          "tag": "div",
+                          "text": {
+                              "tag": "lark_md",
+                              "content": f"**{item['index']}.** [{item['title']}]({item['link']})\n{item['snippet']}"
+                          }
+                      })
+                  elements.append({"tag": "hr"})
+
+              # 行业动态-AI硬件/具身智能
+              if classified["行业动态-AI硬件/具身智能"]:
+                  elements.append({
+                      "tag": "div",
+                      "text": {
+                          "tag": "lark_md",
+                          "content": "**🤖 行业动态-AI硬件/具身智能**"
+                      }
+                  })
+                  for item in classified["行业动态-AI硬件/具身智能"]:
+                      elements.append({
+                          "tag": "div",
+                          "text": {
+                              "tag": "lark_md",
+                              "content": f"**{item['index']}.** [{item['title']}]({item['link']})\n{item['snippet']}"
+                          }
+                      })
+                  elements.append({"tag": "hr"})
+
               elements.append({
                   "tag": "div",
                   "text": {
@@ -222,7 +403,7 @@ jobs:
 
           # 发送到飞书群1
           try:
-              payload = build_feishu_card()
+              payload = build_feishu_card_grouped()
               resp = requests.post(FEISHU_WEBHOOK_1, json=payload, headers={"Content-Type": "application/json"})
               print(f"Feishu 1 sent: {resp.status_code}")
           except Exception as e:
@@ -230,20 +411,37 @@ jobs:
 
           # 发送到飞书群2
           try:
-              payload = build_feishu_card()
+              payload = build_feishu_card_grouped()
               resp = requests.post(FEISHU_WEBHOOK_2, json=payload, headers={"Content-Type": "application/json"})
               print(f"Feishu 2 sent: {resp.status_code}")
           except Exception as e:
               print(f"Feishu 2 failed: {e}")
 
-          # 发送到Server酱
+          # 发送到Server酱（分组格式）
           try:
               lines = [f"🤖 AI业界动态早报", f"machinariumAIsupport | 每日早8点自动推送", f"📅 {date_str}", "=" * 40, ""]
-              for i, item in enumerate(final_results, 1):
-                  lines.append(f"{i}. {item['title']}")
-                  lines.append(f"   {item['snippet']}")
-                  lines.append(f"   {item['link']}")
+              
+              if classified["融资速报"]:
+                  lines.append("💰 融资速报")
+                  for item in classified["融资速报"]:
+                      lines.append(f"{item['index']}. {item['title']}")
+                      lines.append(f"   {item['link']}")
                   lines.append("")
+              
+              if classified["行业动态-大模型"]:
+                  lines.append("🧠 行业动态-大模型")
+                  for item in classified["行业动态-大模型"]:
+                      lines.append(f"{item['index']}. {item['title']}")
+                      lines.append(f"   {item['link']}")
+                  lines.append("")
+              
+              if classified["行业动态-AI硬件/具身智能"]:
+                  lines.append("🤖 行业动态-AI硬件/具身智能")
+                  for item in classified["行业动态-AI硬件/具身智能"]:
+                      lines.append(f"{item['index']}. {item['title']}")
+                      lines.append(f"   {item['link']}")
+                  lines.append("")
+
               lines.append("=" * 40)
               lines.append("©️ machinariumAIsupport")
               
@@ -256,27 +454,38 @@ jobs:
           except Exception as e:
               print(f"ServerChan failed: {e}")
 
-          # 保存到 docs 目录（原版逻辑）
+          # 保存文件
           try:
               import os
               import glob
               
               os.makedirs('docs', exist_ok=True)
               
-              # 1. 保存当天日期文件
+              # 1. 保存原始数据（调试用，覆盖式）
+              with open('docs/raw.json', 'w', encoding='utf-8') as f:
+                  json.dump(raw_data, f, ensure_ascii=False, indent=2)
+              print("Saved docs/raw.json (调试数据)")
+              
+              # 2. 保存标准版本（小程序用，格式不变）
               daily_file = f'docs/{date_str}.json'
               with open(daily_file, 'w', encoding='utf-8') as f:
-                  json.dump(news_data, f, ensure_ascii=False, indent=2)
-              print(f"Saved to {daily_file}")
+                  json.dump(news_data_standard, f, ensure_ascii=False, indent=2)
+              print(f"Saved {daily_file} (标准格式)")
               
-              # 2. 更新 latest.json
+              # 3. 保存分组版本（飞书用）
+              grouped_file = f'docs/{date_str}_grouped.json'
+              with open(grouped_file, 'w', encoding='utf-8') as f:
+                  json.dump(news_data_grouped, f, ensure_ascii=False, indent=2)
+              print(f"Saved {grouped_file} (分组格式)")
+              
+              # 4. 更新 latest.json（小程序用，标准格式）
               with open('docs/latest.json', 'w', encoding='utf-8') as f:
-                  json.dump(news_data, f, ensure_ascii=False, indent=2)
+                  json.dump(news_data_standard, f, ensure_ascii=False, indent=2)
               print("Updated docs/latest.json")
               
-              # 3. 生成索引文件
+              # 5. 生成索引文件
               history_files = glob.glob('docs/2*.json')
-              dates = sorted([os.path.basename(f).replace('.json', '') for f in history_files], reverse=True)
+              dates = sorted([os.path.basename(f).replace('.json', '').replace('_grouped', '') for f in history_files if not f.endswith('_grouped.json')], reverse=True)
               
               index_data = {
                   "latest": date_str,
@@ -296,5 +505,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
           git add docs/
-          git diff --staged --quiet || git commit -m "Update daily news for $(date +%Y-%m-%d) [skip ci]"
+          git diff --staged --quiet || git commit -m "Update daily news for $(date +%Y-%m-%d) with LLM dedup & classification [skip ci]"
           git push
