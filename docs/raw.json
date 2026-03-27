@@ -1,46 +1,62 @@
 {
-  "date": "2026-03-27",
-  "count": 9,
+  "date": "2026-03-28",
+  "count": 10,
   "items": [
     {
-      "title": "重磅！Kimi的IPO即将来袭 - 36氪",
-      "link": "https://eu.36kr.com/zh/p/3740465529684233",
-      "snippet": "2023年10月，公司推出首个支持输入20万汉字的大模型moonshot，以及智能助手产品Kimi Chat，杨植麟在这场沟通交流会上确认，公司获得红杉中国、今...",
-      "raw_snippet": "2023年10月，公司推出首个支持输入20万汉字的大模型moonshot，以及智能助手产品Kimi Chat，杨植麟在这场沟通交流会上确认，公司获得红杉中国、今日资本、砺思资本等知名机构近 ...",
-      "score": 80,
-      "index": 1
-    },
-    {
       "title": "传月之暗面考虑赴港上市，估值3个月涨4倍飙至1200亿 - 新浪财经",
-      "link": "https://finance.sina.cn/stock/ssgs/2026-03-26/detail-inhsikas6020946.d.html?oid=3819245601216859&vt=4&cid=80775&node_id=80775",
+      "link": "https://finance.sina.cn/stock/ssgs/2026-03-26/detail-inhsikas6020946.d.html?oid=%E6%BE%B3%E9%97%A8%E5%93%AA%E9%87%8C%E7%9A%84%E5%8F%A4%E9%A9%B0%E4%BE%BF%E5%AE%9C%E5%8F%88%E5%A5%BD%E7%9C%8B%E2%95%AF%E5%BE%AE%E4%BF%A111582001%E2%95%B0KyWq&vt=4&cid=80775&node_id=80775",
       "snippet": "据创始人杨植麟表示，月之暗面当时刚完成了5亿美元（约合人民币34.8亿元）C轮融资且大幅超募，当前现金持有量超过100亿元。 杨植麟称，相比于二级市场，月之暗面...",
       "raw_snippet": "据创始人杨植麟表示，月之暗面当时刚完成了5亿美元（约合人民币34.8亿元）C轮融资且大幅超募，当前现金持有量超过100亿元。 杨植麟称，相比于二级市场，月之暗面判断还可以从一级 ...",
       "score": 180,
+      "index": 11
+    },
+    {
+      "title": "突发！月之暗面被传考虑赴港上市",
+      "link": "https://zhuanlan.zhihu.com/p/2020893080010719311",
+      "snippet": "知情人士称，月之暗面正处于早期阶段，其目的是激发投资者对AI的兴趣。 昨日，据彭博社报道，月之暗面正在洽谈筹集高达10亿美元（约合人民币69亿元）的资金，这 ....",
+      "raw_snippet": "知情人士称，月之暗面正处于早期阶段，其目的是激发投资者对AI的兴趣。 昨日，据彭博社报道，月之暗面正在洽谈筹集高达10亿美元（约合人民币69亿元）的资金，这 ...",
+      "score": 80,
       "index": 2
     },
     {
-      "title": "Kimi和阶跃，争抢“龙虾第一股” | MEXC 新闻",
-      "link": "https://www.mexc.com/zh-MY/news/986217",
-      "snippet": "而在今年早些时候，月之暗面已获得逾7亿美元融资，而且包含很多老股东的跟投，其中不乏阿里、腾讯、美团、小红书这样互联网巨头的身影。 同样是在最近一段时间，另一家A...",
-      "raw_snippet": "而在今年早些时候，月之暗面已获得逾7亿美元融资，而且包含很多老股东的跟投，其中不乏阿里、腾讯、美团、小红书这样互联网巨头的身影。 同样是在最近一段时间，另一家AI公司的 ...",
-      "score": 0,
-      "index": 7
-    },
-    {
       "title": "中国AI初创公司月之暗面在审查加剧之际酝酿赴港上市 - 华尔街日报",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BDai%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%9C%A8%E5%AE%A1%E6%9F%A5%E5%8A%A0%E5%89%A7%E4%B9%8B%E9%99%85%E9%85%9D%E9%85%BF%E8%B5%B4%E6%B8%AF%E4%B8%8A%E5%B8%82-a200fdb3?gaa_at=eafs&gaa_n=AWEtsqejiaXgUVvjXACMpFn7oqhY630qqNrjgKYG-DnxtJfBn46hfJtio9na&gaa_ts=69c673fb&gaa_sig=cFeB9YyADQPvG2ISmQKhf3g-FQronsb48X9toRkJb8JZ7ji5XyJuTbd7uV-UwV1XLE0xFOixlFxaw_O39P3fIg%3D%3D",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BDai%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%9C%A8%E5%AE%A1%E6%9F%A5%E5%8A%A0%E5%89%A7%E4%B9%8B%E9%99%85%E9%85%9D%E9%85%BF%E8%B5%B4%E6%B8%AF%E4%B8%8A%E5%B8%82-a200fdb3?gaa_at=eafs&gaa_n=AWEtsqfXI3-xjr1J_cXqDNZYZDDyUa2SHQtJeAWIMiDGuakXjMEQukgxEHRe&gaa_ts=69c71b6c&gaa_sig=9aS_cflFNm9PnX_uyLiSG-RMyATgrNnbYTQo9jEvhlBU7tFfJ00zWXIhHT2E2JU4KKWHhaRfhHf-C0ihqw7QqA%3D%3D",
       "snippet": "据知情人士透露，中国最有前途的AI初创公司之一月之暗面(Moonshot AI)正考虑调整公司结构，为香港IPO铺路。 一些知情人士称，该公司正在以约180亿美...",
       "raw_snippet": "据知情人士透露，中国最有前途的AI初创公司之一月之暗面(Moonshot AI)正考虑调整公司结构，为香港IPO铺路。 一些知情人士称，该公司正在以约180亿美元的估值进行新一轮 ...",
       "score": 80,
       "index": 3
     },
     {
-      "title": "估值约180 亿美元，如何看待Kimi 选择在此时冲击上市？ - 庄明浩 ...",
-      "link": "https://www.zhihu.com/question/2020804413736969442/answer/2020822235380760792",
-      "snippet": "据报道，该公司今年早些时候已完成逾7 亿美元的融资轮次，目前正在洽谈额外筹集最高10 亿美元的资金，扩大后的融资轮次将使公司估值达到约180 亿美元。 彭博社指...",
-      "raw_snippet": "据报道，该公司今年早些时候已完成逾7 亿美元的融资轮次，目前正在洽谈额外筹集最高10 亿美元的资金，扩大后的融资轮次将使公司估值达到约180 亿美元。 彭博社指出，目前已有多 ...",
-      "score": 180,
+      "title": "高盛集团|IPO|Minimax - Kimi和阶跃，争抢“龙虾第一股” - 新浪财经",
+      "link": "https://finance.sina.cn/stock/jdts/2026-03-27/detail-inhskwcv9642049.d.html?vt=4&cid=76993&node_id=76993",
+      "snippet": "同样是在最近一段时间，另一家AI公司的IPO规划也在推进。 阶跃星辰在2026年初完成超50亿元人民币B+轮融资，并宣布印奇出任董事长。随后市场迅速传出 ......",
+      "raw_snippet": "同样是在最近一段时间，另一家AI公司的IPO规划也在推进。 阶跃星辰在2026年初完成超50亿元人民币B+轮融资，并宣布印奇出任董事长。随后市场迅速传出 ...",
+      "score": 80,
       "index": 4
+    },
+    {
+      "title": "突发！月之暗面被传考虑赴港上市 - 腾讯新闻",
+      "link": "https://news.qq.com/rain/a/20260327A057LA00",
+      "snippet": "去年12月31日，月之暗面曝光的内部信中，月之暗面创始人兼CEO杨植麟透露了该公司当时的资金状况。月之暗面当时刚完成了5亿美元（约合人民币34.8亿元）C轮融资...",
+      "raw_snippet": "去年12月31日，月之暗面曝光的内部信中，月之暗面创始人兼CEO杨植麟透露了该公司当时的资金状况。月之暗面当时刚完成了5亿美元（约合人民币34.8亿元）C轮融资且大幅超募，当前 ...",
+      "score": 80,
+      "index": 5
+    },
+    {
+      "title": "Kimi和阶跃，争抢“龙虾第一股” - 虎嗅",
+      "link": "https://www.huxiu.com/article/4845883.html",
+      "snippet": "同样是在最近一段时间，另一家AI公司的IPO规划也在推进。 阶跃星辰在2026年初完成超50亿元人民币B+轮融资，并宣布印奇出任董事长。随后市场迅速 ......",
+      "raw_snippet": "同样是在最近一段时间，另一家AI公司的IPO规划也在推进。 阶跃星辰在2026年初完成超50亿元人民币B+轮融资，并宣布印奇出任董事长。随后市场迅速 ...",
+      "score": 0,
+      "index": 9
+    },
+    {
+      "title": "重磅！Kimi的IPO即将来袭 - 36氪",
+      "link": "https://eu.36kr.com/zh/p/3740465529684233",
+      "snippet": "2023年10月，公司推出首个支持输入20万汉字的大模型moonshot，以及智能助手产品Kimi Chat，杨植麟在这场沟通交流会上确认，公司获得红杉中国、今...",
+      "raw_snippet": "2023年10月，公司推出首个支持输入20万汉字的大模型moonshot，以及智能助手产品Kimi Chat，杨植麟在这场沟通交流会上确认，公司获得红杉中国、今日资本、砺思资本等知名机构近 ...",
+      "score": 80,
+      "index": 6
     },
     {
       "title": "硅谷手记丨关停Sora，OpenAI的“断舍离”与AI新赛点 - 新华网",
@@ -48,31 +64,23 @@
       "snippet": "在近期举行的公司全员会议上，时任OpenAI应用业务负责人菲吉·西莫警告，公司不能因为被各种“支线任务”分散注意力，而错失当前这一关键的发展窗口。 由此看来，O...",
       "raw_snippet": "在近期举行的公司全员会议上，时任OpenAI应用业务负责人菲吉·西莫警告，公司不能因为被各种“支线任务”分散注意力，而错失当前这一关键的发展窗口。 由此看来，OpenAI决定关停 ...",
       "score": 0,
+      "index": 10
+    },
+    {
+      "title": "与OpenAI抢上市Anthropic最快10月IPO已接洽投行 - 同花顺",
+      "link": "http://news.10jqka.com.cn/20260327/c675581636.shtml",
+      "snippet": "目前，该公司正与竞争对手OpenAI争相推进IPO计划，欲抢先上市。 据知情人士透露，Anthropic已与华尔街投行进行了初步讨论，商讨这桩潜在上市交易中的主...",
+      "raw_snippet": "目前，该公司正与竞争对手OpenAI争相推进IPO计划，欲抢先上市。 据知情人士透露，Anthropic已与华尔街投行进行了初步讨论，商讨这桩潜在上市交易中的主承销商角色。",
+      "score": 80,
+      "index": 7
+    },
+    {
+      "title": "AI 初创公司Isara 完成9400 万美元融资，OpenAI 参投 - Binance",
+      "link": "https://www.binance.com/en/square/post/305981775310738",
+      "snippet": "该公司由两位23 岁的AI 研究员Eddie Zhang 和Henry Gasztowtt 于去年6 月创立。Eddie Zhang 去年从OpenAI 离职，...",
+      "raw_snippet": "该公司由两位23 岁的AI 研究员Eddie Zhang 和Henry Gasztowtt 于去年6 月创立。Eddie Zhang 去年从OpenAI 离职，该公司最初的目标是将其软件出售给投资公司用于预测建 ...",
+      "score": 100,
       "index": 8
-    },
-    {
-      "title": "亚马逊人工智能芯片产品负责人据称已离职 - 东方财富",
-      "link": "https://wap.eastmoney.com/a/202603273686074768.html",
-      "snippet": "亚马逊人工智能芯片产品负责人据称已离职。...",
-      "raw_snippet": "亚马逊人工智能芯片产品负责人据称已离职。",
-      "score": 140,
-      "index": 9
-    },
-    {
-      "title": "據報內地AI六小虎之一月之暗面計劃在港上市 - 無綫新聞TVB News",
-      "link": "https://news.tvb.com/tc/finance/69c554aff0b820f08dac18ca/%E8%B2%A1%E7%B6%93-%E6%93%9A%E5%A0%B1%E5%85%A7%E5%9C%B0AI%E5%85%AD%E5%B0%8F%E8%99%8E%E4%B9%8B%E4%B8%80%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E8%A8%88%E5%8A%83%E5%9C%A8%E6%B8%AF%E4%B8%8A%E5%B8%82",
-      "snippet": "據報內地人工智能(AI)六小虎之一的，月之暗面計劃在香港上市。《彭博》引述消息報道，內地人工智能初創公司，月之暗面正與投資行中金和高盛，磋商在香港的上市計劃，但...",
-      "raw_snippet": "據報內地人工智能(AI)六小虎之一的，月之暗面計劃在香港上市。《彭博》引述消息報道，內地人工智能初創公司，月之暗面正與投資行中金和高盛，磋商在香港的上市計劃，但未有.",
-      "score": 80,
-      "index": 5
-    },
-    {
-      "title": "中資AI企業月之暗面傳擬來港上市",
-      "link": "https://invest.hket.com/article/4105757/%E4%B8%AD%E8%B3%87AI%E4%BC%81%E6%A5%AD%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%20%E5%82%B3%E6%93%AC%E4%BE%86%E6%B8%AF%E4%B8%8A%E5%B8%82",
-      "snippet": "繼MiniMax（00100）、智譜（02513）後，再有中資AI大模型企業擬來港上市。據悉，開發聊天機械人Kimi的月之暗面已就潛在IPO事宜與中金、高盛磋商...",
-      "raw_snippet": "繼MiniMax（00100）、智譜（02513）後，再有中資AI大模型企業擬來港上市。據悉，開發聊天機械人Kimi的月之暗面已就潛在IPO事宜與中金、高盛磋商，惟最終會否進行IPO尚不確定。",
-      "score": 80,
-      "index": 6
     }
   ]
 }
