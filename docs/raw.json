@@ -1,77 +1,85 @@
 {
-  "date": "2026-04-04",
-  "count": 9,
+  "date": "2026-04-05",
+  "count": 10,
   "items": [
     {
-      "title": "大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局",
-      "link": "https://news.marsbit.co/20260403122909931587.html",
-      "snippet": "已经上市的两家公司，看似拥有了持续融资的渠道，却被高估值牢牢绑架。智谱AI靠着政企合作和企业定制订单稳住基本盘，开源模型也有一定市场认可度，但业务太过依赖 .....",
-      "raw_snippet": "已经上市的两家公司，看似拥有了持续融资的渠道，却被高估值牢牢绑架。智谱AI靠着政企合作和企业定制订单稳住基本盘，开源模型也有一定市场认可度，但业务太过依赖 ...",
+      "title": "IPO前夕，OpenAI“高管层大重组”：CMO离职，AGI负责人“病假”",
+      "link": "https://wallstreetcn.com/articles/3769254",
+      "snippet": "OpenAI在冲刺IPO的关键时刻，高管层接连生变。 据彭博新闻4月4日报道，OpenAI首席运营官Brad Lightcap将转任新职，同时两位高管因健康原因...",
+      "raw_snippet": "OpenAI在冲刺IPO的关键时刻，高管层接连生变。 据彭博新闻4月4日报道，OpenAI首席运营官Brad Lightcap将转任新职，同时两位高管因健康原因相继离开或暂离岗位。",
       "score": 170,
-      "index": 10
+      "index": 1
     },
     {
-      "title": "募融资岗位-AI智能硬件job with APAC Michael Page | 13816020",
-      "link": "https://jobs.accaglobal.com/job/13816020/%E5%8B%9F%E8%9E%8D%E8%B5%84%E5%B2%97%E4%BD%8D-ai%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6/",
-      "snippet": "主导/参与公司股权融资项目，对接市场化投资机构，完成融资目标. 客户简介. AI智能硬件公司. 工作内容. - 投融资专业：精通财务建模、估值分析、投资协议条款...",
-      "raw_snippet": "主导/参与公司股权融资项目，对接市场化投资机构，完成融资目标. 客户简介. AI智能硬件公司. 工作内容. - 投融资专业：精通财务建模、估值分析、投资协议条款；熟悉资本 ...",
-      "score": 150,
+      "title": "OpenAI 上市前夕管理层大地震！COO转岗两位高管休假",
+      "link": "https://h5.ifeng.com/c/vivoArticle/v002eeYHcpVdVhuFcij7Ej3Md5zpBs13nXYiNRx4RGtNQyE__?isNews=1&showComments=0",
+      "snippet": "OpenAI一边筹备潜在IPO，一边于3月31日宣布完成最新一轮融资，共筹集资金1220亿美元，投后估值达8520亿美元。 本轮融资由亚马逊领投，英伟达、软银，...",
+      "raw_snippet": "OpenAI一边筹备潜在IPO，一边于3月31日宣布完成最新一轮融资，共筹集资金1220亿美元，投后估值达8520亿美元。 本轮融资由亚马逊领投，英伟达、软银，以及微软、Andreessen ...",
+      "score": 170,
       "index": 2
     },
     {
+      "title": "AI早报| 优必选招募具身智能首席科学家，年薪最高1.24亿；科技播客 ...",
+      "link": "https://www.jiemian.com/article/14209317.html",
+      "snippet": "当地时间4月2日，谷歌正式推出Gemma 4大模型，包括四种规格的Gemma 4通用模型：高效20亿参数版（E2B）、高效40亿参数版（E4B）、260亿混合专...",
+      "raw_snippet": "当地时间4月2日，谷歌正式推出Gemma 4大模型，包括四种规格的Gemma 4通用模型：高效20亿参数版（E2B）、高效40亿参数版（E4B）、260亿混合专家模型（MoE）与310亿稠密模型（31B）。",
+      "score": 140,
+      "index": 10
+    },
+    {
       "title": "OpenAI收购科技播客TBPN引发争议并购逻辑遭分析人士质疑 - 新浪财经",
-      "link": "https://finance.sina.cn/stock/jdts/2026-04-03/detail-inhtfvnq0111290.d.html?vt=4&cid=76993&node_id=76993",
+      "link": "https://finance.sina.cn/stock/jdts/2026-04-03/detail-inhtfvnq0111290.d.html?oid=%E6%B3%A8%E5%86%8C%E5%BF%AB%E6%89%8B%E6%8E%A5%E7%A0%81%EF%BC%9CTg%E5%AE%A2%E6%9C%8D:Lm66bot%EF%BC%9EONnt&vt=4",
       "snippet": "OpenAI应用业务负责人Fidji Simo在周四发给员工的备忘录中表示，公司认为有“责任帮助创造一个空间，就AI带来的变革展开真实、建设性的对话”。 她称，...",
       "raw_snippet": "OpenAI应用业务负责人Fidji Simo在周四发给员工的备忘录中表示，公司认为有“责任帮助创造一个空间，就AI带来的变革展开真实、建设性的对话”。 她称，OpenAI将利用TBPN ...",
       "score": 100,
       "index": 3
     },
     {
-      "title": "OpenAI完成1220亿美元天量融资：估值达8520亿美元，剑指超级应用",
-      "link": "https://m.ofweek.com/ai/2026-04/ART-201717-12005-30684369.html",
-      "snippet": "作者| 钱晶编辑| 陈肖冉4月1日消息，OpenAI今日官宣完成最新一轮1220亿美元融资，投后估值飙升至8520亿美元，一举创下全球单笔私募股权融资规模新纪录...",
-      "raw_snippet": "作者| 钱晶编辑| 陈肖冉4月1日消息，OpenAI今日官宣完成最新一轮1220亿美元融资，投后估值飙升至8520亿美元，一举创下全球单笔私募股权融资规模新纪录。",
+      "title": "OpenAI收购了一家脱口秀公司 - 澎湃新闻",
+      "link": "https://m.thepaper.cn/newsDetail_forward_32891294",
+      "snippet": "拿下史上最大融资的OpenAI，反手了收购一个视频播客？ 刚刚，OpenAI宣布收购「科技脱口秀」TBPN，目标是加速全球围绕AI的交流。 值得一提的是，TBP...",
+      "raw_snippet": "拿下史上最大融资的OpenAI，反手了收购一个视频播客？ 刚刚，OpenAI宣布收购「科技脱口秀」TBPN，目标是加速全球围绕AI的交流。 值得一提的是，TBPN在社交平台上的粉丝 ...",
+      "score": 100,
+      "index": 7
+    },
+    {
+      "title": "OpenAI收购科技播客TBPN引发争议并购逻辑遭分析人士质疑 - QQ",
+      "link": "https://news.qq.com/rain/a/20260403A088K200",
+      "snippet": "财联社4月3日讯（编辑夏军雄）人工智能（AI）公司OpenAI周四公布了一项令人意外的收购交易，即收购科技行业播客节目TBPN。OpenAI并未披露交易条款，该...",
+      "raw_snippet": "财联社4月3日讯（编辑夏军雄）人工智能（AI）公司OpenAI周四公布了一项令人意外的收购交易，即收购科技行业播客节目TBPN。OpenAI并未披露交易条款，该公司CEO萨姆·奥尔 ...",
       "score": 100,
       "index": 4
     },
     {
-      "title": "5000万元融资重磅落地，AI店长开启本地生活数智化新征程",
-      "link": "https://home.wuhan.gov.cn/sjjczlwl/sjzl/202604/t20260403_2749239.shtml",
-      "snippet": "本次盛会由云时空科技主办，深度聚焦AI技术与本地生活实体经济的融合发展，汇聚了湖北省、武汉市相关政府部门领导，国内顶尖AI领域专家、知名投资机构合伙人、高校产学...",
-      "raw_snippet": "本次盛会由云时空科技主办，深度聚焦AI技术与本地生活实体经济的融合发展，汇聚了湖北省、武汉市相关政府部门领导，国内顶尖AI领域专家、知名投资机构合伙人、高校产学研代表 ...",
+      "title": "OpenAI狂揽1220亿美元融资，投资方全曝光 - Binance",
+      "link": "https://www.binance.com/en-TR/square/post/308756400581266",
+      "snippet": "OpenAI官宣完成1220亿美元史上最大单轮融资，估值直接飙升至8520亿美元，距离IPO仅一步之遥，彻底引爆全球科技与资本圈。 这笔堪称人类科技史上之最的融...",
+      "raw_snippet": "OpenAI官宣完成1220亿美元史上最大单轮融资，估值直接飙升至8520亿美元，距离IPO仅一步之遥，彻底引爆全球科技与资本圈。 这笔堪称人类科技史上之最的融资，投资方堪称顶级天团 ...",
       "score": 100,
       "index": 5
     },
     {
-      "title": "投资界AI周报| 史上最大融资诞生",
-      "link": "https://news.pedaily.cn/202604/562457.shtml",
-      "snippet": "本周多家公司有投资动态，如星海图融资20亿估值200亿，涉及具身智能等领域OpenAI完成1220亿美元融资，投后估值8520亿美元。 · 行业竞争激烈，技术更...",
-      "raw_snippet": "本周多家公司有投资动态，如星海图融资20亿估值200亿，涉及具身智能等领域OpenAI完成1220亿美元融资，投后估值8520亿美元。 · 行业竞争激烈，技术更新快政策变动可能影响 ...",
-      "score": 100,
+      "title": "三万亿美元IPO来了 - 投资界",
+      "link": "https://news.pedaily.cn/202604/562461.shtml",
+      "snippet": "2026年的美股IPO市场，可能即将出现这样一种场面：三家最受瞩目的AI相关的公司上市，而且不止一家上市市值就逼近或超过万亿。 先看SpaceX。 SpaceX...",
+      "raw_snippet": "2026年的美股IPO市场，可能即将出现这样一种场面：三家最受瞩目的AI相关的公司上市，而且不止一家上市市值就逼近或超过万亿。 先看SpaceX。 SpaceX正朝着一场可能创纪录的IPO ...",
+      "score": 80,
       "index": 6
     },
     {
-      "title": "“华罗庚杯”常州人工智能创新创业精英赛（上海站）举行",
-      "link": "https://www.changzhou.gov.cn/ns_news/555177520124940",
-      "snippet": "作为年度系列创赛的首站，本次精英赛吸引上海地区30余个人工智能领域高质量项目同台竞技，覆盖AI硬件、AI软件、AI应用三大赛道。经过激烈角逐，一批优秀项目脱颖而...",
-      "raw_snippet": "作为年度系列创赛的首站，本次精英赛吸引上海地区30余个人工智能领域高质量项目同台竞技，覆盖AI硬件、AI软件、AI应用三大赛道。经过激烈角逐，一批优秀项目脱颖而出，除了获得 ...",
-      "score": 90,
+      "title": "“AI+一人公司”火了，有人称对比带团队阶段利润率提升超20% - 财经",
+      "link": "https://finance.eastmoney.com/a/202604043695588273.html",
+      "snippet": "根据Carta 2025年的数据，独立创始人创立公司的比例从2019年的23.7%跃升至2025年上半年的36.3%，六年间增长了53%。在国内，2025年上半...",
+      "raw_snippet": "根据Carta 2025年的数据，独立创始人创立公司的比例从2019年的23.7%跃升至2025年上半年的36.3%，六年间增长了53%。在国内，2025年上半年一人公司新注册数同比增长47%。 日前， ...",
+      "score": 0,
       "index": 8
     },
     {
-      "title": "上市首日大涨111%！智谱MiniMax之后，德适交出大模型商业化最硬 ...",
-      "link": "https://hub.baai.ac.cn/view/53643",
-      "snippet": "德适创始人、首席执行官宋宁，也是公司研发团队负责人，在医学遗传学、计算机科学 ... SpaceX已秘密提交IPO申请，拟融资最高750亿美元（约5154亿元人...",
-      "raw_snippet": "德适创始人、首席执行官宋宁，也是公司研发团队负责人，在医学遗传学、计算机科学 ... SpaceX已秘密提交IPO申请，拟融资最高750亿美元（约5154亿元人民币），估值 ...",
-      "score": 80,
-      "index": 7
-    },
-    {
-      "title": "OpenAI募资1220亿美元；阿里发布新模型Qwen 3.6-Plus - 公司",
-      "link": "https://companies.caixin.com/2026-04-03/102430729.html",
-      "snippet": "当地时间3月31日，推出了ChatGPT的美国大模型公司OpenAI宣布完成最新一轮融资，获得1220亿美元的承诺资本，投后估值达8520亿美元。 DeepSe...",
-      "raw_snippet": "当地时间3月31日，推出了ChatGPT的美国大模型公司OpenAI宣布完成最新一轮融资，获得1220亿美元的承诺资本，投后估值达8520亿美元。 DeepSeek网页和App服务中断超过10个小时后 ...",
-      "score": 60,
+      "title": "OpenAI人事大变动- 21经济网 - 21财经",
+      "link": "https://www.21jingji.com/article/20260404/herald/6b9ac7ea3203d27f9f06a8cd7b8bdd8b.html",
+      "snippet": "在Simo休假期间，OpenAI联合创始人兼总裁Greg Brockman将负责产品工作。其他高管也将分担其职责，包括首席战略官Jason Kwon、首席财务官...",
+      "raw_snippet": "在Simo休假期间，OpenAI联合创始人兼总裁Greg Brockman将负责产品工作。其他高管也将分担其职责，包括首席战略官Jason Kwon、首席财务官Sarah Friar以及Denise Dresser。",
+      "score": 0,
       "index": 9
     }
   ]
