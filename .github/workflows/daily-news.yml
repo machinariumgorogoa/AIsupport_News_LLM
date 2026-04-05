@@ -23,10 +23,10 @@ jobs:
       
       - name: Fetch and send LLM news
         env:
-          FEISHU_WEBHOOK_1: ${{ secrets.FEISHU_NEWS_LLM }}
-          FEISHU_WEBHOOK_2: ${{ secrets.FEISHU_NEWS_LLM_2 }}
+          FEISHU_WEBHOOK_1: ${{ secrets.FEISHU_WEBHOOK_1 }}
+          FEISHU_WEBHOOK_2: ${{ secrets.FEISHU_WEBHOOK_2 }}
           SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
-          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
         run: |
           python << 'EOF'
@@ -39,13 +39,12 @@ jobs:
           FEISHU_WEBHOOK_1 = os.environ['FEISHU_WEBHOOK_1']
           FEISHU_WEBHOOK_2 = os.environ['FEISHU_WEBHOOK_2']
           SERVERCHAN_KEY = os.environ['SERVERCHAN_KEY']
-          SERPER_API_KEY = os.environ['SERPER_API_KEY']
+          TAVILY_API_KEY = os.environ['TAVILY_API_KEY']
           KIMI_API_KEY = os.environ['KIMI_API_KEY']
 
           date_str = (datetime.now() + timedelta(hours=8)).strftime('%Y-%m-%d')
-          headers_serper = {'X-API-KEY': SERPER_API_KEY, 'Content-Type': 'application/json'}
 
-          def call_kimi(prompt, max_tokens=100000):
+          def call_kimi(prompt, max_tokens=1000):
               try:
                   response = requests.post(
                       'https://api.moonshot.cn/v1/chat/completions',
@@ -67,41 +66,46 @@ jobs:
                   print(f"Kimi API error: {e}")
                   return None
 
+          # 外网及低质量域名过滤
           foreign_domains = ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 
                             'medium.com', 'github.com', 'arxiv.org', 'huggingface.co',
-                            'openai.com', 'anthropic.com', 'claude.ai']
+                            'openai.com', 'anthropic.com', 'claude.ai', 'facebook.com',
+                            'apple.com', 'podcasts.apple.com']
           
           seen_links = set()
 
-          def search_serper(query, max_results=20):
+          def search_tavily(query, max_results=20):
               try:
                   response = requests.post(
-                      'https://google.serper.dev/search',
-                      headers=headers_serper,
+                      'https://api.tavily.com/search',
                       json={
-                          'q': query,
-                          'num': max_results,
-                          'hl': 'zh-cn',
-                          'gl': 'cn',
-                          'tbs': 'qdr:d'
+                          'api_key': TAVILY_API_KEY,
+                          'query': query,
+                          'max_results': max_results,
+                          'time_range': 'day',
+                          'search_depth': 'basic',
+                          'include_domains': [],
+                          'exclude_domains': foreign_domains
                       },
                       timeout=150
                   )
                   data = response.json()
                   
                   results = []
-                  if 'organic' in data:
-                      for item in data['organic']:
-                          link = item['link']
+                  if 'results' in data:
+                      for item in data['results']:
+                          link = item['url']
                           if link not in seen_links:
                               seen_links.add(link)
-                              if not any(domain in link.lower() for domain in foreign_domains):
-                                  results.append({
-                                      'title': item['title'],
-                                      'link': link,
-                                      'snippet': item.get('snippet', '')[:80] + '...',
-                                      'raw_snippet': item.get('snippet', '')
-                                  })
+                              # Tavily返回content较长，截取作为snippet
+                              content = item.get('content', '')
+                              snippet = content[:80] + '...' if len(content) > 80 else content
+                              results.append({
+                                  'title': item['title'],
+                                  'link': link,
+                                  'snippet': snippet,
+                                  'raw_snippet': content
+                              })
                   return results
               except Exception as e:
                   print(f"Search error: {e}")
@@ -131,8 +135,8 @@ jobs:
           LAYER_2 = "(AI OR 人工智能 OR 大模型 OR 字节 OR 阿里 OR 腾讯 OR OpenAI OR 智谱 OR MiniMax OR 月之暗面 OR Kimi OR 阶跃 OR 商汤 OR 讯飞 OR 具身智能 OR 机器人)"
           priority_query = f"{LAYER_1} AND {LAYER_2}"
           
-          priority_results = search_serper(priority_query, max_results=20)
-          print(f"Serper返回: {len(priority_results)} 条")
+          priority_results = search_tavily(priority_query, max_results=20)
+          print(f"Tavily返回: {len(priority_results)} 条")
 
           raw_data = {
               "date": date_str,
@@ -151,7 +155,6 @@ jobs:
               
               titles_text = "\n".join([f"{i+1}. {item['title']}\n   摘要：{item['raw_snippet'][:50]}" for i, item in enumerate(items)])
               
-              # 读取外置提示词文件并填充变量
               with open('prompts/dedup.txt', 'r', encoding='utf-8') as f:
                   prompt_template = f.read()
               
@@ -181,7 +184,6 @@ jobs:
               
               titles_text = "\n".join([f"{i+1}. {item['title']}" for i, item in enumerate(items)])
               
-              # 读取外置提示词文件并填充变量
               with open('prompts/classify.txt', 'r', encoding='utf-8') as f:
                   prompt_template = f.read()
               
@@ -201,7 +203,6 @@ jobs:
                                   categories[cat] = [items[i] for i in valid_indices]
                   except Exception as e:
                       print(f"Classification parse error: {e}")
-                      # 回退到规则分类
                       for item in items:
                           title_lower = item['title'].lower()
                           if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', '轮', '领投', '跟投']):
@@ -211,7 +212,6 @@ jobs:
                           else:
                               categories["行业动态-大模型"].append(item)
               else:
-                  # LLM失败，使用规则分类
                   for item in items:
                       title_lower = item['title'].lower()
                       if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', '轮', '领投', '跟投']):
@@ -221,7 +221,6 @@ jobs:
                       else:
                           categories["行业动态-大模型"].append(item)
               
-              # 确保每类至少1条（如果总数够）
               all_items = items[:]
               for cat in categories:
                   if not categories[cat] and all_items:
@@ -232,7 +231,6 @@ jobs:
           classified = classify_by_llm(deduped_results)
           print(f"分类结果: 融资{len(classified['融资速报'])}条, 大模型{len(classified['行业动态-大模型'])}条, 硬件{len(classified['行业动态-AI硬件/具身智能'])}条")
 
-          # 构建扁平版本（小程序用）：按分类排序，不暴露category字段
           final_results = []
           for cat_name in ["融资速报", "行业动态-大模型", "行业动态-AI硬件/具身智能"]:
               for item in classified[cat_name]:
@@ -241,7 +239,6 @@ jobs:
           for i, item in enumerate(final_results, 1):
               item['index'] = i
 
-          # 标准JSON（小程序用，格式完全不变）
           news_data_standard = {
               "date": date_str,
               "header": {
@@ -251,7 +248,6 @@ jobs:
               "news": final_results
           }
 
-          # 分组JSON（飞书用）
           news_data_grouped = {
               "date": date_str,
               "header": {
@@ -274,7 +270,6 @@ jobs:
               ]
           }
 
-          # 构建飞书卡片（分组格式）
           def build_feishu_card_grouped():
               elements = []
               elements.append({
@@ -360,7 +355,6 @@ jobs:
                   }
               }
 
-          # 发送到飞书
           try:
               payload = build_feishu_card_grouped()
               resp = requests.post(FEISHU_WEBHOOK_1, json=payload, headers={"Content-Type": "application/json"})
@@ -375,7 +369,6 @@ jobs:
           except Exception as e:
               print(f"Feishu 2 failed: {e}")
 
-          # 发送到Server酱
           try:
               lines = [f"🤖 AI业界动态早报", f"machinariumAIsupport | 每日早8点自动推送", f"📅 {date_str}", "=" * 40, ""]
               
@@ -412,7 +405,6 @@ jobs:
           except Exception as e:
               print(f"ServerChan failed: {e}")
 
-          # 保存文件
           try:
               import os
               import glob
@@ -458,5 +450,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
           git add docs/
-          git diff --staged --quiet || git commit -m "Update daily news for $(date +%Y-%m-%d) with LLM dedup & classification [skip ci]"
+          git diff --staged --quiet || git commit -m "Update daily news for $(date +%Y-%m-%d) with Tavily source [skip ci]"
           git push
