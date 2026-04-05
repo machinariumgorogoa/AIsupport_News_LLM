@@ -59,7 +59,7 @@ jobs:
                           'temperature': 1,
                           'max_tokens': max_tokens
                       },
-                      timeout=30
+                      timeout=300
                   )
                   result = response.json()
                   return result['choices'][0]['message']['content'].strip()
@@ -85,7 +85,7 @@ jobs:
                           'gl': 'cn',
                           'tbs': 'qdr:d'
                       },
-                      timeout=15
+                      timeout=150
                   )
                   data = response.json()
                   
