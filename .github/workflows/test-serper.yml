@@ -1,0 +1,119 @@
+name: Test Serper API
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Test Serper Search
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+        run: |
+          pip install requests
+          python << 'EOF'
+          import requests
+          import json
+          import os
+
+          SERPER_API_KEY = os.environ['SERPER_API_KEY']
+          headers_serper = {'X-API-KEY': SERPER_API_KEY, 'Content-Type': 'application/json'}
+
+          # 测试1：原始请求（无任何过滤）
+          print("=== 测试1：原始Serper请求 ===")
+          response = requests.post(
+              'https://google.serper.dev/search',
+              headers=headers_serper,
+              json={
+                  'q': '(离职 OR 加盟 OR 创业 OR 融资 OR 并购 OR 上市 OR 发布 OR 负责人 OR 创始人) AND (AI OR 人工智能 OR 大模型 OR 字节 OR 阿里 OR 腾讯 OR OpenAI OR 智谱 OR MiniMax OR 月之暗面 OR Kimi OR 阶跃 OR 商汤 OR 讯飞 OR 具身智能 OR 机器人)',
+                  'num': 20,
+                  'hl': 'zh-cn',
+                  'gl': 'cn',
+                  'tbs': 'qdr:d'
+              },
+              timeout=150
+          )
+          data = response.json()
+          raw_count = len(data.get('organic', []))
+          print(f"Serper原始返回: {raw_count} 条")
+
+          # 测试2：当前代码逻辑（去重+外网过滤）
+          print("\n=== 测试2：当前代码逻辑（去重+外网过滤） ===")
+          foreign_domains = ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 
+                            'medium.com', 'github.com', 'arxiv.org', 'huggingface.co',
+                            'openai.com', 'anthropic.com', 'claude.ai']
+          seen_links = set()
+          filtered_results = []
+          blocked_foreign = []
+          blocked_duplicate = []
+
+          if 'organic' in data:
+              for item in data['organic']:
+                  link = item['link']
+                  if link in seen_links:
+                      blocked_duplicate.append(link)
+                      continue
+                  
+                  seen_links.add(link)
+                  
+                  if any(domain in link.lower() for domain in foreign_domains):
+                      blocked_foreign.append(link)
+                      continue
+                  
+                  filtered_results.append({
+                      'title': item['title'],
+                      'link': link,
+                      'snippet': item.get('snippet', '')[:80] + '...'
+                  })
+
+          print(f"过滤后剩余: {len(filtered_results)} 条")
+          print(f"被去重过滤: {len(blocked_duplicate)} 条")
+          print(f"被外网过滤: {len(blocked_foreign)} 条")
+
+          # 测试3：仅去重，保留外网
+          print("\n=== 测试3：仅去重，保留外网链接 ===")
+          seen_links_2 = set()
+          no_foreign_filter = []
+          
+          if 'organic' in data:
+              for item in data['organic']:
+                  link = item['link']
+                  if link not in seen_links_2:
+                      seen_links_2.add(link)
+                      no_foreign_filter.append({
+                          'title': item['title'],
+                          'link': link
+                      })
+
+          print(f"仅去重后: {len(no_foreign_filter)} 条")
+
+          # 保存详细报告
+          result = {
+              'date': '2026-04-05',
+              'test1_raw_count': raw_count,
+              'test2_filtered_count': len(filtered_results),
+              'test2_blocked_duplicate': len(blocked_duplicate),
+              'test2_blocked_foreign': len(blocked_foreign),
+              'test3_no_foreign_filter': len(no_foreign_filter),
+              'sample_raw_titles': [item['title'] for item in data.get('organic', [])[:5]],
+              'sample_blocked_foreign': blocked_foreign[:5],
+              'filtered_results': filtered_results
+          }
+
+          with open('test-serper.json', 'w', encoding='utf-8') as f:
+              json.dump(result, f, ensure_ascii=False, indent=2)
+          
+          print(f"\n详细报告已保存到 test-serper.json")
+          EOF
+      
+      - name: Commit test result
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add test-serper.json
+          git commit -m "Add Serper API test report [skip ci]" || echo "No changes"
+          git push
