@@ -1,0 +1,61 @@
+name: Test Serper Limit
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Test Serper Max Results
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+        run: |
+          pip install requests
+          python << 'EOF'
+          import requests
+          import json
+          import os
+
+          SERPER_API_KEY = os.environ['SERPER_API_KEY']
+          headers = {'X-API-KEY': SERPER_API_KEY, 'Content-Type': 'application/json'}
+
+          # 极简测试：搜索"AI"，请求20条，无任何过滤，直接数返回
+          response = requests.post(
+              'https://google.serper.dev/search',
+              headers=headers,
+              json={
+                  'q': 'AI',
+                  'num': 20,
+                  'hl': 'zh-cn',
+                  'gl': 'cn'
+              },
+              timeout=30
+          )
+          
+          data = response.json()
+          organic = data.get('organic', [])
+          
+          result = {
+              'query': 'AI',
+              'requested': 20,
+              'returned': len(organic),
+              'titles': [item['title'] for item in organic]
+          }
+          
+          print(f"请求20条，实际返回: {len(organic)} 条")
+          
+          with open('test-limit.json', 'w', encoding='utf-8') as f:
+              json.dump(result, f, ensure_ascii=False, indent=2)
+          EOF
+      
+      - name: Commit result
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add test-limit.json
+          git commit -m "Test Serper limit [skip ci]" || echo "No changes"
+          git push
