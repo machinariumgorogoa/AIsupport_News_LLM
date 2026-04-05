@@ -1,0 +1,67 @@
+name: Test Kimi Connectivity
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Test Kimi API
+        env:
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+        run: |
+          pip install requests
+          python << 'EOF'
+          import os
+          import requests
+          import json
+
+          key = os.environ['KIMI_API_KEY']
+          
+          try:
+              response = requests.post(
+                  'https://api.moonshot.cn/v1/chat/completions',
+                  headers={
+                      'Authorization': f'Bearer {key}',
+                      'Content-Type': 'application/json'
+                  },
+                  json={
+                      'model': 'kimi-k2.5',
+                      'messages': [{'role': 'user', 'content': '你好，请回复"测试成功"四个字'}],
+                      'temperature': 0.1,
+                      'max_tokens': 50
+                  },
+                  timeout=30
+              )
+              
+              result = {
+                  'status_code': response.status_code,
+                  'response': response.json() if response.status_code == 200 else response.text
+              }
+              
+              if response.status_code == 200:
+                  print('✅ API调用成功')
+                  print('回复:', result['response']['choices'][0]['message']['content'])
+              else:
+                  print('❌ API调用失败')
+                  print('错误:', result['response'])
+                  
+          except Exception as e:
+              result = {'error': str(e)}
+              print('❌ 异常:', e)
+
+          with open('test.json', 'w', encoding='utf-8') as f:
+              json.dump(result, f, ensure_ascii=False, indent=2)
+          EOF
+      
+      - name: Commit test result
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add test.json
+          git commit -m "Add Kimi API test result [skip ci]" || echo "No changes"
+          git push
