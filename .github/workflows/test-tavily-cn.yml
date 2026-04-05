@@ -1,0 +1,94 @@
+name: Test Tavily Chinese News
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Test Tavily Chinese AI News
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: |
+          pip install requests
+          python << 'EOF'
+          import requests
+          import json
+          import os
+
+          TAVILY_API_KEY = os.environ['TAVILY_API_KEY']
+
+          # 测试1：中文复杂查询（模拟原Serper逻辑）
+          query_cn = "(离职 OR 加盟 OR 创业 OR 融资 OR 并购 OR 上市 OR 发布) AND (AI OR 人工智能 OR 大模型 OR 字节 OR 阿里 OR 腾讯 OR OpenAI OR 智谱 OR MiniMax OR 月之暗面 OR Kimi OR 阶跃 OR 商汤 OR 讯飞 OR 具身智能 OR 机器人)"
+          
+          response = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': query_cn,
+                  'max_results': 20,
+                  'time_range': 'day',  # 关键：当日新闻
+                  'search_depth': 'basic',
+                  'include_domains': [],
+                  'exclude_domains': ['youtube.com', 'reddit.com', 'twitter.com', 'x.com']
+              },
+              timeout=150
+          )
+          
+          data = response.json()
+          results = data.get('results', [])
+          
+          output = {
+              'query': query_cn,
+              'time_range': 'day',
+              'requested': 20,
+              'returned': len(results),
+              'news': [{'title': r['title'], 'url': r['url'], 'content': r.get('content', '')[:100]} for r in results]
+          }
+          
+          print(f"中文复杂查询，当日，请求20条，实际返回: {len(results)} 条")
+          print("\n前5条标题:")
+          for i, item in enumerate(results[:5], 1):
+              print(f"{i}. {item['title']}")
+
+          # 测试2：简单中文AI（对比）
+          print("\n=== 测试2：简单中文AI查询 ===")
+          response2 = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': '人工智能 大模型 今日',
+                  'max_results': 10,
+                  'time_range': 'day',
+                  'search_depth': 'basic'
+              },
+              timeout=150
+          )
+          
+          data2 = response2.json()
+          results2 = data2.get('results', [])
+          print(f"简单查询返回: {len(results2)} 条")
+          
+          output['simple_query'] = {
+              'query': '人工智能 大模型 今日',
+              'returned': len(results2),
+              'titles': [r['title'] for r in results2]
+          }
+
+          with open('test-tavily-cn.json', 'w', encoding='utf-8') as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+          
+          print(f"\n详细报告已保存到 test-tavily-cn.json")
+          EOF
+      
+      - name: Commit result
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add test-tavily-cn.json
+          git commit -m "Test Tavily Chinese news [skip ci]" || echo "No changes"
+          git push
