@@ -1,0 +1,4 @@
+{
+  "status_code": 400,
+  "response": "{\"error\":{\"message\":\"invalid temperature: only 1 is allowed for this model\",\"type\":\"invalid_request_error\"}}"
+}
