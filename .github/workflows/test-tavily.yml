@@ -28,7 +28,7 @@ jobs:
               json={
                   'api_key': TAVILY_API_KEY,
                   'query': 'AI',
-                  'max_results': 20,
+                  'max_results': 50,
                   'search_depth': 'basic',
                   'include_domains': [],
                   'exclude_domains': []
