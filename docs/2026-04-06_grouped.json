@@ -9,16 +9,34 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "中国AI热潮点燃资本市场港股Q1融资规模创五年新高 - 新浪财经",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-04-05/doc-inhtncky2088666.shtml",
-          "snippet": "受中国人工智能板块持续升温驱动，香港股票市场2026年第一季度融资规模创下五年新高，在全球主要交易所中位居前列，重新确立其作为中国企业境外上市首选目的地的地位。",
-          "index": 1
+          "title": "三个月时间月之暗面上市态度已变 - 新浪财经",
+          "link": "https://finance.sina.com.cn/jjxw/2026-04-06/doc-inhtnpyp1565088.shtml",
+          "snippet": "不到三个月时间，有关Kimi母公司——月之暗面（Moonshot AI）的上市问题，已经发生了逆转。 月之暗面创始人杨植麟在2025年年底的全员信中写道：“我们...",
+          "index": 11
         },
         {
-          "title": "Ashton Kutcher基金投资OpenAI获43倍回报 - Binance",
-          "link": "https://www.binance.com/zh-CN/square/post/309145925537010",
-          "snippet": "哈世链闻在X（原Twitter）表示，Ashton Kutcher旗下基金Sound Ventures向OpenAI投资3000万美元，现价值13亿美元，实现4...",
+          "title": "高层变动、股权结构表曝光！上市前夕，这家万亿AI巨头风波不断！",
+          "link": "https://finance.sina.cn/stock/jdts/2026-04-05/detail-inhtnckv6842566.d.html?vt=4&cid=76993&node_id=76993",
+          "snippet": "## 新浪财经 股票. # 高层变动、股权结构表曝光！上市前夕，这家万亿AI巨头风波不断！. 市场资讯  04.05 19:22. 人工智能巨头OpenAI正加...",
           "index": 2
+        },
+        {
+          "title": "中国AI热潮点燃资本市场，港股Q1融资规模创五年新高 - 华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3769292",
+          "snippet": "# 中国AI热潮点燃资本市场，港股Q1融资规模创五年新高 - 华尔街见闻. # 中国AI热潮点燃资本市场，港股Q1融资规模创五年新高. Image 2: art...",
+          "index": 3
+        },
+        {
+          "title": "刚刚，OpenAI 创下史上最大融资纪录，估值逼近万亿 - 爱范儿",
+          "link": "https://www.ifanr.com/1660522",
+          "snippet": "# 刚刚，OpenAI 创下史上最大融资纪录，估值逼近万亿. 当所有人还沉浸在 Claude Code 源码泄露事件时，OpenAI 又双叒叕出来抢头条了。就在...",
+          "index": 4
+        },
+        {
+          "title": "字节拆分，借商汤在A股上市 - 雪球",
+          "link": "https://xueqiu.com/3865124074/382722375",
+          "snippet": "场景、流量、变现、商业化落地商汤技术天下第一，但之前一直： 技术强→ 没地方赚大钱。 2. 字节最缺什么？ 顶尖AI视觉、AIGC生产、硬核科技底座",
+          "index": 5
         }
       ]
     },
@@ -26,51 +44,33 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "「同事.Skill」冲上热搜，离职同事已被炼化！ - 智源社区",
-          "link": "https://hub.baai.ac.cn/view/53691",
-          "snippet": "# 「同事.Skill」冲上热搜，离职同事已被炼化！. 新智元 2026-04-05 17:10 分享. ##### **【新智元导读】同事离职了？别怕，把他「...",
-          "index": 11
-        },
-        {
-          "title": "OpenAI这波高管变动有点意思，病假、转岗、离职，一天之内三个 ...",
-          "link": "https://www.binance.com/zh-CN/square/post/309008854663729",
-          "snippet": "OpenAI这波高管变动有点意思，病假、转岗、离职，一天之内三个核心位置出缺。再结合同一天的两笔收购，感觉内部调整比外界看到的更剧烈。现在这估值水平，每一步动作...",
-          "index": 4
-        },
-        {
-          "title": "Django Web 框架共同创始人威利森：AI 将为编程带来“黑灯工厂”时代",
-          "link": "https://www.ithome.com/0/936/067.htm",
-          "snippet": "业界 手机 电脑 测评 视频 AI 苹果 iPhone 鸿蒙 软件. 智车 数码 学院 游戏 直播 5G 微软 Win10 Win11 专题. # Django...",
-          "index": 5
-        },
-        {
-          "title": "千问AI打车假期需求暴涨15倍-观察者网",
-          "link": "https://www.guancha.cn/economy/2026_04_05_812609.shtml",
-          "snippet": "千问AI打车产品负责人直言：“我们没料到一下子会有这么多用户涌进来\"。进一步的数据显示，用户更愿意在复杂场景中尝试AI能力，比如多途经点、预约和个性化需求的组合...",
+          "title": "免费AI翻篇，大厂要“刹”住Token狂奔 - 新闻- 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2026/4/562627.shtm",
+          "snippet": "| |  | | --- | | 作者：徐晶卉 来源：文汇报 发布时间：2026/4/5 13:47:07  选择字号：小 中  大 | | |  | | --...",
           "index": 6
         },
         {
-          "title": "发布仅1天阿里千问3.6-Plus冲上OpenRouter榜首",
-          "link": "https://h5.ifeng.com/c/vivoArticle/v002w6u-_hf7OC78muiAq-_UOWXUhaM9V5jWM8TQgSmbx-_MvU__?isNews=1&showComments=0",
-          "snippet": "# 发布仅1天 阿里千问3.6-Plus冲上OpenRouter榜首. 快科技4月4日消息，**发布仅1天的千问新模型Qwen3.6-Plus，冲上全球知名大模...",
+          "title": "聊聊MiniMax和智谱财报：谁先跑通盈利模型？ - OFweek人工智能网",
+          "link": "https://www.ofweek.com/ai/2026-04/ART-201717-12003-30684417.html",
+          "snippet": "Ϊ“AIС”ԱڣMiniMaxAI̷2025Ʊչʾı. ǰ߽һݸ߶ⷺCˣ߶ˣɼر;󲿷ʽѹڶģ̬ӦǰûϡһҴͳTo BƼҵӦֻ̣MaaSģͼ񣩵ĵײ. ݲƱ֤йAI...",
           "index": 7
         },
         {
-          "title": "#484.AI 时代的工匠精神：Linear 创始人揭秘如何构建原生的智能体 ...",
-          "link": "https://www.xiaoyuzhoufm.com/episode/69d24171e2c8be31556c48b3",
-          "snippet": "对话的嘉宾是Linear 的联合创始人兼CEO Karri Saarinen。Linear 被公认为目前全球最具设计感和工匠精神的软件项目管理工具，而Karri...",
+          "title": "阿里千问3.6Plus大模型登顶全球模型调用排行榜首 - 新闻- 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2026/4/562629.shtm",
+          "snippet": "| |  | | --- | | 来源：中国新闻网 发布时间：2026/4/5 16:54:25  选择字号：小 中  大 | | |  | | --- | |...",
           "index": 8
+        },
+        {
+          "title": "“离职同事被炼化成AI”引热议，暗藏法律问题 - 新浪财经",
+          "link": "https://finance.sina.cn/2026-04-05/detail-inhtmnnv8491995.d.html?oid=WA%200821%207001%200763%20(FORTRESS)%20Kusen%20Pintu%20Baja%20Fortress%20Pilangkenceng%20Madiun&vt=4",
+          "snippet": "清华大学公共管理学院长聘副教授，清华大学科技发展与治理研究中心主任助理陈天昊长期关注AI治理并有着丰富实操经验，他在一开始，便犀利发问：如果人的工作经验、协作方...",
+          "index": 9
         },
         {
           "title": "Microsoft Unveils Proprietary AI Models Under MAI Brand, Diverging ...",
           "link": "https://af.net/realtime/microsoft-unveils-proprietary-ai-models-under-mai-brand-diverging-from-openai-partnership/",
           "snippet": "AI4Bharat, based at IIT Madras, is leveraging advanced AI technologies to addres...",
-          "index": 9
-        },
-        {
-          "title": "米哈游三位创始人向母校上海交大捐赠，加注“AI未来基石”基金- 瑞财经",
-          "link": "https://m.rccaijing.com/news-7446352249888633906.html",
-          "snippet": "瑞财经吴文婷 4月4日，据上海交通大学官微发布，米哈游联合创始人、总裁、董事长刘伟，代表米哈游创始团队蔡浩宇、罗宇皓，共同捐资助力学校设立的“AI未来基石”基金...",
           "index": 10
         }
       ]
@@ -79,9 +79,9 @@
       "name": "行业动态-AI硬件/具身智能",
       "items": [
         {
-          "title": "「同事.Skill」冲上热搜，离职同事已被炼化！ - 智源社区",
-          "link": "https://hub.baai.ac.cn/view/53691",
-          "snippet": "# 「同事.Skill」冲上热搜，离职同事已被炼化！. 新智元 2026-04-05 17:10 分享. ##### **【新智元导读】同事离职了？别怕，把他「...",
+          "title": "三个月时间月之暗面上市态度已变 - 新浪财经",
+          "link": "https://finance.sina.com.cn/jjxw/2026-04-06/doc-inhtnpyp1565088.shtml",
+          "snippet": "不到三个月时间，有关Kimi母公司——月之暗面（Moonshot AI）的上市问题，已经发生了逆转。 月之暗面创始人杨植麟在2025年年底的全员信中写道：“我们...",
           "index": 11
         }
       ]
