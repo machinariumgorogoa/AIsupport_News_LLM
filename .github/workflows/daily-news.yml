@@ -45,7 +45,7 @@ jobs:
           date_str = (datetime.now() + timedelta(hours=8)).strftime('%Y-%m-%d')
           headers_serper = {'X-API-KEY': SERPER_API_KEY, 'Content-Type': 'application/json'}
 
-          def call_kimi(prompt, max_tokens=1000):
+          def call_kimi(prompt, max_tokens=100000):
               try:
                   response = requests.post(
                       'https://api.moonshot.cn/v1/chat/completions',
@@ -56,7 +56,7 @@ jobs:
                       json={
                           'model': 'kimi-k2.5',
                           'messages': [{'role': 'user', 'content': prompt}],
-                          'temperature': 0.2,
+                          'temperature': 1,
                           'max_tokens': max_tokens
                       },
                       timeout=30
@@ -157,7 +157,7 @@ jobs:
               
               prompt = prompt_template.format(count=len(items), titles=titles_text, target=target_count)
               
-              result = call_kimi(prompt, max_tokens=200)
+              result = call_kimi(prompt, max_tokens=20000)
               if result:
                   try:
                       numbers = re.findall(r'\d+', result)
@@ -187,7 +187,7 @@ jobs:
               
               prompt = prompt_template.format(titles=titles_text)
               
-              result = call_kimi(prompt, max_tokens=500)
+              result = call_kimi(prompt, max_tokens=50000)
               categories = {"融资速报": [], "行业动态-大模型": [], "行业动态-AI硬件/具身智能": []}
               
               if result:
