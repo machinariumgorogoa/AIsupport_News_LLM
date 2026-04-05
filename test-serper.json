@@ -1,0 +1,65 @@
+{
+  "date": "2026-04-05",
+  "test1_raw_count": 10,
+  "test2_filtered_count": 9,
+  "test2_blocked_duplicate": 0,
+  "test2_blocked_foreign": 1,
+  "test3_no_foreign_filter": 10,
+  "sample_raw_titles": [
+    "高层变动、股权结构表曝光！上市前夕，这家万亿AI巨头风波不断！",
+    "发布仅1天阿里千问3.6-Plus冲上OpenRouter榜首",
+    "OpenAI刚融1220亿，为什么先砍Sora？上市之后哪家AI公司会先爆雷？",
+    "中国AI热潮点燃资本市场港股Q1融资规模创五年新高 - 搜狐",
+    "OpenAI这波高管变动有点意思，病假、转岗、离职，一天之内三个 ..."
+  ],
+  "sample_blocked_foreign": [
+    "https://www.youtube.com/watch?v=_kAm3OAr6UY"
+  ],
+  "filtered_results": [
+    {
+      "title": "高层变动、股权结构表曝光！上市前夕，这家万亿AI巨头风波不断！",
+      "link": "https://finance.sina.com.cn/stock/t/2026-04-05/doc-inhtnckv6842566.shtml",
+      "snippet": "2023年底，公司经历了一系列高知名度离职，随后大幅扩充并重组了董事会和高管团队，引入了具备营销、财务和运营经验的资深管理人才。 除了高层变动，OpenAI还在..."
+    },
+    {
+      "title": "发布仅1天阿里千问3.6-Plus冲上OpenRouter榜首",
+      "link": "https://h5.ifeng.com/c/vivoArticle/v002w6u-_hf7OC78muiAq-_UOWXUhaM9V5jWM8TQgSmbx-_MvU__?isNews=1&showComments=0",
+      "snippet": "4月2日上午，阿里正式发布新一代大语言模型Qwen3.6-Plus，这也是千问3.6系列的首款模型，被阿里云官方称为目前“中国编程能力最强的模型”。 该模型默认..."
+    },
+    {
+      "title": "中国AI热潮点燃资本市场港股Q1融资规模创五年新高 - 搜狐",
+      "link": "https://m.sohu.com/a/1005750369_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "snippet": "受中国人工智能板块持续升温驱动，香港股票市场2026年第一季度融资规模创下五年新高，在全球主要交易所中位居前列，重新确立其作为中国企业境外上市首选目的地的地位。..."
+    },
+    {
+      "title": "OpenAI这波高管变动有点意思，病假、转岗、离职，一天之内三个 ...",
+      "link": "https://www.binance.com/zh-CN/square/post/309008854663729",
+      "snippet": "OpenAI这波高管变动有点意思，病假、转岗、离职，一天之内三个核心位置出缺。再结合同一天的两笔收购，感觉内部调整比外界看到的更剧烈。现在这估值水平，每一步动作..."
+    },
+    {
+      "title": "千问AI打车假期需求暴涨15倍-观察者网",
+      "link": "https://www.guancha.cn/economy/2026_04_05_812609.shtml",
+      "snippet": "千问AI打车产品负责人直言：“我们没料到一下子会有这么多用户涌进来\"。进一步的数据显示，用户更愿意在复杂场景中尝试AI能力，比如多途经点、预约和个性化需求的组合..."
+    },
+    {
+      "title": "中国AI热潮点燃资本市场，港股Q1融资规模创五年新高 - Moomoo",
+      "link": "https://www.moomoo.com/hans/news/post/67912401/china-s-ai-boom-ignites-capital-markets-with-hong-kong",
+      "snippet": "受中国人工智能板块持续升温驱动，香港股票市场2026年第一季度融资规模创下五年新高，在全球主要交易所中位居前列，重新确立其作为中国企业境外上市首选目的地的地位。..."
+    },
+    {
+      "title": "冲刺2026年四季度上市，OpenAI估值达8520亿美元 - 网易",
+      "link": "https://www.163.com/dy/article/KPPELLOG0519QIKK.html",
+      "snippet": "人工智能巨头OpenAI正加速推进2026年第四季度上市计划，冲刺生成式AI领域上市先机，但IPO前夕公司接连出现多起动态。 近期OpenAI高管层出现人事调整..."
+    },
+    {
+      "title": "千问3.6Plus大模型登顶全球模型调用排行榜首 - 科技频道",
+      "link": "https://tech.cnr.cn/gstj/20260405/t20260405_527574352.shtml",
+      "snippet": "在全球AI社区，开发者分享将Qwen3.6-Plus接入自己的小龙虾，一句话调用千问3.6实现复杂任务的“氛围编程”，让千问直接生成可用的网站、游戏、小程序，一..."
+    },
+    {
+      "title": "是的，九安医疗直接投资了阶跃星辰。一、投资方式与时间 - 东方财富",
+      "link": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260404222353423643070&postId=1689506410",
+      "snippet": "九安医疗在2026年3月11日的投资者互动平台（问董秘）中，被问及投资布局时，明确将阶跃星辰列为公司直接投资的AI企业之一（与沐曦、月之暗面、昆仑芯并列）。..."
+    }
+  ]
+}
