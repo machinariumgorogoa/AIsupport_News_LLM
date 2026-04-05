@@ -9,34 +9,16 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "高层变动、股权结构表曝光！上市前夕，这家万亿AI巨头风波不断！",
-          "link": "https://finance.sina.com.cn/stock/t/2026-04-05/doc-inhtnckv6842566.shtml",
-          "snippet": "2023年底，公司经历了一系列高知名度离职，随后大幅扩充并重组了董事会和高管团队，引入了具备营销、财务和运营经验的资深管理人才。 除了高层变动，OpenAI还在...",
-          "index": 11
-        },
-        {
           "title": "中国AI热潮点燃资本市场港股Q1融资规模创五年新高 - 新浪财经",
           "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-04-05/doc-inhtncky2088666.shtml",
           "snippet": "受中国人工智能板块持续升温驱动，香港股票市场2026年第一季度融资规模创下五年新高，在全球主要交易所中位居前列，重新确立其作为中国企业境外上市首选目的地的地位。",
+          "index": 1
+        },
+        {
+          "title": "Ashton Kutcher基金投资OpenAI获43倍回报 - Binance",
+          "link": "https://www.binance.com/zh-CN/square/post/309145925537010",
+          "snippet": "哈世链闻在X（原Twitter）表示，Ashton Kutcher旗下基金Sound Ventures向OpenAI投资3000万美元，现价值13亿美元，实现4...",
           "index": 2
-        },
-        {
-          "title": "OpenAI融资1220亿美元，投后估值8520亿美元 - 观察者",
-          "link": "https://user.guancha.cn/main/content?id=1626460",
-          "snippet": "#### 热门搜索. #### 搜索历史. # OpenAI融资1220亿美元，投后估值8520亿美元. #### 独角兽早知道 独角兽早知道官方账号. 提供I...",
-          "index": 3
-        },
-        {
-          "title": "为筹备港股上市阶跃星辰变更为股份公司 - 集微网",
-          "link": "https://jiweipreview.laoyaoba.com/n/1006897",
-          "snippet": "另外，此次股改前后，公司完成了超50亿元人民币的B+轮融资，并引入了印奇（旷视科技创始人）担任董事长。印奇的加入不仅带来了战略资源和产业协同（如与千里科技、吉利...",
-          "index": 4
-        },
-        {
-          "title": "Mistral AI 巨额融资：欧洲AI挑战硅谷霸权，一场全球资本与创新之战",
-          "link": "https://www.nananobanana.com/fi/blogs/cmnkdj65244wql4e46pfkr992",
-          "snippet": "法国AI初创公司Mistral AI成功完成8.3亿美元融资，估值达62亿美元，标志着欧洲在全球AI竞争中展现出强大实力。这笔巨额投资不仅挑战了硅谷在AI领域的...",
-          "index": 5
         }
       ]
     },
@@ -44,33 +26,51 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "原生多模态、2M上下文窗口，OpenAI倾注所有资源冲刺AGI - 鲸林向海",
-          "link": "https://www.itsolotime.com/archives/28681",
-          "snippet": "# GPT-6即将发布：性能暴涨40%、原生多模态、2M上下文窗口，OpenAI倾注所有资源冲刺AGI. 据多方消息透露，OpenAI 下一代旗舰模型 GPT-...",
-          "index": 6
+          "title": "「同事.Skill」冲上热搜，离职同事已被炼化！ - 智源社区",
+          "link": "https://hub.baai.ac.cn/view/53691",
+          "snippet": "# 「同事.Skill」冲上热搜，离职同事已被炼化！. 新智元 2026-04-05 17:10 分享. ##### **【新智元导读】同事离职了？别怕，把他「...",
+          "index": 11
         },
         {
           "title": "OpenAI这波高管变动有点意思，病假、转岗、离职，一天之内三个 ...",
           "link": "https://www.binance.com/zh-CN/square/post/309008854663729",
           "snippet": "OpenAI这波高管变动有点意思，病假、转岗、离职，一天之内三个核心位置出缺。再结合同一天的两笔收购，感觉内部调整比外界看到的更剧烈。现在这估值水平，每一步动作...",
-          "index": 7
+          "index": 4
         },
         {
-          "title": "炸场！DeepSeekV4全面适配华为昇腾，三大巨头集体下单 - 东方财富",
-          "link": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260405005742055918300&postId=1689511354",
-          "snippet": "DeepSeek V4全面适配华为昇腾，三大巨头集体下单，国产AI迎来里程碑近日，外媒The Information曝出的重磅消息，在全球AI圈投下了一颗重磅炸...",
-          "index": 8
+          "title": "Django Web 框架共同创始人威利森：AI 将为编程带来“黑灯工厂”时代",
+          "link": "https://www.ithome.com/0/936/067.htm",
+          "snippet": "业界 手机 电脑 测评 视频 AI 苹果 iPhone 鸿蒙 软件. 智车 数码 学院 游戏 直播 5G 微软 Win10 Win11 专题. # Django...",
+          "index": 5
+        },
+        {
+          "title": "千问AI打车假期需求暴涨15倍-观察者网",
+          "link": "https://www.guancha.cn/economy/2026_04_05_812609.shtml",
+          "snippet": "千问AI打车产品负责人直言：“我们没料到一下子会有这么多用户涌进来\"。进一步的数据显示，用户更愿意在复杂场景中尝试AI能力，比如多途经点、预约和个性化需求的组合...",
+          "index": 6
         },
         {
           "title": "发布仅1天阿里千问3.6-Plus冲上OpenRouter榜首",
           "link": "https://h5.ifeng.com/c/vivoArticle/v002w6u-_hf7OC78muiAq-_UOWXUhaM9V5jWM8TQgSmbx-_MvU__?isNews=1&showComments=0",
-          "snippet": "4月2日上午，阿里正式发布新一代大语言模型Qwen3.6-Plus，这也是千问3.6系列的首款模型，被阿里云官方称为目前“中国编程能力最强的模型”。 该模型默认...",
-          "index": 9
+          "snippet": "# 发布仅1天 阿里千问3.6-Plus冲上OpenRouter榜首. 快科技4月4日消息，**发布仅1天的千问新模型Qwen3.6-Plus，冲上全球知名大模...",
+          "index": 7
+        },
+        {
+          "title": "#484.AI 时代的工匠精神：Linear 创始人揭秘如何构建原生的智能体 ...",
+          "link": "https://www.xiaoyuzhoufm.com/episode/69d24171e2c8be31556c48b3",
+          "snippet": "对话的嘉宾是Linear 的联合创始人兼CEO Karri Saarinen。Linear 被公认为目前全球最具设计感和工匠精神的软件项目管理工具，而Karri...",
+          "index": 8
         },
         {
           "title": "Microsoft Unveils Proprietary AI Models Under MAI Brand, Diverging ...",
           "link": "https://af.net/realtime/microsoft-unveils-proprietary-ai-models-under-mai-brand-diverging-from-openai-partnership/",
           "snippet": "AI4Bharat, based at IIT Madras, is leveraging advanced AI technologies to addres...",
+          "index": 9
+        },
+        {
+          "title": "米哈游三位创始人向母校上海交大捐赠，加注“AI未来基石”基金- 瑞财经",
+          "link": "https://m.rccaijing.com/news-7446352249888633906.html",
+          "snippet": "瑞财经吴文婷 4月4日，据上海交通大学官微发布，米哈游联合创始人、总裁、董事长刘伟，代表米哈游创始团队蔡浩宇、罗宇皓，共同捐资助力学校设立的“AI未来基石”基金...",
           "index": 10
         }
       ]
@@ -79,9 +79,9 @@
       "name": "行业动态-AI硬件/具身智能",
       "items": [
         {
-          "title": "高层变动、股权结构表曝光！上市前夕，这家万亿AI巨头风波不断！",
-          "link": "https://finance.sina.com.cn/stock/t/2026-04-05/doc-inhtnckv6842566.shtml",
-          "snippet": "2023年底，公司经历了一系列高知名度离职，随后大幅扩充并重组了董事会和高管团队，引入了具备营销、财务和运营经验的资深管理人才。 除了高层变动，OpenAI还在...",
+          "title": "「同事.Skill」冲上热搜，离职同事已被炼化！ - 智源社区",
+          "link": "https://hub.baai.ac.cn/view/53691",
+          "snippet": "# 「同事.Skill」冲上热搜，离职同事已被炼化！. 新智元 2026-04-05 17:10 分享. ##### **【新智元导读】同事离职了？别怕，把他「...",
           "index": 11
         }
       ]
