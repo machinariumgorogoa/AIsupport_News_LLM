@@ -33,7 +33,7 @@ jobs:
                       'model': 'kimi-k2.5',
                       'messages': [{'role': 'user', 'content': '你好，请回复"测试成功"四个字'}],
                       'temperature': 1,
-                      'max_tokens': 50
+                      'max_tokens': 500
                   },
                   timeout=30
               )
