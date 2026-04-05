@@ -1,0 +1,109 @@
+{
+  "query": "(离职 OR 加盟 OR 创业 OR 融资 OR 并购 OR 上市 OR 发布) AND (AI OR 人工智能 OR 大模型 OR 字节 OR 阿里 OR 腾讯 OR OpenAI OR 智谱 OR MiniMax OR 月之暗面 OR Kimi OR 阶跃 OR 商汤 OR 讯飞 OR 具身智能 OR 机器人)",
+  "time_range": "day",
+  "requested": 20,
+  "returned": 17,
+  "news": [
+    {
+      "title": "高层变动、股权结构表曝光！上市前夕，这家万亿AI巨头风波不断！",
+      "url": "https://finance.sina.cn/stock/jdts/2026-04-05/detail-inhtnckv6842566.d.html?vt=4&cid=76993&node_id=76993",
+      "content": "（来源：证券时报） 人工智能巨头OpenAI正加速推进首次公开募股（IPO）计划，拟于2026年第四季度挂牌上市，以抢占生成式AI领域的上市先机。"
+    },
+    {
+      "title": "中国AI热潮点燃资本市场，港股Q1融资规模创五年新高 - 华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3769292",
+      "content": "# 中国AI热潮点燃资本市场，港股Q1融资规模创五年新高 - 华尔街见闻. # 中国AI热潮点燃资本市场，港股Q1融资规模创五年新高. Image 2: article.author.display_"
+    },
+    {
+      "title": "出走的游戏大厂高管，正在批量制造爆款 - 21财经",
+      "url": "https://www.21jingji.com/article/20260405/herald/4b63cf53da778e4a63c339da7a2eb43b.html",
+      "content": "首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多). 大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动. # 出走的游戏大厂高管，正在批量制造爆款. ######"
+    },
+    {
+      "title": "“离职同事被炼化成AI”引热议，暗藏法律问题 - 新浪财经",
+      "url": "https://finance.sina.cn/2026-04-05/detail-inhtmnnv8491995.d.html?oid=WA%200812%202782%205310%20Jasa%20Bikin%20Plafon%20Mewah%20Murah%20Gondangrejo%20Karanganyar&vt=4",
+      "content": "近来，技术社区GitHub上爆火的“同事．skill”引起了广泛讨论，这项skill的技能点是“提供同事的材料加上你的主观描述，生成一个真正能替他工作的AI skill”，并宣称“将冰冷的告别化"
+    },
+    {
+      "title": "中国AI热潮点燃资本市场，港股Q1融资规模创五年新高 - Moomoo",
+      "url": "https://www.moomoo.com/hans/news/post/67912401/china-s-ai-boom-ignites-capital-markets-with-hong-kong",
+      "content": "受中国人工智能板块持续升温驱动，香港股票市场2026年第一季度融资规模创下五年新高，在全球主要交易所中位居前列，重新确立其作为中国企业境外上市首选目的地的地位。"
+    },
+    {
+      "title": "新型AI模型可通过血检识别多种神经退行性疾病 - 新华网",
+      "url": "http://www.news.cn/tech/20260405/43824cbbfa2549ab97161e8cae6e0836/c.html",
+      "content": "隆德大学等机构的研究人员基于超过1.7万名患者及健康对照者的蛋白质测量数据，开发出一种AI模型。该模型通过学习多种疾病的血液蛋白特征，能够识别出一组特定蛋白，从而识别"
+    },
+    {
+      "title": "城记| 长三角OPC创业热潮涌动，“超级个体”加速重塑创新经济版图",
+      "url": "https://m.cnfin.com/hg-lb//zixun/20260405/4395873_1.html",
+      "content": "根据合作备忘录，无锡高新区将与火山引擎紧密携手，抢占“AI+内容”赛道，加速集聚更多数字文创与AI领域创新项目，为无锡加快建设“人工智能+”标杆城市注入新动能。"
+    },
+    {
+      "title": "刚刚，OpenAI 创下史上最大融资纪录，估值逼近万亿 - 爱范儿",
+      "url": "https://www.ifanr.com/1660522",
+      "content": "# 刚刚，OpenAI 创下史上最大融资纪录，估值逼近万亿. 当所有人还沉浸在 Claude Code 源码泄露事件时，OpenAI 又双叒叕出来抢头条了。就在刚刚，OpenAI 官宣完成一轮 122"
+    },
+    {
+      "title": "OpenAI收购科技播客TBPN引发争议并购逻辑遭分析人士质疑 - 财联社",
+      "url": "https://www.cls.cn/detail/2335124",
+      "content": "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载. ### 头条. ### A股. ### 港股. ### 环球. ### 公司. ### 券商. ### 基金·ET"
+    },
+    {
+      "title": "位列全球第一  ！目前來港上市嘅輪候申請更超過500 宗，當中涵蓋 ...",
+      "url": "https://www.facebook.com/govnews.hk/posts/2026%E9%A6%96%E5%AD%A3%E7%B6%93%E6%BF%9F%E6%A6%82%E6%B3%81%E9%99%B3%E8%8C%82%E6%B3%A2%E5%8F%B8%E9%95%B7%E5%96%BA%E7%B6%B2%E8%AA%8C%E4%B8%AD%E8%A1%A8%E7%A4%BA-2026-%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%89%9B%E9%81%8E%E5%8E%BB%E5%85%A8%E7%90%83%E5%B1%80%E5%8B%A2%E4%BB%8D%E7%84%B6%E8%A4%87%E9%9B%9C%E5%A4%9A%E8%AE%8A%E5%8F%97%E5%A4%96%E9%83%A8%E5%9B%A0%E7%B4%A0%E6%8B%96%E7%B4%AF%E6%9C%AC%E6%B8%AF%E8%82%A1%E5%B8%82%E5%87%BA%E7%8F%BE%E5%9B%9E%E8%AA%BF%E4%BD%86%E4%BA%A4%E6%98%93%E4%BE%9D%E7%84%B6%E6%B4%BB%E8%BA%8D3-%E6%9C%88%E6%B8%AF%E8%82%A1%E6%97%A5%E5%9D%87%E6%88%90%E4%BA%A4%E9%A1%8D%E8%B6%85%E9%81%8E-3/1372256181614144/",
+      "content": "... 上市嘅輪候申請更超過500 宗，當中涵蓋人工智能、半導體同生物科技等新興產業 ，反映喺不明朗形勢下，投資者仍然視香港為資金可靠避風港 ，亦因內地經濟穩定增長"
+    },
+    {
+      "title": "【AI视频】小金子的红色追寻之路_中华人民共和国最高人民检察院",
+      "url": "https://www.spp.gov.cn/spp/sp/202604/t20260405_725401.shtml",
+      "content": "“我”叫小金子，是土生土长的安徽长丰人。儿时常听爷爷讲英雄打鬼子的故事，那些热血的红色记忆，像一颗红色种子悄悄在“我”心里扎了根。长大后“我”成为了一名检察官，同事淘"
+    },
+    {
+      "title": "发布仅1天阿里千问3.6-Plus冲上OpenRouter榜首",
+      "url": "https://h5.ifeng.com/c/vivoArticle/v002w6u-_hf7OC78muiAq-_UOWXePvkYDIkHtOqU7bVlApxR4__?isNews=1&showComments=0",
+      "content": "4月2日上午，阿里正式发布新一代大语言模型Qwen3.6-Plus，这也是千问3.6系列的首款模型，被阿里云官方称为目前“中国编程能力最强的模型”。 该模型默认支持100万Token上下文"
+    },
+    {
+      "title": "AI新闻日刊（4.4） - WPS Office官方社区",
+      "url": "https://bbs.wps.cn/topic/85075",
+      "content": "今日头条： AI让单人创业者做出18亿美元业绩. 据《纽约时报》报道，Matthew Gallagher将他的初创公司Medvi从2万美元"
+    },
+    {
+      "title": "Microsoft Unveils Proprietary AI Models Under MAI Brand, Diverging ...",
+      "url": "https://af.net/realtime/microsoft-unveils-proprietary-ai-models-under-mai-brand-diverging-from-openai-partnership/",
+      "content": "AI4Bharat, based at IIT Madras, is leveraging advanced AI technologies to address challenges in Ind…"
+    },
+    {
+      "title": "一句话搞定芯片设计！同济大学电信学院发布AI自动化集成电路设计 ...",
+      "url": "https://see.tongji.edu.cn/info/1143/14621.htm",
+      "content": "近日，同济大学电信学院叶雨阳、贺青和邱雷研究团队联合香港中文大学余备研究团队，共同开发了基于AI智能体驱动的自动化集成电路设计框架——RTL-CLAW。"
+    },
+    {
+      "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+      "url": "https://podcasts.apple.com/de/podcast/e227-%E7%BE%8E%E5%9B%BD%E5%8C%BB%E7%96%97%E5%B8%82%E5%9C%BAai%E4%BA%89%E5%A4%BA%E6%88%98-%E5%B7%A8%E5%A4%B4%E6%8A%BC%E6%B3%A8-%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8%E8%83%BD%E8%B5%A2%E5%90%97/id1498541229?i=1000752964662",
+      "content": "面对这场火热的AI医疗争夺战，我们想问一个根本的问题：AI到底在解决医疗的什么问题？它只是巨头的游戏吗，创业公司还有没有机会？ 我们从一位急诊室医生的真实经历聊起，他常常"
+    },
+    {
+      "title": "图解海报| 《国家药监局关于“人工智能+药品监管”的实施意见》系列 ...",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/zhcjd/tjzhc/tjzhczh/20260403090807197.html",
+      "content": "# 图解海报 | 《国家药监局关于“人工智能+药品监管”的实施意见》系列政策图解（四）. ## 图解海报 | 《国家药监局关于“人工智能+药品监管”的实施意见》系列政策图解（四）. Image 6: "
+    }
+  ],
+  "simple_query": {
+    "query": "人工智能 大模型 今日",
+    "returned": 10,
+    "titles": [
+      "人工智能大模型_百度百科",
+      "Agent人工智能大模型-今日头条",
+      "人工智能通用大模型-今日头条",
+      "人工智能大模型技术",
+      "港產人工智能大模型面世 – Hongkong Invest",
+      "人工智能大模型Grok - 超算百科",
+      "人工智能大模型Grok - 超算百科",
+      "人工智能大模型 | AI工具导航",
+      "人工智能大模型Grok - 超算百科",
+      "人工智能模型 |TePhone.com"
+    ]
+  }
+}
