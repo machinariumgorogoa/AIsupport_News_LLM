@@ -1,25 +1,29 @@
 {
   "status_code": 200,
   "response": {
-    "id": "chatcmpl-69d274fb76ffaf2e4d69b333",
+    "id": "chatcmpl-69d2764940641e4539f05032",
     "object": "chat.completion",
-    "created": 1775400187,
+    "created": 1775400521,
     "model": "kimi-k2.5",
     "choices": [
       {
         "index": 0,
         "message": {
           "role": "assistant",
-          "content": "",
-          "reasoning_content": "用户要求我回复\"测试成功\"这四个字。这是一个简单的测试请求，用户想确认我能正常工作或进行某种连接测试。\n\n我应该直接按照用户的要求回复这四个字，不需要添加额外的解释或内容，除非有必要。\n\n回复内容："
+          "content": "测试成功",
+          "reasoning_content": "用户要求回复\"测试成功\"四个字。\n\n这是一个简单的指令遵循任务。用户用中文提问，要求我回复特定的四个汉字：\"测试成功\"。\n\n我需要：\n1. 确认我理解了这个请求\n2. 准确地回复这四个字，不多也不少\n3. 保持礼貌和简洁\n\n回复应该只是：\"测试成功\"\n\n不需要添加额外的解释、问候或其他内容，因为用户明确要求这四个字。"
         },
-        "finish_reason": "length"
+        "finish_reason": "stop"
       }
     ],
     "usage": {
       "prompt_tokens": 16,
-      "completion_tokens": 50,
-      "total_tokens": 66
+      "completion_tokens": 87,
+      "total_tokens": 103,
+      "cached_tokens": 16,
+      "prompt_tokens_details": {
+        "cached_tokens": 16
+      }
     }
   }
 }
