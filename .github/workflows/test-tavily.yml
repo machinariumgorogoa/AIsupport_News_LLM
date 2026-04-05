@@ -1,0 +1,63 @@
+name: Test Tavily Limit
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Test Tavily Max Results
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: |
+          pip install requests
+          python << 'EOF'
+          import requests
+          import json
+          import os
+
+          TAVILY_API_KEY = os.environ['TAVILY_API_KEY']
+
+          # 极简测试：搜索"AI"，请求20条
+          response = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': 'AI',
+                  'max_results': 20,
+                  'search_depth': 'basic',
+                  'include_domains': [],
+                  'exclude_domains': []
+              },
+              timeout=30
+          )
+          
+          data = response.json()
+          results = data.get('results', [])
+          
+          output = {
+              'query': 'AI',
+              'requested': 20,
+              'returned': len(results),
+              'titles': [item['title'] for item in results]
+          }
+          
+          print(f"请求20条，实际返回: {len(results)} 条")
+          for i, item in enumerate(results[:5], 1):
+              print(f"{i}. {item['title']}")
+          
+          with open('test-tavily.json', 'w', encoding='utf-8') as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+          EOF
+      
+      - name: Commit result
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add test-tavily.json
+          git commit -m "Test Tavily limit [skip ci]" || echo "No changes"
+          git push
