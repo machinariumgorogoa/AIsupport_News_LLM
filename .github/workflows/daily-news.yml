@@ -60,9 +60,7 @@ jobs:
 
           def call_kimi(prompt, max_tokens=1000):
               if not prompt or len(prompt.strip()) < 10:
-                  print('    [WARN] prompt为空，跳过')
                   return None
-              
               try:
                   response = requests.post(
                       'https://api.moonshot.cn/v1/chat/completions',
@@ -70,40 +68,33 @@ jobs:
                       json={'model': 'kimi-k2.5', 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1, 'max_tokens': max_tokens},
                       timeout=300
                   )
-                  
-                  print('    [API] 状态码: ' + str(response.status_code))
-                  
-                  if response.status_code != 200:
-                      print('    [ERR] 错误响应: ' + str(response.text)[:100])
-                      return None
-                  
-                  result = response.json()
-                  if 'choices' not in result:
-                      print('    [ERR] 无choices字段')
-                      return None
-                  
-                  return result['choices'][0]['message']['content'].strip()
+                  if response.status_code == 200:
+                      result = response.json()
+                      if 'choices' in result:
+                          return result['choices'][0]['message']['content'].strip()
+                  else:
+                      print('    [ERR] API失败: ' + str(response.status_code))
               except Exception as e:
-                  print('    [ERR] 调用异常: ' + str(e))
-                  return None
+                  print('    [ERR] 异常: ' + str(e))
+              return None
 
           # Fallback提示词
           FALLBACK_DEDUP = '分析以下新闻，去除重复报道同一事件的条目，保留{target}条：\n{titles}\n返回序号，如1,3,5'
-          FALLBACK_BATCH_TRANS = '批量翻译以下AI新闻为中文，保留专业术语（IPO、CEO、OpenAI等）。格式要求：\n原文：序号. 英文标题 | 英文摘要\n翻译：序号. [中文标题] | [中文摘要50字]\n\n{items}'
-          FALLBACK_CLASSIFY = '分类以下新闻到融资、大模型、硬件三类：\n{titles}\n返回JSON格式'
+          FALLBACK_BATCH_TRANS = '批量翻译以下AI新闻为中文，保留专业术语。格式：\n序号. [中文标题] | [中文摘要50字]\n\n{items}'
+          FALLBACK_CLASSIFY = '分类以下新闻到两组：融资速报、行业动态-大模型。\n返回JSON格式：{"融资速报":[1,2],"行业动态-大模型":[3,4]}\n\n{titles}'
 
           print('=== 搜索阶段 ===')
           resp1 = requests.post('https://api.tavily.com/search', 
-              json={'api_key': TAVILY_API_KEY, 'query': '(funding OR IPO OR merger OR acquisition OR valuation) AND (AI OR artificial intelligence)', 'max_results': 20, 'time_range': 'day', 'search_depth': 'basic', 'exclude_domains': ['youtube.com', 'reddit.com', 'instagram.com', 'facebook.com']},
+              json={'api_key': TAVILY_API_KEY, 'query': '(funding OR IPO OR merger OR acquisition OR valuation) AND (AI OR artificial intelligence)', 'max_results': 20, 'time_range': 'day', 'search_depth': 'basic', 'exclude_domains': ['youtube.com', 'reddit.com', 'facebook.com']},
               timeout=150)
           results1 = resp1.json().get('results', [])
           print('融资类: ' + str(len(results1)) + ' 条')
 
           resp2 = requests.post('https://api.tavily.com/search',
-              json={'api_key': TAVILY_API_KEY, 'query': '(hire OR appoint OR founder OR CEO OR launch OR product) AND (AI OR artificial intelligence)', 'max_results': 20, 'time_range': 'day', 'search_depth': 'basic', 'exclude_domains': ['youtube.com', 'reddit.com', 'instagram.com', 'facebook.com']},
+              json={'api_key': TAVILY_API_KEY, 'query': '(hire OR appoint OR founder OR CEO OR launch OR product) AND (AI OR artificial intelligence)', 'max_results': 20, 'time_range': 'day', 'search_depth': 'basic', 'exclude_domains': ['youtube.com', 'reddit.com', 'facebook.com']},
               timeout=150)
           results2 = resp2.json().get('results', [])
-          print('人事类: ' + str(len(results2)) + ' 条')
+          print('人事/产品类: ' + str(len(results2)) + ' 条')
 
           seen_urls = set()
           raw_items = []
@@ -127,7 +118,7 @@ jobs:
 
           print('=== 去重阶段 ===')
           dedup_template = read_prompt_file('dedup.txt') or FALLBACK_DEDUP
-          titles_text = '\n'.join([str(i+1) + '. ' + item['title'] + '\n   摘要：' + item['raw_snippet'][:50] for i, item in enumerate(raw_items)])
+          titles_text = '\n'.join([str(i+1) + '. ' + item['title'][:60] + '\n   摘要：' + item['raw_snippet'][:40] for i, item in enumerate(raw_items)])
           dedup_prompt = dedup_template.format(count=len(raw_items), titles=titles_text, target=10)
           
           dedup_result = call_kimi(dedup_prompt, max_tokens=20000)
@@ -149,27 +140,19 @@ jobs:
           
           if non_zh_items:
               print('需翻译: ' + str(len(non_zh_items)) + '条')
-              trans_content = read_prompt_file('translate.txt')
+              trans_template = read_prompt_file('translate.txt') or FALLBACK_BATCH_TRANS
               
-              # 【修复】检查模板是否包含 {items}，否则使用 fallback
-              if trans_content and '{items}' in trans_content:
-                  trans_template = trans_content
-                  print('  使用外部批量翻译模板')
-              else:
+              if '{items}' not in trans_template:
                   trans_template = FALLBACK_BATCH_TRANS
-                  print('  使用 fallback 批量翻译模板')
               
-              # 构建批量输入
               items_text = '\n'.join([str(i+1) + '. ' + item['title'] + ' | ' + item['raw_snippet'][:60] for i, item in enumerate(non_zh_items)])
               trans_prompt = trans_template.format(items=items_text)
               
-              # 单次API调用翻译全部
               trans_result = call_kimi(trans_prompt, max_tokens=2000)
               
               if trans_result:
                   print('解析翻译结果...')
                   for i, item in enumerate(non_zh_items):
-                      # 匹配格式：序号. [中文标题] | [中文摘要]
                       pattern = str(i+1) + r'\.\s*\[([^\]]+)\]\s*\|\s*([^\n]+)'
                       match = re.search(pattern, trans_result)
                       if match:
@@ -177,68 +160,79 @@ jobs:
                           item['snippet'] = match.group(2).strip()[:100]
                           print('  [' + str(i+1) + '] 翻译成功')
                       else:
-                          # 尝试宽松匹配
-                          loose_pattern = str(i+1) + r'\.\s*(.+?)(?=\n\d+\.|$)'
-                          loose_match = re.search(loose_pattern, trans_result, re.DOTALL)
+                          loose = str(i+1) + r'\.\s*(.+?)(?=\n\d+\.|$)'
+                          loose_match = re.search(loose, trans_result, re.DOTALL)
                           if loose_match:
                               text = loose_match.group(1).strip()
                               if '|' in text:
                                   parts = text.split('|', 1)
-                                  item['title'] = parts[0].replace('[', '').replace(']', '').strip()[:80]
-                                  item['snippet'] = parts[1].replace('[', '').replace(']', '').strip()[:100]
-                                  print('  [' + str(i+1) + '] 宽松匹配成功')
-                              else:
-                                  print('  [' + str(i+1) + '] 未找到分隔符，保留原文')
-                          else:
-                              print('  [' + str(i+1) + '] 未匹配，保留原文')
+                                  item['title'] = parts[0].replace('[', '').strip()[:80]
+                                  item['snippet'] = parts[1].replace(']', '').strip()[:100]
               else:
-                  print('翻译API调用失败，保留原文')
+                  print('翻译失败，保留原文')
           
           translated_items = deduped_items
           print('翻译完成: ' + str(len(translated_items)) + ' 条')
 
-          print('=== 分类阶段 ===')
+          print('=== 分类阶段（两组） ===')
           class_template = read_prompt_file('classify.txt') or FALLBACK_CLASSIFY
-          class_titles = '\n'.join([str(i+1) + '. ' + item['title'] for i, item in enumerate(translated_items)])
+          class_titles = '\n'.join([str(i+1) + '. ' + item['title'][:50] for i, item in enumerate(translated_items)])
           class_prompt = class_template.format(titles=class_titles)
           
           class_result = call_kimi(class_prompt, max_tokens=50000)
-          categories = {'融资速报': [], '行业动态-大模型': [], '行业动态-AI硬件/具身智能': []}
+          categories = {'融资速报': [], '行业动态-大模型': []}  # 【修改】只保留两组
           
           if class_result:
               try:
                   json_match = re.search(r'\{.*\}', class_result, re.DOTALL)
                   if json_match:
                       parsed = json.loads(json_match.group())
+                      assigned = set()
                       for cat, indices in parsed.items():
                           if cat in categories:
-                              valid = [i-1 for i in indices if isinstance(i, int) and 1 <= i <= len(translated_items)]
-                              categories[cat] = [translated_items[i] for i in valid]
+                              for idx in indices:
+                                  try:
+                                      i = int(idx) - 1
+                                      if 0 <= i < len(translated_items) and i not in assigned:
+                                          categories[cat].append(translated_items[i])
+                                          assigned.add(i)
+                                  except:
+                                      pass
                       print('分类成功')
               except Exception as e:
                   print('分类解析失败: ' + str(e))
 
-          # 确保每类有内容
+          # 【修改】只填充到两组，确保互斥
           all_items = translated_items[:]
+          assigned_ids = set()
           for cat in categories:
-              if not categories[cat] and all_items:
-                  categories[cat].append(all_items.pop(0))
+              for item in categories[cat]:
+                  assigned_ids.add(id(item))
+          
+          for cat in categories:
+              if not categories[cat]:
+                  for item in all_items:
+                      if id(item) not in assigned_ids:
+                          categories[cat].append(item)
+                          assigned_ids.add(id(item))
+                          break
 
-          print('分类结果: 融资' + str(len(categories['融资速报'])) + '条, 大模型' + str(len(categories['行业动态-大模型'])) + '条, 硬件' + str(len(categories['行业动态-AI硬件/具身智能'])) + '条')
+          print('分类结果: 融资' + str(len(categories['融资速报'])) + '条, 大模型' + str(len(categories['行业动态-大模型'])) + '条')
 
-          # 构建最终输出
+          # 【修改】构建最终输出（两组），确保索引不重复
           final_results = []
-          for cat_name in ['融资速报', '行业动态-大模型', '行业动态-AI硬件/具身智能']:
+          idx = 1
+          for cat_name in ['融资速报', '行业动态-大模型']:
               for item in categories[cat_name]:
+                  item['index'] = idx
                   final_results.append(item)
-          for i, item in enumerate(final_results, 1):
-              item['index'] = i
+                  idx += 1
 
-          # 构建飞书卡片
+          # 【修改】构建飞书卡片（两组）
           def build_feishu_card():
               elements = [{'tag': 'div', 'text': {'tag': 'lark_md', 'content': '**🤖 AI业界动态早报**\n**machinariumAIsupport | 每日早8点自动推送**\n📅 ' + date_str}}, {'tag': 'hr'}]
               
-              for cat_key, cat_label, emoji in [('融资速报', '💰 融资速报', '💰'), ('行业动态-大模型', '🧠 行业动态-大模型', '🧠'), ('行业动态-AI硬件/具身智能', '🤖 行业动态-AI硬件/具身智能', '🤖')]:
+              for cat_key, cat_label in [('融资速报', '💰 融资速报'), ('行业动态-大模型', '🧠 行业动态-大模型')]:
                   if categories[cat_key]:
                       elements.append({'tag': 'div', 'text': {'tag': 'lark_md', 'content': '**' + cat_label + '**'}})
                       for item in categories[cat_key]:
@@ -246,7 +240,6 @@ jobs:
                       elements.append({'tag': 'hr'})
               
               elements.append({'tag': 'div', 'text': {'tag': 'lark_md', 'content': '©️ machinariumAIsupport'}})
-              
               return {'msg_type': 'interactive', 'card': {'config': {'wide_screen_mode': True}, 'header': {'title': {'tag': 'plain_text', 'content': 'AI业界动态早报 | ' + date_str}, 'template': 'purple'}, 'elements': elements}}
 
           # 推送
@@ -259,14 +252,21 @@ jobs:
           except Exception as e:
               print('推送失败: ' + str(e))
 
-          # 保存文件
+          # 【修改】保存（两组结构）
           try:
               import os
               import glob
               os.makedirs('docs', exist_ok=True)
               
               news_standard = {'date': date_str, 'header': {'title': '🤖 AI业界动态早报', 'subtitle': 'machinariumAIsupport | 每日早8点自动推送'}, 'news': final_results}
-              news_grouped = {'date': date_str, 'header': {'title': '🤖 AI业界动态早报', 'subtitle': 'machinariumAIsupport | 每日早8点自动推送'}, 'categories': [{'name': '融资速报', 'items': [{'title': i['title'], 'link': i['link'], 'snippet': i['snippet'], 'index': i['index']} for i in categories['融资速报']]}, {'name': '行业动态-大模型', 'items': [{'title': i['title'], 'link': i['link'], 'snippet': i['snippet'], 'index': i['index']} for i in categories['行业动态-大模型']]}, {'name': '行业动态-AI硬件/具身智能', 'items': [{'title': i['title'], 'link': i['link'], 'snippet': i['snippet'], 'index': i['index']} for i in categories['行业动态-AI硬件/具身智能']]}]}
+              news_grouped = {
+                  'date': date_str, 
+                  'header': {'title': '🤖 AI业界动态早报', 'subtitle': 'machinariumAIsupport | 每日早8点自动推送'}, 
+                  'categories': [
+                      {'name': '融资速报', 'items': [{'title': i['title'], 'link': i['link'], 'snippet': i['snippet'], 'index': i['index']} for i in categories['融资速报']]}, 
+                      {'name': '行业动态-大模型', 'items': [{'title': i['title'], 'link': i['link'], 'snippet': i['snippet'], 'index': i['index']} for i in categories['行业动态-大模型']]}
+                  ]
+              }
               
               with open('docs/raw.json', 'w', encoding='utf-8') as f:
                   json.dump({'date': date_str, 'count': len(raw_items), 'items': raw_items}, f, ensure_ascii=False, indent=2)
@@ -281,7 +281,7 @@ jobs:
               with open('docs/index.json', 'w', encoding='utf-8') as f:
                   json.dump({'latest': date_str, 'history': history[:30]}, f, ensure_ascii=False, indent=2)
               
-              print('保存成功')
+              print('保存成功: ' + str(len(final_results)) + '条')
           except Exception as e:
               print('保存失败: ' + str(e))
               raise
