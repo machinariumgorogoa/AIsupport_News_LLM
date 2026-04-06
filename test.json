@@ -1,0 +1,25 @@
+{
+  "status_code": 200,
+  "response": {
+    "id": "chatcmpl-69d3a1e70f66da609f2771f5",
+    "object": "chat.completion",
+    "created": 1775477230,
+    "model": "kimi-k2.5",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "测试成功",
+          "reasoning_content": "用户要求我回复\"测试成功\"这四个字。这是一个非常简单的请求，用户似乎是在测试我是否能正常工作或遵循指令。\n\n我需要注意：\n1. 准确回复\"测试成功\"四个字，不能多也不能少\n2. 不要添加额外的解释或内容\n3. 确保是中文\n\n用户用中文提问，我应该用中文回答。\n\n回复：测试成功"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 16,
+      "completion_tokens": 82,
+      "total_tokens": 98
+    }
+  }
+}
