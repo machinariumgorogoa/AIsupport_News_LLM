@@ -111,7 +111,7 @@ jobs:
               raw_items.append({
                   'title': item.get('title', ''),
                   'link': url,
-                  'snippet': content[:80] + '...' if len(content) > 80 else content,
+                  'snippet': content[:80] + '...' if len(content) > 300 else content,
                   'raw_snippet': content,
                   'is_chinese': is_chinese(item.get('title', '')),
                   'source_type': 'funding'  # 标记为融资类
@@ -205,7 +205,7 @@ jobs:
                       match = re.search(pattern, trans_result)
                       if match:
                           item['title'] = match.group(1).strip()[:80]
-                          item['snippet'] = match.group(2).strip()[:100]
+                          item['snippet'] = match.group(2).strip()[:200]
                           print('  [' + str(i+1) + '] 翻译成功')
                       else:
                           loose = str(i+1) + r'\.\s*(.+?)(?=\n\d+\.|$)'
