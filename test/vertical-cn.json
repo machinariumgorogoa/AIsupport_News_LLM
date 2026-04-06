@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-06",
+  "query": "AI 人工智能 大模型",
+  "target_domains": [
+    "qbitai.com",
+    "jiqizhixin.com",
+    "huxiu.com",
+    "36kr.com",
+    "wallstreetcn.com",
+    "ifeng.com",
+    "cls.cn",
+    "sina.com.cn",
+    "163.com",
+    "qq.com",
+    "baidu.com",
+    "zhidx.com"
+  ],
+  "requested": 30,
+  "returned": 10,
+  "domain_stats": {
+    "163.com": 5,
+    "finance.sina.cocn": 2,
+    "qbitai.com": 1,
+    "k.sina.cocn": 1,
+    "cls.cn": 1
+  },
+  "results": [
+    {
+      "title": "豆包大模型日均Token使用量破120万亿；OpenAI完成1220亿美元融资",
+      "url": "https://www.163.com/dy/article/KPPTO3T205118A6A.html",
+      "content": "### 新闻. ### 体育. ### 娱乐. ### 财经. ### 汽车. ### 科技. ### 时尚. ### 手机 / 数码. ### 房产 / 家居"
+    },
+    {
+      "title": "OpenAI IPO前夜：CFO说不，COO被调走 - 新浪财经",
+      "url": "https://finance.sina.com.cn/stock/t/2026-04-06/doc-inhtpmek1488627.shtml",
+      "content": "估值8520亿美元，刚融完人类商业史上最大一轮私募（1220亿美元），CEO私下放出“最快今年四季度IPO”的口风——但在同一家公司内部，CFO向同事断言：20"
+    },
+    {
+      "title": "OpenAI CEO与CFO在上市时间上出现分歧 - 新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-06/doc-inhtpzzx6009732.shtml",
+      "content": "山姆・奥特曼已承诺OpenAI 在未来五年投入6000 亿美元，并私下表示希望最快在今年第四季度上市，尽管市场预期该公司在实现现金流转正前，烧钱规模将超过200"
+    },
+    {
+      "title": "联发科下修4nm投片量；创新药专利补偿落地；3月基金新发规模超千亿",
+      "url": "https://www.163.com/dy/article/KPQNKR1C0531B3OJ.html",
+      "content": "同时，OpenAI在官方公告中明确表示，将本轮融资的资金全部用于构建智能本身的基础设施建设，即超算中心建设、AGI前沿研发、全球商业化落地三大方向。 雨前顾问认"
+    },
+    {
+      "title": "OpenAI又曝出内讧了！IPO前夜高层大换血 - 量子位",
+      "url": "https://www.qbitai.com/2026/04/396704.html",
+      "content": "< img id=\"wx\\_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-lo"
+    },
+    {
+      "title": "日薪50万，机器人公司招首席科学家 - 网易",
+      "url": "https://www.163.com/dy/article/KPQFF2VP05568W0A.html",
+      "content": "### 新闻. ### 体育. ### 娱乐. ### 财经. ### 汽车. ### 科技. ### 时尚. ### 手机 / 数码. ### 房产 / 家居"
+    },
+    {
+      "title": "人形机器人抢人大战：年薪1.24亿背后的产业焦虑 - 网易",
+      "url": "https://www.163.com/dy/article/KPQUTSCF05568LVG.html",
+      "content": "4月2日，优必选在官方微信发了一条招募启事：首席科学家，年薪1500万元起步，最高1.24亿元。1.24亿——相当于A股好几家上市公司全年净利润，就这么写进了一"
+    },
+    {
+      "title": "万科的清算才刚刚开始！谁都逃不了！ - 网易",
+      "url": "https://www.163.com/dy/article/KPRCNDQL05434A07.html",
+      "content": "据不完全统计，截至2026年3月，万科已经有超过25位核心高管离职、失联或被采取强制措施，那个曾经呼风唤雨的祝九胜，在2025年10月被正式采取刑事强制措施；而"
+    },
+    {
+      "title": "新浪科技热点小时报丨2026年04月06日04时_今日实时科技热点速递",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019040zcq.html",
+      "content": "* [新浪首页](http://www.sina.com.cn/). * [新闻](http://news.sina.com.cn/). * [体育](http"
+    },
+    {
+      "title": "【早报】特朗普：美伊或在5天内达成协议；国际油价重挫逾10%",
+      "url": "https://www.cls.cn/detail/2322228",
+      "content": "1、均胜电子公告，拟25.16亿元受让先进制造基金所持安徽均胜安全12.42%股权。 2、药明康德发布年报，2025年净利润为191.51亿元，同比增长103%"
+    }
+  ]
+}
