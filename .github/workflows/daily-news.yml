@@ -2,7 +2,7 @@ name: Daily LLM News to Feishu
 
 on:
   schedule:
-    - cron: '30 23 * * *'  # UTC 23:30 = 北京时间 07:30（次日），延迟后约8点送达
+    - cron: '30 23 * * *'
   workflow_dispatch:
 
 jobs:
@@ -29,6 +29,7 @@ jobs:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
         run: |
+          pip install requests
           python << 'EOF'
           import os
           import requests
@@ -44,26 +45,17 @@ jobs:
 
           date_str = (datetime.now() + timedelta(hours=8)).strftime('%Y-%m-%d')
           
-          # 低质量域名过滤（保留Twitter/X作为AI大佬消息源）
           LOW_QUALITY_DOMAINS = [
               'instagram.com', 'facebook.com', 'linkedin.com', 
               'workable.com', 'threads.com'
           ]
           
           def is_chinese(text):
-              """检测是否包含中文字符"""
               return bool(re.search(r'[\u4e00-\u9fff]', text))
           
           def translate_with_kimi(title, content, max_tokens=800):
-              """调用Kimi翻译标题和摘要"""
               try:
-                  prompt = f"""将以下AI新闻翻译成中文，保持专业术语准确（如IPO、融资、CTO、CEO等不翻译）：
-标题：{title}
-摘要：{content[:200]}
-
-请严格按以下格式返回：
-标题：[中文标题]
-摘要：[中文摘要]"""
+                  prompt_text = "将以下AI新闻翻译成中文，保持专业术语准确（如IPO、融资、CTO、CEO等不翻译）：\n标题：" + title + "\n摘要：" + content[:200] + "\n\n请严格按以下格式返回：\n标题：[中文标题]\n摘要：[中文摘要]"
                   
                   response = requests.post(
                       'https://api.moonshot.cn/v1/chat/completions',
@@ -73,7 +65,7 @@ jobs:
                       },
                       json={
                           'model': 'kimi-k2.5',
-                          'messages': [{'role': 'user', 'content': prompt}],
+                          'messages': [{'role': 'user', 'content': prompt_text}],
                           'temperature': 1,
                           'max_tokens': max_tokens
                       },
@@ -82,7 +74,6 @@ jobs:
                   result = response.json()
                   translated = result['choices'][0]['message']['content']
                   
-                  # 解析返回
                   title_match = re.search(r'标题[：:]\s*(.+?)(?:\n|$)', translated)
                   content_match = re.search(r'摘要[：:]\s*(.+?)(?:\n|$)', translated)
                   
@@ -95,7 +86,6 @@ jobs:
                   return {'title': title, 'snippet': content[:100]}
 
           def call_kimi(prompt, max_tokens=1000):
-              """通用Kimi调用（用于去重和分类）"""
               try:
                   response = requests.post(
                       'https://api.moonshot.cn/v1/chat/completions',
@@ -119,7 +109,6 @@ jobs:
 
           print("=== 搜索阶段 ===")
           
-          # 第一轮：融资类（英文关键词）
           print("搜索1：融资类...")
           resp1 = requests.post(
               'https://api.tavily.com/search',
@@ -137,7 +126,6 @@ jobs:
           results1 = data1.get('results', [])
           print(f"融资类返回: {len(results1)} 条")
 
-          # 第二轮：人事/产品类（英文关键词）
           print("搜索2：人事/产品类...")
           resp2 = requests.post(
               'https://api.tavily.com/search',
@@ -155,7 +143,6 @@ jobs:
           results2 = data2.get('results', [])
           print(f"人事/产品类返回: {len(results2)} 条")
 
-          # 合并、过滤、翻译
           print("处理中（过滤+翻译）...")
           seen_urls = set()
           priority_results = []
@@ -166,14 +153,12 @@ jobs:
                   continue
               seen_urls.add(url)
               
-              # 低质量域名过滤
               if any(domain in url.lower() for domain in LOW_QUALITY_DOMAINS):
                   continue
               
               title = item.get('title', '')
               content = item.get('content', '')
               
-              # 检测并翻译
               if not is_chinese(title):
                   translated = translate_with_kimi(title, content)
                   priority_results.append({
@@ -193,14 +178,12 @@ jobs:
 
           print(f"处理后可用: {len(priority_results)} 条")
 
-          # 保存原始数据
           raw_data = {
               "date": date_str,
               "count": len(priority_results),
               "items": priority_results
           }
 
-          # 去重前打分
           def score_hunter_value(item):
               title = item['title'].lower()
               score = 0
@@ -289,7 +272,6 @@ jobs:
                       else:
                           categories["行业动态-大模型"].append(item)
               
-              # 确保每类至少1条
               all_items = items[:]
               for cat in categories:
                   if not categories[cat] and all_items:
@@ -300,7 +282,6 @@ jobs:
           classified = classify_by_llm(deduped_results)
           print(f"分类结果: 融资{len(classified['融资速报'])}条, 大模型{len(classified['行业动态-大模型'])}条, 硬件{len(classified['行业动态-AI硬件/具身智能'])}条")
 
-          # 构建扁平版本（小程序用，不分组）
           final_results = []
           for cat_name in ["融资速报", "行业动态-大模型", "行业动态-AI硬件/具身智能"]:
               for item in classified[cat_name]:
@@ -309,7 +290,6 @@ jobs:
           for i, item in enumerate(final_results, 1):
               item['index'] = i
 
-          # 标准JSON（小程序用）
           news_data_standard = {
               "date": date_str,
               "header": {
@@ -319,7 +299,6 @@ jobs:
               "news": final_results
           }
 
-          # 分组JSON（飞书用）
           news_data_grouped = {
               "date": date_str,
               "header": {
@@ -342,7 +321,6 @@ jobs:
               ]
           }
 
-          # 构建飞书卡片（分组格式）
           def build_feishu_card_grouped():
               elements = []
               elements.append({
@@ -419,7 +397,6 @@ jobs:
                   }
               }
 
-          # 发送到飞书
           try:
               payload = build_feishu_card_grouped()
               resp = requests.post(FEISHU_WEBHOOK_1, json=payload, headers={"Content-Type": "application/json"})
@@ -434,7 +411,6 @@ jobs:
           except Exception as e:
               print(f"Feishu 2 failed: {e}")
 
-          # 发送到Server酱
           try:
               lines = [f"🤖 AI业界动态早报", f"machinariumAIsupport | 每日早8点自动推送", f"📅 {date_str}", "=" * 40, ""]
               
@@ -471,7 +447,6 @@ jobs:
           except Exception as e:
               print(f"ServerChan failed: {e}")
 
-          # 保存文件
           try:
               import os
               import glob
@@ -517,5 +492,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
           git add docs/
-          git diff --staged --quiet || git commit -m "Update daily news for $(date +%Y-%m-%d) with dual-search & translation [skip ci]"
+          git diff --staged --quiet || git commit -m "Update daily news for $(date +%Y-%m-%d) [skip ci]"
           git push
