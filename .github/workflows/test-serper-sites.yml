@@ -35,7 +35,8 @@ jobs:
                   'q': query,
                   'num': 20,
                   'hl': 'zh-cn',
-                  'gl': 'cn'
+                  'gl': 'cn',
+                  'tbs': 'qdr:d'
               },
               timeout=150
           )
@@ -55,7 +56,7 @@ jobs:
           for i, item in enumerate(organic[:5], 1):
               print(f"{i}. {item['title'][:40]}... | {item['link'][:50]}")
 
-          with open('test-serper-sites.json', 'w', encoding='utf-8') as f:
+          with open('test/test-serper-sites.json', 'w', encoding='utf-8') as f:
               json.dump(result, f, ensure_ascii=False, indent=2)
           
           print("\n已保存到 test-serper-sites.json")
