@@ -1,0 +1,70 @@
+name: Test Serper Site-specific
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Test Serper on 机器之心 & 36氪
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+        run: |
+          pip install requests
+          python << 'EOF'
+          import requests
+          import json
+          import os
+
+          SERPER_API_KEY = os.environ['SERPER_API_KEY']
+          headers = {'X-API-KEY': SERPER_API_KEY, 'Content-Type': 'application/json'}
+
+          # 测试：只搜"具身智能"，限定两个站点
+          query = '具身智能 site:jiqizhixin.com OR site:36kr.com'
+          
+          print(f"搜索条件: {query}")
+          
+          response = requests.post(
+              'https://google.serper.dev/search',
+              headers=headers,
+              json={
+                  'q': query,
+                  'num': 20,
+                  'hl': 'zh-cn',
+                  'gl': 'cn'
+              },
+              timeout=150
+          )
+          
+          data = response.json()
+          organic = data.get('organic', [])
+          
+          result = {
+              'query': query,
+              'requested': 20,
+              'returned': len(organic),
+              'results': [{'title': item['title'], 'link': item['link'], 'snippet': item.get('snippet', '')[:60]} for item in organic]
+          }
+          
+          print(f"返回数量: {len(organic)} 条")
+          print("\n前5条:")
+          for i, item in enumerate(organic[:5], 1):
+              print(f"{i}. {item['title'][:40]}... | {item['link'][:50]}")
+
+          with open('test-serper-sites.json', 'w', encoding='utf-8') as f:
+              json.dump(result, f, ensure_ascii=False, indent=2)
+          
+          print("\n已保存到 test-serper-sites.json")
+          EOF
+      
+      - name: Commit result
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add test-serper-sites.json
+          git commit -m "Test Serper site-specific [skip ci]" || echo "No changes"
+          git push
