@@ -9,88 +9,70 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "OpenAI与Anthropic财务内幕曝光",
-          "link": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9?gaa_at=eafs&gaa_n=AWEtsqeTrVjHnJmOr6nPh4Wqn4OZ7Bmy_cIOfm3BG4rSBjW4clRVzPihp_uM&gaa_ts=69d3bacd&gaa_sig=hP-8ZheXrWHmgjzte6A87ulsJqUuGDelUh_gN6URXcg9iLYFRO0tWeC_T1go5N_nnVwp-Cop6Tdo7HXdYuSexw%3D%3D",
-          "snippet": "两家AI巨头正冲刺可能创纪录的IPO，但每年仍消耗数十亿美元现金维持大模型研发竞赛。",
-          "index": 11
+          "title": "AI商业：解读人工智能领域的融资轮次与估值",
+          "link": "https://aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "解析AI企业融资轮次（Funding Rounds）与估值（Valuation）机制，探讨投资趋势与商业模型。",
+          "index": 1
         },
         {
-          "title": "马斯克要求SpaceX IPO承销商购买Grok AI订阅",
-          "link": "https://telecom.economictimes.indiatimes.com/news/portal-in-portal/satcom/musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-report/130049965",
-          "snippet": "马斯克强制要求参与SpaceX IPO的银行及顾问购买其Grok AI服务，引发利益冲突争议。",
-          "index": 12
+          "title": "法律AI初创公司Harvey拟融资1亿美元，同时面临收购谈判",
+          "link": "https://www.linqto.com/unicorn-news/legal-ai-startup-harvey-eyes-100m-funding-amid-acquisition-talks",
+          "snippet": "Harvey寻求1亿美元融资，估值或达数十亿美元，多家科技巨头表达收购意向。",
+          "index": 2
         },
         {
-          "title": "Firmus在Nvidia新投资中估值逼近70亿美元",
-          "link": "https://www.afr.com/technology/firmus-valuation-approaches-7b-in-fresh-nvidia-investment-20260406-p5zlle",
-          "snippet": "AI基础设施公司Firmus获Nvidia追加投资，估值接近70亿美元，成为AI硬件领域新独角兽。",
+          "title": "马斯克旗下SpaceX申请IPO，估值突破1.75万亿美元",
+          "link": "https://coinpaper.com/15020/elon-musk-s-space-x-to-file-for-ipo-as-valuation-tops-1-75-t",
+          "snippet": "SpaceX计划首次公开募股（IPO），估值超1.75万亿美元，成为全球最具价值未上市企业之一。",
           "index": 3
         },
         {
-          "title": "SpaceX启动IPO进程：五大关键原因",
-          "link": "https://www.fool.com/investing/2026/04/06/spacex-ipo-5-reasons-i-plan-to-completely-avoid-it/",
-          "snippet": "太空科技公司SpaceX未来数月或将上市，马斯克多年未兑现的IPO承诺终于有了实质性进展。",
+          "title": "nFlux AI 2025公司概况：估值、融资及投资者",
+          "link": "https://pitchbook.com/profiles/company/277527-79",
+          "snippet": "AI初创企业nFlux AI创立于2018年，最新估值、融资详情及主要投资机构概览。",
           "index": 4
         },
         {
-          "title": "OpenAI高层就IPO计划产生分歧",
-          "link": "https://www.pymnts.com/news/ipo/2026/openai-leaders-at-odds-over-ipo-plans/",
-          "snippet": "OpenAI内部对是否进行IPO存在争议，部分领导人支持上市，另一些则担忧失去AI安全控制权。",
+          "title": "Fiddler 2026公司概况：估值、融资及投资者",
+          "link": "https://pitchbook.com/profiles/company/264988-81",
+          "snippet": "AI可解释性（Explainable AI）平台Fiddler的融资历史、最新估值及投资方详情。",
           "index": 5
         },
         {
-          "title": "北美Q1融资额各阶段全线飙升",
-          "link": "https://news.crunchbase.com/venture/funding-surges-all-stages-ai-north-america-q1-2026/",
-          "snippet": "美国和加拿大企业一季度融资总额高达2526亿美元，AI初创企业各阶段融资均呈爆发式增长。",
+          "title": "智谱AI最新融资1.4亿美元并启动IPO预备案，累计融资15亿美元",
+          "link": "https://www.caproasia.com/2025/07/04/china-artificial-intelligence-startup-zhipu-ai-raised-140-million-in-latest-funding-round-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8/",
+          "snippet": "中国AI公司智谱AI（Zhipu AI）完成新一轮融资，投资方包括阿里、腾讯、红杉（HongShan）及沙特阿美（Saudi Aramco）。",
           "index": 6
         },
         {
-          "title": "AI巨头Anthropic携4亿美元进军生命科学",
-          "link": "https://www.biospace.com/business/ai-giant-anthropic-leans-into-life-sciences-with-400m-coefficient-bio-catch",
-          "snippet": "Claude开发商Anthropic投资4亿美元押注生物医药领域，拓展AI在生命科学的应用场景。",
+          "title": "Semantix股价、融资、估值、收入及财务报表",
+          "link": "https://www.cbinsights.com/company/semantix/financials",
+          "snippet": "巴西数据公司Semantix通过反向并购（Reverse Merger）上市，最新股价、估值及财务数据概览。",
           "index": 7
         },
         {
-          "title": "OpenAI让微软和阿什顿·库彻赚得盆满钵满",
-          "link": "https://www.inc.com/kevin-haynes/openai-is-making-microsoft-and-ashton-kutcher-incredibly-rich/91327086",
-          "snippet": "微软2019",
+          "title": "Ramp完成新一轮融资，估值达225亿美元",
+          "link": "https://www.startupecosystem.ca/news/ramp-achieves-22-5-billion-valuation-with-new-funding-round",
+          "snippet": "企业支出管理平台Ramp完成融资，估值攀升至225亿美元，持续扩展AI驱动的金融服务。",
           "index": 8
         },
         {
-          "title": "Former Meta AI chief's startup raises $1.03B, appoints CEO",
-          "link": "https://www.msn.com/en-us/money/other/former-meta-ai-chiefs-startup-raises-103b-appoints-ceo/ar-AA1XTuuy",
-          "snippet": "AI startup Advanced Machine Intelligence, founded by former Meta Platforms' (MET...",
+          "title": "AI产品设计平台Noon融资4400万美元",
+          "link": "https://pulse2.com/noon-44-million-raised-for-ai-product-design-platform/",
+          "snippet": "Noon获得4400万美元融资，专注生成式AI驱动的产品设计平台开发，提升设计自动化水平。",
           "index": 9
         },
         {
-          "title": "Anthropic backers fret over AI giant's volatile CEO Dario ...",
-          "link": "https://nypost.com/2026/04/06/business/anthropic-backers-fret-over-ai-giants-volatile-ceo-dario-amodei-as-billions-hang-in-the-balance/",
-          "snippet": "Anthropic backers fret over AI giant's volatile CEO Dario Amodei, whose unpredictable behavior raise",
+          "title": "芝加哥大学获5000万美元捐赠用于聘请AI专家师资",
+          "link": "https://www.insidehighered.com/news/quick-takes/2026/04/06/uchicago-receives-50m-gift-hire-ai-expert-faculty",
+          "snippet": "芝加哥大学获巨额捐赠，将跨学科招聘AI领域专家教授，加强人工智能研究与教育。",
           "index": 10
         }
       ]
     },
     {
       "name": "行业动态-大模型",
-      "items": [
-        {
-          "title": "OpenAI与Anthropic财务内幕曝光",
-          "link": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9?gaa_at=eafs&gaa_n=AWEtsqeTrVjHnJmOr6nPh4Wqn4OZ7Bmy_cIOfm3BG4rSBjW4clRVzPihp_uM&gaa_ts=69d3bacd&gaa_sig=hP-8ZheXrWHmgjzte6A87ulsJqUuGDelUh_gN6URXcg9iLYFRO0tWeC_T1go5N_nnVwp-Cop6Tdo7HXdYuSexw%3D%3D",
-          "snippet": "两家AI巨头正冲刺可能创纪录的IPO，但每年仍消耗数十亿美元现金维持大模型研发竞赛。",
-          "index": 11
-        }
-      ]
-    },
-    {
-      "name": "行业动态-AI硬件/具身智能",
-      "items": [
-        {
-          "title": "马斯克要求SpaceX IPO承销商购买Grok AI订阅",
-          "link": "https://telecom.economictimes.indiatimes.com/news/portal-in-portal/satcom/musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-report/130049965",
-          "snippet": "马斯克强制要求参与SpaceX IPO的银行及顾问购买其Grok AI服务，引发利益冲突争议。",
-          "index": 12
-        }
-      ]
+      "items": []
     }
   ]
 }
