@@ -18,6 +18,9 @@ jobs:
         with:
           python-version: '3.11'
       
+      - name: Install dependencies
+        run: pip install requests
+      
       - name: Fetch and send LLM news
         env:
           FEISHU_WEBHOOK_1: ${{ secrets.FEISHU_NEWS_LLM }}
@@ -26,212 +29,172 @@ jobs:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
         run: |
-          pip install requests
           python << 'EOF'
           import os
           import requests
           import json
           import re
-          import time
-          from datetime import datetime, timezone, timedelta
+          from datetime import datetime, timedelta
 
-          # 配置
           FEISHU_WEBHOOK_1 = os.environ['FEISHU_WEBHOOK_1']
           FEISHU_WEBHOOK_2 = os.environ['FEISHU_WEBHOOK_2']
           SERVERCHAN_KEY = os.environ['SERVERCHAN_KEY']
           TAVILY_API_KEY = os.environ['TAVILY_API_KEY']
           KIMI_API_KEY = os.environ['KIMI_API_KEY']
 
-          # 使用UTC+8明确时区
-          date_str = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d')
-          
-          LOW_QUALITY_DOMAINS = [
-              'instagram.com', 'facebook.com', 'linkedin.com', 
-              'workable.com', 'threads.com'
-          ]
+          date_str = (datetime.now() + timedelta(hours=8)).strftime('%Y-%m-%d')
+          LOW_QUALITY_DOMAINS = ['instagram.com', 'facebook.com', 'linkedin.com', 'workable.com', 'threads.com']
           
           def is_chinese(text):
-              if not text:
-                  return False
               return bool(re.search(r'[\u4e00-\u9fff]', text))
 
-          def read_prompt_file(filename, fallback):
+          def read_prompt_file(filename):
               try:
                   with open('prompts/' + filename, 'r', encoding='utf-8') as f:
                       content = f.read()
-                      print('  [OK] 读取 ' + filename + ': ' + str(len(content)) + '字符')
-                      # 验证模板变量存在
-                      if '{titles}' in content or '{title}' in content:
-                          return content
-                      print('  [WARN] 模板缺少变量标记，使用fallback')
-                      return fallback
+                      print('  [OK] 读取 ' + filename + ': ' + str(len(content)) + ' 字符')
+                      return content
               except Exception as e:
                   print('  [ERR] 读取 ' + filename + ' 失败: ' + str(e))
-                  return fallback
+                  return None
 
-          def call_kimi(prompt, max_tokens=2000, retries=2):
+          def call_kimi(prompt, max_tokens=1000):
               if not prompt or len(prompt.strip()) < 10:
-                  print('    [WARN] prompt为空')
+                  print('    [WARN] prompt为空，跳过')
                   return None
               
-              for attempt in range(retries + 1):
-                  try:
-                      response = requests.post(
-                          'https://api.moonshot.cn/v1/chat/completions',
-                          headers={'Authorization': 'Bearer ' + KIMI_API_KEY, 'Content-Type': 'application/json'},
-                          json={'model': 'kimi-latest', 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1, 'max_tokens': max_tokens},
-                          timeout=120
-                      )
-                      
-                      if response.status_code != 200:
-                          if attempt < retries:
-                              print('    [RETRY] 状态码' + str(response.status_code))
-                              time.sleep(2)
-                              continue
-                          return None
-                      
-                      result = response.json()
-                      if 'choices' not in result:
-                          return None
-                      
-                      return result['choices'][0]['message']['content'].strip()
-                  except Exception as e:
-                      if attempt < retries:
-                          print('    [RETRY] 异常: ' + str(e)[:50])
-                          time.sleep(2)
-                      else:
-                          return None
+              try:
+                  response = requests.post(
+                      'https://api.moonshot.cn/v1/chat/completions',
+                      headers={'Authorization': 'Bearer ' + KIMI_API_KEY, 'Content-Type': 'application/json'},
+                      json={'model': 'kimi-k2.5', 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1, 'max_tokens': max_tokens},
+                      timeout=300
+                  )
+                  
+                  print('    [API] 状态码: ' + str(response.status_code))
+                  
+                  if response.status_code != 200:
+                      print('    [ERR] 错误响应: ' + str(response.text)[:100])
+                      return None
+                  
+                  result = response.json()
+                  if 'choices' not in result:
+                      print('    [ERR] 无choices字段')
+                      return None
+                  
+                  return result['choices'][0]['message']['content'].strip()
+              except Exception as e:
+                  print('    [ERR] 调用异常: ' + str(e))
+                  return None
 
-          # Fallback提示词（与模板变量兼容）
-          FALLBACK_DEDUP = '分析以下{count}条新闻，去除重复报道同一事件的条目，保留{target}条高质量独特新闻。返回要保留的序号（如1,3,5,7,9）：\n{titles}'
-          FALLBACK_BATCH_TRANS = '将以下AI新闻批量翻译成中文，保留专业术语（IPO, CEO, CTO, OpenAI等）。每条格式"序号. [中文标题] | [中文摘要50字]"：\n{items}'
-          FALLBACK_CLASSIFY = '将以下新闻分类到JSON格式{"融资速报":[序号],"行业动态-大模型":[序号],"行业动态-AI硬件/具身智能":[序号]}：\n{titles}'
+          # Fallback提示词
+          FALLBACK_DEDUP = '分析以下新闻，去除重复报道同一事件的条目，保留{target}条：\n{titles}\n返回序号，如1,3,5'
+          FALLBACK_BATCH_TRANS = '批量翻译以下AI新闻为中文，保留专业术语（IPO、CEO、OpenAI等）。格式要求：\n原文：序号. 英文标题 | 英文摘要\n翻译：序号. [中文标题] | [中文摘要50字]\n\n{items}'
+          FALLBACK_CLASSIFY = '分类以下新闻到融资、大模型、硬件三类：\n{titles}\n返回JSON格式'
 
           print('=== 搜索阶段 ===')
-          
-          # Tavily搜索（带重试）
-          def tavily_search(query, max_results=20, retries=2):
-              for attempt in range(retries + 1):
-                  try:
-                      resp = requests.post('https://api.tavily.com/search',
-                          json={
-                              'api_key': TAVILY_API_KEY,
-                              'query': query,
-                              'max_results': max_results,
-                              'time_range': 'day',
-                              'search_depth': 'basic',
-                              'exclude_domains': ['youtube.com', 'reddit.com', 'facebook.com']
-                          },
-                          timeout=60
-                      )
-                      if resp.status_code == 200:
-                          data = resp.json()
-                          return data.get('results', [])
-                      if attempt < retries:
-                          time.sleep(2)
-                  except Exception as e:
-                      if attempt < retries:
-                          time.sleep(2)
-              return []
+          resp1 = requests.post('https://api.tavily.com/search', 
+              json={'api_key': TAVILY_API_KEY, 'query': '(funding OR IPO OR merger OR acquisition OR valuation) AND (AI OR artificial intelligence)', 'max_results': 20, 'time_range': 'day', 'search_depth': 'basic', 'exclude_domains': ['youtube.com', 'reddit.com', 'instagram.com', 'facebook.com']},
+              timeout=150)
+          results1 = resp1.json().get('results', [])
+          print('融资类: ' + str(len(results1)) + ' 条')
 
-          results1 = tavily_search('(funding OR IPO OR merger OR acquisition OR valuation) AND (AI OR artificial intelligence)', 20)
-          print('融资类: ' + str(len(results1)) + '条')
-          
-          results2 = tavily_search('(hire OR appoint OR founder OR CEO OR launch OR product) AND (AI OR artificial intelligence)', 20)
-          print('人事类: ' + str(len(results2)) + '条')
+          resp2 = requests.post('https://api.tavily.com/search',
+              json={'api_key': TAVILY_API_KEY, 'query': '(hire OR appoint OR founder OR CEO OR launch OR product) AND (AI OR artificial intelligence)', 'max_results': 20, 'time_range': 'day', 'search_depth': 'basic', 'exclude_domains': ['youtube.com', 'reddit.com', 'instagram.com', 'facebook.com']},
+              timeout=150)
+          results2 = resp2.json().get('results', [])
+          print('人事类: ' + str(len(results2)) + ' 条')
 
-          # 过滤去重
           seen_urls = set()
           raw_items = []
           for item in results1 + results2:
               url = item.get('url', '')
-              if not url or url in seen_urls:
+              if url in seen_urls or not url:
                   continue
               if any(d in url.lower() for d in LOW_QUALITY_DOMAINS):
                   continue
               seen_urls.add(url)
-              content = item.get('content', '') or ''
+              content = item.get('content', '')
               raw_items.append({
-                  'title': item.get('title', '无标题'),
+                  'title': item.get('title', ''),
                   'link': url,
-                  'snippet': (content[:80] + '...') if len(content) > 80 else content,
+                  'snippet': content[:80] + '...' if len(content) > 80 else content,
                   'raw_snippet': content,
                   'is_chinese': is_chinese(item.get('title', ''))
               })
 
-          print('过滤后: ' + str(len(raw_items)) + '条')
-          if len(raw_items) == 0:
-              print('[ERR] 无可用新闻，退出')
-              exit(1)
+          print('过滤后: ' + str(len(raw_items)) + ' 条')
 
-          # 去重阶段
           print('=== 去重阶段 ===')
-          dedup_template = read_prompt_file('dedup.txt', FALLBACK_DEDUP)
-          titles_text = '\n'.join([str(i+1) + '. ' + item['title'][:60] + ' | ' + item['raw_snippet'][:40] for i, item in enumerate(raw_items)])
+          dedup_template = read_prompt_file('dedup.txt') or FALLBACK_DEDUP
+          titles_text = '\n'.join([str(i+1) + '. ' + item['title'] + '\n   摘要：' + item['raw_snippet'][:50] for i, item in enumerate(raw_items)])
           dedup_prompt = dedup_template.format(count=len(raw_items), titles=titles_text, target=10)
           
-          dedup_result = call_kimi(dedup_prompt, max_tokens=1000)
+          dedup_result = call_kimi(dedup_prompt, max_tokens=20000)
           deduped_items = []
-          
           if dedup_result:
               try:
                   numbers = re.findall(r'\d+', dedup_result)
                   indices = [int(n) - 1 for n in numbers if 1 <= int(n) <= len(raw_items)]
                   deduped_items = [raw_items[i] for i in indices[:10]]
-                  print('去重成功: ' + str(len(deduped_items)) + '条')
+                  print('去重成功: ' + str(len(deduped_items)) + ' 条')
               except Exception as e:
                   print('去重解析失败: ' + str(e))
-          
           if not deduped_items:
-              print('去重失败，使用Top10')
+              print('去重失败，使用top10')
               deduped_items = raw_items[:10]
 
-          # 【方案C】批量翻译阶段（单次API调用翻译10条）
           print('=== 批量翻译阶段 ===')
           non_zh_items = [item for item in deduped_items if not item['is_chinese']]
           
           if non_zh_items:
               print('需翻译: ' + str(len(non_zh_items)) + '条')
-              trans_template = read_prompt_file('translate.txt', FALLBACK_BATCH_TRANS)
+              trans_template = read_prompt_file('translate.txt') or FALLBACK_BATCH_TRANS
               
-              # 构建批量翻译输入
+              # 构建批量输入
               items_text = '\n'.join([str(i+1) + '. ' + item['title'] + ' | ' + item['raw_snippet'][:60] for i, item in enumerate(non_zh_items)])
               trans_prompt = trans_template.format(items=items_text)
               
+              # 单次API调用翻译全部
               trans_result = call_kimi(trans_prompt, max_tokens=2000)
               
               if trans_result:
-                  print('翻译完成，解析中...')
-                  # 【方案A】增强解析：提取"序号. [标题] | [摘要]"格式
+                  print('解析翻译结果...')
                   for i, item in enumerate(non_zh_items):
-                      # 查找该序号的翻译
-                      pattern = str(i+1) + r'\.\s*(.+?)(?:\||\n|$)'
+                      # 匹配格式：序号. [中文标题] | [中文摘要]
+                      pattern = str(i+1) + r'\.\s*\[([^\]]+)\]\s*\|\s*([^\n]+)'
                       match = re.search(pattern, trans_result)
                       if match:
-                          full_text = match.group(1).strip()
-                          # 分割标题和摘要（如果有|分隔符）
-                          if '|' in full_text:
-                              parts = full_text.split('|', 1)
-                              item['title'] = parts[0].strip()[:80]
-                              item['snippet'] = parts[1].strip()[:100] if len(parts) > 1 else item['snippet']
-                              item['original_title'] = item.get('original_title', '')
+                          item['title'] = match.group(1).strip()[:80]
+                          item['snippet'] = match.group(2).strip()[:100]
+                          print('  [' + str(i+1) + '] 翻译成功')
+                      else:
+                          # 尝试宽松匹配
+                          loose_pattern = str(i+1) + r'\.\s*(.+?)(?=\n\d+\.|$)'
+                          loose_match = re.search(loose_pattern, trans_result, re.DOTALL)
+                          if loose_match:
+                              text = loose_match.group(1).strip()
+                              if '|' in text:
+                                  parts = text.split('|', 1)
+                                  item['title'] = parts[0].replace('[', '').replace(']', '').strip()[:80]
+                                  item['snippet'] = parts[1].replace('[', '').replace(']', '').strip()[:100]
+                                  print('  [' + str(i+1) + '] 宽松匹配成功')
+                              else:
+                                  print('  [' + str(i+1) + '] 未找到分隔符，保留原文')
                           else:
-                              # 只有标题
-                              item['title'] = full_text[:80]
+                              print('  [' + str(i+1) + '] 未匹配，保留原文')
               else:
-                  print('翻译失败，保留原文')
-          else:
-              print('无需翻译')
+                  print('翻译API调用失败，保留原文')
+          
+          translated_items = deduped_items
+          print('翻译完成: ' + str(len(translated_items)) + ' 条')
 
-          print('翻译后: ' + str(len(deduped_items)) + '条')
-
-          # 分类阶段（修复回退逻辑）
           print('=== 分类阶段 ===')
-          class_template = read_prompt_file('classify.txt', FALLBACK_CLASSIFY)
-          class_titles = '\n'.join([str(i+1) + '. ' + item['title'][:50] for i, item in enumerate(deduped_items)])
+          class_template = read_prompt_file('classify.txt') or FALLBACK_CLASSIFY
+          class_titles = '\n'.join([str(i+1) + '. ' + item['title'] for i, item in enumerate(translated_items)])
           class_prompt = class_template.format(titles=class_titles)
           
-          class_result = call_kimi(class_prompt, max_tokens=1000)
+          class_result = call_kimi(class_prompt, max_tokens=50000)
           categories = {'融资速报': [], '行业动态-大模型': [], '行业动态-AI硬件/具身智能': []}
           
           if class_result:
@@ -239,145 +202,78 @@ jobs:
                   json_match = re.search(r'\{.*\}', class_result, re.DOTALL)
                   if json_match:
                       parsed = json.loads(json_match.group())
-                      assigned_indices = set()
-                      
                       for cat, indices in parsed.items():
                           if cat in categories:
-                              for idx in indices:
-                                  # 支持数字或字符串"1"
-                                  try:
-                                      i = int(idx) - 1
-                                      if 0 <= i < len(deduped_items) and i not in assigned_indices:
-                                          categories[cat].append(deduped_items[i])
-                                          assigned_indices.add(i)
-                                  except:
-                                      pass
+                              valid = [i-1 for i in indices if isinstance(i, int) and 1 <= i <= len(translated_items)]
+                              categories[cat] = [translated_items[i] for i in valid]
                       print('分类成功')
               except Exception as e:
                   print('分类解析失败: ' + str(e))
 
-          # 【修复】分类回退逻辑：确保互斥，不重复分配
-          assigned_all = set()
+          # 确保每类有内容
+          all_items = translated_items[:]
           for cat in categories:
-              for item in categories[cat]:
-                  assigned_all.add(id(item))  # 使用对象id标记
-          
-          # 填充空分类（使用未分配的新闻）
-          for cat in categories:
-              if not categories[cat]:
-                  for item in deduped_items:
-                      if id(item) not in assigned_all:
-                          categories[cat].append(item)
-                          assigned_all.add(id(item))
-                          break
+              if not categories[cat] and all_items:
+                  categories[cat].append(all_items.pop(0))
 
           print('分类结果: 融资' + str(len(categories['融资速报'])) + '条, 大模型' + str(len(categories['行业动态-大模型'])) + '条, 硬件' + str(len(categories['行业动态-AI硬件/具身智能'])) + '条')
 
-          # 构建输出
+          # 构建最终输出
           final_results = []
           for cat_name in ['融资速报', '行业动态-大模型', '行业动态-AI硬件/具身智能']:
               for item in categories[cat_name]:
                   final_results.append(item)
-          
           for i, item in enumerate(final_results, 1):
               item['index'] = i
 
-          # 检查空内容
-          if len(final_results) == 0:
-              print('[ERR] 最终新闻为空，不推送')
-              exit(1)
-
           # 构建飞书卡片
-          def build_card():
-              elements = [{'tag': 'div', 'text': {'tag': 'lark_md', 'content': '**🤖 AI业界动态早报**\n**machinariumAIsupport | 每日早8点自动推送**\n📅 ' + date_str}}]
+          def build_feishu_card():
+              elements = [{'tag': 'div', 'text': {'tag': 'lark_md', 'content': '**🤖 AI业界动态早报**\n**machinariumAIsupport | 每日早8点自动推送**\n📅 ' + date_str}}, {'tag': 'hr'}]
               
-              for cat_key, cat_label, emoji in [
-                  ('融资速报', '💰 融资速报', '💰'), 
-                  ('行业动态-大模型', '🧠 行业动态-大模型', '🧠'), 
-                  ('行业动态-AI硬件/具身智能', '🤖 行业动态-AI硬件/具身智能', '🤖')
-              ]:
+              for cat_key, cat_label, emoji in [('融资速报', '💰 融资速报', '💰'), ('行业动态-大模型', '🧠 行业动态-大模型', '🧠'), ('行业动态-AI硬件/具身智能', '🤖 行业动态-AI硬件/具身智能', '🤖')]:
                   if categories[cat_key]:
                       elements.append({'tag': 'div', 'text': {'tag': 'lark_md', 'content': '**' + cat_label + '**'}})
                       for item in categories[cat_key]:
-                          # 截断确保长度合理
-                          title_disp = item['title'][:60]
-                          snippet_disp = item['snippet'][:80]
-                          elements.append({
-                              'tag': 'div', 
-                              'text': {
-                                  'tag': 'lark_md', 
-                                  'content': '**' + str(item['index']) + '.** [' + title_disp + '](' + item['link'] + ')\n' + snippet_disp
-                              }
-                          })
+                          elements.append({'tag': 'div', 'text': {'tag': 'lark_md', 'content': '**' + str(item['index']) + '.** [' + item['title'] + '](' + item['link'] + ')\n' + item['snippet']}})
                       elements.append({'tag': 'hr'})
               
               elements.append({'tag': 'div', 'text': {'tag': 'lark_md', 'content': '©️ machinariumAIsupport'}})
               
-              return {
-                  'msg_type': 'interactive', 
-                  'card': {
-                      'config': {'wide_screen_mode': True}, 
-                      'header': {
-                          'title': {'tag': 'plain_text', 'content': 'AI业界动态早报 | ' + date_str}, 
-                          'template': 'purple'
-                      }, 
-                      'elements': elements
-                  }
-              }
+              return {'msg_type': 'interactive', 'card': {'config': {'wide_screen_mode': True}, 'header': {'title': {'tag': 'plain_text', 'content': 'AI业界动态早报 | ' + date_str}, 'template': 'purple'}, 'elements': elements}}
 
           # 推送
-          print('=== 推送阶段 ===')
           try:
-              payload = build_card()
-              r1 = requests.post(FEISHU_WEBHOOK_1, json=payload, headers={'Content-Type': 'application/json'}, timeout=30)
+              payload = build_feishu_card()
+              r1 = requests.post(FEISHU_WEBHOOK_1, json=payload, headers={'Content-Type': 'application/json'})
               print('Feishu1: ' + str(r1.status_code))
-              r2 = requests.post(FEISHU_WEBHOOK_2, json=payload, headers={'Content-Type': 'application/json'}, timeout=30)
+              r2 = requests.post(FEISHU_WEBHOOK_2, json=payload, headers={'Content-Type': 'application/json'})
               print('Feishu2: ' + str(r2.status_code))
           except Exception as e:
               print('推送失败: ' + str(e))
 
           # 保存文件
-          print('=== 保存阶段 ===')
           try:
+              import os
               import glob
               os.makedirs('docs', exist_ok=True)
               
-              # 只保存必要文件
-              news_standard = {
-                  'date': date_str, 
-                  'header': {'title': '🤖 AI业界动态早报', 'subtitle': 'machinariumAIsupport | 每日早8点自动推送'}, 
-                  'news': final_results
-              }
+              news_standard = {'date': date_str, 'header': {'title': '🤖 AI业界动态早报', 'subtitle': 'machinariumAIsupport | 每日早8点自动推送'}, 'news': final_results}
+              news_grouped = {'date': date_str, 'header': {'title': '🤖 AI业界动态早报', 'subtitle': 'machinariumAIsupport | 每日早8点自动推送'}, 'categories': [{'name': '融资速报', 'items': [{'title': i['title'], 'link': i['link'], 'snippet': i['snippet'], 'index': i['index']} for i in categories['融资速报']]}, {'name': '行业动态-大模型', 'items': [{'title': i['title'], 'link': i['link'], 'snippet': i['snippet'], 'index': i['index']} for i in categories['行业动态-大模型']]}, {'name': '行业动态-AI硬件/具身智能', 'items': [{'title': i['title'], 'link': i['link'], 'snippet': i['snippet'], 'index': i['index']} for i in categories['行业动态-AI硬件/具身智能']]}]}
               
-              # 分组版（飞书用）
-              news_grouped = {
-                  'date': date_str, 
-                  'header': {'title': '🤖 AI业界动态早报', 'subtitle': 'machinariumAIsupport | 每日早8点自动推送'}, 
-                  'categories': [
-                      {'name': '融资速报', 'items': [{'title': i['title'], 'link': i['link'], 'snippet': i['snippet'], 'index': i['index']} for i in categories['融资速报']]}, 
-                      {'name': '行业动态-大模型', 'items': [{'title': i['title'], 'link': i['link'], 'snippet': i['snippet'], 'index': i['index']} for i in categories['行业动态-大模型']]}, 
-                      {'name': '行业动态-AI硬件/具身智能', 'items': [{'title': i['title'], 'link': i['link'], 'snippet': i['snippet'], 'index': i['index']} for i in categories['行业动态-AI硬件/具身智能']]}
-                  ]
-              }
-              
-              # 写入
+              with open('docs/raw.json', 'w', encoding='utf-8') as f:
+                  json.dump({'date': date_str, 'count': len(raw_items), 'items': raw_items}, f, ensure_ascii=False, indent=2)
               with open('docs/' + date_str + '.json', 'w', encoding='utf-8') as f:
                   json.dump(news_standard, f, ensure_ascii=False, indent=2)
-              
               with open('docs/' + date_str + '_grouped.json', 'w', encoding='utf-8') as f:
                   json.dump(news_grouped, f, ensure_ascii=False, indent=2)
-              
               with open('docs/latest.json', 'w', encoding='utf-8') as f:
                   json.dump(news_standard, f, ensure_ascii=False, indent=2)
               
-              # 历史索引
-              history_files = glob.glob('docs/2*.json')
-              dates = sorted([os.path.basename(f).replace('.json', '').replace('_grouped', '') for f in history_files if not f.endswith('_grouped.json')], reverse=True)
-              
+              history = sorted([os.path.basename(f).replace('.json', '').replace('_grouped', '') for f in glob.glob('docs/2*.json') if not f.endswith('_grouped.json')], reverse=True)
               with open('docs/index.json', 'w', encoding='utf-8') as f:
-                  json.dump({'latest': date_str, 'history': dates[:30]}, f, ensure_ascii=False, indent=2)
+                  json.dump({'latest': date_str, 'history': history[:30]}, f, ensure_ascii=False, indent=2)
               
-              print('保存成功: ' + str(len(final_results)) + '条新闻')
+              print('保存成功')
           except Exception as e:
               print('保存失败: ' + str(e))
               raise
@@ -387,10 +283,5 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
-          git add docs/
-          if ! git diff --staged --quiet; then
-            git commit -m "Update daily news for $(date +%Y-%m-%d) [skip ci]"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          git add docs/ && git diff --staged --quiet || git commit -m "Update $(date +%Y-%m-%d) [skip ci]"
+          git push
