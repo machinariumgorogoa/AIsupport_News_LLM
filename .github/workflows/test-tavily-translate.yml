@@ -1,0 +1,186 @@
+name: Test Tavily Translate All
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Test Dual Search + Translation
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+        run: |
+          pip install requests
+          python << 'EOF'
+          import os
+          import requests
+          import json
+          import re
+          
+          TAVILY_API_KEY = os.environ['TAVILY_API_KEY']
+          KIMI_API_KEY = os.environ['KIMI_API_KEY']
+          os.makedirs('test', exist_ok=True)
+
+          # 低质量域名过滤
+          LOW_QUALITY_DOMAINS = [
+              'linkedin.com', 'instagram.com', 'workable.com', 
+              'threads.com', 'facebook.com', 'twitter.com', 'x.com'
+          ]
+
+          def is_chinese(text):
+              """简单检测是否包含中文字符"""
+              return bool(re.search(r'[\u4e00-\u9fff]', text))
+
+          def translate_item(title, content, max_tokens=800):
+              """调用Kimi翻译标题和摘要"""
+              try:
+                  prompt = f"""将以下AI新闻翻译成中文，保持专业术语准确（如IPO、融资、CTO等不翻译）：
+标题：{title}
+摘要：{content[:200]}
+
+请严格按以下格式返回：
+标题：[中文标题]
+摘要：[中文摘要]"""
+                  
+                  response = requests.post(
+                      'https://api.moonshot.cn/v1/chat/completions',
+                      headers={
+                          'Authorization': f'Bearer {KIMI_API_KEY}',
+                          'Content-Type': 'application/json'
+                      },
+                      json={
+                          'model': 'kimi-k2.5',
+                          'messages': [{'role': 'user', 'content': prompt}],
+                          'temperature': 1,
+                          'max_tokens': max_tokens
+                      },
+                      timeout=300
+                  )
+                  result = response.json()
+                  translated = result['choices'][0]['message']['content']
+                  
+                  # 解析返回
+                  title_match = re.search(r'标题[：:]\s*(.+?)(?:\n|$)', translated)
+                  content_match = re.search(r'摘要[：:]\s*(.+?)(?:\n|$)', translated)
+                  
+                  return {
+                      'title': title_match.group(1) if title_match else title,
+                      'content': content_match.group(1) if content_match else content[:100]
+                  }
+              except Exception as e:
+                  print(f"翻译失败: {e}")
+                  return {'title': title, 'content': content[:100]}
+
+          # 第一轮：融资类
+          print("=== 搜索1：融资类 ===")
+          resp1 = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': '(funding OR IPO OR merger OR acquisition OR valuation) AND (AI OR artificial intelligence)',
+                  'max_results': 20,
+                  'time_range': 'day',
+                  'search_depth': 'basic',
+                  'exclude_domains': ['youtube.com', 'reddit.com']
+              },
+              timeout=150
+          )
+          data1 = resp1.json()
+          results1 = data1.get('results', [])
+          print(f"返回: {len(results1)} 条")
+
+          # 第二轮：人事/产品类
+          print("\n=== 搜索2：人事/产品类 ===")
+          resp2 = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': '(hire OR appoint OR founder OR CEO OR launch OR product) AND (AI OR artificial intelligence)',
+                  'max_results': 20,
+                  'time_range': 'day',
+                  'search_depth': 'basic',
+                  'exclude_domains': ['youtube.com', 'reddit.com']
+              },
+              timeout=150
+          )
+          data2 = resp2.json()
+          results2 = data2.get('results', [])
+          print(f"返回: {len(results2)} 条")
+
+          # 合并并处理
+          print(f"\n=== 处理中（过滤+翻译） ===")
+          seen_urls = set()
+          processed = []
+          translate_count = 0
+
+          for item in results1 + results2:
+              url = item.get('url', '')
+              
+              # 去重
+              if url in seen_urls or not url:
+                  continue
+              seen_urls.add(url)
+              
+              # 域名过滤
+              if any(domain in url.lower() for domain in LOW_QUALITY_DOMAINS):
+                  print(f"  过滤低质量: {url[:50]}")
+                  continue
+              
+              title = item.get('title', '')
+              content = item.get('content', '')
+              
+              # 语言检测+翻译
+              if not is_chinese(title):
+                  print(f"  翻译: {title[:40]}...")
+                  translated = translate_item(title, content)
+                  processed.append({
+                      'title': translated['title'],
+                      'url': url,
+                      'content': translated['content'],
+                      'original_title': title,
+                      'category': '融资' if item in results1 else '人事/产品'
+                  })
+                  translate_count += 1
+              else:
+                  processed.append({
+                      'title': title,
+                      'url': url,
+                      'content': content[:100],
+                      'category': '融资' if item in results1 else '人事/产品'
+                  })
+
+          print(f"\n=== 结果 ===")
+          print(f"源头总数: {len(results1) + len(results2)}")
+          print(f"去重过滤后: {len(processed)}")
+          print(f"翻译条数: {translate_count}")
+          print(f"中文原生: {len(processed) - translate_count}")
+
+          # 保存
+          output = {
+              'date': '2026-04-06',
+              'total_processed': len(processed),
+              'translated': translate_count,
+              'results': processed
+          }
+
+          with open('test/tavily-translated.json', 'w', encoding='utf-8') as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+          
+          print(f"\n✅ 已保存到 test/tavily-translated.json")
+          print(f"\n前3条预览:")
+          for i, item in enumerate(processed[:3], 1):
+              print(f"{i}. [{item['category']}] {item['title'][:50]}")
+          EOF
+      
+      - name: Commit result
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add test/
+          git commit -m "Test Tavily translate all [skip ci]" || echo "No changes"
+          git push
