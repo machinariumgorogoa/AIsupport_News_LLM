@@ -1,0 +1,196 @@
+name: Test Tavily Triple Source
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Test Tavily + TechCrunch + Translation
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+        run: |
+          pip install requests
+          python << 'EOF'
+          import os
+          import requests
+          import json
+          import re
+          
+          TAVILY_API_KEY = os.environ['TAVILY_API_KEY']
+          KIMI_API_KEY = os.environ['KIMI_API_KEY']
+          os.makedirs('test', exist_ok=True)
+
+          def call_kimi_translate(text, max_tokens=500):
+              try:
+                  response = requests.post(
+                      'https://api.moonshot.cn/v1/chat/completions',
+                      headers={
+                          'Authorization': f'Bearer {KIMI_API_KEY}',
+                          'Content-Type': 'application/json'
+                      },
+                      json={
+                          'model': 'kimi-k2.5',
+                          'messages': [{
+                              'role': 'user', 
+                              'content': f'将以下英文AI新闻标题和摘要翻译成中文，保持专业术语准确性，直接返回翻译结果：\n\n{text}'
+                          }],
+                          'temperature': 1,
+                          'max_tokens': max_tokens
+                      },
+                      timeout=300
+                  )
+                  result = response.json()
+                  return result['choices'][0]['message']['content'].strip()
+              except Exception as e:
+                  print(f"Translation error: {e}")
+                  return text  # 失败时返回原文
+
+          # 第一轮：融资类
+          print("=== 第一轮：融资查询 ===")
+          resp1 = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': '(融资 OR 并购 OR 上市 OR IPO OR 估值) AND (AI OR artificial intelligence OR 人工智能 OR OpenAI)',
+                  'max_results': 20,
+                  'time_range': 'day',
+                  'search_depth': 'basic',
+                  'exclude_domains': ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 'facebook.com']
+              },
+              timeout=150
+          )
+          data1 = resp1.json()
+          results1 = data1.get('results', [])
+          print(f"融资类返回: {len(results1)} 条")
+
+          # 第二轮：人事/产品类
+          print("\n=== 第二轮：人事/产品查询 ===")
+          resp2 = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': '(离职 OR 加盟 OR 创业 OR 任命 OR 负责人 OR 创始人 OR 发布 OR 推出) AND (AI OR 人工智能 OR 大模型 OR 字节 OR 阿里 OR OpenAI)',
+                  'max_results': 20,
+                  'time_range': 'day',
+                  'search_depth': 'basic',
+                  'exclude_domains': ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 'facebook.com']
+              },
+              timeout=150
+          )
+          data2 = resp2.json()
+          results2 = data2.get('results', [])
+          print(f"人事/产品类返回: {len(results2)} 条")
+
+          # 第三轮：TechCrunch英文
+          print("\n=== 第三轮：TechCrunch英文 ===")
+          resp3 = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': '(hiring OR executive OR funding OR startup OR layoff) AND (AI OR artificial intelligence) site:techcrunch.com',
+                  'max_results': 10,
+                  'time_range': 'day',
+                  'search_depth': 'basic'
+              },
+              timeout=150
+          )
+          data3 = resp3.json()
+          results3_raw = data3.get('results', [])
+          
+          # 翻译TechCrunch内容
+          print(f"TechCrunch返回: {len(results3_raw)} 条，开始翻译...")
+          results3 = []
+          for i, item in enumerate(results3_raw, 1):
+              original = f"标题: {item['title']}\n摘要: {item.get('content', '')[:100]}"
+              translated = call_kimi_translate(original, max_tokens=500)
+              
+              # 解析翻译结果
+              title_match = re.search(r'标题[：:]\s*(.+?)(?:\n|$)', translated)
+              content_match = re.search(r'摘要[：:]\s*(.+?)(?:\n|$)', translated)
+              
+              zh_title = title_match.group(1) if title_match else item['title']
+              zh_content = content_match.group(1) if content_match else item.get('content', '')[:80]
+              
+              results3.append({
+                  'title': zh_title,
+                  'url': item['url'],
+                  'content': zh_content,
+                  'original_title': item['title'],
+                  'source': 'TechCrunch'
+              })
+              print(f"  翻译 {i}/{len(results3_raw)}: {zh_title[:30]}...")
+
+          # 合并去重（基于URL）
+          print(f"\n=== 合并去重 ===")
+          seen_urls = set()
+          combined = []
+          
+          for item in results1:
+              url = item['url']
+              if url not in seen_urls:
+                  seen_urls.add(url)
+                  combined.append({
+                      'title': item['title'],
+                      'url': url,
+                      'content': item.get('content', '')[:100],
+                      'category': '融资'
+                  })
+          
+          for item in results2:
+              url = item['url']
+              if url not in seen_urls:
+                  seen_urls.add(url)
+                  combined.append({
+                      'title': item['title'],
+                      'url': url,
+                      'content': item.get('content', '')[:100],
+                      'category': '人事/产品'
+                  })
+          
+          for item in results3:
+              url = item['url']
+              if url not in seen_urls:
+                  seen_urls.add(url)
+                  combined.append({
+                      'title': item['title'],
+                      'url': url,
+                      'content': item['content'],
+                      'category': 'TechCrunch(译)',
+                      'original_title': item['original_title']
+                  })
+
+          print(f"去重前总计: {len(results1) + len(results2) + len(results3)} 条")
+          print(f"去重后总计: {len(combined)} 条")
+
+          # 保存结果
+          output = {
+              'date': '2026-04-06',
+              'count_funding': len(results1),
+              'count_hr': len(results2),
+              'count_techcrunch': len(results3),
+              'count_combined': len(combined),
+              'results': combined
+          }
+
+          with open('test/tavily-triple.json', 'w', encoding='utf-8') as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+          
+          print(f"\n✅ 已保存到 test/tavily-triple.json")
+          print(f"\n前3条预览:")
+          for i, item in enumerate(combined[:3], 1):
+              print(f"{i}. [{item['category']}] {item['title'][:40]}")
+          EOF
+      
+      - name: Commit result
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add test/
+          git commit -m "Test Tavily triple source with translation [skip ci]" || echo "No changes"
+          git push
