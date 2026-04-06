@@ -53,38 +53,6 @@ jobs:
           def is_chinese(text):
               return bool(re.search(r'[\u4e00-\u9fff]', text))
           
-          def translate_with_kimi(title, content, max_tokens=800):
-              try:
-                  prompt_text = "将以下AI新闻翻译成中文，保持专业术语准确（如IPO、融资、CTO、CEO等不翻译）：\n标题：" + title + "\n摘要：" + content[:200] + "\n\n请严格按以下格式返回：\n标题：[中文标题]\n摘要：[中文摘要]"
-                  
-                  response = requests.post(
-                      'https://api.moonshot.cn/v1/chat/completions',
-                      headers={
-                          'Authorization': f'Bearer {KIMI_API_KEY}',
-                          'Content-Type': 'application/json'
-                      },
-                      json={
-                          'model': 'kimi-k2.5',
-                          'messages': [{'role': 'user', 'content': prompt_text}],
-                          'temperature': 1,
-                          'max_tokens': max_tokens
-                      },
-                      timeout=300
-                  )
-                  result = response.json()
-                  translated = result['choices'][0]['message']['content']
-                  
-                  title_match = re.search(r'标题[：:]\s*(.+?)(?:\n|$)', translated)
-                  content_match = re.search(r'摘要[：:]\s*(.+?)(?:\n|$)', translated)
-                  
-                  return {
-                      'title': title_match.group(1) if title_match else title,
-                      'snippet': content_match.group(1) if content_match else content[:100]
-                  }
-              except Exception as e:
-                  print(f"翻译失败: {e}")
-                  return {'title': title, 'snippet': content[:100]}
-
           def call_kimi(prompt, max_tokens=1000):
               try:
                   response = requests.post(
@@ -106,6 +74,41 @@ jobs:
               except Exception as e:
                   print(f"Kimi API error: {e}")
                   return None
+
+          def translate_item_with_prompt(item):
+              """使用外部提示词文件翻译单条新闻"""
+              try:
+                  # 读取外部提示词
+                  with open('prompts/translate.txt', 'r', encoding='utf-8') as f:
+                      prompt_template = f.read()
+                  
+                  # 填充变量
+                  prompt = prompt_template.format(
+                      title=item.get('title', ''),
+                      content=item.get('raw_snippet', '')[:200]
+                  )
+                  
+                  result = call_kimi(prompt, max_tokens=800)
+                  if not result:
+                      return item
+                  
+                  # 解析返回
+                  title_match = re.search(r'标题[：:]\s*(.+?)(?:\n|$)', result)
+                  content_match = re.search(r'摘要[：:]\s*(.+?)(?:\n|$)', result)
+                  
+                  new_title = title_match.group(1) if title_match else item['title']
+                  new_content = content_match.group(1) if content_match else item['snippet']
+                  
+                  return {
+                      'title': new_title,
+                      'link': item['link'],
+                      'snippet': new_content + '...' if not new_content.endswith('...') else new_content,
+                      'raw_snippet': item['raw_snippet'],
+                      'original_title': item.get('original_title', item['title'])
+                  }
+              except Exception as e:
+                  print(f"Translation failed: {e}")
+                  return item
 
           print("=== 搜索阶段 ===")
           
@@ -143,9 +146,9 @@ jobs:
           results2 = data2.get('results', [])
           print(f"人事/产品类返回: {len(results2)} 条")
 
-          print("处理中（过滤+翻译）...")
+          print("处理中（过滤+初步格式化）...")
           seen_urls = set()
-          priority_results = []
+          raw_items = []
           
           for item in results1 + results2:
               url = item.get('url', '')
@@ -159,44 +162,23 @@ jobs:
               title = item.get('title', '')
               content = item.get('content', '')
               
-              if not is_chinese(title):
-                  translated = translate_with_kimi(title, content)
-                  priority_results.append({
-                      'title': translated['title'],
-                      'link': url,
-                      'snippet': translated['snippet'] + '...',
-                      'raw_snippet': content,
-                      'original_title': title
-                  })
-              else:
-                  priority_results.append({
-                      'title': title,
-                      'link': url,
-                      'snippet': content[:80] + '...' if len(content) > 80 else content,
-                      'raw_snippet': content
-                  })
+              raw_items.append({
+                  'title': title,
+                  'link': url,
+                  'snippet': content[:80] + '...' if len(content) > 80 else content,
+                  'raw_snippet': content,
+                  'is_chinese': is_chinese(title),
+                  'original_title': title if not is_chinese(title) else None
+              })
 
-          print(f"处理后可用: {len(priority_results)} 条")
+          print(f"过滤后可用: {len(raw_items)} 条")
 
+          # 保存原始数据
           raw_data = {
               "date": date_str,
-              "count": len(priority_results),
-              "items": priority_results
+              "count": len(raw_items),
+              "items": raw_items
           }
-
-          def score_hunter_value(item):
-              title = item['title'].lower()
-              score = 0
-              if any(word in title for word in ['融资', '并购', '收购', '合并', '估值', '轮次', '领投', 'ipo']):
-                  score += 100
-              if any(word in title for word in ['离职', '入职', '加盟', '任命', '跳槽', '创业', '创始人', 'ceo', 'cto']):
-                  score += 90
-              if any(word in title for word in ['发布', '推出', '开源', '上市', '挂牌']):
-                  score += 80
-              return score
-
-          for item in priority_results:
-              item['score'] = score_hunter_value(item)
 
           print("=== LLM 语义去重 ===")
           
@@ -221,11 +203,35 @@ jobs:
                   except Exception as e:
                       print(f"Parse error: {e}, fallback to score ranking")
               
-              items.sort(key=lambda x: x['score'], reverse=True)
+              # fallback: 按标题关键词打分
+              def score_item(item):
+                  title = item['title'].lower()
+                  score = 0
+                  if any(w in title for w in ['funding', 'ipo', 'merger', 'acquisition', '融资', '上市']):
+                      score += 100
+                  if any(w in title for w in ['hire', 'appoint', 'founder', 'ceo', '离职', '加盟', '创始人']):
+                      score += 90
+                  return score
+              
+              items.sort(key=score_item, reverse=True)
               return items[:target_count]
 
-          deduped_results = dedup_by_llm(priority_results, target_count=10)
-          print(f"去重后: {len(deduped_results)} 条")
+          deduped_items = dedup_by_llm(raw_items, target_count=10)
+          print(f"去重后: {len(deduped_items)} 条")
+
+          print("=== 翻译阶段 ===")
+          
+          translated_items = []
+          for i, item in enumerate(deduped_items, 1):
+              if not item['is_chinese']:
+                  print(f"  翻译 {i}/{len(deduped_items)}: {item['title'][:40]}...")
+                  translated = translate_item_with_prompt(item)
+                  translated_items.append(translated)
+              else:
+                  print(f"  保留中文 {i}/{len(deduped_items)}: {item['title'][:40]}")
+                  translated_items.append(item)
+
+          print(f"翻译完成: {len(translated_items)} 条")
 
           print("=== LLM 智能分类 ===")
           
@@ -256,18 +262,18 @@ jobs:
                       print(f"Classification parse error: {e}, using fallback")
                       for item in items:
                           title_lower = item['title'].lower()
-                          if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', '轮', '领投']):
+                          if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', '轮', '领投', 'funding', 'acquisition']):
                               categories["融资速报"].append(item)
-                          elif any(w in title_lower for w in ['芯片', '机器人', '具身', '传感器', '硬件', 'figure']):
+                          elif any(w in title_lower for w in ['芯片', '机器人', '具身', '传感器', '硬件', 'figure', 'robot', 'chip']):
                               categories["行业动态-AI硬件/具身智能"].append(item)
                           else:
                               categories["行业动态-大模型"].append(item)
               else:
                   for item in items:
                       title_lower = item['title'].lower()
-                      if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', '轮', '领投']):
+                      if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', 'funding']):
                           categories["融资速报"].append(item)
-                      elif any(w in title_lower for w in ['芯片', '机器人', '具身', '传感器', '硬件', 'figure']):
+                      elif any(w in title_lower for w in ['芯片', '机器人', '具身', '硬件']):
                           categories["行业动态-AI硬件/具身智能"].append(item)
                       else:
                           categories["行业动态-大模型"].append(item)
@@ -279,9 +285,10 @@ jobs:
               
               return categories
 
-          classified = classify_by_llm(deduped_results)
+          classified = classify_by_llm(translated_items)
           print(f"分类结果: 融资{len(classified['融资速报'])}条, 大模型{len(classified['行业动态-大模型'])}条, 硬件{len(classified['行业动态-AI硬件/具身智能'])}条")
 
+          # 构建扁平版本（小程序用）
           final_results = []
           for cat_name in ["融资速报", "行业动态-大模型", "行业动态-AI硬件/具身智能"]:
               for item in classified[cat_name]:
@@ -492,5 +499,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
           git add docs/
-          git diff --staged --quiet || git commit -m "Update daily news for $(date +%Y-%m-%d) [skip ci]"
+          git diff --staged --quiet || git commit -m "Update daily news for $(date +%Y-%m-%d) with dedup-translate-classify pipeline [skip ci]"
           git push
