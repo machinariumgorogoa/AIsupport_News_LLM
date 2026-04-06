@@ -1,0 +1,102 @@
+name: Test Vertical Chinese AI Media
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Test Vertical Media Search
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: |
+          pip install requests
+          python << 'EOF'
+          import os
+          import requests
+          import json
+          
+          TAVILY_API_KEY = os.environ['TAVILY_API_KEY']
+          os.makedirs('test', exist_ok=True)
+
+          # 定义中文AI垂直媒体域名
+          TARGET_DOMAINS = [
+              'qbitai.com',           # 量子位
+              'jiqizhixin.com',       # 机器之心
+              'huxiu.com',            # 虎嗅
+              '36kr.com',             # 36氪
+              'wallstreetcn.com',     # 华尔街见闻（AI板块）
+              'ifeng.com',            # 凤凰网科技
+              'cls.cn',               # 财联社
+              'sina.com.cn',          # 新浪财经
+              '163.com',              # 网易科技
+              'qq.com',               # 腾讯科技
+              'baidu.com',            # 百度新闻（可能无效）
+              'zhidx.com'             # 智东西（如存在）
+          ]
+
+          print(f"=== 搜索目标媒体 ===")
+          print(f"媒体列表: {', '.join(TARGET_DOMAINS[:6])}...等{len(TARGET_DOMAINS)}个")
+          
+          # 使用include_domains限定搜索范围
+          resp = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': 'AI 人工智能 大模型 融资 上市 离职 发布',  # 简单中文关键词
+                  'max_results': 30,  # 目标30条
+                  'time_range': 'day',
+                  'search_depth': 'basic',
+                  'include_domains': TARGET_DOMAINS,  # 关键参数：限定域名
+                  'exclude_domains': ['youtube.com', 'reddit.com']
+              },
+              timeout=150
+          )
+          
+          data = resp.json()
+          results = data.get('results', [])
+          
+          print(f"实际返回: {len(results)} 条")
+          
+          # 按域名统计
+          domain_stats = {}
+          for item in results:
+              url = item.get('url', '')
+              domain = url.split('/')[2].replace('www.', '').replace('m.', '')
+              domain_stats[domain] = domain_stats.get(domain, 0) + 1
+          
+          print(f"\n域名分布:")
+          for domain, count in sorted(domain_stats.items(), key=lambda x: -x[1]):
+              print(f"  {domain}: {count}条")
+
+          # 保存结果
+          output = {
+              'date': '2026-04-06',
+              'query': 'AI 人工智能 大模型',
+              'target_domains': TARGET_DOMAINS,
+              'requested': 30,
+              'returned': len(results),
+              'domain_stats': domain_stats,
+              'results': [{'title': r['title'], 'url': r['url'], 'content': r.get('content', '')[:80]} for r in results]
+          }
+
+          with open('test/vertical-cn.json', 'w', encoding='utf-8') as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+          
+          print(f"\n✅ 已保存到 test/vertical-cn.json")
+          print(f"\n前5条预览:")
+          for i, item in enumerate(results[:5], 1):
+              print(f"{i}. [{item['url'].split('/')[2]}] {item['title'][:40]}")
+          EOF
+      
+      - name: Commit result
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add test/
+          git commit -m "Test vertical Chinese AI media [skip ci]" || echo "No changes"
+          git push
