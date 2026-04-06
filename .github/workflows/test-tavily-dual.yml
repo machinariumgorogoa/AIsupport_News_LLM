@@ -59,7 +59,7 @@ jobs:
               },
               timeout=150
           )
-          data2 = resp2.get('results', [])
+          data2 = resp2.json().get('results', [])
           print(f"人事/产品类返回: {len(results2)} 条")
 
           # 合并并去重（基于URL）
