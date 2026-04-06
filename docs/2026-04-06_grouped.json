@@ -9,40 +9,28 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "摩根士丹利借力AI与IPO双重利好因素",
-          "link": "https://www.tipranks.com/news/morgan-stanleys-ms-ai-and-ipo-tailwinds-could-drive-a-bullish-breakout",
-          "snippet": "摩根士丹利同时受益于AI和IPO双重利好因素，有望推动业绩增长。",
+          "title": "SpaceX申请IPO，估值超1.75万亿美元",
+          "link": "https://www.thomasnet.com/insights/space-x-ipo",
+          "snippet": "SpaceX提交IPO申请，估值超1.75万亿美元。该申请是在SpaceX与Elon Musk的AI业务合并后进行的。",
           "index": 1
         },
         {
-          "title": "SpaceX正式启动IPO进程",
-          "link": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/1154270/spacex-puts-the-wheels-in-motion-for-its-ipo-5-reasons-why-i-plan-to-completely-avoid-it/",
-          "snippet": "SpaceX未来数月将推进IPO计划，正式开启上市进程。",
+          "title": "OpenAI高层在IPO计划上存在分歧",
+          "link": "https://www.pymnts.com/news/ipo/2026/openai-leaders-at-odds-over-ipo-plans/",
+          "snippet": "OpenAI高层在IPO计划上存在分歧，涉及B2B及零售业务的不同战略方向。",
           "index": 2
         },
         {
-          "title": "马斯克要求SpaceX IPO承销商购买Grok AI订阅",
-          "link": "https://telecom.economictimes.indiatimes.com/news/portal-in-portal/satcom/musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-report/130049965",
-          "snippet": "马斯克要求参与SpaceX IPO的银行及顾问购买Grok AI订阅服务。",
+          "title": "摩根士丹利借AI与IPO东风有望提振业绩",
+          "link": "https://www.tipranks.com/news/morgan-stanleys-ms-ai-and-ipo-tailwinds-could-drive-a-bullish-breakout",
+          "snippet": "摩根士丹利同时受益于AI热潮与IPO市场回暖两大Tailwinds，业绩有望获得显著提振。",
           "index": 3
         },
         {
-          "title": "OpenAI高层就IPO计划产生分歧",
-          "link": "https://www.pymnts.com/news/ipo/2026/openai-leaders-at-odds-over-ipo-plans/",
-          "snippet": "OpenAI领导层在IPO计划上存在分歧，对上市时机和战略意见不一。",
+          "title": "SpaceX正式启动IPO进程",
+          "link": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/1154270/spacex-puts-the-wheels-in-motion-for-its-ipo-5-reasons-why-i-plan-to-completely-avoid-it/",
+          "snippet": "SpaceX已正式启动IPO进程。上周，Elon Musk旗下公司秘密向美国监管机构提交上市申请。",
           "index": 4
-        },
-        {
-          "title": "Revolut创始人拟推出AI驱动风投基金",
-          "link": "https://tynmagazine.com/revolut-founder-set-to-launch-venture-capital-fund-powered-by-artificial-intelligence",
-          "snippet": "Revolut创始人计划推出AI驱动的风险投资基金，革新传统投资模式。",
-          "index": 5
-        },
-        {
-          "title": "Limitless AI联合创始人Dan Siroker净资产",
-          "link": "https://techchilli.com/artificial-intelligence/dan-siroker-net-worth-co-founder-ceo-at-limitless-ai/",
-          "snippet": "介绍Limitless AI联合创始人兼CEO Dan Siroker的净资产与职业背景。",
-          "index": 6
         }
       ]
     },
@@ -52,25 +40,37 @@
         {
           "title": "SpaceX的AI终局：掌控基础设施层",
           "link": "https://www.ai-supremacy.com/p/spacex-ai-endgame-owning-the-infrastructure-of-the-future-orbital-datacenters",
-          "snippet": "SpaceX战略布局AI基础设施层，旨在掌控产业链核心环节。",
+          "snippet": "SpaceX的AI终局在于掌控基础设施层，文章探讨其在AI领域的战略布局与长远规划。",
+          "index": 5
+        },
+        {
+          "title": "FutureSight招聘AI采购与供应链业务联合创始人兼CEO（远程）",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-sourcing-procurement-7920825192",
+          "snippet": "FutureSight招聘AI Sourcing & Procurement业务联合创始人兼CEO，提供远程办公机会。",
+          "index": 6
+        },
+        {
+          "title": "FutureSight招聘AI福利与InsureTech业务联合创始人兼CEO（远程）",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-benefits-insuretech-1535284212",
+          "snippet": "FutureSight招聘AI Benefits & InsureTech业务联合创始人兼CEO，支持居家远程办公。",
           "index": 7
         },
         {
-          "title": "E42创建AI员工雇佣市场平台",
-          "link": "https://www.telegraphindia.com/business/startup-e42-creates-marketplace-for-companies-to-hire-artificial-intelligence-workers/cid/1866400",
-          "snippet": "初创公司E42创建市场平台，助力企业雇佣AI数字员工。",
+          "title": "FutureSight招聘AI RIA合规业务联合创始人兼CEO（远程）",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-ria-compliance-400032005",
+          "snippet": "FutureSight招聘AI RIA Compliance业务联合创始人兼CEO，工作地点为远程居家办公。",
           "index": 8
         },
         {
-          "title": "Salesforce将招聘2000人推进AI产品销售",
-          "link": "https://www.cryptopolitan.com/salesforce-to-hire-2000-for-ai-product-sale/",
-          "snippet": "Salesforce CEO称将招聘2000人，专注推广AI产品销售。",
+          "title": "FutureSight招聘AI WealthTech业务联合创始人兼CEO",
+          "link": "https://www.remoterocketship.com/ca/company/futuresight/jobs/co-founder-ceo-ai-wealthtech-canada-remote",
+          "snippet": "FutureSight招聘AI WealthTech业务联合创始人兼CEO，涉及Venture Capital、AI及B2B领域。",
           "index": 9
         },
         {
-          "title": "NEAR协议招聘AI工程师推进路线图",
-          "link": "https://coindesk.com/business/2024/04/10/near-to-hire-artificial-intelligence-engineers-as-part-of-ai-roadmap",
-          "snippet": "NEAR协议招聘AI工程师，推进其人工智能路线图实施。",
+          "title": "FutureSight招聘AI销售业务联合创始人兼CEO——批发分销商",
+          "link": "https://www.remoterocketship.com/company/futuresight/jobs/co-founder-ceo-ai-sales-wholesale-distributors-united-states-remote",
+          "snippet": "FutureSight为其B2B风险投资项目招聘AI Sales业务联合创始人兼CEO，面向Wholesale Distributors领域。",
           "index": 10
         }
       ]
