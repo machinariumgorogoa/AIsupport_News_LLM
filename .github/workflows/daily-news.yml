@@ -24,7 +24,7 @@ jobs:
       - name: Fetch and send LLM news
         env:
           FEISHU_WEBHOOK_1: ${{ secrets.FEISHU_NEWS_LLM }}
-          FEISHU_WEBHOOK_2: ${{ secrets.FEISHU_NEWS_LLM_2 }}
+          FEISHU_WEBHOOK_2: ${{ secrets.FEIS气死_NEWS_LLM_2 }}
           SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
@@ -98,7 +98,9 @@ jobs:
 
           seen_urls = set()
           raw_items = []
-          for item in results1 + results2:
+          
+          # 【修改1】标记来源类型，区分融资类和人事类
+          for item in results1:
               url = item.get('url', '')
               if url in seen_urls or not url:
                   continue
@@ -111,29 +113,75 @@ jobs:
                   'link': url,
                   'snippet': content[:80] + '...' if len(content) > 80 else content,
                   'raw_snippet': content,
-                  'is_chinese': is_chinese(item.get('title', ''))
+                  'is_chinese': is_chinese(item.get('title', '')),
+                  'source_type': 'funding'  # 标记为融资类
+              })
+          
+          for item in results2:
+              url = item.get('url', '')
+              if url in seen_urls or not url:
+                  continue
+              if any(d in url.lower() for d in LOW_QUALITY_DOMAINS):
+                  continue
+              seen_urls.add(url)
+              content = item.get('content', '')
+              raw_items.append({
+                  'title': item.get('title', ''),
+                  'link': url,
+                  'snippet': content[:80] + '...' if len(content) > 80 else content,
+                  'raw_snippet': content,
+                  'is_chinese': is_chinese(item.get('title', '')),
+                  'source_type': 'people'  # 标记为人事类
               })
 
           print('过滤后: ' + str(len(raw_items)) + ' 条')
 
-          print('=== 去重阶段 ===')
-          dedup_template = read_prompt_file('dedup.txt') or FALLBACK_DEDUP
-          titles_text = '\n'.join([str(i+1) + '. ' + item['title'][:60] + '\n   摘要：' + item['raw_snippet'][:40] for i, item in enumerate(raw_items)])
-          dedup_prompt = dedup_template.format(count=len(raw_items), titles=titles_text, target=10)
+          print('=== 去重阶段（修复：分类去重确保均衡） ===')
           
-          dedup_result = call_kimi(dedup_prompt, max_tokens=20000)
-          deduped_items = []
-          if dedup_result:
-              try:
-                  numbers = re.findall(r'\d+', dedup_result)
-                  indices = [int(n) - 1 for n in numbers if 1 <= int(n) <= len(raw_items)]
-                  deduped_items = [raw_items[i] for i in indices[:10]]
-                  print('去重成功: ' + str(len(deduped_items)) + ' 条')
-              except Exception as e:
-                  print('去重解析失败: ' + str(e))
-          if not deduped_items:
-              print('去重失败，使用top10')
-              deduped_items = raw_items[:10]
+          # 【修改2】将数据按来源类型分组
+          funding_items = [item for item in raw_items if item.get('source_type') == 'funding']
+          people_items = [item for item in raw_items if item.get('source_type') == 'people']
+          
+          print('  分组结果: 融资类 ' + str(len(funding_items)) + ' 条, 人事类 ' + str(len(people_items)) + ' 条')
+          
+          dedup_template = read_prompt_file('dedup.txt') or FALLBACK_DEDUP
+          
+          # 【修改3】对每组分别去重，每组最多保留5条
+          def dedup_subset(items, label, target_count=5):
+              if not items:
+                  return []
+              if len(items) <= target_count:
+                  return items
+              
+              titles_text = '\n'.join([str(i+1) + '. ' + item['title'][:60] + '\n   摘要：' + item['raw_snippet'][:40] for i, item in enumerate(items)])
+              dedup_prompt = dedup_template.format(count=len(items), titles=titles_text, target=target_count)
+              
+              dedup_result = call_kimi(dedup_prompt, max_tokens=2000)
+              selected_items = []
+              
+              if dedup_result:
+                  try:
+                      numbers = re.findall(r'\d+', dedup_result)
+                      indices = [int(n) - 1 for n in numbers if 1 <= int(n) <= len(items)]
+                      selected_items = [items[i] for i in indices[:target_count]]
+                      print('  [' + label + '] 去重成功: 保留 ' + str(len(selected_items)) + ' 条')
+                  except Exception as e:
+                      print('  [' + label + '] 去重解析失败: ' + str(e))
+              
+              if not selected_items:
+                  print('  [' + label + '] 使用默认top' + str(target_count))
+                  selected_items = items[:target_count]
+              
+              return selected_items
+          
+          # 分别去重，确保两类都有代表
+          deduped_funding = dedup_subset(funding_items, '融资类', 5)
+          deduped_people = dedup_subset(people_items, '人事类', 5)
+          
+          # 合并结果（保持原有顺序：融资在前，人事在后）
+          deduped_items = deduped_funding + deduped_people
+          
+          print('去重完成: 总计 ' + str(len(deduped_items)) + ' 条（融资' + str(len(deduped_funding)) + ' + 人事' + str(len(deduped_people)) + '）')
 
           print('=== 批量翻译阶段 ===')
           non_zh_items = [item for item in deduped_items if not item['is_chinese']]
@@ -180,7 +228,7 @@ jobs:
           class_prompt = class_template.format(titles=class_titles)
           
           class_result = call_kimi(class_prompt, max_tokens=50000)
-          categories = {'融资速报': [], '行业动态-大模型': []}  # 【修改】只保留两组
+          categories = {'融资速报': [], '行业动态-大模型': []}
           
           if class_result:
               try:
@@ -202,7 +250,7 @@ jobs:
               except Exception as e:
                   print('分类解析失败: ' + str(e))
 
-          # 【修改】只填充到两组，确保互斥
+          # 填充空分组（互斥分配）
           all_items = translated_items[:]
           assigned_ids = set()
           for cat in categories:
@@ -219,7 +267,7 @@ jobs:
 
           print('分类结果: 融资' + str(len(categories['融资速报'])) + '条, 大模型' + str(len(categories['行业动态-大模型'])) + '条')
 
-          # 【修改】构建最终输出（两组），确保索引不重复
+          # 构建最终输出（两组），确保索引不重复
           final_results = []
           idx = 1
           for cat_name in ['融资速报', '行业动态-大模型']:
@@ -228,7 +276,7 @@ jobs:
                   final_results.append(item)
                   idx += 1
 
-          # 【修改】构建飞书卡片（两组）
+          # 构建飞书卡片（两组）
           def build_feishu_card():
               elements = [{'tag': 'div', 'text': {'tag': 'lark_md', 'content': '**🤖 AI业界动态早报**\n**machinariumAIsupport | 每日早8点自动推送**\n📅 ' + date_str}}, {'tag': 'hr'}]
               
@@ -252,7 +300,7 @@ jobs:
           except Exception as e:
               print('推送失败: ' + str(e))
 
-          # 【修改】保存（两组结构）
+          # 保存（两组结构）
           try:
               import os
               import glob
