@@ -9,10 +9,46 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "Ola Founder Bhavish Aggarwal’s AI Startup Krutrim Plans AI Chip Launch in 2026 - Elets CIO",
-          "link": "https://cio.eletsonline.com/news/ola-founder-bhavish-aggarwals-ai-startup-krutrim-plans-ai-chip-launch-in-2026/72879/",
-          "snippet": "##### Microsoft Commits USD 17.5 Billion to Accelerate India’s AI and Cloud Infr...",
+          "title": "SpaceX pursues confidential IPO in March following xAI merger, aiming for a $1.75T valuation - Phoenix Strategy Group",
+          "link": "https://www.phoenixstrategy.group/blog/spacex-confidential-ipo-following-xai-merger",
+          "snippet": "# SpaceX pursues confidential IPO in March following xAI merger, aiming for a $1...",
+          "index": 11
+        },
+        {
+          "title": "China Artificial Intelligence Startup Zhipu AI Plans Hong Kong in 2026 after Pre-Filing for IPO in 2025 April, Raised $1.5 Billion in Funding Since Founding, 2023 Valuation at $2.8 Billion, Investors Include Alibaba, Ant Group, Tencent, Meituan, Xiaomi, HongShan, Saudi Aramco & Prosperity7 Ventures,...",
+          "link": "https://www.caproasia.com/2025/12/19/china-artificial-intelligence-startup-zhipu-ai-plans-hong-kong-in-2026-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8-billion-investors",
+          "snippet": "nded in 2019 by Tsinghua University Professors Tang Jie & Li Juanzi, Key Control...",
           "index": 2
+        },
+        {
+          "title": "Semantix Stock Price, Funding, Valuation, Revenue & Financial Statements",
+          "link": "https://www.cbinsights.com/company/semantix/financials",
+          "snippet": "Title: Semantix Stock Price, Funding, Valuation, Revenue & Financial Statements\n...",
+          "index": 3
+        },
+        {
+          "title": "标题：Harvey寻求1亿美元融资并推进收购谈判",
+          "link": "https://www.linqto.com/unicorn-news/legal-ai-startup-harvey-eyes-100m-funding-amid-acquisition-talks",
+          "snippet": "摘要：法律AI初创公司Harvey正寻求1亿美元融资，公司估值达15亿美元，目前同时进行收购相关谈判。",
+          "index": 4
+        },
+        {
+          "title": "nFlux AI 2025 Company Profile: Valuation, Funding & Investors",
+          "link": "https://pitchbook.com/profiles/company/277527-79",
+          "snippet": "## nFlux AI Overview ## * Year Founded * 2018 ## * Status * Private ## * Employe...",
+          "index": 5
+        },
+        {
+          "title": "标题：Ramp新一轮融资估值达225亿美元",
+          "link": "https://www.startupecosystem.ca/news/ramp-achieves-22-5-billion-valuation-with-new-funding-round",
+          "snippet": "摘要：费用管理初创公司Ramp宣布完成新一轮重要融资，公司估值达到225亿美元。",
+          "index": 6
+        },
+        {
+          "title": "Former Meta AI chief's startup raises $1.03B, appoints CEO",
+          "link": "https://www.msn.com/en-us/money/other/former-meta-ai-chiefs-startup-raises-103b-appoints-ceo/ar-AA1XTuuy",
+          "snippet": "AI startup Advanced Machine Intelligence, founded by former Meta Platforms' (MET...",
+          "index": 7
         }
       ]
     },
@@ -20,64 +56,22 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "Ola Founder Bhavish Aggarwal’s AI Startup Krutrim Plans AI Chip Launch in 2026 - Elets CIO",
-          "link": "https://cio.eletsonline.com/news/ola-founder-bhavish-aggarwals-ai-startup-krutrim-plans-ai-chip-launch-in-2026/72879/",
-          "snippet": "##### Microsoft Commits USD 17.5 Billion to Accelerate India’s AI and Cloud Infr...",
-          "index": 2
-        },
-        {
-          "title": "Why 2026 Is the Year of the AI Builder with Lovable CEO Anton Osika - The AI Daily Brief: Artificial Intelligence News and Analysis | Wave AI Podcast Notes",
-          "link": "https://pod.wave.co/podcast/the-ai-daily-brief-formerly-the-ai-breakdown-artificial-intelligence-news-and-analysis/why-2026-is-the-year-of-the-ai-builder-with-lovable-ceo-anton-osika",
-          "snippet": "Why 2026 Is the Year of the AI Builder with Lovable CEO Anton Osika - The AI Dai...",
-          "index": 12
-        },
-        {
-          "title": "How to Hire Artificial Intelligence Product Managers in 2026",
-          "link": "https://www.bigdatacentric.com/blog/hire-artificial-intelligence-product-managers",
-          "snippet": "Hiring Artificial Intelligence Product Managers brings together technical expert...",
-          "index": 4
-        },
-        {
-          "title": "artificial intelligence (AI) | Startup E42 creates marketplace for companies to hire artificial intelligence workers - Telegraph India",
-          "link": "https://www.telegraphindia.com/business/startup-e42-creates-marketplace-for-companies-to-hire-artificial-intelligence-workers/cid/1866400",
-          "snippet": "* Startup E42 creates marketplace for companies to hire artificial intelligence ...",
-          "index": 5
-        },
-        {
-          "title": "11 Best Artificial Intelligence Product Managers for Hire in March 2026 | Toptal®",
-          "link": "https://www.toptal.com/product-managers/artificial-intelligence",
-          "snippet": "Toptal is a marketplace for top artificial intelligence (AI) product managers. T...",
-          "index": 6
-        },
-        {
-          "title": "11 Best Artificial Intelligence Product Managers for Hire in March 2026 | Toptal®",
-          "link": "https://toptal.com/product-managers/artificial-intelligence",
-          "snippet": "Toptal is a marketplace for top artificial intelligence (AI) product managers. T...",
-          "index": 7
-        },
-        {
-          "title": "Official Top 20 Artificial Intelligence Speakers to Hire (2026)",
-          "link": "https://ai-speakers-agency.com/news/top-10-lists/worlds-top-artificial-intelligence-speakers",
-          "snippet": "Here at The AI Speakers Agency, we are fortunate to work with the World’s leadin...",
+          "title": "doola Launches AI Co-Founder to Expand Business-in-a- ...",
+          "link": "https://www.blufftontoday.com/press-release/story/68664/doola-launches-ai-co-founder-to-expand-business-in-a-box-for-global-e-commerce-entrepreneurs/",
+          "snippet": "South Carolina Lowcountry Community Calendar of EventsSouth Carolina Lottery Meg...",
           "index": 8
         },
         {
-          "title": "Revolut founder set to launch venture capital fund powered by artificial intelligence | The Block",
-          "link": "https://www.theblock.co/linked/147286/revolut-founder-set-to-launch-venture-capital-fund-powered-by-artificial-intelligence",
-          "snippet": "## Tech, crypto giants to help steward Coinbase's neutral x402 payments protocol...",
+          "title": "Rezolve CEO Sees Competition Over Control of AI Shopping",
+          "link": "https://www.pymnts.com/artificial-intelligence-2/2026/rezolve-ceo-sees-growing-competition-over-control-of-ai-shopping/",
+          "snippet": "In the newest Monday Conversation interview, Rezolve AI Founder and CEO Dan Wagn...",
           "index": 9
         },
         {
-          "title": "Revolut founder set to launch venture capital fund powered by artificial intelligence | The Block",
-          "link": "https://www.theblock.co/post/147286/revolut-founder-set-to-launch-venture-capital-fund-powered-by-artificial-intelligence",
-          "snippet": "The Block’s 2026 Digital Asset Outlook Report is out now! ## Latest Crypto News....",
+          "title": "UChicago Receives $50M Gift to Hire AI Expert Faculty",
+          "link": "https://www.insidehighered.com/news/quick-takes/2026/04/06/uchicago-receives-50m-gift-hire-ai-expert-faculty",
+          "snippet": "The University of Chicago is taking a broad, interdisciplinary approach to teach...",
           "index": 10
-        },
-        {
-          "title": "NEAR to Hire Artificial-Intelligence Engineers as Part of AI Roadmap",
-          "link": "https://coindesk.com/business/2024/04/10/near-to-hire-artificial-intelligence-engineers-as-part-of-ai-roadmap",
-          "snippet": "# NEAR to Hire Artificial-Intelligence Engineers as Part of AI Roadmap. ## The c...",
-          "index": 11
         }
       ]
     },
@@ -85,10 +79,10 @@
       "name": "行业动态-AI硬件/具身智能",
       "items": [
         {
-          "title": "Why 2026 Is the Year of the AI Builder with Lovable CEO Anton Osika - The AI Daily Brief: Artificial Intelligence News and Analysis | Wave AI Podcast Notes",
-          "link": "https://pod.wave.co/podcast/the-ai-daily-brief-formerly-the-ai-breakdown-artificial-intelligence-news-and-analysis/why-2026-is-the-year-of-the-ai-builder-with-lovable-ceo-anton-osika",
-          "snippet": "Why 2026 Is the Year of the AI Builder with Lovable CEO Anton Osika - The AI Dai...",
-          "index": 12
+          "title": "SpaceX pursues confidential IPO in March following xAI merger, aiming for a $1.75T valuation - Phoenix Strategy Group",
+          "link": "https://www.phoenixstrategy.group/blog/spacex-confidential-ipo-following-xai-merger",
+          "snippet": "# SpaceX pursues confidential IPO in March following xAI merger, aiming for a $1...",
+          "index": 11
         }
       ]
     }
