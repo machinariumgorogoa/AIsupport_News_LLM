@@ -2,7 +2,7 @@ name: Daily LLM News to Feishu
 
 on:
   schedule:
-    - cron: '30 23 * * *'  # UTC 23:30 = 北京时间 07:30（次日）
+    - cron: '30 23 * * *'  # UTC 23:30 = 北京时间 07:30（次日），延迟后约8点送达
   workflow_dispatch:
 
 jobs:
@@ -43,8 +43,59 @@ jobs:
           KIMI_API_KEY = os.environ['KIMI_API_KEY']
 
           date_str = (datetime.now() + timedelta(hours=8)).strftime('%Y-%m-%d')
+          
+          # 低质量域名过滤（保留Twitter/X作为AI大佬消息源）
+          LOW_QUALITY_DOMAINS = [
+              'instagram.com', 'facebook.com', 'linkedin.com', 
+              'workable.com', 'threads.com'
+          ]
+          
+          def is_chinese(text):
+              """检测是否包含中文字符"""
+              return bool(re.search(r'[\u4e00-\u9fff]', text))
+          
+          def translate_with_kimi(title, content, max_tokens=800):
+              """调用Kimi翻译标题和摘要"""
+              try:
+                  prompt = f"""将以下AI新闻翻译成中文，保持专业术语准确（如IPO、融资、CTO、CEO等不翻译）：
+标题：{title}
+摘要：{content[:200]}
+
+请严格按以下格式返回：
+标题：[中文标题]
+摘要：[中文摘要]"""
+                  
+                  response = requests.post(
+                      'https://api.moonshot.cn/v1/chat/completions',
+                      headers={
+                          'Authorization': f'Bearer {KIMI_API_KEY}',
+                          'Content-Type': 'application/json'
+                      },
+                      json={
+                          'model': 'kimi-k2.5',
+                          'messages': [{'role': 'user', 'content': prompt}],
+                          'temperature': 1,
+                          'max_tokens': max_tokens
+                      },
+                      timeout=300
+                  )
+                  result = response.json()
+                  translated = result['choices'][0]['message']['content']
+                  
+                  # 解析返回
+                  title_match = re.search(r'标题[：:]\s*(.+?)(?:\n|$)', translated)
+                  content_match = re.search(r'摘要[：:]\s*(.+?)(?:\n|$)', translated)
+                  
+                  return {
+                      'title': title_match.group(1) if title_match else title,
+                      'snippet': content_match.group(1) if content_match else content[:100]
+                  }
+              except Exception as e:
+                  print(f"翻译失败: {e}")
+                  return {'title': title, 'snippet': content[:100]}
 
           def call_kimi(prompt, max_tokens=1000):
+              """通用Kimi调用（用于去重和分类）"""
               try:
                   response = requests.post(
                       'https://api.moonshot.cn/v1/chat/completions',
@@ -66,83 +117,100 @@ jobs:
                   print(f"Kimi API error: {e}")
                   return None
 
-          # 外网及低质量域名过滤
-          foreign_domains = ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 
-                            'medium.com', 'github.com', 'arxiv.org', 'huggingface.co',
-                            'openai.com', 'anthropic.com', 'claude.ai', 'facebook.com',
-                            'apple.com', 'podcasts.apple.com']
-          
-          seen_links = set()
-
-          def search_tavily(query, max_results=20):
-              try:
-                  response = requests.post(
-                      'https://api.tavily.com/search',
-                      json={
-                          'api_key': TAVILY_API_KEY,
-                          'query': query,
-                          'max_results': max_results,
-                          'time_range': 'day',
-                          'search_depth': 'basic',
-                          'include_domains': [],
-                          'exclude_domains': foreign_domains
-                      },
-                      timeout=150
-                  )
-                  data = response.json()
-                  
-                  results = []
-                  if 'results' in data:
-                      for item in data['results']:
-                          link = item['url']
-                          if link not in seen_links:
-                              seen_links.add(link)
-                              # Tavily返回content较长，截取作为snippet
-                              content = item.get('content', '')
-                              snippet = content[:80] + '...' if len(content) > 80 else content
-                              results.append({
-                                  'title': item['title'],
-                                  'link': link,
-                                  'snippet': snippet,
-                                  'raw_snippet': content
-                              })
-                  return results
-              except Exception as e:
-                  print(f"Search error: {e}")
-                  return []
-
-          def score_hunter_value(item):
-              title = item['title'].lower()
-              score = 0
-              
-              if any(word in title for word in ['融资', '并购', '收购', '合并', '估值', '轮次', '领投', '跟投']):
-                  score += 100
-              if any(word in title for word in ['离职', '入职', '加盟', '任命', '跳槽', '创业', '加入', 'cto', 'ceo', '总裁', 'vp', '总监', '负责人', '高管', '创始人', '合伙人', '科学家']):
-                  score += 90
-              if any(word in title for word in ['上市', 'ipo', '挂牌', '独角兽']):
-                  score += 80
-              if any(word in title for word in ['发布', '推出', '开源']) and \
-                 any(word in title for word in ['模型', '大模型', 'gpt', 'claude', 'gemini', '产品', '平台']):
-                  score += 60
-              if any(word in title for word in ['芯片', '机器人', 'Figure', '具身', '传感器', '算力', '硬件']):
-                  score += 50
-              
-              return score
-
           print("=== 搜索阶段 ===")
           
-          LAYER_1 = "(离职 OR 加盟 OR 创业 OR 融资 OR 并购 OR 上市 OR 发布 OR 负责人 OR 创始人)"
-          LAYER_2 = "(AI OR 人工智能 OR 大模型 OR 字节 OR 阿里 OR 腾讯 OR OpenAI OR 智谱 OR MiniMax OR 月之暗面 OR Kimi OR 阶跃 OR 商汤 OR 讯飞 OR 具身智能 OR 机器人)"
-          priority_query = f"{LAYER_1} AND {LAYER_2}"
-          
-          priority_results = search_tavily(priority_query, max_results=20)
-          print(f"Tavily返回: {len(priority_results)} 条")
+          # 第一轮：融资类（英文关键词）
+          print("搜索1：融资类...")
+          resp1 = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': '(funding OR IPO OR merger OR acquisition OR valuation) AND (AI OR artificial intelligence)',
+                  'max_results': 20,
+                  'time_range': 'day',
+                  'search_depth': 'basic',
+                  'exclude_domains': ['youtube.com', 'reddit.com', 'instagram.com', 'facebook.com']
+              },
+              timeout=150
+          )
+          data1 = resp1.json()
+          results1 = data1.get('results', [])
+          print(f"融资类返回: {len(results1)} 条")
 
+          # 第二轮：人事/产品类（英文关键词）
+          print("搜索2：人事/产品类...")
+          resp2 = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': '(hire OR appoint OR founder OR CEO OR launch OR product OR release) AND (AI OR artificial intelligence)',
+                  'max_results': 20,
+                  'time_range': 'day',
+                  'search_depth': 'basic',
+                  'exclude_domains': ['youtube.com', 'reddit.com', 'instagram.com', 'facebook.com']
+              },
+              timeout=150
+          )
+          data2 = resp2.json()
+          results2 = data2.get('results', [])
+          print(f"人事/产品类返回: {len(results2)} 条")
+
+          # 合并、过滤、翻译
+          print("处理中（过滤+翻译）...")
+          seen_urls = set()
+          priority_results = []
+          
+          for item in results1 + results2:
+              url = item.get('url', '')
+              if url in seen_urls or not url:
+                  continue
+              seen_urls.add(url)
+              
+              # 低质量域名过滤
+              if any(domain in url.lower() for domain in LOW_QUALITY_DOMAINS):
+                  continue
+              
+              title = item.get('title', '')
+              content = item.get('content', '')
+              
+              # 检测并翻译
+              if not is_chinese(title):
+                  translated = translate_with_kimi(title, content)
+                  priority_results.append({
+                      'title': translated['title'],
+                      'link': url,
+                      'snippet': translated['snippet'] + '...',
+                      'raw_snippet': content,
+                      'original_title': title
+                  })
+              else:
+                  priority_results.append({
+                      'title': title,
+                      'link': url,
+                      'snippet': content[:80] + '...' if len(content) > 80 else content,
+                      'raw_snippet': content
+                  })
+
+          print(f"处理后可用: {len(priority_results)} 条")
+
+          # 保存原始数据
           raw_data = {
               "date": date_str,
               "count": len(priority_results),
               "items": priority_results
           }
+
+          # 去重前打分
+          def score_hunter_value(item):
+              title = item['title'].lower()
+              score = 0
+              if any(word in title for word in ['融资', '并购', '收购', '合并', '估值', '轮次', '领投', 'ipo']):
+                  score += 100
+              if any(word in title for word in ['离职', '入职', '加盟', '任命', '跳槽', '创业', '创始人', 'ceo', 'cto']):
+                  score += 90
+              if any(word in title for word in ['发布', '推出', '开源', '上市', '挂牌']):
+                  score += 80
+              return score
 
           for item in priority_results:
               item['score'] = score_hunter_value(item)
@@ -202,25 +270,26 @@ jobs:
                                   valid_indices = [i-1 for i in indices if isinstance(i, int) and 1 <= i <= len(items)]
                                   categories[cat] = [items[i] for i in valid_indices]
                   except Exception as e:
-                      print(f"Classification parse error: {e}")
+                      print(f"Classification parse error: {e}, using fallback")
                       for item in items:
                           title_lower = item['title'].lower()
-                          if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', '轮', '领投', '跟投']):
+                          if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', '轮', '领投']):
                               categories["融资速报"].append(item)
-                          elif any(w in title_lower for w in ['芯片', '机器人', '具身', '传感器', '硬件', 'figure', '特斯拉']):
+                          elif any(w in title_lower for w in ['芯片', '机器人', '具身', '传感器', '硬件', 'figure']):
                               categories["行业动态-AI硬件/具身智能"].append(item)
                           else:
                               categories["行业动态-大模型"].append(item)
               else:
                   for item in items:
                       title_lower = item['title'].lower()
-                      if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', '轮', '领投', '跟投']):
+                      if any(w in title_lower for w in ['融资', '并购', '估值', '上市', 'ipo', '轮', '领投']):
                           categories["融资速报"].append(item)
-                      elif any(w in title_lower for w in ['芯片', '机器人', '具身', '传感器', '硬件', 'figure', '特斯拉']):
+                      elif any(w in title_lower for w in ['芯片', '机器人', '具身', '传感器', '硬件', 'figure']):
                           categories["行业动态-AI硬件/具身智能"].append(item)
                       else:
                           categories["行业动态-大模型"].append(item)
               
+              # 确保每类至少1条
               all_items = items[:]
               for cat in categories:
                   if not categories[cat] and all_items:
@@ -231,6 +300,7 @@ jobs:
           classified = classify_by_llm(deduped_results)
           print(f"分类结果: 融资{len(classified['融资速报'])}条, 大模型{len(classified['行业动态-大模型'])}条, 硬件{len(classified['行业动态-AI硬件/具身智能'])}条")
 
+          # 构建扁平版本（小程序用，不分组）
           final_results = []
           for cat_name in ["融资速报", "行业动态-大模型", "行业动态-AI硬件/具身智能"]:
               for item in classified[cat_name]:
@@ -239,6 +309,7 @@ jobs:
           for i, item in enumerate(final_results, 1):
               item['index'] = i
 
+          # 标准JSON（小程序用）
           news_data_standard = {
               "date": date_str,
               "header": {
@@ -248,6 +319,7 @@ jobs:
               "news": final_results
           }
 
+          # 分组JSON（飞书用）
           news_data_grouped = {
               "date": date_str,
               "header": {
@@ -270,6 +342,7 @@ jobs:
               ]
           }
 
+          # 构建飞书卡片（分组格式）
           def build_feishu_card_grouped():
               elements = []
               elements.append({
@@ -284,10 +357,7 @@ jobs:
               if classified["融资速报"]:
                   elements.append({
                       "tag": "div",
-                      "text": {
-                          "tag": "lark_md",
-                          "content": "**💰 融资速报**"
-                      }
+                      "text": {"tag": "lark_md", "content": "**💰 融资速报**"}
                   })
                   for item in classified["融资速报"]:
                       elements.append({
@@ -302,10 +372,7 @@ jobs:
               if classified["行业动态-大模型"]:
                   elements.append({
                       "tag": "div",
-                      "text": {
-                          "tag": "lark_md",
-                          "content": "**🧠 行业动态-大模型**"
-                      }
+                      "text": {"tag": "lark_md", "content": "**🧠 行业动态-大模型**"}
                   })
                   for item in classified["行业动态-大模型"]:
                       elements.append({
@@ -320,10 +387,7 @@ jobs:
               if classified["行业动态-AI硬件/具身智能"]:
                   elements.append({
                       "tag": "div",
-                      "text": {
-                          "tag": "lark_md",
-                          "content": "**🤖 行业动态-AI硬件/具身智能**"
-                      }
+                      "text": {"tag": "lark_md", "content": "**🤖 行业动态-AI硬件/具身智能**"}
                   })
                   for item in classified["行业动态-AI硬件/具身智能"]:
                       elements.append({
@@ -355,6 +419,7 @@ jobs:
                   }
               }
 
+          # 发送到飞书
           try:
               payload = build_feishu_card_grouped()
               resp = requests.post(FEISHU_WEBHOOK_1, json=payload, headers={"Content-Type": "application/json"})
@@ -369,6 +434,7 @@ jobs:
           except Exception as e:
               print(f"Feishu 2 failed: {e}")
 
+          # 发送到Server酱
           try:
               lines = [f"🤖 AI业界动态早报", f"machinariumAIsupport | 每日早8点自动推送", f"📅 {date_str}", "=" * 40, ""]
               
@@ -405,6 +471,7 @@ jobs:
           except Exception as e:
               print(f"ServerChan failed: {e}")
 
+          # 保存文件
           try:
               import os
               import glob
@@ -450,5 +517,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
           git add docs/
-          git diff --staged --quiet || git commit -m "Update daily news for $(date +%Y-%m-%d) with Tavily source [skip ci]"
+          git diff --staged --quiet || git commit -m "Update daily news for $(date +%Y-%m-%d) with dual-search & translation [skip ci]"
           git push
