@@ -1,0 +1,120 @@
+name: Test Tavily Dual Search
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Test Tavily Two-round Search
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: |
+          pip install requests
+          python << 'EOF'
+          import requests
+          import json
+          import os
+
+          TAVILY_API_KEY = os.environ['TAVILY_API_KEY']
+          os.makedirs('test', exist_ok=True)
+
+          # 第一轮：融资类
+          query_funding = "(融资 OR 并购 OR 上市 OR IPO OR 估值 OR 轮次) AND (AI OR 人工智能 OR 大模型 OR 机器人 OR 智谱 OR 月之暗面 OR OpenAI)"
+          
+          print("=== 第一轮：融资查询 ===")
+          resp1 = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': query_funding,
+                  'max_results': 20,
+                  'time_range': 'day',
+                  'search_depth': 'basic',
+                  'exclude_domains': ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 'facebook.com']
+              },
+              timeout=150
+          )
+          data1 = resp1.json()
+          results1 = data1.get('results', [])
+          print(f"融资类返回: {len(results1)} 条")
+
+          # 第二轮：人事/产品类（不含融资词）
+          query_hr = "(离职 OR 加盟 OR 创业 OR 任命 OR 负责人 OR 创始人 OR 发布 OR 推出) AND (AI OR 人工智能 OR 大模型 OR 字节 OR 阿里 OR 腾讯 OR OpenAI OR 智谱 OR MiniMax OR 阶跃)"
+          
+          print("\n=== 第二轮：人事/产品查询 ===")
+          resp2 = requests.post(
+              'https://api.tavily.com/search',
+              json={
+                  'api_key': TAVILY_API_KEY,
+                  'query': query_hr,
+                  'max_results': 20,
+                  'time_range': 'day',
+                  'search_depth': 'basic',
+                  'exclude_domains': ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 'facebook.com']
+              },
+              timeout=150
+          )
+          data2 = resp2.get('results', [])
+          print(f"人事/产品类返回: {len(results2)} 条")
+
+          # 合并并去重（基于URL）
+          seen_urls = set()
+          combined = []
+          
+          for item in results1:
+              url = item['url']
+              if url not in seen_urls:
+                  seen_urls.add(url)
+                  combined.append({
+                      'title': item['title'],
+                      'url': url,
+                      'content': item.get('content', '')[:100],
+                      'category': '融资'
+                  })
+          
+          for item in results2:
+              url = item['url']
+              if url not in seen_urls:
+                  seen_urls.add(url)
+                  combined.append({
+                      'title': item['title'],
+                      'url': url,
+                      'content': item.get('content', '')[:100],
+                      'category': '人事/产品'
+                  })
+
+          print(f"\n=== 合并结果 ===")
+          print(f"去重前总计: {len(results1) + len(results2)} 条")
+          print(f"去重后总计: {len(combined)} 条")
+          print(f"\n前5条预览:")
+          for i, item in enumerate(combined[:5], 1):
+              print(f"{i}. [{item['category']}] {item['title'][:40]}")
+
+          output = {
+              'date': '2026-04-06',
+              'query_funding': query_funding,
+              'query_hr': query_hr,
+              'count_funding': len(results1),
+              'count_hr': len(results2),
+              'count_combined': len(combined),
+              'results': combined
+          }
+
+          with open('test/tavily-dual.json', 'w', encoding='utf-8') as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+          
+          print(f"\n✅ 已保存到 test/tavily-dual.json")
+          EOF
+      
+      - name: Commit result
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add test/
+          git commit -m "Test Tavily dual search [skip ci]" || echo "No changes"
+          git push
