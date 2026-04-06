@@ -9,34 +9,52 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "三个月时间月之暗面上市态度已变 - 新浪财经",
-          "link": "https://finance.sina.com.cn/jjxw/2026-04-06/doc-inhtnpyp1565088.shtml",
-          "snippet": "不到三个月时间，有关Kimi母公司——月之暗面（Moonshot AI）的上市问题，已经发生了逆转。 月之暗面创始人杨植麟在2025年年底的全员信中写道：“我们...",
+          "title": "AI-fueled capital floods Hong Kong as IPOs hit five-year high",
+          "link": "https://biz.chosun.com/en/en-international/2026/04/06/LLFD24UUCZHF7IKVMAXMNVQGBA/",
+          "snippet": "Hong Kong tops global IPO fundraising as China's AI surge draws investors and lifts new listings. Th...",
           "index": 11
         },
         {
-          "title": "高层变动、股权结构表曝光！上市前夕，这家万亿AI巨头风波不断！",
-          "link": "https://finance.sina.cn/stock/jdts/2026-04-05/detail-inhtnckv6842566.d.html?vt=4&cid=76993&node_id=76993",
-          "snippet": "## 新浪财经 股票. # 高层变动、股权结构表曝光！上市前夕，这家万亿AI巨头风波不断！. 市场资讯  04.05 19:22. 人工智能巨头OpenAI正加...",
+          "title": "OpenAI Operations Chief Changes Jobs Amid IPO Preparations",
+          "link": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-operations-chief-changes-jobs-amid-ipo-preparations/",
+          "snippet": "*   [Today](https://www.pymnts.com/today-on-pymnts/). *   [B2B](https://www.pymnts.com/topic/b2b/). ...",
           "index": 2
         },
         {
-          "title": "中国AI热潮点燃资本市场，港股Q1融资规模创五年新高 - 华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3769292",
-          "snippet": "# 中国AI热潮点燃资本市场，港股Q1融资规模创五年新高 - 华尔街见闻. # 中国AI热潮点燃资本市场，港股Q1融资规模创五年新高. Image 2: art...",
+          "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their ...",
+          "link": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9?gaa_at=eafs&gaa_n=AWEtsqc4JQEo8QIDL1ik6KgZbpikJu_6jx8vWoHj_KI-mDgnLzzaSQIe8TPZ&gaa_ts=69d39469&gaa_sig=71JpQmFja6tMkRcFYxVQAkDH2UKlM-glfaU128U_R7UkwBTKaqxz9tsczcvbk9E4gBMF2EtMRSnckKmsg2MCOg%3D%3D",
+          "snippet": "Below are charts drawn from confidential financial documents that both companies shared with investo...",
           "index": 3
         },
         {
-          "title": "刚刚，OpenAI 创下史上最大融资纪录，估值逼近万亿 - 爱范儿",
-          "link": "https://www.ifanr.com/1660522",
-          "snippet": "# 刚刚，OpenAI 创下史上最大融资纪录，估值逼近万亿. 当所有人还沉浸在 Claude Code 源码泄露事件时，OpenAI 又双叒叕出来抢头条了。就在...",
+          "title": "The $1.25 Trillion Merger and the \"Mythos\" Leak: Why This Week ...",
+          "link": "https://medium.com/@sulemanfayyaz070/the-1-25-trillion-merger-and-the-mythos-leak-why-this-week-changed-ai-forever-15d2cae3d085",
+          "snippet": "Elon Musk has merged SpaceX and xAI into a single entity valued at a staggering $1.25 trillion.While...",
           "index": 4
         },
         {
-          "title": "字节拆分，借商汤在A股上市 - 雪球",
-          "link": "https://xueqiu.com/3865124074/382722375",
-          "snippet": "场景、流量、变现、商业化落地商汤技术天下第一，但之前一直： 技术强→ 没地方赚大钱。 2. 字节最缺什么？ 顶尖AI视觉、AIGC生产、硬核科技底座",
+          "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions: Report",
+          "link": "https://telecom.economictimes.indiatimes.com/news/portal-in-portal/satcom/musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-report/130049965",
+          "snippet": "Elon Musk is requiring banks and other advisers working on SpaceX's planned IPO to buy subscriptions...",
           "index": 5
+        },
+        {
+          "title": "ROC推进IPO以竞逐全球AI安全赛道 - fintech.tv",
+          "link": "https://fintech.tv/building-trust-in-ai-roc-pushes-ipo-to-compete-in-global-ai-security-race/",
+          "snippet": "ROC是一家美国多模态视觉AI开发商和制造商，提供主权生物识别、视频分析和任务情报......",
+          "index": 6
+        },
+        {
+          "title": "Firmus valuation approaches $7b in fresh Nvidia investment - AFR",
+          "link": "https://www.afr.com/technology/firmus-valuation-approaches-7b-in-fresh-nvidia-investment-20260406-p5zlle",
+          "snippet": "Artificial intelligence infrastructure start-up Firmus is expected to be valued at nearly $7 billion...",
+          "index": 7
+        },
+        {
+          "title": "OpenAI Is Making Microsoft and Ashton Kutcher Incredibly Rich",
+          "link": "https://www.inc.com/kevin-haynes/openai-is-making-microsoft-and-ashton-kutcher-incredibly-rich/91327086",
+          "snippet": "Microsoft made a smart bet on OpenAI back in 2019. An initial $13 billion investment, supplemented w...",
+          "index": 8
         }
       ]
     },
@@ -44,33 +62,15 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "免费AI翻篇，大厂要“刹”住Token狂奔 - 新闻- 科学网",
-          "link": "https://news.sciencenet.cn/htmlnews/2026/4/562627.shtm",
-          "snippet": "| |  | | --- | | 作者：徐晶卉 来源：文汇报 发布时间：2026/4/5 13:47:07  选择字号：小 中  大 | | |  | | --...",
-          "index": 6
-        },
-        {
-          "title": "聊聊MiniMax和智谱财报：谁先跑通盈利模型？ - OFweek人工智能网",
-          "link": "https://www.ofweek.com/ai/2026-04/ART-201717-12003-30684417.html",
-          "snippet": "Ϊ“AIС”ԱڣMiniMaxAI̷2025Ʊչʾı. ǰ߽һݸ߶ⷺCˣ߶ˣɼر;󲿷ʽѹڶģ̬ӦǰûϡһҴͳTo BƼҵӦֻ̣MaaSģͼ񣩵ĵײ. ݲƱ֤йAI...",
-          "index": 7
-        },
-        {
-          "title": "阿里千问3.6Plus大模型登顶全球模型调用排行榜首 - 新闻- 科学网",
-          "link": "https://news.sciencenet.cn/htmlnews/2026/4/562629.shtm",
-          "snippet": "| |  | | --- | | 来源：中国新闻网 发布时间：2026/4/5 16:54:25  选择字号：小 中  大 | | |  | | --- | |...",
-          "index": 8
-        },
-        {
-          "title": "“离职同事被炼化成AI”引热议，暗藏法律问题 - 新浪财经",
-          "link": "https://finance.sina.cn/2026-04-05/detail-inhtmnnv8491995.d.html?oid=WA%200821%207001%200763%20(FORTRESS)%20Kusen%20Pintu%20Baja%20Fortress%20Pilangkenceng%20Madiun&vt=4",
-          "snippet": "清华大学公共管理学院长聘副教授，清华大学科技发展与治理研究中心主任助理陈天昊长期关注AI治理并有着丰富实操经验，他在一开始，便犀利发问：如果人的工作经验、协作方...",
+          "title": "doola Launches AI Co-Founder to Expand Business-in-a-Box™ for ...",
+          "link": "https://www.knoxnews.com/press-release/story/166293/doola-launches-ai-co-founder-to-expand-business-in-a-box-for-global-e-commerce-entrepreneurs/",
+          "snippet": "What to know about Lady Vols roster, transfer portal for 2026-27 seasonAdams: Why Tennessee football...",
           "index": 9
         },
         {
-          "title": "Microsoft Unveils Proprietary AI Models Under MAI Brand, Diverging ...",
-          "link": "https://af.net/realtime/microsoft-unveils-proprietary-ai-models-under-mai-brand-diverging-from-openai-partnership/",
-          "snippet": "AI4Bharat, based at IIT Madras, is leveraging advanced AI technologies to addres...",
+          "title": "Newsom signs new executive order increasing AI protections",
+          "link": "https://newuniversity.org/2026/04/05/newsom-signs-new-executive-order-increasing-ai-protections/",
+          "snippet": "# Newsom signs new executive order increasing AI protections. This order requires entities who wish ...",
           "index": 10
         }
       ]
@@ -79,9 +79,9 @@
       "name": "行业动态-AI硬件/具身智能",
       "items": [
         {
-          "title": "三个月时间月之暗面上市态度已变 - 新浪财经",
-          "link": "https://finance.sina.com.cn/jjxw/2026-04-06/doc-inhtnpyp1565088.shtml",
-          "snippet": "不到三个月时间，有关Kimi母公司——月之暗面（Moonshot AI）的上市问题，已经发生了逆转。 月之暗面创始人杨植麟在2025年年底的全员信中写道：“我们...",
+          "title": "AI-fueled capital floods Hong Kong as IPOs hit five-year high",
+          "link": "https://biz.chosun.com/en/en-international/2026/04/06/LLFD24UUCZHF7IKVMAXMNVQGBA/",
+          "snippet": "Hong Kong tops global IPO fundraising as China's AI surge draws investors and lifts new listings. Th...",
           "index": 11
         }
       ]
