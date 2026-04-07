@@ -59,6 +59,8 @@ jobs:
                   return None
 
           def call_kimi(prompt, max_tokens=1000):
+              import time
+              time.sleep(1.5)  # 【加这行】每次调用等1.5秒，避免429
               if not prompt or len(prompt.strip()) < 10:
                   return None
               try:
