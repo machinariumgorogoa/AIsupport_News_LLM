@@ -1,0 +1,31 @@
+{
+  "date": "2026-04-07",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI巨头Anthropic斥资4亿美元进军生命科学领域，投资Coefficient公司深化生物技术与医疗健康AI应用布局。",
+          "link": "https://www.biospace.com/business/ai-giant-anthropic-leans-into-life-sciences-with-400m-coefficient-bio-catch",
+          "snippet": "AI巨头Anthropic斥资4亿美元进军生命科学领域，投资Coefficient公司深化生物技术与医疗健康AI应用布局。",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "OpenAI领导层在IPO计划上存在分歧",
+          "link": "https://www.pymnts.com/news/ipo/2026/openai-leaders-at-odds-over-ipo-plans/",
+          "snippet": "OpenAI领导层在IPO（首次公开募股）计划上存在分歧，部分高管希望保持私有，另一些则倾向推进上市。",
+          "index": 2
+        }
+      ]
+    }
+  ]
+}
