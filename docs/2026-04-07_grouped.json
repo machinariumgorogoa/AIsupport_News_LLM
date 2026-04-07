@@ -9,10 +9,34 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "AI巨头Anthropic斥资4亿美元进军生命科学领域，投资Coefficient公司深化生物技术与医疗健康AI应用布局。",
+          "title": "AI Giant Anthropic Leans Into Life Sciences With $400M Coefficient ...",
           "link": "https://www.biospace.com/business/ai-giant-anthropic-leans-into-life-sciences-with-400m-coefficient-bio-catch",
-          "snippet": "AI巨头Anthropic斥资4亿美元进军生命科学领域，投资Coefficient公司深化生物技术与医疗健康AI应用布局。",
+          "snippet": "[![Image 1: BioSpace logo](https://static.biospace.com/dims4/default/193f35f/214...",
           "index": 1
+        },
+        {
+          "title": "Artificial Intelligence (AI) VC Deals - InforCapital",
+          "link": "https://inforcapital.com/vc-deals/sector/artificial-intelligence-ai/",
+          "snippet": "Beacon Biosignals Raises $97M+ for AI Brain Health Tech. AI Cybersecurity Firm T...",
+          "index": 2
+        },
+        {
+          "title": "OpenAI Leaders At Odds Over IPO Plans - PYMNTS.com",
+          "link": "https://www.pymnts.com/news/ipo/2026/openai-leaders-at-odds-over-ipo-plans/",
+          "snippet": "*   [B2B](https://www.pymnts.com/topic/b2b/). *   [Retail](https://www.pymnts.co...",
+          "index": 3
+        },
+        {
+          "title": "AI, Valuations and the U.S. Market - TD Bank",
+          "link": "https://www.td.com/ca/en/asset-management/insights/blog/ai-valuations-and-the-us-market",
+          "snippet": "[Skip to main content](https://www.td.com/ca/en/asset-management/insights/blog/a...",
+          "index": 4
+        },
+        {
+          "title": "Due diligence reimagined: AI's impact on valuations | Protiviti Australia",
+          "link": "https://www.protiviti.com/au-en/insights-paper/due-diligence-reimagined-ai-impact-valuations",
+          "snippet": "Protiviti Global Buisiness Consulting in Australia Protiviti Global Buisiness Consulting in Australia. + Hong Kong S.A.R., China (English). + Hong Kong S.A.R., China (English).",
+          "index": 5
         }
       ]
     },
@@ -20,10 +44,34 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "OpenAI领导层在IPO计划上存在分歧",
-          "link": "https://www.pymnts.com/news/ipo/2026/openai-leaders-at-odds-over-ipo-plans/",
-          "snippet": "OpenAI领导层在IPO（首次公开募股）计划上存在分歧，部分高管希望保持私有，另一些则倾向推进上市。",
-          "index": 2
+          "title": "Co-Founder & CEO - AI for AEC Project Proposals at FutureSight",
+          "link": "https://wellfound.com/jobs/4063348-co-founder-ceo-ai-for-aec-project-proposals",
+          "snippet": "FutureSight is seeking an experienced, visionary Founding CEO to lead the launch...",
+          "index": 6
+        },
+        {
+          "title": "While other CEOs freeze entry-level roles, this AI founder is hiring ...",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/while-other-ceos-freeze-entry-070800991.html",
+          "snippet": "Some 40% of bosses have admitted they plan to hire even fewer grads this year be...",
+          "index": 7
+        },
+        {
+          "title": "CEO, AI Products | United States | JobLeads.com",
+          "link": "https://www.jobleads.com/us/job/ceo-ai-products-aiforbussiness-remote--united-states--efbebbb6042bbfdeebb8b622ae99244d8",
+          "snippet": "A dynamic tech company is seeking a CEO to lead its AI Products division. This e...",
+          "index": 8
+        },
+        {
+          "title": "While other CEOs freeze entry-level roles, this AI founder is hiring ...",
+          "link": "https://www.aol.com/articles/while-other-ceos-freeze-entry-070800384.html",
+          "snippet": "# While other CEOs freeze entry-level roles, this AI founder is hiring Gen Z wit...",
+          "index": 9
+        },
+        {
+          "title": "doola Launches AI Co-Founder to Expand Business-in-a-Box™ for ...",
+          "link": "https://www.blufftontoday.com/press-release/story/68664/doola-launches-ai-co-founder-to-expand-business-in-a-box-for-global-e-commerce-entrepreneurs/",
+          "snippet": "New AI-powered platform combines formation, compliance, and financial operations...",
+          "index": 10
         }
       ]
     }
