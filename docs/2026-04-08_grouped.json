@@ -9,33 +9,33 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "英伟达支持的数据中心公司Firmus完成5.05亿美元融资，瞄准20亿澳元ASX IPO",
-          "link": "https://thenextweb.com/news/firmus-asx-ipo-blackstone-ai-data-center-australia",
-          "snippet": "澳大利亚AI基础设施公司Firmus获5.05亿美元融资，计划赴澳交所进行20亿澳元IPO，英伟达为投资方之一。",
+          "title": "Firmus融资激增聚焦AI基础设施IPO浪潮",
+          "link": "https://au.finance.yahoo.com/news/tech-bytes-firmus-funding-surge-031800412.html",
+          "snippet": "本轮融资使公司估值达55亿美元，凸显AI基础设施领域IPO热潮持续升温。",
           "index": 1
         },
         {
-          "title": "AI新闻综述——OpenAI完成史上最大规模融资",
-          "link": "https://www.jdsupra.com/legalnews/ai-news-roundup-openai-closes-largest-8979555/",
-          "snippet": "OpenAI宣布完成超65亿美元融资，估值达1570亿美元，创下生成式AI领域私募融资纪录。",
+          "title": "资助未来：驱动AI发展的资本来源",
+          "link": "https://www.williamblair.com/Insights/Funding-the-Future-The-Capital-Sources-Fueling-AI",
+          "snippet": "William Blair | 分析推动人工智能发展的多元化资本渠道，探讨风险投资与战略融资趋势。",
           "index": 2
         },
         {
-          "title": "AI网络公司Aria Networks融资1.25亿美元",
-          "link": "https://www.reuters.com/business/ai-networking-firm-aria-networks-raises-125-million-funding-2026-04-07/",
-          "snippet": "智能网络优化公司Aria Networks获1.25亿美元融资，用于扩展其AI驱动的网络自动化平台。",
+          "title": "SpaceX、OpenAI和Anthropic有望重启IPO市场",
+          "link": "https://fortune.com/2026/04/07/spacex-openai-anthropic-reopen-ipo-market-crunchbase/",
+          "snippet": "SpaceX秘密IPO文件及AI巨头上市计划或将重新激活公开市场融资通道。",
           "index": 3
         },
         {
-          "title": "谷歌CEO皮查伊称\"AI转型\"为投资初创企业创造机遇",
-          "link": "https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html",
-          "snippet": "皮查伊表示AI技术范式转移为投资初创公司带来历史性机遇，谷歌将持续加注AI生态布局。",
+          "title": "AI时代的估值逻辑 - Asymco",
+          "link": "https://asymco.com/2026/04/07/valuation-in-a-time-of-ai/",
+          "snippet": "Asymco探讨人工智能时代企业价值的精确衡量标准与新型估值方法论。",
           "index": 4
         },
         {
-          "title": "05亿美元融资，瞄准20亿澳元ASX IPO",
-          "link": "https://news.ontario.ca/en/release/1007259/ontario_welcomes_microsofts_ai_infrastructure_expansion",
-          "snippet": "澳大利亚AI基础设施公司Firmus获5.05亿美元融资，计划赴澳交所进行20亿澳元IPO，英伟达为投资方之一。",
+          "title": "Q1 AI初创企业融资2210亿美元，风投热度不减",
+          "link": "https://ramaonhealthcare.com/ai-startups-raised-221-billion-in-q1-as-venture-funding-shows-no-slowdown/",
+          "snippet": "尽管市场波动，一季度AI初创企业融资规模仍达2210亿美元，显示资本持续涌入。",
           "index": 5
         }
       ]
@@ -44,33 +44,33 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "Reddit CEO称AI可使工程师效率提升50%",
+          "title": "Reddit CEO赫夫曼称AI可使工程师效率提升50%",
           "link": "https://finance.yahoo.com/sectors/technology/articles/reddit-ceo-steve-huffman-says-173110772.html",
-          "snippet": "史蒂夫·霍夫曼表示，熟练使用AI工具的工程师生产力可能比传统工程师高出50%。",
+          "snippet": "史蒂夫·赫夫曼表示，掌握AI工具的候选人编码效率可能提升50%，重塑工程人才标准。",
           "index": 6
         },
         {
-          "title": "贝索斯的Project Prometheus从OpenAI挖角xAI联合创始人",
+          "title": "贝佐斯Project Prometheus从OpenAI挖角xAI联合创始人",
           "link": "https://www.msn.com/en-us/money/companies/jeff-bezos-project-prometheus-hires-xai-co-founder-from-openai-report/ar-AA20kJce",
-          "snippet": "贝索斯AI新公司Project Prometheus聘请前xAI联合创始人伊戈尔·巴布什金，其此前刚加入OpenAI数月。",
+          "snippet": "贝佐斯秘密AI实验室从OpenAI招募xAI前联合创始人，组建顶尖研发团队。",
           "index": 7
         },
         {
-          "title": "贝索斯秘密AI实验室聘请曾加入OpenAI的xAI联合创始人",
+          "title": "贝佐斯创业实验室聘请曾加入OpenAI的xAI联合创始人",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezoss-startup-lab-hires-xai-co-founder-who-had-joined-openai/articleshow/130081987.cms",
-          "snippet": "贝索斯旗下神秘AI初创实验室挖角前xAI联合创始人，该高管此前曾短暂任职OpenAI。",
+          "snippet": "贝佐斯秘密AI初创实验室成功招募近期跳槽OpenAI的xAI联合创始人加盟。",
           "index": 8
         },
         {
-          "title": "AI创始人因AI原生特质聘用零经验的Z世代",
+          "title": "AI创始人青睐零经验Z世代，称其具备独特优势",
           "link": "https://www.aol.com/finance/while-other-ceos-freeze-entry-070800384.html",
-          "snippet": "某AI初创公司创始人表示，因Z世代具备AI原生思维，正招聘无工作经验但精通AI工具的年轻人。",
+          "snippet": "AI公司创始人表示，尽管缺乏经验，Gen Z在AI原生思维方面具有不可替代优势。",
           "index": 9
         },
         {
-          "title": "\"我们要用AI做什么？\"谨慎时代的创新之路",
+          "title": "\"那么，我们用AI做什么？\"谨慎时代的创新之道",
           "link": "https://fortune.com/2026/04/07/ai-innovation-caution-pwc-experian-vml/",
-          "snippet": "AI席卷商业界之际，企业在保持审慎态度的同时，积极探索生成式AI技术的创新应用场景与落地策略。",
+          "snippet": "在AI监管趋严背景下，探讨企业如何在审慎态度与技术创新之间寻求平衡发展。",
           "index": 10
         }
       ]
