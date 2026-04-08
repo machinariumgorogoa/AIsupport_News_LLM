@@ -9,33 +9,33 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "SpaceX, OpenAI, and Anthropic could reopen the IPO market—or ...",
-          "link": "https://fortune.com/2026/04/07/spacex-openai-anthropic-reopen-ipo-market-crunchbase/",
-          "snippet": "- **Xoople**, a Madrid, Spain-based AI data infrastructure company, raised $130 ...",
+          "title": "英伟达支持的数据中心公司Firmus完成5.05亿美元融资，瞄准20亿澳元ASX IPO",
+          "link": "https://thenextweb.com/news/firmus-asx-ipo-blackstone-ai-data-center-australia",
+          "snippet": "澳大利亚AI基础设施公司Firmus获5.05亿美元融资，计划赴澳交所进行20亿澳元IPO，英伟达为投资方之一。",
           "index": 1
         },
         {
-          "title": "U.S. Department of Energy Announces $34 Million to Pair Artificial ...",
-          "link": "https://arpa-e.energy.gov/news-and-events/news-and-insights/us-department-energy-announces-34-million-pair-artificial-intelligence-autonomous-labs-accelerate-catalyst-development-0",
-          "snippet": "U.S. Department of Energy Announces $34 Million to Pair Artificial Intelligence with Autonomous Labs to Accelerate Catalyst Development · University of Wisconsin",
+          "title": "AI新闻综述——OpenAI完成史上最大规模融资",
+          "link": "https://www.jdsupra.com/legalnews/ai-news-roundup-openai-closes-largest-8979555/",
+          "snippet": "OpenAI宣布完成超65亿美元融资，估值达1570亿美元，创下生成式AI领域私募融资纪录。",
           "index": 2
         },
         {
-          "title": "Depressed tech valuations could offer entry point for investors",
-          "link": "https://www.bnnbloomberg.ca/business/2026/04/07/depressed-tech-valuations-could-offer-entry-point-for-investors-goldman-sachs-says/",
-          "snippet": "Technology stocks, including those from the United States, are looking cheap fol...",
+          "title": "AI网络公司Aria Networks融资1.25亿美元",
+          "link": "https://www.reuters.com/business/ai-networking-firm-aria-networks-raises-125-million-funding-2026-04-07/",
+          "snippet": "智能网络优化公司Aria Networks获1.25亿美元融资，用于扩展其AI驱动的网络自动化平台。",
           "index": 3
         },
         {
-          "title": "Funding the Future: The Capital Sources Fueling AI | William Blair",
-          "link": "https://www.williamblair.com/Insights/Funding-the-Future-The-Capital-Sources-Fueling-AI",
-          "snippet": "That has created a multi-layered ecosystem that includes venture capital and gro...",
+          "title": "谷歌CEO皮查伊称\"AI转型\"为投资初创企业创造机遇",
+          "link": "https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html",
+          "snippet": "皮查伊表示AI技术范式转移为投资初创公司带来历史性机遇，谷歌将持续加注AI生态布局。",
           "index": 4
         },
         {
-          "title": "AI and SpaceX IPOs tipped as 'biggest games in town' - Investor Daily",
-          "link": "https://www.investordaily.com.au/ai-and-spacex-ipos-tipped-as-biggest-games-in-town/",
-          "snippet": "Visiting from New York, managing director and portfolio manager Tom Davis spoke ...",
+          "title": "05亿美元融资，瞄准20亿澳元ASX IPO",
+          "link": "https://news.ontario.ca/en/release/1007259/ontario_welcomes_microsofts_ai_infrastructure_expansion",
+          "snippet": "澳大利亚AI基础设施公司Firmus获5.05亿美元融资，计划赴澳交所进行20亿澳元IPO，英伟达为投资方之一。",
           "index": 5
         }
       ]
@@ -44,33 +44,33 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "This AI founder is hiring Gen Z with zero experience because they're ...",
-          "link": "https://www.aol.com/finance/while-other-ceos-freeze-entry-070800384.html",
-          "snippet": "# This AI founder is hiring Gen Z with zero experience because they’re not stuck...",
+          "title": "Reddit CEO称AI可使工程师效率提升50%",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/reddit-ceo-steve-huffman-says-173110772.html",
+          "snippet": "史蒂夫·霍夫曼表示，熟练使用AI工具的工程师生产力可能比传统工程师高出50%。",
           "index": 6
         },
         {
-          "title": "Jeff Bezos' Project Prometheus hires xAI co-founder from OpenAI",
+          "title": "贝索斯的Project Prometheus从OpenAI挖角xAI联合创始人",
           "link": "https://www.msn.com/en-us/money/companies/jeff-bezos-project-prometheus-hires-xai-co-founder-from-openai-report/ar-AA20kJce",
-          "snippet": "Project Prometheus, the artificial intelligence company created by Amazon (AMZN)...",
+          "snippet": "贝索斯AI新公司Project Prometheus聘请前xAI联合创始人伊戈尔·巴布什金，其此前刚加入OpenAI数月。",
           "index": 7
         },
         {
-          "title": "Jeff Bezos's startup lab hires xAI co-founder who had joined OpenAI",
+          "title": "贝索斯秘密AI实验室聘请曾加入OpenAI的xAI联合创始人",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezoss-startup-lab-hires-xai-co-founder-who-had-joined-openai/articleshow/130081987.cms",
-          "snippet": "Jeff Bezos's \"secretive\" artificial intelligence (AI) startup lab reportedly con...",
+          "snippet": "贝索斯旗下神秘AI初创实验室挖角前xAI联合创始人，该高管此前曾短暂任职OpenAI。",
           "index": 8
         },
         {
-          "title": "Reddit CEO Steve Huffman Says AI Could Make Engineers '50 ...",
-          "link": "https://finance.yahoo.com/sectors/technology/articles/reddit-ceo-steve-huffman-says-173110772.html",
-          "snippet": "Candidates trained on artificial intelligence tools could have an edge at Reddit...",
+          "title": "AI创始人因AI原生特质聘用零经验的Z世代",
+          "link": "https://www.aol.com/finance/while-other-ceos-freeze-entry-070800384.html",
+          "snippet": "某AI初创公司创始人表示，因Z世代具备AI原生思维，正招聘无工作经验但精通AI工具的年轻人。",
           "index": 9
         },
         {
-          "title": "AI Founder's Co. Inks Record-Breaking NYC Office Lease - Law360",
-          "link": "https://www.law360.com/articles/2462090/ai-founder-s-co-inks-record-breaking-nyc-office-lease",
-          "snippet": "* Sign up for our newsletters. CaseMap® CLE On-Demand Context CourtLink® Digital...",
+          "title": "\"我们要用AI做什么？\"谨慎时代的创新之路",
+          "link": "https://fortune.com/2026/04/07/ai-innovation-caution-pwc-experian-vml/",
+          "snippet": "AI席卷商业界之际，企业在保持审慎态度的同时，积极探索生成式AI技术的创新应用场景与落地策略。",
           "index": 10
         }
       ]
