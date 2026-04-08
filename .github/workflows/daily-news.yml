@@ -60,24 +60,41 @@ jobs:
 
           def call_kimi(prompt, max_tokens=1000):
               import time
-              time.sleep(1.5)  # 【加这行】每次调用等1.5秒，避免429
+              
               if not prompt or len(prompt.strip()) < 10:
                   return None
-              try:
-                  response = requests.post(
-                      'https://api.moonshot.cn/v1/chat/completions',
-                      headers={'Authorization': 'Bearer ' + KIMI_API_KEY, 'Content-Type': 'application/json'},
-                      json={'model': 'kimi-k2.5', 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1, 'max_tokens': max_tokens},
-                      timeout=300
-                  )
-                  if response.status_code == 200:
-                      result = response.json()
-                      if 'choices' in result:
-                          return result['choices'][0]['message']['content'].strip()
-                  else:
-                      print('    [ERR] API失败: ' + str(response.status_code))
-              except Exception as e:
-                  print('    [ERR] 异常: ' + str(e))
+              
+              # 指数退避：最多试3次，遇到429就重试
+              max_retries = 3
+              for attempt in range(max_retries):
+                  try:
+                      response = requests.post(
+                          'https://api.moonshot.cn/v1/chat/completions',
+                          headers={'Authorization': 'Bearer ' + KIMI_API_KEY, 'Content-Type': 'application/json'},
+                          json={'model': 'kimi-k2.5', 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1, 'max_tokens': max_tokens},
+                          timeout=300
+                      )
+                      
+                      if response.status_code == 200:
+                          result = response.json()
+                          if 'choices' in result:
+                              return result['choices'][0]['message']['content'].strip()
+                      elif response.status_code == 429:
+                          # 指数退避：第1次等2秒，第2次等4秒，第3次等8秒
+                          wait_time = 2 ** (attempt + 1)
+                          print('    [WARN] 429限流，等待' + str(wait_time) + '秒后重试... (第' + str(attempt+1) + '次)')
+                          time.sleep(wait_time)
+                          continue  # 继续下一次重试
+                      else:
+                          print('    [ERR] API失败: ' + str(response.status_code))
+                          return None
+                          
+                  except Exception as e:
+                      print('    [ERR] 异常: ' + str(e))
+                      return None
+              
+              # 3次都失败了
+              print('    [ERR] 重试3次后仍失败，放弃')
               return None
 
           # Fallback提示词
