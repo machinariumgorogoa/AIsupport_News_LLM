@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-09",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "IPO每周权衡：亏损的AI IPO？ - Renaissance Capital",
+          "link": "https://www.renaissancecapital.com/IPO-Center/News/118147/IPO-Weekly-Weigh-in-Money-losing-AI-IPOs",
+          "snippet": "本期Avery探讨AI企业IPO前的财务预期与估值挑战",
+          "index": 1
+        },
+        {
+          "title": "Sam Altman是OpenAI巨型IPO中的自身风险因素：Dave Lee",
+          "link": "https://news.bloomberglaw.com/artificial-intelligence/sam-altman-is-his-own-risk-factor-in-openais-mega-ipo-dave-lee",
+          "snippet": "本质上，IPO标志着ChatGPT缔造者商业模式走向成熟与转型",
+          "index": 2
+        },
+        {
+          "title": "Altman是OpenAI巨型IPO中的自身风险因素",
+          "link": "https://www.bloomberg.com/opinion/articles/2026-04-08/openai-s-ipo-value-is-threatened-by-its-sam-altman-s-lack-of-focus",
+          "snippet": "Dave Lee指出Altman个人争议可能成为OpenAI上市进程中的不确定因素",
+          "index": 3
+        },
+        {
+          "title": "GenAI如何加速M&A交易 - Auris Finance",
+          "link": "https://auris-finance.fr/en/genai-is-accelerating-ma-transactions/",
+          "snippet": "AI应用平均可降低交易成本，提升并购尽职调查与执行效率",
+          "index": 4
+        },
+        {
+          "title": "AI在M&A中的应用：智能企业如何在2026年获胜",
+          "link": "https://learn.g2.com/ai-in-mergers-and-acquisitions?hsLang=en",
+          "snippet": "探讨生成式AI在并购中的益处与风险，及企业未来制胜策略",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "黑人女性创立的AI劳动力平台创造历史",
+          "link": "https://inlandvalleynews.com/black-woman-owned-ai-workforce-platform-makes-history-selected-for-nvidia-inception-program/",
+          "snippet": "该平台创始人兼CEO推动AI招聘领域实现多元化历史性突破",
+          "index": 6
+        },
+        {
+          "title": "Snowflake CEO：AI正在加速数据使用",
+          "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/snowflake-ceo-ai-is-accelerating-data-use",
+          "snippet": "StartupHub.ai | CEO探讨AI agents如何加速企业数据应用与实时分析决策",
+          "index": 7
+        },
+        {
+          "title": "阿里巴巴成立CEO领导的技术委员会应对AI竞争加剧",
+          "link": "https://www.scmp.com/tech/article/3349428/alibaba-creates-ceo-led-technology-committee-amid-intensifying-ai-race",
+          "snippet": "面对AI竞争白热化，集团组建高层技术决策委员会统筹战略",
+          "index": 8
+        },
+        {
+          "title": "Sankalp Arora谈融资7400万美元用AI视觉实现仓储实时智能",
+          "link": "https://alejandrocremades.com/sankalp-arora/",
+          "snippet": "创始人获投7400万美元，以AI视觉技术推动仓储物流智能化升级",
+          "index": 9
+        },
+        {
+          "title": "HelloSky将AI引入高管招聘核心工作流程",
+          "link": "https://huntscanlon.com/hellosky-bringing-ai-into-the-core-workflows-of-executive-search-firms/",
+          "snippet": "企业探索AI应用场景，聚焦Executive Search核心流程的智能化转型",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
