@@ -9,33 +9,33 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "Software/Tech Private Equity: Harness AI or Get Left Behind",
-          "link": "https://www.alvarezandmarsal.com/thought-leadership/software-and-tech-private-equity-outlook-leverage-ai-effectively-or-get-left-behind-in-2026",
-          "snippet": "... AI-enabled software, AI infrastructure, and data center capacity. Here too, government funding initiatives may emerge as a key driver. While funding for AI",
+          "title": "Cerebras IPO：市场对AI算力定价方式有误",
+          "link": "https://drrobertcastellano.substack.com/p/cerebras-ipo-the-market-is-pricing",
+          "snippet": "Cerebras以220-250亿美元估值重返公开市场，反映市场对AI计算基础设施价值的重估。",
           "index": 1
         },
         {
-          "title": "XAI reorganizes its engineering team ahead of SpaceX IPO - AOL",
-          "link": "https://www.aol.com/articles/xai-reorganizes-engineering-team-ahead-225826490.html",
-          "snippet": "Several xAI cofounders left the company after it was acquired by SpaceX in Febru...",
+          "title": "软件/科技私募股权投资：拥抱AI或被淘汰",
+          "link": "https://www.alvarezandmarsal.com/thought-leadership/software-and-tech-private-equity-outlook-leverage-ai-effectively-or-get-left-behind-in-2026",
+          "snippet": "私募股权基金正加速布局AI赋能软件、AI基础设施及数据中心领域，以免错失投资机遇。",
           "index": 2
         },
         {
-          "title": "Altman Is His Own Risk Factor in OpenAI's Mega-IPO",
-          "link": "https://www.advisorperspectives.com/articles/2026/04/09/altman-own-risk-factor-openais-mega-ipo",
-          "snippet": "In essence, the IPO is an acknowledgement that the ChatGPT-maker, which just raised $122 billion from investors at a valuation of $852 billion, needs what seems",
+          "title": "2024年AI与机器学习并购交易",
+          "link": "https://www.privsource.com/acquisitions/activity/buyout/ai-machine-learning/2024",
+          "snippet": "标普全球收购生成式AI与NLP技术公司ProntoNLP，凸显AI并购市场持续升温。",
           "index": 3
         },
         {
-          "title": "AI & Machine Learning Buyout Acquisitions in 2024 | PrivSource",
-          "link": "https://www.privsource.com/acquisitions/activity/buyout/ai-machine-learning/2024",
-          "snippet": "S&P Global has acquired ProntoNLP, a generative AI and NLP tooling provider, and...",
+          "title": "SpaceX、xAI与X有何共同点？是特斯拉吗？",
+          "link": "https://cleantechnica.com/2026/04/09/what-do-spacex-xai-and-x-have-in-common-is-it-tesla/",
+          "snippet": "马斯克旗下SpaceX、xAI和X平台展现协同效应，引发市场对其与特斯拉整合的猜测。",
           "index": 4
         },
         {
-          "title": "Former DeepMind Researchers Bet on Visual AI With New Startup",
-          "link": "https://www.bloomberg.com/news/articles/2026-04-09/ex-google-deepmind-researchers-debut-startup-called-elorian-focused-on-visual-ai",
-          "snippet": "The company has emerged from stealth mode with $55 million in funding and a $300 million valuation, and is working on building better-reasoning visual models.",
+          "title": "退出时的AI估值鸿沟：医疗科技公司为何不应...",
+          "link": "https://www.mpo-mag.com/the-ai-valuation-gap-at-exit-why-medtech-companies-should-not-ignore-ai/",
+          "snippet": "医疗科技买方已开始关注AI能力，缺乏AI布局的公司在退出时面临估值折扣风险。",
           "index": 5
         }
       ]
@@ -44,33 +44,33 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "The top priority for Adobe’s next CEO? Prepping for the ‘age of agents’  – Computerworld",
-          "link": "https://www.computerworld.com/article/4155960/the-top-priority-for-adobes-next-ceo-prepping-for-the-age-of-agents.html",
-          "snippet": "For whomever is tapped next for the top job — the search is expected to take sev...",
+          "title": "AI如何帮助一人（及其兄弟）打造18亿美元公司",
+          "link": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
+          "snippet": "创业者借助AI技术快速扩张业务，成功创建价值18亿美元的企业帝国。",
           "index": 6
         },
         {
-          "title": "Founder of Digital Tailor Agency launches RepliFuse.ai to help ...",
-          "link": "https://www.cgsmc.com/markets/stocks.php?article=abnewswire-2026-4-9-founder-of-digital-tailor-agency-launches-replifuseai-to-help-teams-turn-social-media-comments-into-actionable-intelligence",
-          "snippet": "Founder of Digital Tailor Agency launches RepliFuse.ai to help teams turn social...",
+          "title": "TAM推出Mawrid——解锁机构知识的生成式AI解决方案",
+          "link": "https://www.consultancy-me.com/news/13097/tam-launches-mawrid-a-generative-ai-solution-that-unlocks-institutional-knowledge",
+          "snippet": "TAM发布生成式AI产品Mawrid，旨在挖掘企业机构知识，提升组织内部信息利用效率。",
           "index": 7
         },
         {
-          "title": "Meta's long-awaited AI model is finally here. But can it make money? - CNBC",
-          "link": "https://www.cnbc.com/2026/04/09/metas-long-awaited-ai-model-is-finally-here-but-can-it-make-money.html",
-          "snippet": "[Skip Navigation](https://www.cnbc.com/2026/04/09/metas-long-awaited-ai-model-is...",
+          "title": "亚马逊加倍押注人工智能，CEO Andy...",
+          "link": "https://x.com/FXCMOfficial/status/2042255900241494122",
+          "snippet": "亚马逊CEO Jassy重申AI战略，加大在生成式AI和云基础设施领域的投资力度。",
           "index": 8
         },
         {
-          "title": "OpenAI's CEO wants to give every American a share of AI profits ...",
-          "link": "https://moneywise.com/news/investing/openai-sam-altman-ai-profit-sharing-public-wealth-fund-4-day-work-week",
-          "snippet": "A 13-page plan proposes a public wealth fund, robot taxes and 32-hour workweeks ...",
+          "title": "人工智能 - VivaTech",
+          "link": "https://vivatech.com/themes/artificial-intelligence",
+          "snippet": "VivaTech探讨哪些AI能带来可衡量的进步，哪些仅是算法炒作，聚焦实际应用价值。",
           "index": 9
         },
         {
-          "title": "AI in Business Podcast - Emerj Artificial Intelligence Research",
-          "link": "https://emerj.com/artificial-intelligence-podcast/",
-          "snippet": "# AI in Business Podcast - Emerj Artificial Intelligence Research. *   [AI White...",
+          "title": "领导者正从记录系统转向工作系统",
+          "link": "https://www.weforum.org/stories/2026/04/how-leaders-using-ai-are-moving-from-systems-of-record-to-systems-of-work/",
+          "snippet": "企业领导者正将IT投资从传统记录系统转向AI驱动的工作系统，以提升生产力。",
           "index": 10
         }
       ]
