@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-10",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Software/Tech Private Equity: Harness AI or Get Left Behind",
+          "link": "https://www.alvarezandmarsal.com/thought-leadership/software-and-tech-private-equity-outlook-leverage-ai-effectively-or-get-left-behind-in-2026",
+          "snippet": "... AI-enabled software, AI infrastructure, and data center capacity. Here too, government funding initiatives may emerge as a key driver. While funding for AI",
+          "index": 1
+        },
+        {
+          "title": "XAI reorganizes its engineering team ahead of SpaceX IPO - AOL",
+          "link": "https://www.aol.com/articles/xai-reorganizes-engineering-team-ahead-225826490.html",
+          "snippet": "Several xAI cofounders left the company after it was acquired by SpaceX in Febru...",
+          "index": 2
+        },
+        {
+          "title": "Altman Is His Own Risk Factor in OpenAI's Mega-IPO",
+          "link": "https://www.advisorperspectives.com/articles/2026/04/09/altman-own-risk-factor-openais-mega-ipo",
+          "snippet": "In essence, the IPO is an acknowledgement that the ChatGPT-maker, which just raised $122 billion from investors at a valuation of $852 billion, needs what seems",
+          "index": 3
+        },
+        {
+          "title": "AI & Machine Learning Buyout Acquisitions in 2024 | PrivSource",
+          "link": "https://www.privsource.com/acquisitions/activity/buyout/ai-machine-learning/2024",
+          "snippet": "S&P Global has acquired ProntoNLP, a generative AI and NLP tooling provider, and...",
+          "index": 4
+        },
+        {
+          "title": "Former DeepMind Researchers Bet on Visual AI With New Startup",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-09/ex-google-deepmind-researchers-debut-startup-called-elorian-focused-on-visual-ai",
+          "snippet": "The company has emerged from stealth mode with $55 million in funding and a $300 million valuation, and is working on building better-reasoning visual models.",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "The top priority for Adobe’s next CEO? Prepping for the ‘age of agents’  – Computerworld",
+          "link": "https://www.computerworld.com/article/4155960/the-top-priority-for-adobes-next-ceo-prepping-for-the-age-of-agents.html",
+          "snippet": "For whomever is tapped next for the top job — the search is expected to take sev...",
+          "index": 6
+        },
+        {
+          "title": "Founder of Digital Tailor Agency launches RepliFuse.ai to help ...",
+          "link": "https://www.cgsmc.com/markets/stocks.php?article=abnewswire-2026-4-9-founder-of-digital-tailor-agency-launches-replifuseai-to-help-teams-turn-social-media-comments-into-actionable-intelligence",
+          "snippet": "Founder of Digital Tailor Agency launches RepliFuse.ai to help teams turn social...",
+          "index": 7
+        },
+        {
+          "title": "Meta's long-awaited AI model is finally here. But can it make money? - CNBC",
+          "link": "https://www.cnbc.com/2026/04/09/metas-long-awaited-ai-model-is-finally-here-but-can-it-make-money.html",
+          "snippet": "[Skip Navigation](https://www.cnbc.com/2026/04/09/metas-long-awaited-ai-model-is...",
+          "index": 8
+        },
+        {
+          "title": "OpenAI's CEO wants to give every American a share of AI profits ...",
+          "link": "https://moneywise.com/news/investing/openai-sam-altman-ai-profit-sharing-public-wealth-fund-4-day-work-week",
+          "snippet": "A 13-page plan proposes a public wealth fund, robot taxes and 32-hour workweeks ...",
+          "index": 9
+        },
+        {
+          "title": "AI in Business Podcast - Emerj Artificial Intelligence Research",
+          "link": "https://emerj.com/artificial-intelligence-podcast/",
+          "snippet": "# AI in Business Podcast - Emerj Artificial Intelligence Research. *   [AI White...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
