@@ -1,89 +1,97 @@
 {
   "date": "2026-04-10",
-  "count": 29,
+  "count": 32,
   "items": [
     {
-      "title": "Cerebras IPO：市场对AI算力定价方式有误",
-      "link": "https://drrobertcastellano.substack.com/p/cerebras-ipo-the-market-is-pricing",
-      "snippet": "Cerebras以220-250亿美元估值重返公开市场，反映市场对AI计算基础设施价值的重估。",
-      "raw_snippet": "Cerebras is returning to the public markets at a $22–25 billion valuation, but this IPO is not about whether the company can build a wafer-scale processor.",
+      "title": "SpaceX、xAI和X有何共同点？是特斯拉吗？",
+      "link": "https://cleantechnica.com/2026/04/09/what-do-spacex-xai-and-x-have-in-common-is-it-tesla/",
+      "snippet": "亿万富翁马斯克快速整合三家公司的策略震惊业界，协同效应或成关键。",
+      "raw_snippet": "Billionaire Elon Musk surprised lots of people with his quick February merger between SpaceX and his artificial intelligence lab xAI. As if the February melding of Musk companies weren’t enough — SpaceX also has the social media site X in its holdings — now the speculation is that another merger might be ahead: let SpaceX and Tesla become one! Musk originally described how the plan to merge SpaceX with xAI would relocate data centers to outer space, where they could flourish with unlimited solar power and lack of regulations. > “Tesla already owns a stake in SpaceX after the company’s $2 billion investment in xAI got converted to SpaceX shares following SpaceX’s acquisition of xAI earlier this year initially tying both of Musk’s ventures closer together but still represents <1% of SpaceX’s expected valuation. Why would a merger with Tesla make the difference in the SpaceX IPO? * “Why has Elon Musk merged his rocket company with his AI startup??” Dan Milmo.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "软件/科技私募股权投资：拥抱AI或被淘汰",
-      "link": "https://www.alvarezandmarsal.com/thought-leadership/software-and-tech-private-equity-outlook-leverage-ai-effectively-or-get-left-behind-in-2026",
-      "snippet": "私募股权基金正加速布局AI赋能软件、AI基础设施及数据中心领域，以免错失投资机遇。",
-      "raw_snippet": "... AI-enabled software, AI infrastructure, and data center capacity. Here too, government funding initiatives may emerge as a key driver. While funding for AI",
+      "title": "KreditBee融资2.8亿美元，IPO前估值达15亿美元",
+      "link": "https://ventureburn.com/kreditbee-raises-280m-hits-1-5b-valuation-ahead-of-ipo/?amp=1",
+      "snippet": "印度金融科技公司KreditBee在IPO前完成2.8亿美元融资，估值升至15亿美元。",
+      "raw_snippet": "# KreditBee Raises $280M, Hits $1.5B Valuation Ahead of IPO. KreditBee raised $280 million in a Series E funding round, and this pushes its valuation to $1.5 billion. KreditBee proposes to use the recently acquired funds for the expansion of the digital lending ecosystem they provide, alongside the development of their fintech infrastructure. KreditBee is believed to be raising its last capital before heading for the IPO stage. NeuBird AI Raises $19.3M to Expand Agentic AI for Enterprise Ops. 10 Easiest Crypto to Mine: Best Profitable Coins In Apr 2026. Starfish Space Raises $100M to Expand Satellite Servicing Missions. Sidewinder Therapeutics Raises $137 Million to Advance Bispecific ADCs. Aurascape Raises $50M to Secure Enterprise AI Applications. Collide Capital secures $95M Fund II to support early-stage fintech, supply chain, and future-of-work startups. Collide Capital Secures $95M Fund II to Expand Early-Stage Investments. Court Square Capital Partners Fund V raises $3.8B to expand middle market investments. Court Square Capital Raises $3.8B to Expand Middle Market Investments.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "2024年AI与机器学习并购交易",
-      "link": "https://www.privsource.com/acquisitions/activity/buyout/ai-machine-learning/2024",
-      "snippet": "标普全球收购生成式AI与NLP技术公司ProntoNLP，凸显AI并购市场持续升温。",
-      "raw_snippet": "S&P Global has acquired ProntoNLP, a generative AI and NLP tooling provider, and will integrate the company's models and LLM-based signal tools into S&P Global Market Intelligence. :   BoostKPI Inc., Jelled.ai Inc. Inflection AI has acquired two AI startups, BoostKPI Inc. and Jelled.ai Inc., to expand capabilities for its Inflection for Enterprise platform. * ChapsVision Acquires Sinequa to Strengthen AI and Enterprise Search Capabilities. Generative AI startup Typeface has acquired Treat, a NYC-based AI company that creates personalized product images, and Narrato, an AI content-creation and workflow platform originally launched in Australia. Applied Systems has acquired Planck, an AI-based data platform for commercial insurance, to accelerate and expand AI capabilities across Applied's global insurance software portfolio. * HH Global Acquires Northell Partners Ltd. HH Global has completed the acquisition of Northell Partners Ltd to strengthen its marketing activation capabilities by integrating Northell's AI and machine-learning solutions. Census, the San Francisco-based data activation and reverse ETL platform, has acquired Fulcrum, an AI-led growth platform that provides advanced customer segmentation and personalization capabilities.",
+      "title": "Gene Munster称华尔街误判SpaceX IPO",
+      "link": "https://www.businessinsider.com/spacex-ipo-gene-munster-elon-musk-terafab-ai-satellites-2026-4",
+      "snippet": "投资者误解SpaceX IPO价值，真正机会在于其Starlink卫星互联网业务潜力。",
+      "raw_snippet": "# Investors are getting the SpaceX IPO wrong, and the real value is in its 'sovereign AI,' hedge fund manager Gene Munster says. Deepwater Asset Management founder Gene Munster thinks investors are looking at SpaceX's coming IPO wrong. * Tech investor Gene Munster thinks Wall Street is getting a key detail about the SpaceX IPO wrong. Wall Street is eager to get a piece of SpaceX's historic IPO, but one prominent hedge fund manager thinks investors are missing the big picture regarding what could end up being the biggest driver of the company's valuation. Gene Munster, managing partner at Deepwater Asset Management, recently shared his take on X, laying out what he thinks is the most important aspect of SpaceX's value, and that he thinks it's something investors are overlooking. \"Investors looking at the SpaceX IPO are focused on the launch business and Starlink subscribers,\" Munster wrote.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "SpaceX、xAI与X有何共同点？是特斯拉吗？",
-      "link": "https://cleantechnica.com/2026/04/09/what-do-spacex-xai-and-x-have-in-common-is-it-tesla/",
-      "snippet": "马斯克旗下SpaceX、xAI和X平台展现协同效应，引发市场对其与特斯拉整合的猜测。",
-      "raw_snippet": "Billionaire Elon Musk surprised lots of people with his quick February merger between SpaceX and his artificial intelligence lab xAI. As if the February melding of Musk companies weren’t enough — SpaceX also has the social media site X in its holdings — now the speculation is that another merger might be ahead: let SpaceX and Tesla become one! Musk originally described how the plan to merge SpaceX with xAI would relocate data centers to outer space, where they could flourish with unlimited solar power and lack of regulations. > “Tesla already owns a stake in SpaceX after the company’s $2 billion investment in xAI got converted to SpaceX shares following SpaceX’s acquisition of xAI earlier this year initially tying both of Musk’s ventures closer together but still represents <1% of SpaceX’s expected valuation. Why would a merger with Tesla make the difference in the SpaceX IPO? * “Why has Elon Musk merged his rocket company with his AI startup??” Dan Milmo.",
+      "title": "佛罗里达州总检察长对OpenAI展开调查",
+      "link": "https://www.cnbc.com/2026/04/09/florida-ag-opens-probe-into-openai-ahead-of-potential-ipo.html",
+      "snippet": "佛罗里达州AG在OpenAI潜在IPO前启动调查，关注数据隐私及商业实践合规性。",
+      "raw_snippet": "# Florida AG opens probe into OpenAI ahead of potential IPO. Florida Attorney General James Uthmeier on Thursday launched an investigation into OpenAI and its chatbot ChatGPT, as the artificial intelligence firm prepares for an IPO that could value it at up to $1 trillion. In a video posted to X, Uthmeier said there were concerns about whether OpenAI's data and AI technologies could fall \"into the hands of America's enemies, such as the Chinese Communist Party.\". Uthmeier also said ChatGPT, which has over 900 million weekly active users, had been linked to criminal behavior, including child sex abuse and the encouragement of suicide and self-harm. While acknowledging AI as a \"monumental leap\" in technology, Uthmeier said it should supplement, support and advance mankind, not \"lead to an existential crisis or our ultimate demise.\". California Attorney General Rob Bonta and Delaware Attorney General Kathy Jennings sent a letter to OpenAI in September 2025 expressing deep concern over increased reports of how OpenAI's products interact with children.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 4
     },
     {
-      "title": "退出时的AI估值鸿沟：医疗科技公司为何不应...",
-      "link": "https://www.mpo-mag.com/the-ai-valuation-gap-at-exit-why-medtech-companies-should-not-ignore-ai/",
-      "snippet": "医疗科技买方已开始关注AI能力，缺乏AI布局的公司在退出时面临估值折扣风险。",
-      "raw_snippet": "The medtech buyers who will set valuations are already asking AI-specific questions during initial conversations.",
+      "title": "Altman是OpenAI mega-IPO的风险因素",
+      "link": "https://www.advisorperspectives.com/articles/2026/04/09/altman-own-risk-factor-openais-mega-ipo",
+      "snippet": "IPO标志着ChatGPT开发商承认发展模式面临挑战，Altman个人成为关键风险点。",
+      "raw_snippet": "In essence, the IPO is an acknowledgement that the ChatGPT-maker, which just raised $122 billion from investors at a valuation of $852 billion, needs what seems",
       "is_chinese": false,
       "source_type": "funding",
       "index": 5
     },
     {
-      "title": "Technology due diligence: what impact does AI have on tech assets?",
-      "link": "https://www.dedale.com/articles/technology-due-diligence-what-impact-does-ai-have-on-tech-assets",
-      "snippet": "Technology due diligence enables investors to anticipate risks that may impact valuation and post-acquisition costs. Artificial intelligence introduces an",
-      "raw_snippet": "Technology due diligence enables investors to anticipate risks that may impact valuation and post-acquisition costs. Artificial intelligence introduces an",
+      "title": "Software/Tech Private Equity: Harness AI or Get Left Behind",
+      "link": "https://www.alvarezandmarsal.com/thought-leadership/software-and-tech-private-equity-outlook-leverage-ai-effectively-or-get-left-behind-in-2026",
+      "snippet": "... AI-enabled software, AI infrastructure, and data center capacity. Here too, government funding initiatives may emerge as a key driver. While funding for AI",
+      "raw_snippet": "... AI-enabled software, AI infrastructure, and data center capacity. Here too, government funding initiatives may emerge as a key driver. While funding for AI",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "BYTE Acquisition Corp. Completes Business Combination with ...",
-      "link": "https://www.privsource.com/acquisitions/deal/byte-acquisition-corp-completes-business-combination-with-airship-ai-ArSNlv",
-      "snippet": "AI Infrastructure Partnership (AIP) Consortium Acquires Aligned Data Centers in ~$40B Deal. October 15, 2025. Infrastructure. The Artificial Intelligence",
-      "raw_snippet": "AI Infrastructure Partnership (AIP) Consortium Acquires Aligned Data Centers in ~$40B Deal. October 15, 2025. Infrastructure. The Artificial Intelligence",
+      "title": "AfterQuery raises $30M at $300M valuation from Altos Ventures as AI labs race for expert training data — TFN",
+      "link": "https://techfundingnews.com/afterquery-30m-series-a-expert-data/",
+      "snippet": "### AfterQuery raises $30M at $300M valuation from Altos Ventures as AI labs rac...",
+      "raw_snippet": "### AfterQuery raises $30M at $300M valuation from Altos Ventures as AI labs race for expert training data. ### Flashpass lands $4.1M from J2 Ventures to help state governments retrain workers displaced by AI. ###### AfterQuery raises $30M at $300M valuation from Altos Ventures as AI labs race for expert training data. ###### Flashpass lands $4.1M from J2 Ventures to help state governments retrain workers displaced by AI. # AfterQuery raises $30M at $300M valuation from Altos Ventures as AI labs race for expert training data. AfterQuery offers two main products: high-quality datasets that capture expert reasoning in specific fields and training environments where AI models can practice decision-making in realistic professional situations. ## The founder who sold his last networking startup to Juniper just raised $125M. ## Exclusive: Flink founder raises $6M from Speedinvest to put an AI agent in charge of the cloud bill. ## AI-powered recruiting startup for senior talent raises $40M funding.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Qualcomm acquires Cornell AI software startup",
-      "link": "https://news.cornell.edu/stories/2026/04/qualcomm-acquires-cornell-ai-software-startup",
-      "snippet": "Exostellar, a startup born from Cornell research, has achieved an outcome many entrepreneurs dream of – acquisition by a Fortune 500 company.",
-      "raw_snippet": "Exostellar, a startup born from Cornell research, has achieved an outcome many entrepreneurs dream of – acquisition by a Fortune 500 company.",
+      "title": "AI & Machine Learning Buyout Acquisitions in 2024 | PrivSource",
+      "link": "https://www.privsource.com/acquisitions/activity/buyout/ai-machine-learning/2024",
+      "snippet": "S&P Global has acquired ProntoNLP, a generative AI and NLP tooling provider, and...",
+      "raw_snippet": "S&P Global has acquired ProntoNLP, a generative AI and NLP tooling provider, and will integrate the company's models and LLM-based signal tools into S&P Global Market Intelligence. :   BoostKPI Inc., Jelled.ai Inc. Inflection AI has acquired two AI startups, BoostKPI Inc. and Jelled.ai Inc., to expand capabilities for its Inflection for Enterprise platform. * ChapsVision Acquires Sinequa to Strengthen AI and Enterprise Search Capabilities. Generative AI startup Typeface has acquired Treat, a NYC-based AI company that creates personalized product images, and Narrato, an AI content-creation and workflow platform originally launched in Australia. Applied Systems has acquired Planck, an AI-based data platform for commercial insurance, to accelerate and expand AI capabilities across Applied's global insurance software portfolio. * HH Global Acquires Northell Partners Ltd. HH Global has completed the acquisition of Northell Partners Ltd to strengthen its marketing activation capabilities by integrating Northell's AI and machine-learning solutions. Census, the San Francisco-based data activation and reverse ETL platform, has acquired Fulcrum, an AI-led growth platform that provides advanced customer segmentation and personalization capabilities.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Anthropic Commits $200 Million To AI Venture With Private Equity ...",
-      "link": "https://www.aol.com/articles/anthropic-commits-200-million-ai-000106412.html",
-      "snippet": "**Anthropic** is gearing up to invest $200 million in a new venture that plans t...",
-      "raw_snippet": "**Anthropic** is gearing up to invest $200 million in a new venture that plans to sell artificial intelligence tools to portfolio companies. The new company would serve as a consulting arm for Anthropic and would focus on getting the company's AI tools embedded in day-to-day operations. OpenAI is exploring a similar partnership model with private-equity firms **TPG, Advent International, Bain Capital** and **Brookfield Asset Management** to accelerate adoption of its own software, Reuters reported last month. With a pre-money valuation of approximately $10 billion, the deal could help OpenAI fast-track its entry into the corporate market while offering private equity firms a way to support portfolio companies facing AI-driven disruption. OpenAI has shifted its Chief Operating Officer, **Brad Lightcap**, to that internal project, known inside the company as DeployCo, the WSJ reported. \"ACTIVE INVESTORS' SECRET WEAPON\" Supercharge Your Stock Market Game with the #1 \"news & everything else\" trading tool: Benzinga Pro - Click here to start Your 14-Day Trial Now!",
+      "title": "Cerebras IPO: The Market Is Pricing AI Compute the Wrong Way",
+      "link": "https://drrobertcastellano.substack.com/p/cerebras-ipo-the-market-is-pricing",
+      "snippet": "###### Introduction Revisiting the Thesis Table 1: Cerebras Financial Snapshot a...",
+      "raw_snippet": "###### Introduction Revisiting the Thesis Table 1: Cerebras Financial Snapshot and IPO Metrics Hyperscaler Adoption – OpenAI, AWS, and Distribution Table 2: Customer Concentration Transition and Distribution Expansion Inference Economics and the Breakdown of GPU Scaling Table 3: Cost Structure – Cerebras vs Nvidia GPU Clusters Groq and the Fragmentation of Inference Table 4: Inference Architecture Segmentation Implications for Nvidia, Broadcom, and Marvell Table 5: AI Infrastructure Revenue Redistribution Valuation: What the Market Is Actually Pricing Table 6: Cerebras Valuation Sensitivity Investor Takeaway. Cerebras is returning to the public markets at a $22–25 billion valuation, but this IPO is not about whether the company can build a wafer-scale processor. Cerebras is entering the public markets with a valuation that reflects expected growth rather than current scale. Unlike Nvidia (NVDA), which built its revenue base across hyperscalers, enterprises, and developers over time, Cerebras is attempting to scale through a limited set of high-value deployments.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "The $2 Trillion AI Bubble Is About to Pop. Here's Exactly How It ...",
-      "link": "https://medium.com/@aftab001x/the-2-trillion-ai-bubble-is-about-to-pop-heres-exactly-how-it-happens-0dba6f7a6a1f",
-      "snippet": "OpenAI commits to $300 billion in compute spending with Oracle over 5 years ($60B/year). Oracle stock surges 40% in one day, adding $333 billion in market value",
-      "raw_snippet": "OpenAI commits to $300 billion in compute spending with Oracle over 5 years ($60B/year). Oracle stock surges 40% in one day, adding $333 billion in market value",
+      "title": "Advisor360° Acquires Parrot AI - PrivSource",
+      "link": "https://www.privsource.com/acquisitions/deal/deSLv4",
+      "snippet": "Advisor360° acquired Parrot AI, a Boston-based generative AI company that builds meeting recording, transcription, and summarization software.",
+      "raw_snippet": "Advisor360° acquired Parrot AI, a Boston-based generative AI company that builds meeting recording, transcription, and summarization software.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Sigma Automate Raises $2.75M for AI IT Automation - InforCapital",
+      "link": "https://inforcapital.com/news/sigma-automate-emerges-from-stealth-with-275m-in-funding-to-close-the-enterprise-it-automation-gap/",
+      "snippet": "Sigma Automate secures $2.75M seed funding from Glasswing Ventures to offer AI-driven, no-code IT automation for enterprises, simplifying complex",
+      "raw_snippet": "Sigma Automate secures $2.75M seed funding from Glasswing Ventures to offer AI-driven, no-code IT automation for enterprises, simplifying complex",
       "is_chinese": false,
       "source_type": "funding"
     },
@@ -96,10 +104,34 @@
       "source_type": "funding"
     },
     {
-      "title": "How AI-Native Deal Intelligence Is Changing Private Company Research | INN",
-      "link": "https://investingnews.com/how-ai-native-deal-intelligence-is-changing-private-company-research/",
-      "snippet": "* AI-native platforms surface companies based on what they do, closing the gap t...",
-      "raw_snippet": "* AI-native platforms surface companies based on what they do, closing the gap that keyword search leaves open. Grata, the leading private market intelligence platform, was built on AI from inception, and its search capabilities yield results that are structurally different from those of a repurposed database. The platform with real AI-native search will deliver a longer, more relevant list of targets than the keyword-based platform, which may only find a few companies that have used the right words. On an AI-native platform like Grata, the results will include companies that operate the same way but might describe themselves completely differently. **Q: How does AI search compare to traditional keyword-based platforms in private market intelligence?**. Grata is the leading private market intelligence platform that unifies investment-grade data, an active network, and agentic AI so dealmakers can source smarter, screen faster, and build conviction sooner—all in one platform.",
+      "title": "The $2 Trillion AI Bubble Is About to Pop. Here's Exactly How It ...",
+      "link": "https://medium.com/@aftab001x/the-2-trillion-ai-bubble-is-about-to-pop-heres-exactly-how-it-happens-0dba6f7a6a1f",
+      "snippet": "OpenAI commits to $300 billion in compute spending with Oracle over 5 years ($60B/year). Oracle stock surges 40% in one day, adding $333 billion in market value",
+      "raw_snippet": "OpenAI commits to $300 billion in compute spending with Oracle over 5 years ($60B/year). Oracle stock surges 40% in one day, adding $333 billion in market value",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Anthropic Commits $200 Million To AI Venture With Private Equity ...",
+      "link": "https://www.aol.com/articles/anthropic-commits-200-million-ai-000106412.html",
+      "snippet": "**Anthropic** is gearing up to invest $200 million in a new venture that plans t...",
+      "raw_snippet": "**Anthropic** is gearing up to invest $200 million in a new venture that plans to sell artificial intelligence tools to portfolio companies. The new company would serve as a consulting arm for Anthropic and would focus on getting the company's AI tools embedded in day-to-day operations. OpenAI is exploring a similar partnership model with private-equity firms **TPG, Advent International, Bain Capital** and **Brookfield Asset Management** to accelerate adoption of its own software, Reuters reported last month. With a pre-money valuation of approximately $10 billion, the deal could help OpenAI fast-track its entry into the corporate market while offering private equity firms a way to support portfolio companies facing AI-driven disruption. OpenAI has shifted its Chief Operating Officer, **Brad Lightcap**, to that internal project, known inside the company as DeployCo, the WSJ reported. \"ACTIVE INVESTORS' SECRET WEAPON\" Supercharge Your Stock Market Game with the #1 \"news & everything else\" trading tool: Benzinga Pro - Click here to start Your 14-Day Trial Now!",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "US defense official overseeing AI reaped millions selling xAI stock ...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
+      "snippet": "[Skip to navigation](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai...",
+      "raw_snippet": "[Skip to navigation](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael#navigation). *   [News](https://www.theguardian.com/). *   [View all News](https://www.theguardian.com/). *   [About Us](https://www.theguardian.com/about). *   [About Us](https://www.theguardian.com/about). [View image in fullscreen](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael#img-1). [skip past newsletter promotion](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael#EmailSignup-skip-link-14). *   [![Image 5](https://i.guim.co.uk/img/media/e8d114d7a2085d2a0f6b9cda817046887ee6deb0/426_267_3000_2400/master/3000.jpg?width=75&dpr=1&s=none&crop=none) #### US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael). *   [![Image 7](https://i.guim.co.uk/img/media/4d61eda495f7123345e8a36c953241fdca32c71c/419_0_4208_3368/master/4208.jpg?width=75&dpr=1&s=none&crop=none) #### Live Melania Trump says she is ‘not Epstein’s victim’ while denying having any relationship with sex offender and Ghislaine Maxwell – live](https://www.theguardian.com/us-news/live/2026/apr/09/democrats-war-powers-resolution-iran-republicans-melania-donald-trump-latest-news-updates). *   [](https://www.theguardian.com/us-news/2026/apr/02/randy-george-pete-hegseth-us-army)![Image 10](https://i.guim.co.uk/img/media/64a8ab069b122740cb3ebf9b43a08dd0adc59d12/94_0_2813_2250/master/2813.jpg?width=220&dpr=1&s=none&crop=5%3A4)   ### Top US army officer steps down after Hegseth reportedly demanded removal 6d ago. *   [](https://www.theguardian.com/us-news/2026/apr/09/california-ice-shooting-man-accusation)![Image 22](https://i.guim.co.uk/img/media/5a909edd57aaeb1726f17776b8d5b02e1e4c925f/359_0_3591_2873/master/3591.jpg?width=220&dpr=1&s=none&crop=5%3A4)   ### ICE  California man shot by ICE says officials falsely labeled him a gang member 2h ago. *   [Most viewed Across the Guardian](https://www.theguardian.com/us-news/2026/apr/09/tabs-popular-0). 1.   [#### US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael). 3.   [#### US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael). *   [News](https://www.theguardian.com/). *   [About us](https://www.theguardian.com/info/about-guardian-us). [Back to top](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael#top).",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "AfterQuery Raises $30 Million Series A Round at $300 Million Valuation -\nLas Vegas Sun News",
+      "link": "https://lasvegassun.com/news/2026/apr/09/afterquery-raises-30-million-series-a-round-at-300/",
+      "snippet": "AfterQuery delivers datasets and reinforcement learning environments reflecting ...",
+      "raw_snippet": "AfterQuery delivers datasets and reinforcement learning environments reflecting specialized sector expertise to every leading AI lab, critical components for the advancement of frontier AI models with professional capabilities. “Human data is an enormous market and critical bottleneck for frontier models, and for advancing the quality of AI,” said Zac Mohring of Altos Ventures, who will join AfterQuery’s Board of Directors. In the 14 months since launch, AfterQuery has supported every leading AI lab, working with nearly 100,000 verified practicing professionals across sectors including finance, software engineering, medicine and law to meet their growing need for quality data. AfterQuery is an applied research lab investigating the boundaries of AI capabilities and curating high-quality datasets to power the world’s leading AI models. The company’s platform works with nearly 100,000 domain experts to create data solutions that close the gap between general intelligence and real-world expertise for top AI labs and enterprises.",
       "is_chinese": false,
       "source_type": "funding"
     },
@@ -112,52 +144,36 @@
       "source_type": "funding"
     },
     {
-      "title": "Chinese startup ShengShu raises $293 million to advance ...",
-      "link": "https://www.reuters.com/world/asia-pacific/chinese-startup-shengshu-raises-293-million-advance-artificial-general-2026-04-10/",
-      "snippet": "*   [World](https://www.reuters.com/world/). ## [Browse World](https://www.reute...",
-      "raw_snippet": "*   [World](https://www.reuters.com/world/). ## [Browse World](https://www.reuters.com/world/). *   [Africa](https://www.reuters.com/world/africa/). *   [Americas](https://www.reuters.com/world/americas/). *   [China](https://www.reuters.com/world/china/). *   [Europe](https://www.reuters.com/world/europe/). *   [India](https://www.reuters.com/world/india/). *   [Iran War](https://www.reuters.com/world/iran/). *   [Japan](https://www.reuters.com/world/japan/). *   [United States](https://www.reuters.com/world/us/). *   [Business](https://www.reuters.com/business/). ## [Browse Business](https://www.reuters.com/business/). *   [Energy](https://www.reuters.com/business/energy/). *   [Take Five](https://www.reuters.com/business/take-five/). *   [Markets](https://www.reuters.com/markets/). ## [Browse Markets](https://www.reuters.com/markets/). *   [On the Money](https://www.reuters.com/markets/on-the-money/). *   [Commodities](https://www.reuters.com/markets/commodities/). *   [Currencies](https://www.reuters.com/markets/currencies/). *   [Deals](https://www.reuters.com/markets/deals/). *   [ETFs](https://www.reuters.com/markets/etf/). *   [Funds](https://www.reuters.com/markets/funds/). *   [Stocks](https://www.reuters.com/markets/stocks/). *   [U.S. Markets](https://www.reuters.com/markets/us/). *   [Wealth](https://www.reuters.com/markets/wealth/). *   [Sustainability](https://www.reuters.com/sustainability/). ## [Browse Sustainability](https://www.reuters.com/sustainability/). *   [Legal](https://www.reuters.com/legal/). ## [Browse Legal](https://www.reuters.com/legal/). ## [Commentary](https://www.reuters.com/commentary/). ## [Technology](https://www.reuters.com/technology/). ## [Investigations](https://www.reuters.com/investigations/). ## [Sports](https://www.reuters.com/sports/). ## [Science](https://www.reuters.com/science/). ## [Lifestyle](https://www.reuters.com/lifestyle/). ## [Graphics](https://www.reuters.com/graphics/). ## [Pictures](https://www.reuters.com/pictures/). ## [Podcasts](https://www.reuters.com/podcasts/). ## [Live](https://www.reuters.com/live/). ## [Video](https://www.reuters.com/video/). ## [World](https://www.reuters.com/world/). *   [Home](https://www.reuters.com/). *   [Archive](https://www.reuters.com/archive/). *    [Videos](https://www.reuters.com/video/). *    [Pictures](https://www.reuters.com/pictures/). *    [Graphics](https://www.reuters.com/graphics/). *    [Podcasts](https://www.reuters.com/podcasts/). *   [Home](https://www.reuters.com/). *   [Archive](https://www.reuters.com/archive/). *   [World](https://www.reuters.com/world/). *   [Business](https://www.reuters.com/business/). *   [Markets](https://www.reuters.com/markets/). *   [Sustainability](https://www.reuters.com/sustainability/). *   [Legal](https://www.reuters.com/legal/). *   [Breakingviews](https://www.reuters.com/breakingviews/). *   [Technology](https://www.reuters.com/technology/). *   [Investigations](https://www.reuters.com/investigations/). *   [Sports](https://www.reuters.com/sports/). *   [Science](https://www.reuters.com/science/). *   [Lifestyle](https://www.reuters.com/lifestyle/). *    [Videos](https://www.reuters.com/video/). *    [Pictures](https://www.reuters.com/pictures/). *    [Graphics](https://www.reuters.com/graphics/). *    [Podcasts](https://www.reuters.com/podcasts/). *   [Media Center, opens new tab](https://www.reuters.com/media-center/). *   [Newsletters](https://www.reuters.com/newsletters/). *   [](https://www.facebook.com/Reuters). *   [](https://www.instagram.com/Reuters). [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/).",
+      "title": "How AI-Native Deal Intelligence Is Changing Private Company",
+      "link": "https://www.globenewswire.com/news-release/2026/04/09/3270785/0/en/How-AI-Native-Deal-Intelligence-Is-Changing-Private-Company-Research.html",
+      "snippet": "Grata explains how AI-native architecture produces structurally different search results than legacy platforms with retrofitted AI layers.",
+      "raw_snippet": "Grata explains how AI-native architecture produces structurally different search results than legacy platforms with retrofitted AI layers.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Summaries from the 2025 SEI Year in Review",
-      "link": "https://www.sei.cmu.edu/library/summaries-from-the-2025-sei-year-in-review/",
-      "snippet": "# Summaries from the 2025 SEI Year in Review. ###### April 9, 2026 • Annual Repo...",
-      "raw_snippet": "# Summaries from the 2025 SEI Year in Review. ###### April 9, 2026 • Annual Report. ###### By Software Engineering Institute. The Software Engineering Institute establishes and advances software as a strategic advantage for national security. We serve the nation as a federally funded research and development center (FFRDC) sponsored by the DoW’s Office of the Under Secretary of War for Research and Engineering and are based at Carnegie Mellon University (CMU). The *2025 SEI Year in Review* highlights the work of the institute undertaken during the fiscal year spanning October 1, 2024, to September 30, 2025. title={Summaries from the 2025 SEI Year in Review},. howpublished={Carnegie Mellon University, Software Engineering Institute's Digital Library},. url={https://www.sei.cmu.edu/library/summaries-from-the-2025-sei-year-in-review/},. \"Summaries from the 2025 SEI Year in Review.\" *Carnegie Mellon University, Software Engineering Institute's Digital Library*. Carnegie Mellon's Software Engineering Institute, April 9, 2026. https://www.sei.cmu.edu/library/summaries-from-the-2025-sei-year-in-review/. Sponsored by the Department of War, the SEI is a federally funded research and development center managed by Carnegie Mellon University.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "The Allocation of Decision Authority in Three-stage Decision ...",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6440458",
-      "snippet": "We study a three-stage decision process that consists of information acquisition, project choice, and execution of the selected project.",
-      "raw_snippet": "We study a three-stage decision process that consists of information acquisition, project choice, and execution of the selected project.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "AI如何帮助一人（及其兄弟）打造18亿美元公司",
+      "title": "AI如何帮助兄弟二人打造18亿美元公司",
       "link": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
-      "snippet": "创业者借助AI技术快速扩张业务，成功创建价值18亿美元的企业帝国。",
+      "snippet": "人工智能助力企业家与其兄弟共同创立价值18亿美元企业，展现AI商业化潜力。",
       "raw_snippet": "[Skip to content](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#site-content)[Skip to site index](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#site-index)Search & Section Navigation Section Navigation. [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-sponsor). [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-story-ad-1). Pinterest, [Block](https://www.nytimes.com/2026/02/26/technology/block-square-job-cuts-ai.html) and others have cut thousands of workers in recent months, citing efficiencies enabled by A.I. Mr. Gallagher, who formerly ran a start-up that sold wristwatches, said he thought Mr. Altman’s prophecy of a one-person $1 billion company would be a firm that built A.I. He was excited when he realized he may have done it, taking an old idea — being a middleman for weight-loss drugs — and using A.I. to turbocharge it. Medvi is technically not a one-person $1 billion company, since Mr. Gallagher hired his brother and has some contractors. Medvi is also profitable, Mr. Gallagher said. [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-story-ad-2). [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-story-ad-3). [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-story-ad-4). [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-story-ad-5). He created custom tools, including [A.I. agents](https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html), or bots that perform tasks on their own, to get his software systems to communicate with one another. [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-story-ad-6). [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-story-ad-7). [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-story-ad-8). [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-story-ad-9). [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-story-ad-10). [SKIP ADVERTISEMENT](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html#after-bottom).",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "TAM推出Mawrid——解锁机构知识的生成式AI解决方案",
-      "link": "https://www.consultancy-me.com/news/13097/tam-launches-mawrid-a-generative-ai-solution-that-unlocks-institutional-knowledge",
-      "snippet": "TAM发布生成式AI产品Mawrid，旨在挖掘企业机构知识，提升组织内部信息利用效率。",
-      "raw_snippet": "TAM launches Mawrid – a generative AI solution that unlocks institutional knowledge. # TAM launches Mawrid – a generative AI solution that unlocks institutional knowledge. TAM launches Mawrid – a generative AI solution that unlocks institutional knowledge. “The launch of Mawrid empowers organisations to leverage AI to transform institutional knowledge into more accurate and impactful decisions,” said TAM. The Value Management Office: Aligning strategy with sustainable value creation   The novel VMO methodology developed by consulting and digital solutions company TAM aims to transform project management within government entities, tackling the reasons why so many strategies stall. TAM expands partner team with executive Osama Ashri   Saudi digital solutions and management consultancy company TAM has kicked off the year with a new partner among its ranks. TAM appoints Eyad Ramlawi as Chief Investment & Financial Officer   Saudi digital solutions and management consultancy TAM has brought Eyad Ramlawi on board as Chief Investment & Financial Officer.",
+      "title": "CEO——面向生产的智能传感与边缘智能",
+      "link": "https://www.creativedock.com/positions/ceo-smart-sensing-edge-intelli-295613",
+      "snippet": "该初创公司融合传感器、边缘计算(Edge Computing)和AI技术，为制造业提供智能化生产解决方案。",
+      "raw_snippet": "This venture combines sensors, edge computing, and AI to deliver real-time visibility and condition monitoring, unlocking actionable insights directly at the",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "亚马逊加倍押注人工智能，CEO Andy...",
-      "link": "https://x.com/FXCMOfficial/status/2042255900241494122",
-      "snippet": "亚马逊CEO Jassy重申AI战略，加大在生成式AI和云基础设施领域的投资力度。",
-      "raw_snippet": "$AMZN is doubling down on artificial intelligence, with CEO Andy Jassy signalling plans to potentially sell its own #AI chips to third parties,",
+      "title": "Arm CEO称AI比互联网转型\"影响更大\"",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-10/arm-ceo-says-ai-is-much-bigger-than-the-internet-shift",
+      "snippet": "Arm首席执行官表示AI热潮影响远超互联网变革，将根本重塑计算架构和产业格局。",
+      "raw_snippet": "Arm CEO Rene Haas says the artificial intelligence boom is not just another tech cycle, but rather something \"much bigger\" and more far-reaching than",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
@@ -165,34 +181,26 @@
     {
       "title": "人工智能 - VivaTech",
       "link": "https://vivatech.com/themes/artificial-intelligence",
-      "snippet": "VivaTech探讨哪些AI能带来可衡量的进步，哪些仅是算法炒作，聚焦实际应用价值。",
+      "snippet": "VivaTech峰会探讨哪些AI带来可衡量进步，哪些只是算法泡沫，聚焦AI实际商业价值。",
       "raw_snippet": "Which AI delivers measurable progress, and which is algorithmic theater? As intelligence embeds itself in every product and service, who captures the value",
       "is_chinese": false,
       "source_type": "people",
       "index": 9
     },
     {
-      "title": "领导者正从记录系统转向工作系统",
+      "title": "领导者如何利用AI从记录系统转向工作系统",
       "link": "https://www.weforum.org/stories/2026/04/how-leaders-using-ai-are-moving-from-systems-of-record-to-systems-of-work/",
-      "snippet": "企业领导者正将IT投资从传统记录系统转向AI驱动的工作系统，以提升生产力。",
+      "snippet": "企业领导者利用AI将传统记录系统(Systems of Record)升级为智能工作系统(Systems of Work)，提升运营效率。",
       "raw_snippet": "*   [Quantcast 5](https://www.weforum.org/stories/2026/04/how-leaders-using-ai-are-moving-from-systems-of-record-to-systems-of-work/#)[Learn more about this provider![Image 31: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.quantcast.com/privacy/ \"Learn more about this provider Quantcast's privacy policy - opens in a new window\")**__qca**Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **_dlt[x2]**Sets a unique ID for the session. *   [Twitter Inc.4](https://www.weforum.org/stories/2026/04/how-leaders-using-ai-are-moving-from-systems-of-record-to-systems-of-work/#)[Learn more about this provider![Image 52: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://twitter.com/en/privacy \"Learn more about this provider Twitter Inc.'s privacy policy - opens in a new window\")**guest_id**Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service.**Maximum Storage Duration**: 13 months**Type**: HTTP Cookie  **i/jot**Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.",
       "is_chinese": false,
       "source_type": "people",
       "index": 10
     },
     {
-      "title": "Revolut Enters New Era of Money Intelligence With Launch of AI ...",
-      "link": "https://ffnews.com/newsarticle/fintech/revolut-enters-new-era-of-money-intelligence-with-launch-of-ai-assistant/",
-      "snippet": "# Revolut Enters New Era of Money Intelligence With Launch of AI Assistant. This...",
-      "raw_snippet": "# Revolut Enters New Era of Money Intelligence With Launch of AI Assistant. This is more than a customer service chatbot; it is a fully integrated, agentic tool designed to offer holistic “money intelligence.” By handling complex financial tasks, like investment tracking and card management, alongside lifestyle functions, such as travel budgeting and eSIM purchases, Revolut is aggressively consolidating its super-app status. Revolut, the UK licenced bank, today announced the launch of AIR (AI by Revolut), a sophisticated in-app AI assistant designed to transform how millions of users interact with their money, manage their lifestyle and elevate their money intelligence. Revolut Enters New Era of Money Intelligence With Launch of AI Assistant. Revolut has launched AIR (AI by Revolut), an in-app AI assistant designed to transform how millions of users interact with their money and elevate their money intelligence. Revolut has launched AIR (AI by Revolut), an in-app AI assistant designed to transform how millions of users interact with their money and elevate their money intelligence.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Product Manager, Intelligence @ Heidi Health | Headline Job Board",
-      "link": "https://talent.headline.com/companies/heidi-health/jobs/73842156-product-manager-intelligence",
-      "snippet": "Howdy, we're Heidi. “The AI startup growing faster than Canva”. That's what the ...",
-      "raw_snippet": "Howdy, we're Heidi. “The AI startup growing faster than Canva”. That's what the Financial Review called us. In 18 months, we supported over 73 million",
+      "title": "Staff Product Manager Artificial Intelligence | Hireza",
+      "link": "https://hireza.wuaze.com/job/staff-product-manager-artificial-intelligence",
+      "snippet": "Inclusion at Bumble Inc. Bumble Inc. is an equal opportunity employer and we str...",
+      "raw_snippet": "Inclusion at Bumble Inc. Bumble Inc. is an equal opportunity employer and we strongly encourage people of all ages, colour, lesbian, gay, bisexual,",
       "is_chinese": false,
       "source_type": "people"
     },
@@ -205,6 +213,22 @@
       "source_type": "people"
     },
     {
+      "title": "Anthropic's New Agents Product Pressures Startup Category",
+      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropics-new-agents-product-pressures-a-crowded-startup-category/",
+      "snippet": "###### Featured. ###### Stay Current. # Anthropic’s New Agents Product Pressures...",
+      "raw_snippet": "###### Featured. ###### Stay Current. # Anthropic’s New Agents Product Pressures a Crowded Startup Category. ## Get the Full Story. Enterprises experimenting with agents have run into a familiar set of challenges, from maintaining context across sessions to coordinating multistep workflows, integrating with internal systems like CRMs and databases and staying within strict security and compliance guardrails. The result: less need to stitch together multiple vendors or build custom infrastructure, while shifting more of the application logic closer to the model itself. As recently as last week, Sycamore raised a $65 million seed round led by Coatue and Lightspeed to build what its founder described as a full agentic orchestration layer for enterprise deployments. AI infrastructure is following the same arc. *For all PYMNTS AI coverage, subscribe to the daily* AI Newsletter*.*. Anthropic’s New Agents Product Pressures a Crowded Startup Category. Anthropic’s New Agents Product Pressures a Crowded Startup Category. #### Trending News. #### The Big Story. #### Featured News. #### Subscribe.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Artificial Intelligence in ALTEN | CIeNET",
+      "link": "https://cienet.com/ai-in-alten.html",
+      "snippet": "In the era of artificial intelligence, fully leveraging AI is essential in optim...",
+      "raw_snippet": "In the era of artificial intelligence, fully leveraging AI is essential in optimizing processes, accelerating decision-making and enhancing competitiveness.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
       "title": "Category: Artificial Intelligence - AWS",
       "link": "https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/",
       "snippet": "This post shows you how to manage FM transitions in Amazon Bedrock, so you can m...",
@@ -213,10 +237,18 @@
       "source_type": "people"
     },
     {
-      "title": "Anthropic's New Agents Product Pressures Startup Category",
-      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropics-new-agents-product-pressures-a-crowded-startup-category/",
-      "snippet": "###### Featured. ###### Stay Current. # Anthropic’s New Agents Product Pressures...",
-      "raw_snippet": "###### Featured. ###### Stay Current. # Anthropic’s New Agents Product Pressures a Crowded Startup Category. ## Get the Full Story. Enterprises experimenting with agents have run into a familiar set of challenges, from maintaining context across sessions to coordinating multistep workflows, integrating with internal systems like CRMs and databases and staying within strict security and compliance guardrails. The result: less need to stitch together multiple vendors or build custom infrastructure, while shifting more of the application logic closer to the model itself. As recently as last week, Sycamore raised a $65 million seed round led by Coatue and Lightspeed to build what its founder described as a full agentic orchestration layer for enterprise deployments. AI infrastructure is following the same arc. *For all PYMNTS AI coverage, subscribe to the daily* AI Newsletter*.*. Anthropic’s New Agents Product Pressures a Crowded Startup Category. Anthropic’s New Agents Product Pressures a Crowded Startup Category. #### Trending News. #### The Big Story. #### Featured News. #### Subscribe.",
+      "title": "Senior AI Solutions Consultant, Talent Management & Learning",
+      "link": "https://www.wellsfargojobs.com/fr-ca/jobs/r-536421/senior-ai-solutions-consultant-talent-management-learning/",
+      "snippet": "The AI Solutions Consultant focuses on applying AI to improve productivity, stre...",
+      "raw_snippet": "The AI Solutions Consultant focuses on applying AI to improve productivity, streamline operations, and accelerate delivery across a broad portfolio of learning,",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Product Manager, Intelligence @ Heidi Health | Headline Job Board",
+      "link": "https://talent.headline.com/companies/heidi-health/jobs/73842156-product-manager-intelligence",
+      "snippet": "Every new job a clinician delegates to Heidi makes patients feel more attended t...",
+      "raw_snippet": "Every new job a clinician delegates to Heidi makes patients feel more attended to, cleans up health system logjams, and lets clinicians be clinicians again. We’re looking for a Product Manager to build the next generation of clinical intelligence at Heidi. Your job is to turn that into products that help clinicians, health systems, and Heidi itself make better decisions. This role blends structured data products, AI-native experiences, and exploratory product discovery. You will own how clinicians and organisations interact with their clinical data: analytics, reporting, operational insights, and the intelligent surfaces that make Heidi more valuable the more it’s used. When a clinic understands its referral patterns, when a health system sees adoption across departments, when an AI model gets smarter because the data underneath it improved: that’s your work. * Build intelligent experiences that help clinicians and health systems unlock deeper understanding from their clinical data. * Work with AI and product teams so intelligence products stay ahead of what the underlying models can do.",
       "is_chinese": false,
       "source_type": "people"
     },
@@ -229,15 +261,7 @@
       "source_type": "people"
     },
     {
-      "title": "Senior Principal AI/ML Engineer - 268546 - CBRE",
-      "link": "https://careers.cbre.com/he_IL/careers/JobDetail/Senior-Principal-AI-ML-Engineer/268546",
-      "snippet": "About CBRE Data & TechnologyCBRE is the world's largest commercial real estate s...",
-      "raw_snippet": "About CBRE Data & TechnologyCBRE is the world's largest commercial real estate services and investment firm. Our Data & Technology organization sits at the.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "6 Ways Generic LLMs Sabotage AI Builds for Competitive Intelligence",
+      "title": "6 Ways Generic LLMs Sabotage AI Builds for Competitive Intelligence - Klue",
       "link": "https://klue.com/blog/ai-competitive-intelligence-failures",
       "snippet": "Klue announced the launch of Compete Agent—an AI agent designed to eliminate man...",
       "raw_snippet": "Klue announced the launch of Compete Agent—an AI agent designed to eliminate manual work and deliver real-time competitive deal intelligence directly to sellers right where they work. # 6 Ways Generic LLMs Sabotage AI Builds for Competitive Intelligence. 6 Ways Generic LLMs Sabotage AI Builds for Competitive Intelligence. So, I talked with customers, tested tools myself, and sat down with Klue’s product team to understand *exactly* why general-purpose LLMs struggle to provide an accurate data layer for competitive intelligence. Generic LLMs source broken links when conducting competitive intelligence. Broken link sourcing a competitive intelligence answer in ClaudeDustin Ray. When using ChatGPT or other open LLMs, I didn’t know where information came from or if we can trust it. Generic LLMs provide contradicting answers to the same competitive intelligence questions. Generic LLMs fail to address contradictions in their sourcing for competitive intelligence. ## **What a trusted AI foundation for competitive intelligence actually looks like**. ## 6 Ways Generic LLMs Sabotage Your AI Builds for Competitive Intelligence.",
