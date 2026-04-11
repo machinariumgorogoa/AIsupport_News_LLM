@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-11",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Artificial intelligence as a merger and acquisition catalyst",
+          "link": "https://www.sciencedirect.com/science/article/pii/S1057521926000906",
+          "snippet": "We find that AI adoption significantly increases a firm's likelihood of pursuing M&A, with the effect especially pronounced among firms with abundant cash",
+          "index": 1
+        },
+        {
+          "title": "How One Rule Is Reshaping the Emerging-Growth IPO Market",
+          "link": "https://www.lucbro.com/news/how-one-rule-is-reshaping-the-emerging-growth-ipo-market/",
+          "snippet": "The broader IPO market continues to show signs of cautious optimism. Institutional investors remain interested in large technology and artificial intelligence",
+          "index": 2
+        },
+        {
+          "title": "Wall Street Is Sleeping on This Artificial Intelligence (AI) Stock, and ...",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sleeping-artificial-intelligence-132500571.html",
+          "snippet": "Instead, it's clear that the market now thinks of it as an artificial intelligence (AI) stock. Tesla's valuation now exceeds $1 trillion, and shares trade at",
+          "index": 3
+        },
+        {
+          "title": "Blackstone eyes $2 billion IPO for data center acquisition firm",
+          "link": "https://ca.investing.com/news/stock-market-news/blackstone-eyes-2-billion-ipo-for-data-center-acquisition-firm-93CH-4559652",
+          "snippet": "The alternative investment firm has sounded out investors for a vehicle that would give shareholders a chance to bet on the artificial intelligence boom.",
+          "index": 4
+        },
+        {
+          "title": "What Anthropic's too-dangerous-to-release AI model ...",
+          "link": "https://fortune.com/2026/04/10/anthropic-too-dangerous-to-release-ai-model-means-for-its-upcoming-ipo/",
+          "snippet": "- **Hybron**, an El Segundo, Calif.-based composites manufacturing company, rais...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "A, the CEO of an artificial intelligence (AI) start-up in Silicon Valley, uses Anthropic's \"Claude\" .. - MK",
+          "link": "https://www.mk.co.kr/en/it/12013908",
+          "snippet": "\"Most of the representative AI models' general-purpose performance has risen to ...",
+          "index": 6
+        },
+        {
+          "title": "Amazon CEO Andy Jassy Just Delivered Bad News for the Artificial Intelligence (AI) Bears | The Motley Fool",
+          "link": "https://www.fool.com/investing/2026/04/10/amazon-ceo-andy-jassy-delivered-bad-news-ai-bears/",
+          "snippet": "# Amazon CEO Andy Jassy Just Delivered Bad News for the Artificial Intelligence ...",
+          "index": 7
+        },
+        {
+          "title": "Lowe's $250M bet on blue-collar jobs that AI can't do - Fox News",
+          "link": "https://www.foxnews.com/tech/ai-newsletter-lowes-250m-bet-blue-collar-jobs-ai-cant.amp",
+          "snippet": "Lowe's CEO warns AI \"can't climb a ladder\" as the company makes a $250 million b...",
+          "index": 8
+        },
+        {
+          "title": "AI-Ready Leadership: What CEOs Must Learn to Lead in the Age of ...",
+          "link": "https://www.smbceo.com/2026/04/10/ai-ready-leadership-what-ceos-must-learn-to-lead-in-the-age-of-artificial-intelligence/",
+          "snippet": "Discover how CEOs can build AI skills, lead smarter decisions, and create AI-rea...",
+          "index": 9
+        },
+        {
+          "title": "You can with AI",
+          "link": "https://kpmg.com/xx/en/what-we-do/services/ai.html",
+          "snippet": "We're helping our clients harness the full power and potential of agentic AI. Fr...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
