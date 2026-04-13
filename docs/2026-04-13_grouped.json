@@ -9,33 +9,33 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "SiFive获4亿美元融资估值36.5亿美元，专注AI芯片",
-          "link": "https://inforcapital.com/news/nvidia-backed-sifive-hits-365-billion-valuation-for-open-ai-chips/",
-          "snippet": "SiFive获Atreides Management与Nvidia领投4亿美元融资，加速RISC-V架构AI芯片研发。",
+          "title": "OpenAI获得1220亿美元融资并收购媒体公司",
+          "link": "https://af.net/realtime/openai-secures-122-billion-in-funding-and-acquires-media-company-to-expand-influence/",
+          "snippet": "Kumar**· Senior Fellow #### Slate Technologies Partners with...",
           "index": 1
         },
         {
-          "title": "华尔街最看好的一家人工智能(AI)股票",
-          "link": "https://www.fool.com/investing/2026/04/12/1-artificial-intelligence-ai-stock-wall-street-lov/",
-          "snippet": "本文介绍华尔街分析师一致看好的AI概念股，认为其在人工智能浪潮中具有独特竞争优势与增长潜力。",
+          "title": "AI热潮推动全球VC融资达创纪录的3000亿美元",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/ai-boom-drives-global-vc-funding-to-record-300bn/articleshow/130222606.cms",
+          "snippet": "顶级风投公司还指出了市场动向...",
           "index": 2
         },
         {
-          "title": "人工智能(AI)股票市场释放Mixed Signals（混合信号）",
-          "link": "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/1264298/the-artificial-intelligence-ai-stock-market-is-sending-mixed-signals-right-now-here-s-how-i-m-reading-them/",
-          "snippet": "知名AI科技股近期股价回调，但基本面依然强劲，分析师对估值与前景判断存在明显分歧。",
+          "title": "中国AI初创公司阶跃星辰（StepFun）拆除离岸架构以铺平道路",
+          "link": "https://www.reuters.com/world/china/chinese-ai-startup-stepfun-unwind-offshore-structure-pave-way-ipo-sources-say-2026-04-13/",
+          "snippet": "《财经》杂志2月报道，StepFun计划拆除离岸架构以便...",
           "index": 3
         },
         {
-          "title": "OpenAI获1220亿美元融资并收购媒体公司",
-          "link": "https://af.net/realtime/openai-secures-122-billion-in-funding-and-acquires-media-company-to-expand-influence/",
-          "snippet": "OpenAI完成新一轮巨额融资，同时战略收购媒体资产，Madica加码投资非洲AI初创企业。",
+          "title": "PeakMetrics完成600万美元A轮融资，打造AI驱动叙事智能平台",
+          "link": "https://pulse2.com/peakmetrics-6-million-raised-for-ai-driven-narrative-intelligence-platform-in-series-a-round/amp/",
+          "snippet": "PeakMetrics在A轮融资中筹集600万美元，用于开发AI驱动的Narrative Intelligence平台。",
           "index": 4
         },
         {
-          "title": "值得关注的人工智能股票 - 4月12日",
-          "link": "https://www.marketbeat.com/instant-alerts/artificial-intelligence-stocks-to-keep-an-eye-on-april-12th-2026-04-12/",
-          "snippet": "MarketBeat发布AI板块最新研报，梳理具备高增长潜力的Artificial Intelligence概念股名单及投资策略。",
+          "title": "什么是Physical AI（物理AI）——以及为何它现在至关重要",
+          "link": "https://www.ey.com/en_pt/simply-explained/what-is-physical-ai",
+          "snippet": "Physical AI使机器能够自主感知、决策并执行行动。",
           "index": 5
         }
       ]
@@ -44,33 +44,33 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "5亿美元，专注AI芯片",
-          "link": "https://www.ycombinator.com/companies/industry/ai/new-york/hiring",
-          "snippet": "SiFive获Atreides Management与Nvidia领投4亿美元融资，加速RISC-V架构AI芯片研发。",
+          "title": "第783期：为团队智能招聘——招聘未来播客",
+          "link": "https://recruitingfuture.com/2026/04/ep-783-hiring-for-team-intelligence/",
+          "snippet": "综合考虑所有这些因素，探讨Team Intelligence招聘策略与未来趋势。",
           "index": 6
-        },
-        {
-          "title": "Palantir CEO称AI将\"摧毁\"人文学科工作",
-          "link": "https://fortune.com/article/palantir-ceo-alex-karp-ai-humanities-jobs-vocational-training/",
-          "snippet": "Palantir首席执行官警告，Generative AI技术普及可能对人文学科(humanities)相关岗位造成替代危机。",
-          "index": 7
-        },
-        {
-          "title": "OpenAI员工震惊：高层策划\"疯狂\"计划挑动各国对立",
-          "link": "https://futurism.com/artificial-intelligence/openai-staffers-horrified-insane-plan",
-          "snippet": "OpenAI内部人士透露，Senior Leadership曾策划让世界政府相互对抗的争议性方案，引发员工强烈反对。",
-          "index": 8
         },
         {
           "title": "开创混合智能：创始人对Agentic AI的愿景",
           "link": "https://contra.com/community/UJnZHkXv-pioneering-hybrid-intelligence-founders-vision-for",
-          "snippet": "研究证实Agent-like行为可在特定架构中涌现，为Hybrid Intelligence与自主AI代理发展提供新思路。",
+          "snippet": "探索混合智能先驱者对Agentic AI未来发展的前瞻性愿景与战略规划。",
+          "index": 7
+        },
+        {
+          "title": "随着人工智能开始重新定义生产力标准",
+          "link": "https://x.com/FortuneMagazine/status/2043373648967311499",
+          "snippet": "AI技术正逐步重塑各行业生产力标准与工作模式，带来效率革命。",
+          "index": 8
+        },
+        {
+          "title": "我用OpenClaw打造了6名AI员工，却比以往更忙——商业内幕",
+          "link": "https://www.businessinsider.com/chinese-product-manager-6-ai-employees-openclaw-hustle-lobster-2026-4",
+          "snippet": "一位中国产品经理使用OpenClaw创建6名AI员工，反而增加了工作负担。",
           "index": 9
         },
         {
-          "title": "夏威夷创业聚焦：本地创始人达成重大收购交易",
-          "link": "https://www.hawaiinewsnow.com/2026/04/12/hawaii-startup-spotlight-local-founders-score-major-acquisition-deals/?outputType=amp",
-          "snippet": "夏威夷本地founders成功完成多项战略收购，展现该地区在AI与科技领域的创业活力。",
+          "title": "试图为AI热潮奠定坚实基础的人",
+          "link": "https://www.calcalistech.com/ctechnews/article/lgrnyc3bz",
+          "snippet": "Shoham虽创办了一家前景广阔的AI公司，但对行业过热持审慎态度。",
           "index": 10
         }
       ]
