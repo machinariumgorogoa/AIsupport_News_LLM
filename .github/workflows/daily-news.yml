@@ -2,7 +2,7 @@ name: Daily LLM News to Feishu
 
 on:
   schedule:
-    - cron: '30 02 * * *'
+    - cron: '30 06 * * *'
   workflow_dispatch:
 
 jobs:
