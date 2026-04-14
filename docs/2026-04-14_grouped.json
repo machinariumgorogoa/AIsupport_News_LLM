@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-14",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "IPO Day Is When Most Investors Get It Wrong",
+          "link": "https://investorplace.com/hypergrowthinvesting/2026/04/the-openai-ipo-could-be-the-biggest-ai-ipo-ever/",
+          "snippet": "[Close Lightbox](https://investorplace.com/hypergrowthinvesting/2026/04/the-open...",
+          "index": 1
+        },
+        {
+          "title": "Investcorp AI Acquisition Corp. to Combine with Blue Finance ...",
+          "link": "https://markets.businessinsider.com/news/stocks/investcorp-ai-acquisition-corp-to-combine-with-blue-finance-technology-holding-limited-transaction-to-create-irish-public-company-focused-on-artificial-intelligence-powered-digital-consumer-finance-1036017202",
+          "snippet": "Investcorp AI Acquisition Corp. to Combine with Blue Finance Technology Holding Limited; Transaction to Create Irish Public Company Focused on Artificial",
+          "index": 2
+        },
+        {
+          "title": "Investcorp AI Acquisition Corp. to Combine with Blue Finance ...",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/investcorp-ai-acquisition-corp-combine-200100675.html",
+          "snippet": "Investcorp AI Acquisition Corp. to Combine with Blue Finance Technology Holding Limited; Transaction to Create Irish Public Company Focused on Artificial",
+          "index": 3
+        },
+        {
+          "title": "AI Valuation Multiples (Q1 2026) | 575 Company Dataset | Finro",
+          "link": "https://www.finrofca.com/research/ai-multiples-q1-2026",
+          "snippet": "575 companies across 15 niches, with public, private, and M&A comps in one worki...",
+          "index": 4
+        },
+        {
+          "title": "Nvidia-Backed SiFive Hits $3.65B Valuation, Signaling Shift in AI ...",
+          "link": "https://fnex.com/nvidia-backed-sifive-hits-3-65b-valuation/",
+          "snippet": "For investors, this represents a shift from pure application-layer AI investment...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Head of Product at Artificial Intelligence Venture Builder",
+          "link": "https://www.remoterocketship.com/company/artificial-intelligence-venture-builder-ai/jobs/head-of-product-italy-remote/",
+          "snippet": "AIVB supports founders and investors by turning AI concepts into independent, sc...",
+          "index": 6
+        },
+        {
+          "title": "Best Freelance Artificial Intelligence Engineers for Hire (Apr 2026)",
+          "link": "https://www.upwork.com/hire/artificial-intelligence-engineers/",
+          "snippet": "Hire top-rated freelance Artificial Intelligence Engineers on Upwork. Post your ...",
+          "index": 7
+        },
+        {
+          "title": "Meta is building an AI Mark Zuckerberg so staff can 'meet' the CEO",
+          "link": "https://www.hcamag.com/us/specialization/leadership/meta-is-building-an-ai-mark-zuckerberg-so-staff-can-meet-the-ceo/571600",
+          "snippet": "# Meta is building an AI Mark Zuckerberg so staff can ‘meet’ the CEO. Zuckerberg...",
+          "index": 8
+        },
+        {
+          "title": "Head of AI Product at Storm2 - United State - Jaabz Jobs",
+          "link": "https://jaabz.com/jobs/197738-head-of-artificial-intelligence",
+          "snippet": "Lead AI product development, drive technical roadmaps, and ensure high-quality e...",
+          "index": 9
+        },
+        {
+          "title": "Head of AI Developer Platform - BlackRock | Built In NYC",
+          "link": "https://www.builtinnyc.com/job/head-ai-developer-platform/9031697",
+          "snippet": "BlackRock is hiring for a Head of AI Developer Platform in New York, NY, USA. Fi...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
