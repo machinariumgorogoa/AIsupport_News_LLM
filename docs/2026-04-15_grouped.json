@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-15",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI巨头能否在2026年重燃IPO之火？",
+          "link": "https://www.amgnational.com/could-one-of-the-ai-giants-reignite-the-ipo-fires-in-2026/",
+          "snippet": "市场关注头部AI企业是否将在2026年启动IPO，为沉寂的公开市场注入新活力，投资者期待独角兽上市潮重启。",
+          "index": 1
+        },
+        {
+          "title": "2026年Q1创企融资创纪录：募资2970亿美元",
+          "link": "https://intellizence.com/insights/startup-funding/top-startup-funding-deals-of-q1-2026-record-297-billion-raised-with-ai-dominating/",
+          "snippet": "2026年第一季度全球初创企业融资额达2970亿美元，创历史新高，AI领域继续主导VC投资，科技赛道保持强劲增长。",
+          "index": 2
+        },
+        {
+          "title": "Anthropic获8000亿美元估值投资要约",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-attracts-investor-offers-at-an-800-billion-valuation-000636800.html",
+          "snippet": "AI公司Anthropic收到多个投资方要约，估值高达8000亿美元，彰显市场对Claude等大语言模型开发商的狂热追捧。",
+          "index": 3
+        },
+        {
+          "title": "媒体VC交易3月骤降至5000万美元",
+          "link": "https://www.thewrap.com/industry-news/business/the-funding-file-venture-capital-investment-mergers-acquisitions-march-2026-update/",
+          "snippet": "3月份媒体行业VC投资活动大幅萎缩，交易额仅5000万美元，较上月腰斩，反映资本市场对内容赛道态度趋冷。",
+          "index": 4
+        },
+        {
+          "title": "Anthropic获8000亿美元估值投资要约",
+          "link": "https://uk.finance.yahoo.com/news/anthropic-attracts-investor-offers-800-000636775.html",
+          "snippet": "AI公司Anthropic收到多个投资方要约，估值高达8000亿美元，彰显市场对Claude等大语言模型开发商的狂热追捧。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "扎克伯格 reportedly 研发个人AI数字分身",
+          "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mark-zuckerberg-reportedly-working-on-ai-clone-of-himself-meta-insiders-claim-3d-photoreal-animated-zuck-will-be-able-to-engage-with-employees-on-his-behalf",
+          "snippet": "Meta内部人士透露，扎克伯格正打造3D超写实AI数字分身，可代表其与员工互动，提升远程协作与沟通效率。",
+          "index": 6
+        },
+        {
+          "title": "AI巨头CEO回应纪录片对技术发展的质疑",
+          "link": "https://people.com/ai-ceos-speak-out-as-new-doc-asks-whether-tech-should-stop-parenthood-11944809",
+          "snippet": "OpenAI的Sam Altman与Anthropic的Dario Amodei就新纪录片发声，探讨AI技术加速发展带来的伦理挑战与行业责任。",
+          "index": 7
+        },
+        {
+          "title": "Anthropic任命诺华CEO加入董事会",
+          "link": "https://www.wsj.com/tech/ai/anthropic-adds-novartis-ceo-to-board-6e642bf4",
+          "snippet": "Claude聊天机器人开发商Anthropic聘请诺华制药CEO加入董事会，强化AI与生物医药交叉领域的战略布局。",
+          "index": 8
+        },
+        {
+          "title": "博通延长与Meta AI合作，陈福阳退出董事会",
+          "link": "https://www.barrons.com/articles/broadcom-extends-meta-ai-deal-ceo-leave-board-4c7babd6?mod=barronsgooglenews",
+          "snippet": "芯片巨头博通延续与Meta的AI芯片供应协议，同时博通CEO陈福阳辞去Meta董事职务，避免潜在利益冲突。",
+          "index": 9
+        },
+        {
+          "title": "男子涉嫌向OpenAI CEO住所投掷燃烧瓶被捕",
+          "link": "https://www.opb.org/article/2026/04/14/man-accused-of-openai-ceo-attack-charged-with-attempted-murder/",
+          "snippet": "旧金山警方指控一名男子向OpenAI CEO住所投掷燃烧瓶，该事件引发对AI行业高管安全保护的广泛关注。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
