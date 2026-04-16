@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-16",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic新融资估值或达8000亿美元",
+          "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-valuation-could-hit-800-billion-with-new-funding/",
+          "snippet": "Anthropic在新一轮Funding中Valuation可能达到8000亿美元，有望成为AI领域估值最高的公司之一。",
+          "index": 1
+        },
+        {
+          "title": "Keebler Health获1600万美元解锁非结构化数据",
+          "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/keebler-health-secures-16m-series-funding",
+          "snippet": "医疗AI公司Keebler Health完成1600万美元Risk Adjustment轮融资，利用AI技术解锁医疗非结构化数据价值。",
+          "index": 2
+        },
+        {
+          "title": "AI投资热潮下Anthropic获8000亿美元估值报价",
+          "link": "https://pe-insights.com/anthropic-attracts-800bn-valuation-bids-as-ai-investment-frenzy-intensifies/",
+          "snippet": "Anthropic在AI投资热潮中吸引Investor Offers，公司Valuation可能达到8000亿美元量级。",
+          "index": 3
+        },
+        {
+          "title": "墨尔本AI初创Phonely融资后估值达1.4亿美元",
+          "link": "https://www.afr.com/technology/melbourne-ai-researchers-hit-140m-valuation-with-customer-service-bots-20260415-p5zo6y",
+          "snippet": "墨尔本AI Start-up Phonely完成Funding Round后Valuation达1.4亿美元，团队由当地AI研究人员组成。",
+          "index": 4
+        },
+        {
+          "title": "Latham代表Applied Compute完成8000万美元融资",
+          "link": "https://www.lw.com/en/news/latham-represents-applied-compute-in-fundraise",
+          "snippet": "Latham & Watkins律师事务所代表Applied Compute完成8000万美元Fundraise交易。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "FutureSight招聘AI内容与发布引擎联合创始人兼CEO",
+          "link": "https://wellfound.com/jobs/4098947-co-founder-ceo-ai-content-publishing-engine",
+          "snippet": "FutureSight招募经验丰富、具Vision的领导者，担任AI Content & Publishing Engine的Co-Founder & CEO。",
+          "index": 6
+        },
+        {
+          "title": "报道称Meta正在打造CEO扎克伯格的AI版本",
+          "link": "https://abc7news.com/amp/post/meta-artificial-intelligence-menlo-park-company-building-ai-version-ceo-mark-zuckerberg-report-says/18893585/",
+          "snippet": "报道称Meta正在开发CEO Mark Zuckerberg的AI数字人版本，用于Metaverse等Virtual场景交互。",
+          "index": 7
+        },
+        {
+          "title": "Monjur任命Tracy Thibodeau为产品与AI副总裁",
+          "link": "https://www.businesswire.com/news/home/20260415034015/en/Monjur-Appoints-Tracy-Thibodeau-as-Vice-President-of-Product-AI",
+          "snippet": "合同管理平台Monjur任命Tracy Thibodeau为VP of Product & AI，其平台结合Dynamic Contracts与Legal Expertise。",
+          "index": 8
+        },
+        {
+          "title": "AI使工作重塑成为CEO必务",
+          "link": "https://www.bcg.com/publications/2026/ai-has-made-work-reinvention-a-ceo-mandate",
+          "snippet": "BCG报告显示，AI已使Work Reinvention成为CEO Mandate，工作性质转变不再是Incremental而是根本性变革。",
+          "index": 9
+        },
+        {
+          "title": "CEO称AI\"光明未来\"值得工人失业",
+          "link": "https://www.newsweek.com/ai-ceo-says-ai-job-loss-glorious-future-for-entrepreneurs-11828348",
+          "snippet": "某CEO表示AI带来的\"Glorious Future\"值得以Workers Losing Jobs为代价，引发关于AI替代就业的争议讨论。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
