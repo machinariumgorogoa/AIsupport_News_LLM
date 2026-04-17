@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-17",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Canva推出AI 2.0，420亿美元估值面临IPO考验",
+          "link": "https://www.gurufocus.com/news/8798799/canva-unveils-ai-20-as-42-billion-valuation-faces-ipo-test",
+          "snippet": "Canva正进入业务关键阶段，推出AI 2.0功能，正值其高估值面临上市考验之际。",
+          "index": 1
+        },
+        {
+          "title": "0，420亿美元估值面临IPO考验",
+          "link": "https://www.aol.com/articles/hold-off-buying-artificial-intelligence-175000844.html",
+          "snippet": "Canva正进入业务关键阶段，推出AI 2.0功能，正值其高估值面临上市考验之际。",
+          "index": 2
+        },
+        {
+          "title": "谷歌与CoreWeave发行67亿美元债券助推AI融资热潮",
+          "link": "https://ca.finance.yahoo.com/news/google-coreweave-fuel-ai-funding-213854813.html",
+          "snippet": "谷歌关联的这笔交易由摩根大通牵头，涉及57亿美元债券发行，进一步推动AI基础设施融资狂潮。",
+          "index": 3
+        },
+        {
+          "title": "VC领域的AI：人工智能如何重塑风险投资",
+          "link": "https://fi.co/insight/ai-in-vc-how-artificial-intelligence-is-transforming-venture-capital",
+          "snippet": "人工智能正在改变风险投资行业，从项目筛选到尽职调查，AI技术正全面革新VC投资决策流程与效率。",
+          "index": 4
+        },
+        {
+          "title": "Upscale AI瞄准20亿美元估值，掀起最新融资热潮",
+          "link": "https://www.binance.com/en/square/post/313285792958321",
+          "snippet": "AI初创公司Upscale AI在最新一轮融资中目标估值达20亿美元，显示资本市场对AI企业的高度追捧。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "扎克伯格打造AI CEO协助管理Meta",
+          "link": "https://www.msn.com/en-us/news/technology/mark-zuckerberg-builds-ai-ceo-to-help-him-run-meta/ar-AA1ZezxA?ocid=a2hs&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+          "snippet": "MSN | Meta首席执行官马克·扎克伯格正在开发个人AI助手，以协助其管理公司日常运营和战略决策。",
+          "index": 6
+        },
+        {
+          "title": "报道称Meta正在构建CEO扎克伯格的AI版本",
+          "link": "https://www.msn.com/en-us/money/other/meta-building-ai-version-of-ceo-mark-zuckerberg-report-says-here-s-why/ar-AA20YwnU?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+          "snippet": "MSN | Meta正将人工智能应用提升至新高度，开发模拟CEO马克·扎克伯格的AI数字分身用于公司管理。",
+          "index": 7
+        },
+        {
+          "title": "commonsku任命首席AI官：这意味着什么？",
+          "link": "https://commonsku.com/articles/commonsku-appointed-a-chief-ai-officer",
+          "snippet": "B2B平台commonsku首次任命首席AI官（CAIO），标志企业正设立专门高管职位统筹AI战略实施。",
+          "index": 8
+        },
+        {
+          "title": "扎克伯格投身AI打造\"Zuckbot\"",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-04-16/mark-zuckerberg-is-training-an-ai-agent-to-handle-some-ceo-duties",
+          "snippet": "彭博社 | 马克·扎克伯格深入研发AI技术，打造个人化AI助手\"Zuckbot\"，旨在提升Meta管理效率和决策质量。",
+          "index": 9
+        },
+        {
+          "title": "AI使工作重塑成为CEO要务",
+          "link": "https://www.bcg.com/publications/2026/ai-has-made-work-reinvention-a-ceo-mandate",
+          "snippet": "BCG | 波士顿咨询集团指出，工作性质转变已不再渐进，利用AI重塑组织已成为企业首席执行官的强制性任务。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
