@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-18",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI投资激增助推IPO热潮与芯片成本上涨",
+          "link": "https://www.heygotrade.com/en/news/ai-investment-surge-fuels-ipo-frenzy-and-rising-chip-costs/",
+          "snippet": "AI投资激增引发IPO狂热，推升Chip（芯片）成本，反映市场对AI技术需求激增与硬件供应压力。",
+          "index": 1
+        },
+        {
+          "title": "英伟达竞争对手Cerebras披露美国IPO申请",
+          "link": "https://www.investing.com/news/stock-market-news/nvidia-rival-cerebras-reveals-us-ipo-filing-as-ai-boom-drives-listings-4621637",
+          "snippet": "AI芯片商Cerebras专注Inference（推理）领域，趁AI Boom（AI热潮）提交美股IPO申请，加入上市潮。",
+          "index": 2
+        },
+        {
+          "title": "AI公司DeepSeek寻求首轮融资，估值超...",
+          "link": "https://www.binance.com/en/square/post/313531684307586",
+          "snippet": "DeepSeek正进行Initial Funding（首轮融资），估值超特定金额，显示投资者对创新AI企业的强烈兴趣。",
+          "index": 3
+        },
+        {
+          "title": "英伟达竞争对手Cerebras披露美国IPO申请",
+          "link": "https://uk.finance.yahoo.com/news/nvidia-rival-cerebras-reveals-us-202745923.html",
+          "snippet": "AI Chipmaker（芯片制造商）Cerebras提交美国IPO Filing（申请文件），借AI热潮推动上市，挑战英伟达地位。",
+          "index": 4
+        },
+        {
+          "title": "Upscale AI最新融资谈判瞄准20亿美元估值",
+          "link": "https://theaiinsider.tech/2026/04/17/upscale-ai-targets-2b-valuation-in-latest-funding-talks-despite-no-product-launch/",
+          "snippet": "AI Insider数据显示，Upscale AI在Latest Funding Talks（最新融资谈判）中目标估值$2B（20亿美元），展现AI赛道热度。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "\"机器人扎克伯格\"展示IT如何解放CEO时间",
+          "link": "https://www.computerworld.com/article/4160456/robot-zuckerberg-shows-how-it-can-free-up-ceos-time.html",
+          "snippet": "Meta CEO扎克伯格打造AI版数字人（Robot Zuckerberg），展示IT技术如何通过Automation（自动化）释放高管时间，提升运营效率。",
+          "index": 6
+        },
+        {
+          "title": "Dark Matter新任CEO谈AI、裁员与增长战略",
+          "link": "https://www.housingwire.com/articles/dark-matter-ceo-layoffs-ai/",
+          "snippet": "Dark Matter新CEO探讨AI应用、Layoffs（裁员）及Growth Strategy（增长战略），应对房贷市场转型与业务发展。",
+          "index": 7
+        },
+        {
+          "title": "SeekOut任命Sean Thompson为CEO，领导Agentic AI发展",
+          "link": "https://techrseries.com/recruitment-and-on-boarding/seekout-names-sean-thompson-as-ceo-to-lead-the-agentic-ai-recruiting-revolution/",
+          "snippet": "SeekOut作为Agentic AI（智能体AI）招聘平台，任命新CEO推动企业招聘Intelligentization（智能化）与业务",
+          "index": 8
+        },
+        {
+          "title": "Joe Lonsdale on AI in VC: From Physics to Fintech | StartupHub.ai",
+          "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/joe-lonsdale-on-ai-in-vc-from-physics-to-fintech",
+          "snippet": "# Joe Lonsdale on AI in VC: From Physics to Fintech. Joe Lonsdale, CEO of Standa...",
+          "index": 9
+        },
+        {
+          "title": "Product Manager (Artificial Intelligence (AI),Chatbot,Streaming ...",
+          "link": "https://www.dice.com/job-detail/66de919c-11fc-4f46-9728-ce7fab3b287d",
+          "snippet": "We are seeking a skilled and motivated Product Manager to own two strategic init...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
