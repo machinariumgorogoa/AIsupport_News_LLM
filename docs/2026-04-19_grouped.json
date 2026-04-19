@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-19",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "DeepSeek目标在新一轮融资中实现$10B估值",
+          "link": "https://inforcapital.com/news/chinas-deepseek-is-raising-funds-at-10-billion-valuation-report/",
+          "snippet": "AI创新者DeepSeek正寻求至少$300M融资，目标估值达100亿美元。",
+          "index": 1
+        },
+        {
+          "title": "Physical Intelligence获超$1 Billion融资，投资者押注AI机器人",
+          "link": "https://vctavern.com/physical-intelligence-secures-over-1-billion-in-funding-as-investors-bet-big-on-ai-powered-robotics/",
+          "snippet": "Physical Intelligence完成超10亿美元融资，投资者大举押注AI驱动机器人技术。",
+          "index": 2
+        },
+        {
+          "title": "Nvidia竞争对手Cerebras披露美国IPO申请，AI热潮推动上市潮",
+          "link": "https://www.investing.com/news/stock-market-news/nvidia-rival-cerebras-reveals-us-ipo-filing-as-ai-boom-drives-listings-4621637",
+          "snippet": "AI热潮推动企业上市，芯片制造商Cerebras正式提交美国IPO申请文件。",
+          "index": 3
+        },
+        {
+          "title": "Cursor以$50 Billion估值融资$2 Billion，AI编程工具受追捧",
+          "link": "https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding",
+          "snippet": "AI编程工具Cursor正以500亿美元估值筹集20亿美元资金。",
+          "index": 4
+        },
+        {
+          "title": "AI独角兽DeepSeek寻求首轮融资，估值或超680亿元人民币",
+          "link": "https://finance.biggo.com/news/77IyoZ0BQ45Y7dX6xTMV",
+          "snippet": "中国AI公司DeepSeek reportedly寻求首轮融资，估值可能超过680亿元人民币。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "使用AI Agent打造即时盈利三人团队的创业者们",
+          "link": "https://fortune.com/2026/04/18/ai-layoff-became-founder-team-of-3-instant-profit/",
+          "snippet": "创业者利用AI Agent构建精简三人团队实现即时盈利，应对AI时代就业变革。",
+          "index": 6
+        },
+        {
+          "title": "人工智能vs自然愚蠢：为何Gen AI与LLM不会终结人类",
+          "link": "https://blog.mean.ceo/artificial-intelligence-vs-natural-stupidity/",
+          "snippet": "LeCun指出LLM只是通往真正AI的\"岔路\"，Gen AI和LLM不会导致人类终结。",
+          "index": 7
+        },
+        {
+          "title": "远程AI Product Owner职位招聘中（ZipRecruiter）",
+          "link": "https://www.ziprecruiter.com/Jobs/Remote-Ai-Product-Owner",
+          "snippet": "ZipRecruiter发布60个远程AI产品经理职位，年薪9.3万至16.4万美元。",
+          "index": 8
+        },
+        {
+          "title": "Product Manager - AI / Product Intelligence at GoSats | Y Combinator",
+          "link": "https://www.ycombinator.com/companies/gosats/jobs/fR7kQlK-product-manager-ai-product-intelligence",
+          "snippet": "You will figure out where AI can 10x our consumer experience - from intelligent ...",
+          "index": 9
+        },
+        {
+          "title": "Anthropic CEO将在法律纠纷中会见White House",
+          "link": "https://x.com/TechObservor/status/2045567297138618620",
+          "snippet": "Anthropic首席执行官将在法律争议背景下与白宫会面，讨论AI监管相关事宜。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
