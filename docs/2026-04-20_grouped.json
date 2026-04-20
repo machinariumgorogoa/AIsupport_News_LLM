@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-20",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings ...",
+          "link": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
+          "snippet": "[Skip to content](https://www.nytimes.com/2026/04/17/technology/cerebras-public-...",
+          "index": 1
+        },
+        {
+          "title": "AI startup Cursor in talks to raise $2 billion funding round at ... - CNBC",
+          "link": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html",
+          "snippet": "# AI startup Cursor in talks to raise $2 billion funding round at valuation of o...",
+          "index": 2
+        },
+        {
+          "title": "Fintech Funding Cools as Capital Floods into AI Instead",
+          "link": "https://fintechnews.ch/funding/fintech-funding-cools-as-capital-floods-into-ai-instead/82920/",
+          "snippet": "Quarterly equity funding and deals in fintech, Source: State of Venture Q1 2026,...",
+          "index": 3
+        },
+        {
+          "title": "Circular AI funding deals could pose 'systemic' risk, IMF warns",
+          "link": "https://www.thetimes.com/business/technology/article/imf-warns-technology-circular-deals-systemic-risk-global-financing-d9v2wxsms",
+          "snippet": "Opaque “circular” financing deals among big artificial intelligence companies could pose “systemic spillover” risks to the global financial system,",
+          "index": 4
+        },
+        {
+          "title": "AI startup Cursor said to be in talks to raise $2B funding round at ...",
+          "link": "https://seekingalpha.com/news/4576403-ai-startup-cursor-said-to-be-in-talks-to-raise-2b-funding-round-at-valuation-of-over-50b",
+          "snippet": "Search for Symbols, analysts, keywords. # AI startup Cursor said to be in talks ...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Co-Founder & CEO - AI Content & Publishing Engine | Boston",
+          "link": "https://www.jobleads.com/us/job/co-founder-ceo-ai-content-publishing-engine--boston--e9bf83ed1ecd5cba05be4e0a1383681ca",
+          "snippet": "A venture studio is seeking a Founding CEO to launch an AI-native content-intell...",
+          "index": 6
+        },
+        {
+          "title": "The CEO preaching straight talk about AI and job losses - MSN",
+          "link": "https://www.msn.com/en-us/money/markets/the-ceo-preaching-straight-talk-about-ai-and-job-losses/ar-AA21fsSK",
+          "snippet": "“There's a real risk artificial intelligence could widen wealth inequality,” Bla...",
+          "index": 7
+        },
+        {
+          "title": "Verizon CEO: AI Is Coming for Your Job 'and Everyone Knows It'",
+          "link": "https://www.inc.com/kevin-haynes/verizon-ceo-ai-is-coming-for-your-job-and-everyone-knows-it/91333101",
+          "snippet": "Dan Schulman urges companies to tell employees 'the truth' about AI's soon-to-be...",
+          "index": 8
+        },
+        {
+          "title": "Will AI take your job? Take-Two CEO says no, else Elon Musk would be jobless right now - India Today",
+          "link": "https://www.indiatoday.in/jobs/story/will-ai-take-your-job-take-two-ceo-says-no-else-elon-musk-would-be-jobless-right-now-tchc-2898831-2026-04-20",
+          "snippet": "## Take-Two CEO Strauss Zelnick has claimed that AI won't take your jobs. He rec...",
+          "index": 9
+        },
+        {
+          "title": "The CEO Preaching Straight Talk About AI and Job Losses - WSJ",
+          "link": "https://www.wsj.com/tech/ai/the-ceo-preaching-straight-talk-about-ai-and-job-losses-a3aaaaf1",
+          "snippet": "*   [Video](https://www.wsj.com/video?mod=wsjheader). *   [World](https://www.ws...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
