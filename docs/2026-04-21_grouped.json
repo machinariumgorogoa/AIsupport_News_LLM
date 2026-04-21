@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-21",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Cerebras Systems在估值230亿美元并与OpenAI达成协议后申请IPO",
+          "link": "https://theaiinsider.tech/2026/04/21/cerebras-systems-files-for-ipo-after-23b-valuation-and-openai-deal/",
+          "snippet": "AI芯片初创公司Cerebras Systems已申请IPO，此前估值达230亿美元并与OpenAI达成交易。",
+          "index": 1
+        },
+        {
+          "title": "贝佐斯的AI实验室在融资交易中接近380亿美元估值",
+          "link": "https://www.ft.com/content/87ea0ced-bf3c-4822-8dda-437241570ded?syn-25a6b1a6=1",
+          "snippet": "杰夫·贝佐斯即将从投资者处获得100亿美元融资交易，其AI实验室估值接近380亿美元。",
+          "index": 2
+        },
+        {
+          "title": "AI芯片制造商Cerebras申请IPO",
+          "link": "https://aibusiness.com/generative-ai/ai-chipmaker-cerebras-files-for-ipo",
+          "snippet": "AI芯片制造商Cerebras Systems已向监管机构提交首次公开募股申请，计划登陆公开市场。",
+          "index": 3
+        },
+        {
+          "title": "贝佐斯AI实验室在融资交易中估值接近380亿美元",
+          "link": "https://m.investing.com/news/stock-market-news/jeff-bezos-ai-lab-nears-38-bln-valuation-in-fundraising-deal-ft-reports-4624998?ampMode=1",
+          "snippet": "报道称，贝佐斯代号为\"普罗米修斯项目\"的AI实验室即将完成新一轮大规模融资。",
+          "index": 4
+        },
+        {
+          "title": "据金融时报报道，贝佐斯AI实验室在融资交易中接近380亿美元估值",
+          "link": "https://www.channelnewsasia.com/business/jeff-bezos-ai-lab-nears-38-billion-valuation-in-funding-deal-ft-reports-6069491",
+          "snippet": "杰夫·贝佐斯的AI实验室在最新融资中估值接近380亿美元，由金融时报首次披露。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "新任苹果CEO约翰·特努斯必须提升苹果产品中的人工智能应用",
+          "link": "https://www.afr.com/chanticleer/apple-s-new-ceo-must-nail-ai-for-warren-buffett-and-your-super-20260421-p5zpno",
+          "snippet": "苹果新任CEO的任命引发了关于公司AI战略和产品智能化升级的重大问题。",
+          "index": 6
+        },
+        {
+          "title": "科技CEO们认为AI将让他们同时无处不在",
+          "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
+          "snippet": "科技行业领导者相信人工智能技术将使他们实现全方位实时管理，突破物理空间限制。",
+          "index": 7
+        },
+        {
+          "title": "苹果新任CEO押注产品而非AI炒作",
+          "link": "https://news.az/news/apples-new-ceo-bets-on-products-over-ai-hype",
+          "snippet": "分析师称，特努斯以产品为中心的理念呼应了乔布斯传统，强调实干而非追逐AI热点。",
+          "index": 8
+        },
+        {
+          "title": "苹果新任CEO是一位迎战AI时代的产品完美主义者",
+          "link": "https://www.reuters.com/business/apples-new-ceo-is-product-perfectionist-taking-ai-age-2026-04-21/",
+          "snippet": "要了解约翰·特努斯将如何管理苹果，需关注其对硬件产品细节的极致追求与执着。",
+          "index": 9
+        },
+        {
+          "title": "蒂姆·库克将CEO职位交给约翰·特努斯，苹果加速布局AI",
+          "link": "https://simplywall.st/stocks/us/tech/nasdaq-aapl/apple/news/tim-cook-hands-ceo-role-to-john-ternus-as-apple-leans-into-a",
+          "snippet": "蒂姆·库克转任执行董事长，约翰·特努斯接任CEO，标志着苹果全力进军人工智能领域。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
