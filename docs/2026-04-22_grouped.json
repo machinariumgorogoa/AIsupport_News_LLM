@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-22",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Cerebras提交IPO申请——收入增长20倍后公司仍未盈利",
+          "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/cerebras-files-for-ipo-company-remains-unprofitable-despite-20x-revenue-growth",
+          "snippet": "AI芯片公司Cerebras申请IPO，尽管营收增长20倍，但公司仍处于亏损状态。",
+          "index": 1
+        },
+        {
+          "title": "AI领域Q1融资额超2025全年——《24小时太阳报》",
+          "link": "https://en.ilsole24ore.com/art/to-the-capital-raised-first-quarter-exceed-the-entire-2025-AIb56FbC",
+          "snippet": "2026年第一季度全球AI产业融资总额已超越2025年全年水平，资本持续涌入人工智能赛道。",
+          "index": 2
+        },
+        {
+          "title": "SpaceX完成对xAI的收购，估值达2500亿美元",
+          "link": "https://aidirectory.com/news/spacex-completes-acquisition-xai",
+          "snippet": "SpaceX已完成对xAI的并购交易，将Grok聊天机器人及AI业务整合至旗下，交易估值达2500亿美元。",
+          "index": 3
+        },
+        {
+          "title": "贝索斯即将完成100亿美元AI融资轮，Prometheus估值...",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/bezos-nears-10-billion-ai-150733052.html",
+          "snippet": "杰夫·贝索斯即将敲定100亿美元融资，用于支持其AI初创公司Prometheus的发展，具体估值尚未披露。",
+          "index": 4
+        },
+        {
+          "title": "贝索斯瞄准Physical AI Lab 380亿美元估值",
+          "link": "https://www.pymnts.com/artificial-intelligence-2/2026/bezos-targets-38-billion-valuation-for-physical-ai-lab/",
+          "snippet": "贝索斯为其实体人工智能实验室Physical AI Lab寻求380亿美元估值，加码布局Physical AI领域。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "苹果选定库克接班人，暗示AI时代战略——CNN",
+          "link": "https://www.cnn.com/2026/04/21/tech/apple-new-ceo-ai-john-ternus",
+          "snippet": "苹果选定新任CEO接替蒂姆·库克，此举暗示公司在生成式AI时代的战略转型与布局方向。",
+          "index": 6
+        },
+        {
+          "title": "John Ternus面临的首要难题是AI——The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+          "snippet": "苹果新任CEO John Ternus面临的最大挑战是如何缩小与OpenAI、Google在生成式AI领域的差距。",
+          "index": 7
+        },
+        {
+          "title": "库克将任执行董事长，苹果任命新任CEO——Hungarian Conservative",
+          "link": "https://www.hungarianconservative.com/articles/tech/apple-john-ternus-new-ceo-tim-cook-ai/",
+          "snippet": "苹果任命硬件工程负责人John Ternus为新任CEO，蒂姆·库克将转任执行董事长，继续参与公司战略决策。",
+          "index": 8
+        },
+        {
+          "title": "苹果新任CEO面临缩小AI差距的巨大压力",
+          "link": "https://www.digitimes.com/news/a20260421VL214/apple-ceo-hardware-development-siri.html",
+          "snippet": "继任者John Ternus面临弥合苹果与竞争对手在AI技术代差方面的巨大压力，需加速推进Apple Intelligence生态建设。",
+          "index": 9
+        },
+        {
+          "title": "苹果新任CEO是硬件专家，这其实是好事——CNET",
+          "link": "https://www.cnet.com/tech/services-and-software/apple-new-ceo-john-ternus-ai-plans-commentary/",
+          "snippet": "硬件工程背景的John Ternus出任CEO，有利于苹果在AI时代实现软硬件深度整合，发挥端侧AI优势。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
