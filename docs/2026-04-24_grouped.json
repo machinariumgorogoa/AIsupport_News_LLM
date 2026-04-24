@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-24",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI：SpaceX/xAI IPO文件披露马斯克无限AI雄心",
+          "link": "https://michaelparekh.substack.com/p/ai-spacexxai-ipo-filing-outlines",
+          "snippet": "SpaceX与xAI的IPO文件揭示了马斯克在AI领域的宏大抱负与战略布局。",
+          "index": 1
+        },
+        {
+          "title": "私募市场融资与AI交易激增预示行业扩张",
+          "link": "https://www.tipranks.com/news/private-companies/surge-in-private-market-funding-and-ai-deals-signals-expanding-secondary-opportunities",
+          "snippet": "文章引用Crunchbase数据，显示人工智能领域的投资与交易活动正快速增长。",
+          "index": 2
+        },
+        {
+          "title": "EVAS Intelligence股票",
+          "link": "https://notice.co/c/evas-ai",
+          "snippet": "估值、融资、投资方 | Notice.co | 查看EVAS Intelligence的估值、融资情况及投资方信息。",
+          "index": 3
+        },
+        {
+          "title": "Cognition AI正就新一轮融资进行早期洽谈 - Binance",
+          "link": "https://www.binance.com/en/square/post/315802674398850",
+          "snippet": "知情人士透露，这家AI编程初创公司本轮融资目标估值或达数十亿美元。",
+          "index": 4
+        },
+        {
+          "title": "Omni完成Series C轮融资估值15亿美元，打造企业AI分析平台",
+          "link": "https://omni.co/blog/press-release-omni-series-c-funding",
+          "snippet": "为企业提供定制化数据与AI解决方案，打造智能化产品分析平台。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Axios联合创始人谈AI",
+          "link": "https://www.wbur.org/hereandnow/2026/04/23/axios-co-founder-ai",
+          "snippet": "Here & Now | Axios联合创始人分享对人工智能发展趋势及媒体行业影响的见解。",
+          "index": 6
+        },
+        {
+          "title": "Aspect Software发布新AI平台、扩大客户群并任命正式CEO以加速增长",
+          "link": "https://www.businesswire.com/news/home/20260423493405/en/Aspect-Software-Accelerates-Growth-with-New-AI-Platform-Expanded-Customer-Base-and-Permanent-CEO-Appointment",
+          "snippet": "劳动力管理解决方案领导者推出新一代AI平台，同时宣布永久CEO任命。",
+          "index": 7
+        },
+        {
+          "title": "Axios联合创始人谈AI - KVCR News",
+          "link": "https://www.kvcrnews.org/2026-04-23/what-an-axios-co-founder-has-to-say-about-ai",
+          "snippet": "Here & Now节目专访Axios联合创始人，探讨AI对新闻业的影响。",
+          "index": 8
+        },
+        {
+          "title": "John Ternus出任CEO将带领苹果迈入AI时代",
+          "link": "https://www.augustman.com/my/gear/tech/apple-ceo-john-ternus-to-lead-in-age-of-artificial-intelligence/amp/",
+          "snippet": "苹果未来交由新任CEO约翰·特纳斯执掌，公司将加速布局人工智能领域。",
+          "index": 9
+        },
+        {
+          "title": "AI产品经理（Product Owner）- eWorker",
+          "link": "https://eworker.co/job/product-owner-artificial-intelligence-2/",
+          "snippet": "招聘AI产品经理职位，2026年4月23日发布，全职岗位。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
