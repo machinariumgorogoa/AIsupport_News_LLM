@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-26",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "7200亿美元资本支出陷阱：AI行业面临巨额投资风险",
+          "link": "https://www.fool.com/investing/2026/04/25/the-720-billion-capex-trap-2-artificial-intelligen/",
+          "snippet": "分析AI基础设施建设的资本支出困境，探讨巨额投入与商业化回报之间的平衡难题。",
+          "index": 1
+        },
+        {
+          "title": "AI初创公司用来推高估值的融资策略",
+          "link": "https://www.msn.com/en-us/money/companies/the-fundraising-tactic-ai-startups-are-using-to-juice-valuations/ar-AA1WRGsl?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&utm_source=nbot.ai&bundles=feat-es2020-c",
+          "snippet": "热门AI初创公司融资竞争激烈，投资者争相入场导致交易条款不平等，变相推高了企业估值。",
+          "index": 2
+        },
+        {
+          "title": "SpaceX刚与AI初创公司Cursor达成600亿美元交易",
+          "link": "https://www.aol.com/finance/spacex-just-cut-60-billion-193500791.html",
+          "snippet": "SpaceX与AI编程助手Cursor签署巨额合作协议，马斯克通过此举深度布局AI开发生态系统。",
+          "index": 3
+        },
+        {
+          "title": "OpenAI确认1100亿美元融资轮，亚马逊出资500亿...",
+          "link": "https://www.msn.com/en-us/money/companies/openai-confirms-110b-funding-round-with-50b-from-amazon-and-30b-from-nvidia-softbank/ar-AA1XcOKg?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+          "snippet": "OpenAI宣布完成1100亿美元融资，投后估值达7300亿美元，其中亚马逊承诺投资500亿美元。",
+          "index": 4
+        },
+        {
+          "title": "James Zou为Human Intelligence瞄准10亿美元估值",
+          "link": "https://letsdatascience.com/news/james-zou-targets-1b-valuation-for-human-intelligence-fc87e26e",
+          "snippet": "斯坦福教授James Zou创立的AI公司Human Intelligence获多轮融资，正冲刺10亿美元独角兽估值目标。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Salesforce将在AI推进中招聘1000名毕业生：CEO Marc Benioff",
+          "link": "https://m.economictimes.com/tech/artificial-intelligence/salesforce-to-hire-1000-graduates-in-ai-push-ceo-marc-benioff/amp_articleshow/130517522.cms",
+          "snippet": "Salesforce计划招聘1000名应届生专注AI产品研发，加速Agentforce智能体平台的企业级落地。",
+          "index": 6
+        },
+        {
+          "title": "苹果硬件战略：John Ternus CEO时代释放大胆AI...",
+          "link": "https://cryptorank.io/news/feed/f6be4-apple-hardware-strategy-ternus-ceo",
+          "snippet": "在Ternus领导下的苹果硬件战略将聚焦端侧AI功能，推动iPhone和Mac的本地大模型能力升级。",
+          "index": 7
+        },
+        {
+          "title": "人工智能加剧OpenAI的人才争夺战",
+          "link": "https://metodoviral.com/en/news/artificial-intelligence-fuels-the-war-for-talent-at-openai/",
+          "snippet": "AI人才争夺战重塑软件市场，OpenAI面临竞争对手高薪挖角，核心研究人员流失风险持续上升。",
+          "index": 8
+        },
+        {
+          "title": "Atlassian将裁员10%，称因AI转型",
+          "link": "https://www.msn.com/en-us/money/careersandeducation/atlassian-to-cut-10-of-jobs-citing-ai-how-its-ceo-tried-a-human-touch-for-the-layoffs/ar-AA1Yt7kX?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+          "snippet": "Atlassian宣布裁员约10%以推进AI转型，CEO强调在自动化时代需保持人性化管理和组织文化。",
+          "index": 9
+        },
+        {
+          "title": "Humanly融资2500万美元，让AI为求职者服务",
+          "link": "https://www.msn.com/en-us/money/companies/humanly-raises-25m-to-put-ai-to-work-for-job-seekers-not-just-the-companies-hiring-them/ar-AA20rfNv?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+          "snippet": "Humanly完成2500万美元B轮融资，开发面向求职者的AI工具，旨在平衡招聘市场的信息不对称问题。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
