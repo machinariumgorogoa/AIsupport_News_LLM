@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-27",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX战略转向\"AI优先\"模式，目标估值1.75万亿美元",
+          "link": "https://www.ainexusdaily.com/article/spacex-ipo-ai-first-repositioning-orbital-data-centers",
+          "snippet": "SpaceX战略转向\"AI优先\"模式，目标估值达1.75万亿美元，创私募市场新高",
+          "index": 1
+        },
+        {
+          "title": "AI初创公司Cursor据悉正谈判融资20亿美元",
+          "link": "https://www.msn.com/en-us/money/other/ai-startup-cursor-said-to-be-in-talks-to-raise-2b-funding-round-at-valuation-of-over-50b/ar-AA21hqy1?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+          "snippet": "AI编程工具Cursor正进行新一轮融资谈判，拟以20亿美元估值募资，反映生成式AI赛道热度",
+          "index": 2
+        },
+        {
+          "title": "估值天花板与AI商业化：科技巨头的\"决定性时刻\"",
+          "link": "https://www.moomoo.com/community/feed/valuation-barriers-and-ai-monetization-the-decisive-moment-for-the-116472862932997",
+          "snippet": "估值天花板效应显现，市场已提前定价。AI商业化能力将成为决定科技巨头未来走势的关键分水岭",
+          "index": 3
+        },
+        {
+          "title": "AI初创公司Sereact融资1.1亿美元开发预测性机器人",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences",
+          "snippet": "AI机器人公司Sereact完成1.1亿美元融资，用于开发具备预测能力的智能仓储机器人系统",
+          "index": 4
+        },
+        {
+          "title": "2026年4月27日初创企业与风险投资新闻速递",
+          "link": "https://sergeytereshkin.com/publications/startup-and-venture-investment-news-april-27-2026",
+          "snippet": "本周初创企业与风险投资领域最新动态汇总，涵盖AI、生物科技等热门赛道重要交易信息",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI时代创始人必须亲自处理的5件事",
+          "link": "https://www.inc.com/kimanzi-constable/5-things-founders-must-still-do-themselves-in-the-age-of-ai/91330305",
+          "snippet": "AI虽能创作内容、自动化任务并开展研究，但创始人仍需亲自掌控战略决策、团队文化等核心事务",
+          "index": 6
+        },
+        {
+          "title": "Kontent.ai任命Mark Greenaway为CEO引领下一阶段发展",
+          "link": "https://via.ritzau.dk/pressemeddelelse/14899072/kontentai-appoints-mark-greenaway-as-ceo-to-drive-the-next-phase-of-ai-in-enterprise-content?publisherId=13560585&lang=en",
+          "snippet": "HrFlow.ai完成700万美元Pre-A轮融资，致力于成为AI驱动的人力资源技术领导者",
+          "index": 7
+        },
+        {
+          "title": "MongoDB任命两位产品负责人分管AI与核心产品",
+          "link": "http://www.msn.com/en-us/money/news/mongodb-appoints-two-product-chiefs-for-ai-and-core-products/ar-AA21tSd3?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+          "snippet": "MongoDB周三宣布聘请Pablo Stern等两位高管，分别负责AI产品和核心数据库产品线战略",
+          "index": 8
+        },
+        {
+          "title": "2026年4月Toptal平台11位最佳AI产品经理推荐",
+          "link": "https://www.toptal.com/product-managers/artificial-intelligence",
+          "snippet": "Toptal是顶尖AI产品经理人才市场，本文推荐11位可聘请的AI产品管理专家供企业选择",
+          "index": 9
+        },
+        {
+          "title": "苹果候任CEO John Ternus将优先推进AI战略",
+          "link": "https://www.storyboard18.com/brand-marketing/apples-incoming-ceo-john-ternus-to-prioritise-ai-strategy-what-changes-now-96332.htm",
+          "snippet": "即将接任苹果CEO的John Ternus计划将人工智能战略作为公司发展优先事项，应对激烈的市场竞争",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
