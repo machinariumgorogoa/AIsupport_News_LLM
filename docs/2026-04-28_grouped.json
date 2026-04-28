@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-28",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "2026年首个重磅AI IPO将至，但我选择观望",
+          "link": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/1546342/the-first-blockbuster-artificial-intelligence-ipo-of-2026-is-almost-here-heres-why-im-staying-away/",
+          "snippet": "OpenAI与Anthropic有望启动公开上市，但市场对其估值与盈利能力存疑，投资者需谨慎对待。",
+          "index": 1
+        },
+        {
+          "title": "Meta准备撤销对Manus的收购交易，因中国监管干预",
+          "link": "https://www.wsj.com/tech/ai/meta-is-preparing-to-have-to-undo-its-manus-acquisition-after-china-ban-a4ffbefb",
+          "snippet": "中国监管机构阻止Meta收购AI初创公司Manus，Meta或被迫解除20亿美元交易，面临战略调整压力。",
+          "index": 2
+        },
+        {
+          "title": "前DeepMind科学家David Silver为AI初创公司Ineffable募资11亿美元",
+          "link": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
+          "snippet": "DeepMind前研究员David Silver创立Ineffable，完成11亿美元融资，创AI领域新纪录，专注AGI研发。",
+          "index": 3
+        },
+        {
+          "title": "中国阻止Meta以20亿美元收购AI初创公司Manus",
+          "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o",
+          "snippet": "中国反垄断监管机构正式否决Meta对Manus的收购案，该交易涉及Meta在VR/AR领域的重要布局。",
+          "index": 4
+        },
+        {
+          "title": "AI同时吞噬股市与VC资金：英伟达市值达5.2万亿美元，全球投资飙升至3309亿美元",
+          "link": "https://finance.biggo.com/news/xlAv0p0BDXrLZJaAThWt",
+          "snippet": "AI热潮推动Nvidia市值突破5.2万亿美元，全球AI投资达3309亿美元，资本市场呈现爆发式增长态势。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Tim Cook卸任，苹果任命新CEO，AI成为核心战略",
+          "link": "https://innotechtoday.com/apple-names-new-ceo-as-tim-cook-steps-aside-and-ai-becomes-a-defining-priority/",
+          "snippet": "苹果高层变动，新任CEO将聚焦AI战略转型，应对生成式AI竞争，推动Siri及端侧AI技术革新。",
+          "index": 6
+        },
+        {
+          "title": "银行CEO成功推出AI数字分身，并主持财报电话会议",
+          "link": "https://www.firstpost.com/tech/this-bank-ceo-has-successfully-launched-his-ai-clone-and-it-just-led-an-earnings-call-14005205.html",
+          "snippet": "某银行首席执行官推出个人AI克隆体，首次由数字人主持财报会议，展示金融AI应用新突破。",
+          "index": 7
+        },
+        {
+          "title": "Elon Musk与OpenAI CEO Sam Altman就AI控制权对簿公堂",
+          "link": "https://whdh.com/news/elon-musk-and-openai-ceo-sam-altman-head-to-court-in-high-stakes-showdown-over-ai/",
+          "snippet": "马斯克与阿尔特曼在法庭展开高风险对决，争夺OpenAI控制权及AGI发展方向，涉及AI安全与商业化分歧。",
+          "index": 8
+        },
+        {
+          "title": "Salesforce逆势招聘1000名毕业生与实习生，反驳AI失业论",
+          "link": "https://www.salesforceben.com/salesforce-to-hire-1000-grads-and-interns-defying-ai-job-killing-fears/",
+          "snippet": "Salesforce CEO Marc Benioff宣布大规模招聘计划，强调AI增强而非替代人类，展现对人才市场的信心。",
+          "index": 9
+        },
+        {
+          "title": "Elon Musk与Sam Altman法庭对决，争夺AI未来控制权",
+          "link": "https://www.latimes.com/business/story/2026-04-27/elon-musk-openai-ceo-sam-altman-head-to-court-in-high-stakes-showdown-over-ai",
+          "snippet": "马斯克起诉OpenAI及阿尔特曼，指控其背离开源初衷，双方就AI技术开放性与商业化路径展开法律博弈。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
