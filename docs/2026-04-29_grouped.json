@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-29",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "为何英伟达而非Alphabet是持有SpaceX 1.75万亿美元IPO预期下最佳AI股票",
+          "link": "https://www.fool.com/investing/2026/04/28/why-nvidia-not-alphabet-is-the-best-artificial-int/",
+          "snippet": "分析在SpaceX即将上市背景下，Nvidia相比Alphabet更适合作为AI投资标的，具备更强增长潜力。",
+          "index": 1
+        },
+        {
+          "title": "OpenAI未达收入目标——IPO计划突然生变",
+          "link": "https://www.barrons.com/articles/openai-ipo-revenue-ai-trade-046c6a0f",
+          "snippet": "OpenAI未能实现预期营收目标，其IPO计划面临不确定性，市场估值或需重新调整。",
+          "index": 2
+        },
+        {
+          "title": "Ineffable Intelligence：强化学习AI公司获11亿美元种子轮融资，估值51亿美元",
+          "link": "https://pulse2.com/ineffable-intelligence-1-1-billion-seed-funding-at-5-1-billion-valuation-raised-for-reinforcement-learning-ai/",
+          "snippet": "专注Reinforcement Learning的AI初创公司Ineffable Intelligence完成巨额Seed Funding，创下行业纪录。",
+          "index": 3
+        },
+        {
+          "title": "中国政府禁止Meta收购Manus",
+          "link": "https://www.chosun.com/english/industry-en/2026/04/29/LTTA32C6JBHVFBNVC4RJJHNSKQ/",
+          "snippet": "中国监管机构以反垄断为由阻止Meta对AI Agent产品Manus的收购交易，维护市场公平竞争。",
+          "index": 4
+        },
+        {
+          "title": "为何英伟达而非Alphabet是SpaceX 1.75万亿美元IPO预期下的最佳AI股票",
+          "link": "https://www.aol.com/articles/why-nvidia-not-alphabet-best-012200459.html",
+          "snippet": "对比Nvidia与Alphabet在AI领域表现，前者在SpaceX IPO预期下展现更强投资价值和技术护城河。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "苹果下一任CEO需推出杀手级AI产品",
+          "link": "https://www.wired.me/story/apples-next-ceo-needs-to-launch-a-killer-ai-product",
+          "snippet": "WIRED指出，Tim Cook继任者必须发布突破性AI产品，以扭转苹果在生成式AI领域的落后局面。",
+          "index": 6
+        },
+        {
+          "title": "Jump与Markel启动AI合作",
+          "link": "https://www.businessinsurance.com/jump-markel-launch-ai-collaboration/",
+          "snippet": "保险科技公司Jump与Markel宣布AI领域合作，利用人工智能优化承保流程与风险评估模型。",
+          "index": 7
+        },
+        {
+          "title": "Customers Bank CEO在财报电话会议使用AI Clone展示自动化战略",
+          "link": "https://www.indiatoday.in/amp/business/story/customers-bank-ceo-sam-sidhu-uses-ai-clone-on-earnings-call-openai-partnership-2903045-2026-04-29",
+          "snippet": "该银行首席执行官在earnings call中使用AI数字分身发言，标志着金融机构加速推进automation与智能化转型。",
+          "index": 8
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克出庭对诉OpenAI CEO山姆·奥特曼，庭审或将重塑AI行业未来",
+          "link": "https://abc7ny.com/post/tesla-ceo-elon-musk-takes-stand-trial-openai-sam-altman-could-reshape-artificial-intelligence-future/18990312/",
+          "snippet": "Musk与Altman就OpenAI控制权及AGI发展方向对簿公堂，判决可能影响整个",
+          "index": 9
+        },
+        {
+          "title": "Can Apple’s new CEO turn things around? – Computerworld",
+          "link": "https://www.computerworld.com/article/4164495/can-apples-new-ceo-turn-things-around.html",
+          "snippet": "What’s not mysterious is that Apple has struggled with AI and it will now be up ...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
