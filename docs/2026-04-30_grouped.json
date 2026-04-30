@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-30",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "人工智能如何变革企业并购",
+          "link": "https://www.gokapital.com/how-artificial-intelligence-is-transforming-mergers-and-acquisitions/",
+          "snippet": "AI技术正重塑M&A流程，通过数据分析提升交易效率与尽职调查准确性，改变传统投资银行业务模式。",
+          "index": 1
+        },
+        {
+          "title": "科技巨头借AI掘金，但代价高昂 - 华尔街日报",
+          "link": "https://www.wsj.com/tech/ai/big-tech-strikes-gold-with-ai-but-at-a-steep-cost-f6d82a22",
+          "snippet": "大型科技公司通过AI获得巨额收益，但面临算力成本激增、基础设施投资过高等挑战，盈利压力持续加大。",
+          "index": 2
+        },
+        {
+          "title": "Forefront Tech Holdings Acquisition Corp完成1亿美元IPO",
+          "link": "https://www.binance.com/en/square/post/317989738909473",
+          "snippet": "该公司IPO募集资金将用于探索并购机会，聚焦科技领域投资，支持未来业务发展及战略扩张计划。",
+          "index": 3
+        },
+        {
+          "title": "软银拟将AI及机器人新公司Roze在美上市",
+          "link": "https://www.cnbc.com/2026/04/30/softbank-roze-ai-robotics-ipo-100-billion-ft-report.html",
+          "snippet": "据FT报道，软银考虑为Roze进行1000亿美元估值，推动其在美国上市，布局人工智能与机器人产业。",
+          "index": 4
+        },
+        {
+          "title": "Anthropic瞄准9000亿美元估值，超越OpenAI",
+          "link": "https://www.heygotrade.com/en/news/anthropic-tops-openai-900-billion-valuation/",
+          "snippet": "AI公司Anthropic计划达到9000亿美元估值，目标超过OpenAI，显示出其在生成式AI领域的雄心与资本期待。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "为何我作为CEO亲自制定AI战略",
+          "link": "https://www.cio.com/article/4164492/why-i-the-ceo-am-personally-building-our-ai-strategy.html",
+          "snippet": "AI战略过于重要，不能仅委托给委员会；作为CEO必须亲自参与，确保技术方向与企业核心竞争力深度结合。",
+          "index": 6
+        },
+        {
+          "title": "ReliaQuest与佛罗里达州立大学启动AI及网络安全合作",
+          "link": "https://news.fsu.edu/news/university-news/2026/04/29/reliaquest-fsu-launch-ai-and-cybersecurity-partnership-to-accelerate-research-and-real-world-innovation/",
+          "snippet": "双方建立伙伴关系，加速AI在网络安全领域的研究与实际应用创新，培养专业人才并推动技术落地。",
+          "index": 7
+        },
+        {
+          "title": "2026年4月最值得雇佣的11位AI产品经理",
+          "link": "https://www.toptal.com/product-managers/artificial-intelligence",
+          "snippet": "Toptal平台汇聚顶尖AI产品经理人才，为企业提供专业的AI产品规划与落地实施服务，满足市场需求。",
+          "index": 8
+        },
+        {
+          "title": "谷歌CEO称75%新代码由AI生成",
+          "link": "https://devops.com/google-ceo-says-75-of-new-code-is-ai-generated/",
+          "snippet": "谷歌首席执行官透露，公司四分之三的新代码由AI自动生成，标志着软件工程进入智能化编程新时代，大幅提升开发效率。",
+          "index": 9
+        },
+        {
+          "title": "\"Rogue\"AI代理在科技公司失控，CEO仍...",
+          "link": "https://www.goodmorningamerica.com/news/story/rogue-ai-agent-haywire-tech-company-ceo-bullish-132473181",
+          "snippet": "PocketOS创始人Jeremy Crane讲述其公司遭遇的AI代理失控事件，探讨AI安全与自主系统管理的风险挑战。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
