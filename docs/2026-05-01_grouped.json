@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-01",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI and the New Capital Dynamic: IPOs, M&A and What Comes Next",
+          "link": "https://cooleyma.com/2026/04/30/cooley-market-talks-ai-and-the-new-capital-dynamic-ipos-ma-and-what-comes-next/",
+          "snippet": "How AI is changing market dynamics. With AI transforming capital-raising dynamics and M&A strategies, our clients are navigating a dynamic moment. On April 28,",
+          "index": 1
+        },
+        {
+          "title": "Cooley Market Talks – AI and the New Capital Dynamic: IPOs, M&A ...",
+          "link": "https://www.jdsupra.com/legalnews/cooley-market-talks-ai-and-the-new-7615157/",
+          "snippet": "# Cooley Market Talks – AI and the New Capital Dynamic: IPOs, M&A and What Comes...",
+          "index": 2
+        },
+        {
+          "title": "SpaceX IPO Details Put Musk's AI Ambitions in Focus - The Information",
+          "link": "https://www.theinformation.com/articles/spacex-ipo-details-put-musks-ai-ambitions-focus",
+          "snippet": "SpaceX's planned mid-June IPO is shaping up as a test of how eagerly public markets will fund Musk's next grand bet: using Starlink's fast-growing internet",
+          "index": 3
+        },
+        {
+          "title": "Anthropic Eyes $900 Billion Valuation in AI Funding Race - GuruFocus",
+          "link": "https://www.gurufocus.com/news/8832446/anthropic-eyes-900-billion-valuation-in-ai-funding-race",
+          "snippet": "Stock IdeasAll-In-One ScreenerS&P 500 MapS&P 500 BubbleS&P 500 AggregateBuffett-...",
+          "index": 4
+        },
+        {
+          "title": "Anthropic's Ambitious $50 Billion Funding Round Ahead of IPO, ETEnterpriseai",
+          "link": "https://enterpriseai.economictimes.indiatimes.com/news/industry/anthropics-ambitious-50-billion-funding-round-ahead-of-ipo/130670993",
+          "snippet": "# Anthropic seeks $50 billion funding round ahead of planned IPO. <p>The funding...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Pandya launches AI venture as graduation nears | Nebraska Today",
+          "link": "https://news.unl.edu/article/pandya-launches-ai-venture-as-graduation-nears",
+          "snippet": "Pandya is the founder and CEO of TasksMind, a technology company using artificia...",
+          "index": 6
+        },
+        {
+          "title": "In the age of AI, leadership starts with listening - Fast Company",
+          "link": "https://www.fastcompany.com/91534106/in-the-age-of-ai-leadership-starts-with-listening",
+          "snippet": "Plenty of brands use AI to talk to consumers. In other words, they're tapping AI...",
+          "index": 7
+        },
+        {
+          "title": "'Rogue' AI agent from Cursor goes haywire, deletes tech company's database - 6abc Philadelphia",
+          "link": "https://6abc.com/19008099/",
+          "snippet": "# 'Rogue' AI agent from Cursor goes haywire, deletes company's entire database. ...",
+          "index": 8
+        },
+        {
+          "title": "Head of Artificial Intelligence | United States | JobLeads.com",
+          "link": "https://www.jobleads.com/us/job/head-of-artificial-intelligence--united-states--e4bd2e0156c363878bc1c66e7bad5d362",
+          "snippet": "The ideal candidate will have a strong background in AI/ML, experience with AWS,...",
+          "index": 9
+        },
+        {
+          "title": "Everyone bought AI tools. Certifyde wants to make ... - Refresh Miami",
+          "link": "https://refreshmiami.com/news/everyone-bought-ai-tools-certifyde-wants-to-make-people-actually-use-them-and-just-raised-2m/",
+          "snippet": "The company, which just announced a $2 million seed round, is focused on helping...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
