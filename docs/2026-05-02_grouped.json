@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-02",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI芯片制造商Cerebras拟最高40亿美元IPO，估值达400亿美元",
+          "link": "https://thenextweb.com/news/cerebras-ipo-4-billion-40-billion-valuation",
+          "snippet": "AI芯片公司Cerebras计划以400亿美元估值进行首次公开募股，募资规模最高可达40亿美元。",
+          "index": 1
+        },
+        {
+          "title": "据悉AI芯片商Cerebras瞄准最高40亿美元IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-01/ai-chipmaker-cerebras-is-said-to-target-up-to-4-billion-in-ipo",
+          "snippet": "据传Cerebras计划进行高达40亿美元的IPO，该公司专注于AI芯片研发，估值目标尚未披露具体数字。",
+          "index": 2
+        },
+        {
+          "title": "孙正义估值战略",
+          "link": "https://x.com/TradedVC/status/2050230301595488265",
+          "snippet": "该举措是创始人孙正义更广泛且激进的战略布局一部分，旨在通过高估值推动AI及科技领域投资扩张。",
+          "index": 3
+        },
+        {
+          "title": "软银计划在美国成立机器人与AI公司建设数据中心",
+          "link": "https://www.tomshardware.com/tech-industry/softbank-plans-robotics-and-ai-firm-in-the-us-to-build-data-centers-aims-for-usd100-billion-valuation-and-an-ipo-this-year",
+          "snippet": "软银集团计划在美国设立专注于机器人与AI的新公司，主要业务为建设和运营AI数据中心基础设施。",
+          "index": 4
+        },
+        {
+          "title": "Nebius以6.43亿美元收购Eigen AI",
+          "link": "https://www.investing.com/news/company-news/nebius-acquires-eigen-ai-for-643-million-93CH-4653789",
+          "snippet": "Nebius宣布以6.43亿美元完成收购Eigen AI，此次交易标志着其在AI基础设施领域的重大战略投资布局。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "43亿美元收购Eigen AI",
+          "link": "https://www.remoterocketship.com/company/ewor-2/jobs/ai-co-founder-ceo-kosovo-remote/",
+          "snippet": "Nebius宣布以6.43亿美元完成收购Eigen AI，此次交易标志着其在AI基础设施领域的重大战略投资布局。",
+          "index": 6
+        },
+        {
+          "title": "AWS CEO驳斥AI失业论，称亚马逊2026年将招1.1万名实习生",
+          "link": "https://www.aol.com/articles/aws-ceo-dismisses-ai-job-090701839.html",
+          "snippet": "AWS首席执行官否认AI将导致大规模失业，并宣布亚马逊计划在2026年招聘超过1.1万名实习生。",
+          "index": 7
+        },
+        {
+          "title": "John Sculley谈库克卸任、苹果AI增长及2026年地缘政治挑战",
+          "link": "https://www.indexbox.io/blog/former-apple-ceo-john-sculley-weighs-in-on-tim-cooks-transition-and-apples-ai-strategy/",
+          "snippet": "前苹果CEO John Sculley就Tim Cook离职传闻、苹果AI业务发展及2026年全球地缘政治对科技业影响发表观点。",
+          "index": 8
+        },
+        {
+          "title": "Netflix创始人Reed Hastings：AI将让这些技能与数学科学同等重要",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/netflix-founder-reed-hastings-says-ai-will-make-these-skills-as-important-for-technology-companies-as-maths-and-science-have-been/articleshow/130681402.cms",
+          "snippet": "Netflix创始人表示，AI技术将重塑人才需求，特定技能对科技公司的重要性将提升至与数学和科学同等地位。",
+          "index": 9
+        },
+        {
+          "title": "CenterWell招聘AI产品管理总监",
+          "link": "https://www.dice.com/job-detail/2078ff1e-4e46-4c79-9caf-8388bee879c4",
+          "snippet": "CenterWell客户体验团队正在招募AI产品管理总监，负责领导AI驱动的产品战略制定与跨部门协作实施。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
