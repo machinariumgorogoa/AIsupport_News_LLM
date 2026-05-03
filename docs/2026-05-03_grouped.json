@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-03",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "软银考虑AI机器人子公司以1000亿美元估值IPO",
+          "link": "https://que.com/softbank-considers-100b-valuation-for-ai-robotics-spinout-ipo/",
+          "snippet": "软银集团考虑以1000亿美元估值推动AI机器人业务分拆上市，寻求在人工智能硬件领域占据主导地位。",
+          "index": 1
+        },
+        {
+          "title": "Cerebras与OpenAI合作后寻求400亿美元估值IPO募资40亿",
+          "link": "https://www.msn.com/en-us/news/insight/cerebras-seeks-4b-in-ipo-at-40b-valuation-after-openai-deal/gm-GMCA618252?gemSnapshotKey=GMCA618252-snapshot-1",
+          "snippet": "AI芯片制造商Cerebras Systems在与OpenAI达成协议后，计划以400亿美元估值进行IPO，目标最高募资40亿美元。",
+          "index": 2
+        },
+        {
+          "title": "Meta收购Assured Robot Intelligence布局人形AI机器人",
+          "link": "https://qz.com/meta-acquires-assured-robot-intelligence-humanoid-robotics-050126",
+          "snippet": "Meta收购初创公司Assured Robot Intelligence，加速其在人形机器人和Physical AI领域的战略布局。",
+          "index": 3
+        },
+        {
+          "title": "xAI股票动态：估值、融资及投资者信息汇总",
+          "link": "https://notice.co/c/x-ai",
+          "snippet": "xAI最新估值、融资轮次及主要投资者信息一览，涵盖Elon Musk旗下AI独角兽的市场表现与股权结构。",
+          "index": 4
+        },
+        {
+          "title": "OpenAI首席财务官 reportedly 拟将IPO推迟至2027年",
+          "link": "https://gizmodo.com/openais-cfo-reportedly-wants-to-delay-the-ipo-from-2026-to-2027-2000753760",
+          "snippet": "OpenAI CFO reportedly 建议将原定2026年的IPO计划推迟至2027年，以等待更成熟的资本市场条件。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "eWorker招聘AI产品经理",
+          "link": "https://eworker.co/job/product-owner-artificial-intelligence-5/",
+          "snippet": "eWorker招聘Product Owner（AI方向），要求具备技术和人工智能背景，负责推动AI产品战略和路线图规划。",
+          "index": 6
+        },
+        {
+          "title": "Y Combinator 2026年投资的AI初创公司盘点",
+          "link": "https://www.ycombinator.com/companies/industry/Artificial%20Intelligence",
+          "snippet": "Y Combinator 2026年 batch 中获投的人工智能初创企业列表，涵盖AIOps、AI安全、保险科技等垂直领域创新项目。",
+          "index": 7
+        },
+        {
+          "title": "民调：就业流失与中国威胁导致GOP对特朗普AI议程产生分歧",
+          "link": "https://www.politico.com/news/2026/05/02/poll-trump-voters-skeptical-artificial-intelligence-jobs-00902754",
+          "snippet": "最新民调显示，对AI导致失业的担忧及来自中国的竞争压力，使共和党（GOP）内部在特朗普AI政策上产生严重分歧。",
+          "index": 8
+        },
+        {
+          "title": "银行CEO自曝使用AI数字分身主持财报电话会议",
+          "link": "https://futurism.com/artificial-intelligence/bank-ceo-ai-clone-call",
+          "snippet": "某银行首席执行官透露使用自身AI Clone代替本人参与投资者Conference Call，引发关于AI伦理与信息披露的争议。",
+          "index": 9
+        },
+        {
+          "title": "LinkedIn联合创始人：AI将为大众提供免费律师与医生服务",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/linkedin-co-founder-ai-everyone-162804043.html",
+          "snippet": "LinkedIn联合创始人Reid Hoffman预测，AI技术普及将大幅降低专业服务费，让法律与医疗服务普惠化并人人可及。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
