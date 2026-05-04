@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-04",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Meta acquires Assured Robot Intelligence to accelerate humanoid ...",
+          "link": "https://www.digitimes.com/news/a20260504VL203/meta-acquisition-ai-humanoid-robotics-infrastructure.html",
+          "snippet": "Cerebras eyes US$40 billion IPO in high-stakes AI chip challenge to Nvidia. # Me...",
+          "index": 1
+        },
+        {
+          "title": "SpaceX, OpenAI, Anthropic: The AI Mega‑IPO Trio Set to Reshape the S&P 500 - AOL",
+          "link": "https://www.aol.com/finance/spacex-openai-anthropic-ai-mega-130723457.html",
+          "snippet": "IPO investors could be spoiled this year, as three AI juggernauts in SpaceX, Ope...",
+          "index": 2
+        },
+        {
+          "title": "The SpaceX IPO Will Create a $75 Billion Spending Spree -- These 2 AI Stocks Will Win - AOL",
+          "link": "https://www.aol.com/articles/spacex-ipo-create-75-billion-212500430.html",
+          "snippet": "# The SpaceX IPO Will Create a $75 Billion Spending Spree -- These 2 AI Stocks W...",
+          "index": 3
+        },
+        {
+          "title": "Anthropic Partners with Blackstone and Goldman Sachs for $1.5B A",
+          "link": "https://www.gurufocus.com/news/8839119/anthropic-partners-with-blackstone-and-goldman-sachs-for-15b-ai-venture",
+          "snippet": "# Anthropic Partners with Blackstone and Goldman Sachs for $1.5B A. Buffett Indi...",
+          "index": 4
+        },
+        {
+          "title": "Prediction: This Will Be the Top-Performing Artificial Intelligence (AI) Semiconductor Stock Over the Next Year. (Hint: It's Not Nvidia, Broadcom, or Micron.) - The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/investing/markets/stocks/AVGO/pressreleases/1674457/prediction-this-will-be-the-top-performing-artificial-intelligence-ai-semiconductor-stock-over-the-next-year-hint-its-not-nvidia-broadcom-or-micron/",
+          "snippet": "Marvell Technology could be the next AI chip stock to break out, thanks to its e...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Lee Cowie appointed CEO of accesso® as company accelerates AI ...",
+          "link": "https://accesso.com/news/lee-cowie-appointed-ceo-of-accesso-as-company-accelerates-ai-strategy/",
+          "snippet": "Cowie's strategic priorities center on three areas: the development of accesso I...",
+          "index": 6
+        },
+        {
+          "title": "Reddit CEO Steve Huffman Calls Platform 'Fuel' For AI Growth",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/reddit-ceo-steve-huffman-calls-104757659.html",
+          "snippet": "* [US](https://www.yahoo.com/news/us/). * [Health](https://health.yahoo.com/). *...",
+          "index": 7
+        },
+        {
+          "title": "AI (artificial intelligence) | Technology | The Guardian",
+          "link": "https://www.theguardian.com/technology/artificialintelligenceai/2026/may/04/all",
+          "snippet": "### Wikipedia founder brands Australia’s social media ban an ‘unmitigated disast...",
+          "index": 8
+        },
+        {
+          "title": "Lee Cowie appointed CEO of accesso® as company accelerates AI strategy",
+          "link": "https://www.prnewswire.com/news-releases/lee-cowie-appointed-ceo-of-accesso-as-company-accelerates-ai-strategy-302760548.html",
+          "snippet": "## News Releases Overview. ## Multimedia Gallery Overview. ## Auto & Transportat...",
+          "index": 9
+        },
+        {
+          "title": "LinkedIn Co-Founder: AI Will Give Everyone Free Lawyers, Doctors and Teachers Within Years - AOL",
+          "link": "https://www.aol.com/articles/linkedin-co-founder-ai-everyone-162804657.html",
+          "snippet": "The analyst who called NVIDIA in 2010 just named his top 10 stocks and Applied D...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
