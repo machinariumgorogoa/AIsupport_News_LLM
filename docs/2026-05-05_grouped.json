@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-05",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX拟与xAI合并后3月启动保密IPO，目标估值1.75万亿美元",
+          "link": "https://www.phoenixstrategy.group/blog/spacex-confidential-ipo-following-xai-merger",
+          "snippet": "SpaceX计划在完成与xAI合并后于3月进行保密IPO，目标估值达1.75万亿美元。",
+          "index": 1
+        },
+        {
+          "title": "OpenAI启动IPO？Grok-SpaceX合并？AI IPO竞赛升温",
+          "link": "https://pod.wave.co/podcast/the-ai-daily-brief-formerly-the-ai-breakdown-artificial-intelligence-news-and-analysis/openai-ipo-grok-spacex-merger-the-ai-ipo-race-heats-up",
+          "snippet": "OpenAI或将IPO，Grok与SpaceX合并传闻四起，人工智能企业IPO竞赛日趋激烈。",
+          "index": 2
+        },
+        {
+          "title": "智谱AI最新融资1.4亿美元并预提交2025年IPO申请，累计融资15亿美元",
+          "link": "https://www.caproasia.com/2025/07/04/china-artificial-intelligence-startup-zhipu-ai-raised-140-million-in-latest-funding-round-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8/",
+          "snippet": "智谱AI完成最新一轮1.4亿美元融资，2023年估值28亿美元，投资方包括阿里巴巴、腾讯、沙特阿美等，计划IPO。",
+          "index": 3
+        },
+        {
+          "title": "OpenAI筹备上市？Grok-SpaceX合并？人工智能IPO热潮来袭",
+          "link": "https://podscan.fm/podcasts/the-ai-daily-brief-artificial-intelligence-news-and-analysis/episodes/openai-ipo-grok-spacex-merger-the-ai-ipo-race-heats-up",
+          "snippet": "OpenAI上市传闻与Grok-SpaceX合并消息引发关注，人工智能行业IPO热潮持续升温。",
+          "index": 4
+        },
+        {
+          "title": "智谱AI拟2026年赴港IPO，2025年4月预提交申请，估值曾达28亿美元",
+          "link": "https://www.caproasia.com/2025/12/19/china-artificial-intelligence-startup-zhipu-ai-plans-hong-kong-in-2026-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8-billion-investors",
+          "snippet": "智谱AI拟2026年赴港上市，2023年估值28亿美元，由清华大学教授唐杰、李涓子创立于2019年。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "OpenAI与Anthropic分别推出PE合作伙伴关系",
+          "link": "https://www.wealthmanagement.com/artificial-intelligence/openai-anthropic-launch-separate-joint-venture-pe-partnerships",
+          "snippet": "OpenAI和Anthropic各自推出私募股权投资合作计划，拓展人工智能在企业服务领域的布局。",
+          "index": 6
+        },
+        {
+          "title": "Anthropic与华尔街合作成立企业AI公司",
+          "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-launches-enterprise-ai-firm-with-wall-street-giants/",
+          "snippet": "Anthropic联合华尔街金融机构成立企业级AI公司，聚焦B2B和金融服务领域的人工智能解决方案。",
+          "index": 7
+        },
+        {
+          "title": "与Irene Otieno探讨最新AI动态",
+          "link": "https://x.com/AginaAby/status/2051432431924687104",
+          "snippet": "关注Irene Otieno带来的最新AI行业资讯与分析，涵盖人工智能技术发展与商业应用前沿。",
+          "index": 8
+        },
+        {
+          "title": "IBM CEO Arvind Krishna将主持Think 2026大会，阐述AI与Quantum如何定义企业",
+          "link": "https://newsroom.ibm.com/2026-05-04-media-alert-ibm-ceo-arvind-krishna-to-open-ibm-think-2026,-outlining-how-ai-and-quantum-will-define-the-enterprise",
+          "snippet": "IBM首席执行官将在Think 2026大会开幕演讲，探讨人工智能与量子计算技术对现代企业的影响。",
+          "index": 9
+        },
+        {
+          "title": "Anthropic与高盛等联合发起15亿美元AI创投计划",
+          "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+          "snippet": "Anthropic联合高盛、黑石等金融机构成立15亿美元AI创投基金，加速企业级人工智能技术研发",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
