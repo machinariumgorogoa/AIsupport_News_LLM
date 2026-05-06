@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-06",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "IPO-bound Anthropic is reportedly teaming up with Blackstone ...",
+          "link": "https://www.msn.com/en-us/technology/artificial-intelligence/ipo-bound-anthropic-is-reportedly-teaming-up-with-blackstone-goldman-sachs-in-1-5b-joint-venture-to-sell-ai/ar-AA22kv0U",
+          "snippet": "Anthropic has been at the center of AI conversations among investors in recent months. ・Anthropic and the PE investors will invest a total of $1.5 billion",
+          "index": 1
+        },
+        {
+          "title": "DeepSeek said to be close to $45B valuation - Breaking The News",
+          "link": "https://breakingthenews.net/Article/DeepSeek-said-to-be-close-to-dollar45B-valuation/66226981",
+          "snippet": "Chinese artificial intelligence company DeepSeek is nearing a valuation of $45 billion, as the China Integrated Circuit Industry Investment Fund, one of",
+          "index": 2
+        },
+        {
+          "title": "AI Computing Is a Memory Hog. An Nvidia-Backed Startup Has an ...",
+          "link": "https://www.wsj.com/tech/ai/ai-computing-is-a-memory-hog-an-nvidia-backed-startup-has-an-answer-383a5710",
+          "snippet": "RadixArk raised $100 million at a $400 million valuation for software that makes AI inference and training more efficient.",
+          "index": 3
+        },
+        {
+          "title": "Diginex's $1.5B AI Deal, Structured at a $10.56 Implied Valuation ...",
+          "link": "https://www.voiceofalexandria.com/news/national_business_news/diginexs-1-5b-ai-deal-structured-at-a-10-56-implied-valuation-brings-immediate-scale/article_e1811cd9-a18c-5f34-87b8-cc4084810be7.html",
+          "snippet": "Diginex's $1.5B AI Deal, Structured at a $10.56 Implied Valuation, Brings Immediate Scale and Operating Performance Into Focus. ACCESS Newswire; May 5, 2026; 27",
+          "index": 4
+        },
+        {
+          "title": "Exclusive: Nova Intelligence raises $31.5 million to bring AI to SAP’s $89 billion migration wave | Fortune",
+          "link": "https://fortune.com/2026/05/05/exclusive-nova-intelligence-ai-sap-chemistry-emma-qian/",
+          "snippet": "# Exclusive: Nova Intelligence raises $31.5 million to bring agentic AI to SAP’s...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Co-Founder & CEO - AI Content Intelligence & Publishing Engine",
+          "link": "https://wellfound.com/jobs/4174855-co-founder-ceo-ai-content-intelligence-publishing-engine",
+          "snippet": "FutureSight is seeking a Co-Founder & CEO to lead InfluTracker, an AI-native con...",
+          "index": 6
+        },
+        {
+          "title": "Co-Founder & CEO – AI Proposal Intelligence for AEC at FutureSight",
+          "link": "https://www.remoterocketship.com/company/futuresight/jobs/co-founder-ceo-ai-proposal-intelligence-for-aec-canada-remote/",
+          "snippet": "FutureSight is a venture studio that co-founds and funds B2B AI ventures, buildi...",
+          "index": 7
+        },
+        {
+          "title": "Co-Founder & CEO - AI Proposal Intelligence for AEC - Remotive",
+          "link": "https://remotive.com/remote/jobs/product/co-founder-ceo-ai-proposal-intelligence-for-aec-4585473",
+          "snippet": "FutureSight is seeking a Co-Founder & CEO to lead BidOps, an AI-native proposal-...",
+          "index": 8
+        },
+        {
+          "title": "Co-Founder & CEO – AI Content Intelligence, Publishing Engine at FutureSight",
+          "link": "https://www.remoterocketship.com/us/company/futuresight/jobs/co-founder-ceo-ai-content-intelligence-publishing-engine-united-states-remote/",
+          "snippet": "FutureSight is a venture studio that co-founds and funds B2B AI ventures, buildi...",
+          "index": 9
+        },
+        {
+          "title": "Think Shift names CEO, adopts 'AI plus AI' approach",
+          "link": "https://letsdatascience.com/news/think-shift-names-ceo-adopts-ai-plus-ai-approach-0799684c",
+          "snippet": "Per the article, the new leader's top priorities include rejecting return-to-off...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
