@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-07",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "中国拟以500亿美元估值投资DeepSeek - 华尔街日报",
+          "link": "https://www.wsj.com/tech/ai/china-to-invest-in-deepseek-at-50-billion-valuation-045041d0",
+          "snippet": "据报道，中国政府计划投资AI初创公司DeepSeek，投前估值达500亿美元，彰显国家对AI产业的战略支持。",
+          "index": 1
+        },
+        {
+          "title": "Anthropic IPO - 预期日期、估值及详情",
+          "link": "https://danelfin.com/ipo/anthropic",
+          "snippet": "由前OpenAI高管Dario和Daniela Amodei于2021年创立，Anthropic正筹备IPO，具体日期和估值尚未确定。",
+          "index": 2
+        },
+        {
+          "title": "AI能否提升企业价值？倍数的现实",
+          "link": "https://capital-riesgo.es/en/articles/does-ai-increase-the-value-of-your-business-the-reality-of-multiples-in-tech-m-a/",
+          "snippet": "人工智能是否真正提升科技公司估值？本文探讨AI对商业估值倍数的影响及市场现实。",
+          "index": 3
+        },
+        {
+          "title": "又一家AI公司筹备IPO，投资者须知",
+          "link": "https://www.investopedia.com/there-s-another-ai-powered-ipo-in-the-works-here-s-what-you-should-know-cerebras-11968086",
+          "snippet": "AI芯片公司Cerebras正推进IPO进程，这家初创公司专注于高性能计算领域。",
+          "index": 4
+        },
+        {
+          "title": "是否投资这家AI IPO股票？X-Energy详解",
+          "link": "https://www.theglobeandmail.com/investing/markets/stocks/SMR-N/pressreleases/1762509/should-you-invest-in-this-artificial-intelligence-ai-ipo-stock-that-has-a-partnership-with-amazon/",
+          "snippet": "X-Energy开发小型核反应堆供工业使用，正考虑上市，投资者需评估其AI相关前景。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "押注AI作为唯一智能的盲区 - Medium",
+          "link": "https://medium.com/@malbers/betting-on-ai-as-the-intelligence-heres-what-that-misses-da4059d56a61",
+          "snippet": "CEO们高调押注AI并伴随裁员，但这种\"AI至上\"策略忽视了人类智能与创造力的价值。",
+          "index": 6
+        },
+        {
+          "title": "AI对人类风险的担忧笼罩马斯克诉讼案",
+          "link": "https://www.washingtonpost.com/business/2026/05/07/openai-musk-altman-trial-agi/5c1ed702-49c9-11f1-a119-857cd2bf4fd4_story.html",
+          "snippet": "马斯克与OpenAI的法律纠纷审理中，AI安全风险和人类生存威胁成为关注焦点。",
+          "index": 7
+        },
+        {
+          "title": "Agentic AI如何重塑创始人的角色定义",
+          "link": "https://www.weforum.org/stories/2026/05/agentic-ai-reshaping-what-it-means-to-be-a-founder/",
+          "snippet": "自主智能体AI(agentic AI)可能改变创业本质，降低创业门槛，重新定义创始人能力要求。",
+          "index": 8
+        },
+        {
+          "title": "Salesforce将招聘1000名\"AI-native\"毕业生 - Fast Company",
+          "link": "https://www.fastcompany.com/91537976/salesforce-says-it-will-hire-1000-ai-native-new-grads",
+          "snippet": "Salesforce宣布计划雇佣1000名AI原生新毕业生，强化其AI产品开发和客户服务能力。",
+          "index": 9
+        },
+        {
+          "title": "Box CEO称AI使每位工程师效率提升2至5倍",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/box-ceo-aaron-levie-says-094506004.html",
+          "snippet": "Box首席执行官Aaron Levie表示，AI工具使工程师生产力翻倍或提升五倍，彻底改变软件开发模式。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
