@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-08",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Kimi developer Moonshot AI valued at US$20b as it navigates new IPO rules",
+          "link": "https://www.scmp.com/tech/article/3352751/kimi-developer-moonshot-ai-valued-us20b-it-navigates-chinas-new-ipo-rules",
+          "snippet": "# Kimi developer Moonshot AI valued at US$20b as it navigates China’s new IPO ru...",
+          "index": 1
+        },
+        {
+          "title": "Inside the A.I. Startups Worth Billions Before Launch - Puck News",
+          "link": "https://puck.news/inside-the-ai-startups-worth-billions-before-launch/",
+          "snippet": "Four months after Silver set out on his own, Ineffable Intelligence announced $1.1 billion in seed funding at a $5.1 billion valuation. Not bad for a company",
+          "index": 2
+        },
+        {
+          "title": "Open-source AI developer Moonshot AI raises $2B at $20B+ valuation",
+          "link": "https://siliconangle.com/2026/05/07/open-source-ai-developer-moonshot-ai-raises-2b-20b-valuation/",
+          "snippet": "Chinese artificial intelligence lab Moonshot AI has raised $2 billion in funding...",
+          "index": 3
+        },
+        {
+          "title": "The First Blockbuster Artificial Intelligence IPO of 2026 Is Almost Here. Here's Why I'm Staying Away. - AOL",
+          "link": "https://www.aol.com/articles/first-blockbuster-artificial-intelligence-ipo-220500061.html",
+          "snippet": "# The First Blockbuster Artificial Intelligence IPO of 2026 Is Almost Here. It a...",
+          "index": 4
+        },
+        {
+          "title": "Wall Street Readies Data Center IPOs as AI-Linked Debuts Surge",
+          "link": "https://www.advisorperspectives.com/articles/2026/05/07/wall-street-readies-data-center-ipos-ai-linked-surge",
+          "snippet": "... IPO investors have already piled into anything that looks like a bet on artificial intelligence spending.",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "​AI As Co-Founder: From Zero To Pipeline (Phase Three ...",
+          "link": "https://ramaonhealthcare.com/ai-as-co-founder-from-zero-to-pipeline-phase-three/",
+          "snippet": "Vinay Aradhya is Director Product Management at Thomson Reuters.​In this series,...",
+          "index": 6
+        },
+        {
+          "title": "Salesforce says it will hire 1000 'AI-native' new grads - Fast Company",
+          "link": "https://www.fastcompany.com/91537976/salesforce-says-it-will-hire-1000-ai-native-new-grads?partner=rss&amp&utm_source=rss&amp&utm_medium=feed&amp&utm_campaign=rss+fastcompany&amp&utm_content=rss",
+          "snippet": "Last week, Salesforce CEO Marc Benioff announced in a post on X that the company...",
+          "index": 7
+        },
+        {
+          "title": "CEOs Say AI Gives Them Only Two Options, and Both Are Bad News for Employees",
+          "link": "https://futurism.com/artificial-intelligence/ceos-ai-two-decisions",
+          "snippet": "# CEOs Say AI Gives Them Only Two Options, and Both Are Bad News for Employees. ...",
+          "index": 8
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang Tells Workers Not to Fear AI, It's a Job ...",
+          "link": "https://www.inc.com/moses-jeanfrancois/nvidia-ceo-jensen-huang-tells-workers-not-to-fear-ai-its-a-job-creator/91341804",
+          "snippet": "Nvidia's Chief Executive Jensen Huang is telling the American workforce that the...",
+          "index": 9
+        },
+        {
+          "title": "CEOs Say Layoffs Are AI's Fault—But Some Experts Think ... - Forbes",
+          "link": "https://www.forbes.com/sites/maryroeloffs/2026/05/07/ceos-say-layoffs-are-ais-fault-but-some-experts-think-companies-are-lying/",
+          "snippet": "# AI Is The Main Driver Behind Layoffs—For The Second Month In A Row. Sign Up Fo...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
