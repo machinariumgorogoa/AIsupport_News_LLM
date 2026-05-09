@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-09",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "又一家AI企业筹备IPO",
+          "link": "https://www.aol.com/finance/another-ai-powered-ipo-works-163640878.html",
+          "snippet": "Cerebras零售路演获Sam Altman背书，拟上调发行价区间，AI芯片制造商上市进程加速。",
+          "index": 1
+        },
+        {
+          "title": "金融科技公司Ramp估值400亿美元融资",
+          "link": "https://x.com/samboboev/status/2052782083261583391",
+          "snippet": "Ramp利用AI自动化财务任务，本轮融资估值达400亿美元，持续扩展企业级金融服务。",
+          "index": 2
+        },
+        {
+          "title": "AI芯片商Cerebras拟上调IPO定价区间",
+          "link": "https://www.msn.com/en-us/money/companies/ai-chipmaker-cerebras-is-said-to-plan-raising-ipo-price-range/ar-AA22InNg?ocid=finance-verthp-feeds",
+          "snippet": "Cerebras Systems计划提高IPO价格区间，市场对其AI芯片需求强劲，上市进程稳步推进。",
+          "index": 3
+        },
+        {
+          "title": "Anthropic Pre-IPO投资指南",
+          "link": "https://www.fool.com/investing/2026/05/08/can-you-invest-in-anthropic-pre-ipo-everything-you/",
+          "snippet": "在Anthropic上市前投资虽有可能，但需通过特定渠道，散户投资者面临较高门槛和限制。",
+          "index": 4
+        },
+        {
+          "title": "月之暗面完成20亿美元融资估值达200亿",
+          "link": "https://theaiinsider.tech/2026/05/08/moonshot-ai-closes-2b-funding-round-at-20b-valuation-as-kimi-models-rival-openai-and-anthropic/",
+          "snippet": "Moonshot AI旗下Kimi模型对标OpenAI和Anthropic，本轮融资后估值翻倍，国产大模型竞争激烈。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Airbnb CEO预言AI将重写职位描述",
+          "link": "https://www.pymnts.com/artificial-intelligence-2/2026/airbnb-ceo-predicts-ai-will-rewrite-job-descriptions/",
+          "snippet": "该公司工程师现使用AI辅助编写60%代码，AI正深刻改变技术岗位工作内容和技能要求。",
+          "index": 6
+        },
+        {
+          "title": "专家预测CEO将利用AI增效而非裁员",
+          "link": "https://www.foxbusiness.com/video/6394997416112",
+          "snippet": "Fox Business报道，企业领袖倾向用AI提升生产力，而非简单削减人力成本。",
+          "index": 7
+        },
+        {
+          "title": "HyperFRAME CEO谈AI整合战略",
+          "link": "https://www.aol.com/finance/ceos-looking-leverage-ai-more-202246216.html",
+          "snippet": "Steven Dickens讨论企业如何通过AI整合实现业务增长，强调技术赋能而非替代人力。",
+          "index": 8
+        },
+        {
+          "title": "CEO们将借力AI提升产能而非裁员",
+          "link": "https://www.msn.com/en-us/money/other/ceos-will-be-looking-to-leverage-ai-to-do-more-not-to-cut-jobs-expert-predicts/vi-AA22IXgO?ocid=hpmsn",
+          "snippet": "专家预测企业管理者将聚焦AI增强业务能力，通过技术杠杆实现规模扩张。",
+          "index": 9
+        },
+        {
+          "title": "Flox Intelligence CEO谈AI动物防护应用",
+          "link": "https://www.aol.com/news/interview-sara-nozkova-ceo-flox-223055645.html",
+          "snippet": "Sara Nozkova介绍公司利用AI技术防止野生动物破坏基础设施的创新解决方案。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
