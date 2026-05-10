@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-10",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "马斯克关闭xAI内幕：SpaceX AI崛起，2万亿美元IPO估值战对抗Anthropic升温",
+          "link": "https://finance.biggo.com/news/r_IiEJ4BaoGGrU-IVBKB",
+          "snippet": "马斯克宣布解散xAI并将其并入SpaceX，引发与Anthropic的AI估值竞争。",
+          "index": 1
+        },
+        {
+          "title": "迈克尔·伯里加码做空AI，2026年IPO浪潮考验泡沫预警",
+          "link": "https://www.bitget.com/amp/news/detail/12560605404804",
+          "snippet": "著名投资者迈克尔·伯里增加AI空头头寸，应对2026年人工智能企业上市潮带来的泡沫风险。",
+          "index": 2
+        },
+        {
+          "title": "又一家AI公司筹备IPO，你需要了解这些",
+          "link": "https://www.aol.com/finance/another-ai-powered-ipo-works-163640878.html",
+          "snippet": "Cerebras启动零售路演获Sam Altman背书，AI芯片企业上市进程加速，投资者需关注技术壁垒。",
+          "index": 3
+        },
+        {
+          "title": "报告显示AI交易主导下保险科技融资保持稳定",
+          "link": "https://insnerds.com/news/insurtech-funding-holds-ai-deals-dominate-report-says-1",
+          "snippet": "保险科技领域融资规模维持稳定，人工智能相关交易占据主导地位，行业数字化转型持续深化。",
+          "index": 4
+        },
+        {
+          "title": "马斯克解散xAI之际SpaceX筹备IPO",
+          "link": "https://www.gurufocus.com/news/8847686/spacex-prepares-for-ipo-as-musk-dissolves-xai",
+          "snippet": "马斯克宣布解散xAI并整合至SpaceX，同时SpaceX正为首次公开募股做准备，估值预期攀升。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "人工智能联合创始人/CCO（100%远程办公）",
+          "link": "https://www.cybersecurityjobsite.com/job/5526883/artificial-intelligence-co-founder-cco-100-percent-remote-m-f-d-/",
+          "snippet": "招聘AI初创企业联合创始人兼首席商务官，支持完全远程办公，要求具备人工智能行业经验与战略视野。",
+          "index": 6
+        },
+        {
+          "title": "AI创业者如何向我融资",
+          "link": "https://x.com/geoffreywoo/status/2053264018823880734",
+          "snippet": "投资人分享融资建议，提醒AI创业者不要只谈论模型技术，而应聚焦商业模式与市场竞争优势。",
+          "index": 7
+        },
+        {
+          "title": "商务经理至CEO - 项目/人工智能项目",
+          "link": "https://www.iimjobs.com/j/business-manager-to-ceo-program-artificial-intelligence-projects-fintech-it-product-firm-1691328?ref=kp_p&jobPos=34",
+          "snippet": "招聘AI项目商务经理，要求MBA学历，负责人工智能项目管理并向CEO汇报，推动企业数字化战略落地。",
+          "index": 8
+        },
+        {
+          "title": "2026年CEO研究：AI优先转型的五大策略",
+          "link": "https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/2026-ceo",
+          "snippet": "最新CEO调研报告提出企业AI优先转型五大关键策略，包括构建AI生态与重塑组织架构等核心举措。",
+          "index": 9
+        },
+        {
+          "title": "高通CEO称OpenAI与Meta正开发AI可穿戴设备",
+          "link": "https://www.benzinga.com/markets/tech/26/05/52436593/qualcomm-ceo-says-openai-meta-are-working-on-ai-wearables-that-could-replace-smartphones",
+          "snippet": "高通首席执行官透露OpenAI和Meta正在研发AI可穿戴硬件，标志着大模型向端侧设备渗透加速。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
