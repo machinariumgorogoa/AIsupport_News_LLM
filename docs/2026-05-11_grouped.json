@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-11",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "报道称：AI芯片制造商Cerebras拟上调IPO发行价目标",
+          "link": "https://siliconangle.com/2026/05/10/report-ai-chipmaker-cerebras-increase-ipo-price-target-amid-surging-investor-demand/",
+          "snippet": "AI芯片制造商Cerebras Systems reportedly计划上调IPO发行价目标。该公司专注于高性能AI芯片设计，市场关注度持续升温。",
+          "index": 1
+        },
+        {
+          "title": "中国AI IPO热潮令美国望尘莫及",
+          "link": "https://gfmag.com/capital-raising-corporate-finance/china-ai-ipo-boom-leaves-us-listings-in-the-dust/",
+          "snippet": "中国AI企业IPO热潮蓬勃发展，融资规模和创新速度令美国市场相形见绌，全球资本重心东移趋势明显，投资者密切关注亚洲市场机会。",
+          "index": 2
+        },
+        {
+          "title": "OpenAI允许员工套现高达3000万美元",
+          "link": "https://m.economictimes.com/tech/technology/openai-lets-employees-cash-out-up-to-30-million-each-in-share-sale-valuation-hits-400-billion-report/articleshow/131002242.cms",
+          "snippet": "OpenAI允许员工在最新股份出售中每人套现最高3000万美元，此举旨在留住顶尖人才同时提供流动性，公司估值持续攀升。",
+          "index": 3
+        },
+        {
+          "title": "AI并购激增，软件行业占据北美近四分之三份额",
+          "link": "https://www.investmentnews.com/alternatives/ai-ma-surges-as-software-captures-nearly-three-quarters-of-north-american-deals/266508",
+          "snippet": "AI驱动北美并购市场激增，软件行业占据近四分之三交易份额，成为企业数字化转型的核心力量，资本持续涌入智能自动化领域。",
+          "index": 4
+        },
+        {
+          "title": "Ethos获a16z领投2275万美元A轮融资，利用AI语音匹配专家与企业",
+          "link": "https://theaiinsider.tech/2026/05/11/ethos-secures-22-75m-series-a-led-by-a16z-to-match-experts-with-companies-using-ai-voice-profiling/",
+          "snippet": "伦敦初创企业Ethos获a16z领投2275万美元Series A融资，利用AI语音分析技术为企业匹配各领域专家顾问，革新传统咨询服务模式。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "企业需要首席AI官吗？这项技术如何改变董事会",
+          "link": "https://www.cnbc.com/2026/05/11/heres-how-artificial-intelligence-is-changing-boardrooms.html",
+          "snippet": "随着AI技术渗透企业决策层，越来越多的公司考虑设立Chief AI Officer职位以推动数字化转型战略，重塑现代公司治理结构。",
+          "index": 6
+        },
+        {
+          "title": "为何招聘AI领导者比以往更难（以及如何正确操作）",
+          "link": "https://www.samsonrose.com/blog/why-hiring-ai-leaders-is-harder-than-ever-and-how-to-do-it-right",
+          "snippet": "招聘AI领导者难度创新高，原因在于人才稀缺、薪资高涨及技术迭代快，企业需调整招聘策略并建立明确的技术愿景吸引顶尖人才。",
+          "index": 7
+        },
+        {
+          "title": "英伟达：\"你的职业生涯始于AI革命之初\"",
+          "link": "https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/",
+          "snippet": "英伟达高管表示：\"你的职业生涯始于AI革命之初\"，强调当下是投身人工智能行业的最佳时机，号召人才抓住技术变革的历史性机遇。",
+          "index": 8
+        },
+        {
+          "title": "Anthropic联合创始人Daniela Amodei接受韩国《每日经济新闻》专访",
+          "link": "https://www.mk.co.kr/en/it/12043089",
+          "snippet": "Anthropic联合创始人Daniela Amodei出席韩国媒体活动，探讨生成式AI服务发展前景与AI安全治理，分享Claude大模型研发经验。",
+          "index": 9
+        },
+        {
+          "title": "AI生物医药SaaS扩张企业招聘高级产品营销经理",
+          "link": "https://www.intelligentpeople.co.uk/case-studies/senior-product-marketing-manager-hire-ai-biotech/",
+          "snippet": "一家快速成长的AI-powered生物医药SaaS公司招聘Senior Product Marketing Manager，负责推动AI驱动的生物技术软件市场扩张与商业化战略。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
