@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-12",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "IPO前夕，AI巨头持续进行循环交易。原因如下...",
+          "link": "https://global.morningstar.com/en-nd/stocks/ahead-ipos-ai-giants-keep-making-circular-deals-heres-why-thats-risk",
+          "snippet": "3月，OpenAI完成历史性1220亿美元融资轮，AI巨头在IPO前通过交叉投资形成循环交易模式引发关注。",
+          "index": 1
+        },
+        {
+          "title": "AI芯片需求高涨，Cerebras Systems瞄准48亿美元IPO",
+          "link": "https://www.startuphub.ai/ai-news/startup-news/2026/cerebras-systems-eyes-4-8-billion-ipo-amid-ai-chip-demand",
+          "snippet": "Cerebras Systems在AI芯片需求强劲之际计划IPO，目标估值48亿美元。",
+          "index": 2
+        },
+        {
+          "title": "从实验到集成：AI估值的下一阶段",
+          "link": "https://www.bvresources.com/articles/business-valuation-update/from-experimentation-to-integration-ais-next-phase-in-valuation",
+          "snippet": "估值专家与学术人士探讨AI从技术实验转向商业集成阶段的估值方法与模型演变。",
+          "index": 3
+        },
+        {
+          "title": "今日科技股：芯片制造商Cerebras将启动重磅IPO",
+          "link": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chipmaker-cerebras-to-stage-blockbuster-ipo-ai-in-focus-for-trump-xi-meeting-100000457.html",
+          "snippet": "AI芯片制造商Cerebras Systems计划进行大规模IPO，成为当日科技股市场关注焦点。",
+          "index": 4
+        },
+        {
+          "title": "AI芯片制造商Cerebras寻求48亿美元扩容美国IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-11/ai-chipmaker-cerebras-systems-seeks-4-8-billion-in-upsized-ipo",
+          "snippet": "AI芯片商Cerebras扩大IPO规模至48亿美元，拟在美国市场融资以满足AI算力需求。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "OpenAI高管Dresser称企业AI应用\"处于转折点\" - CNBC",
+          "link": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
+          "snippet": "OpenAI企业销售负责人Dresser表示，企业级AI adoption正处临界点，即将迎来大规模普及。",
+          "index": 6
+        },
+        {
+          "title": "AI产品与服务发布 - 2026/5/11",
+          "link": "https://www.planadviser.com/ai-product-service-launches-5-11-2026/",
+          "snippet": "PLANADVISER | PLANADVISER汇总当日AI产品与服务动态，涵盖金融市场科技创新及机构级解决方案更新。",
+          "index": 7
+        },
+        {
+          "title": "KMS Technology任命Jason Wojahn为CEO领导战略转型",
+          "link": "https://www.businesswire.com/news/home/20260511595211/en/KMS-Technology-Appoints-Jason-Wojahn-as-CEO-to-Lead-the-Shift-to-AI-Native-Enterprise-Execution",
+          "snippet": "美国数字工程服务商KMS Technology任命Jason Wojahn为新任CEO，主导公司数字化转型战略。",
+          "index": 8
+        },
+        {
+          "title": "OpenAI成立40亿美元AI部署公司 - Quartz",
+          "link": "https://qz.com/openai-deployment-company-launch-tpg-tomoro-051126",
+          "snippet": "OpenAI设立40亿美元子公司，专注AI技术商业化部署，助力企业集成生成式AI解决方案。",
+          "index": 9
+        },
+        {
+          "title": "第三位亿万富翁在OpenAI诉讼中作证：微软CEO Nadella",
+          "link": "https://www.nbcnews.com/tech/elon-musk/microsoft-ceo-satya-nadella-testifies-musk-openai-trial-rcna344584",
+          "snippet": "微软CEO Satya Nadella周一出庭作证，成为OpenAI与Elon Musk法律纠纷中第三位作证亿万富翁。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
