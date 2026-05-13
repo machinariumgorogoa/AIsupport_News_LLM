@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-13",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "IPO三剑客释放盲目AI热情 - 路透社",
+          "link": "https://www.reuters.com/commentary/breakingviews/ipo-trio-unleashes-undiscerning-ai-zeal-2026-05-12/",
+          "snippet": "芯片制造商Cerebras、地热能源公司Fervo等三家IPO企业展现对AI的狂热追捧，市场投资热情高涨。",
+          "index": 1
+        },
+        {
+          "title": "预测AI IPO竞赛胜算 - 福布斯",
+          "link": "https://www.forbes.com/sites/drewbernstein/2026/05/12/handicapping-the-ai-ipo-race/",
+          "snippet": "分析各AI公司上市竞争格局，评估OpenAI、Anthropic等企业在公开市场中的表现前景与投资价值。",
+          "index": 2
+        },
+        {
+          "title": "AI公司即将上市，加州望借此致富",
+          "link": "https://www.politico.com/news/2026/05/12/ai-companies-are-poised-to-go-public-californias-hoping-to-get-rich-00915649",
+          "snippet": "多家AI公司准备IPO，加州政府期待通过税收和投资收益获得丰厚经济回报，推动地区科技产业发展。",
+          "index": 3
+        },
+        {
+          "title": "重大并购交易预示AI、电信、工业、区块链及制药业扩张",
+          "link": "https://intellizence.com/insights/merger-and-acquisition/major-ma-deals-signal-ai-telecom-industrial-blockchain-and-pharma-expansion/",
+          "snippet": "近期重大M&A交易显示，AI、电信、工业、区块链和制药行业正加速扩张与战略整合。",
+          "index": 4
+        },
+        {
+          "title": "xAI股票动态",
+          "link": "https://notice.co/c/x-ai",
+          "snippet": "估值、融资与投资者 | 马斯克旗下xAI公司股票估值、最新融资轮次及主要投资者分析，探讨其IPO可能性与市值表现。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "OpenAI CEO Sam Altman在庭审中为领导力及个人投资辩护",
+          "link": "https://www.wsj.com/tech/ai/openai-ceo-sam-altman-takes-stand-in-elon-musk-megatrial-19bda33c",
+          "snippet": "Sam Altman在法庭上回应质疑，为其在OpenAI的领导角色和个人加密货币投资决策进行辩护。",
+          "index": 6
+        },
+        {
+          "title": "谷歌计划招聘数百名工程师助力客户采用其AI",
+          "link": "https://www.theinformation.com/briefings/google-hire-hundreds-engineers-help-customers-adopt-ai",
+          "snippet": "谷歌将招聘数百名工程师，帮助客户部署和应用其Gemini等AI产品，加速企业数字化转型。",
+          "index": 7
+        },
+        {
+          "title": "CGI科技公司在AI恐慌后任命Tim Hurlebaus为新CEO",
+          "link": "https://financialpost.com/pmn/business-pmn/tech-firm-cgi-picks-tim-hurlebaus-as-ceo-after-ai-fears-crush-share-price",
+          "snippet": "加拿大IT咨询公司CGI在AI技术担忧导致股价承压后，任命Tim Hurlebaus为新任首席执行官。",
+          "index": 8
+        },
+        {
+          "title": "关于AI不会取代你工作的最佳论据",
+          "link": "https://www.platformer.news/ai-job-loss-box-ceo-aaron-levie/",
+          "snippet": "文章提出有力论证，说明AI技术虽发展迅猛，但在复杂决策和创造力方面仍无法完全替代人类岗位。",
+          "index": 9
+        },
+        {
+          "title": "Larroudé CEO如何构建AI系统加速业务运营",
+          "link": "https://www.glossy.co/fashion/how-larroudes-ceo-built-an-ai-system-to-run-the-business-faster/",
+          "snippet": "时尚品牌Larroudé首席执行官开发AI系统优化业务流程，提升运营效率并加速企业决策制定。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
