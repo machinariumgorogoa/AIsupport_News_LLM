@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-14",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Cerebras IPO：490亿美元押注AI Inference未来",
+          "link": "https://drrobertcastellano.substack.com/p/cerebras-ipo-a-49-billion-bet-on",
+          "snippet": "AI芯片制造商Cerebras以490亿美元估值上市，专注AI Inference市场，彰显对生成式AI推理计算需求的信心。",
+          "index": 1
+        },
+        {
+          "title": "xAI在SpaceX IPO前寻求金融领域扩张",
+          "link": "https://www.pymnts.com/artificial-intelligence-2/2026/xai-pursues-finance-sector-growth-before-spacex-ipo/",
+          "snippet": "马斯克旗下xAI计划在SpaceX上市前拓展金融服务，通过与银行及金融机构合作加速商业化落地。",
+          "index": 2
+        },
+        {
+          "title": "Cerebras IPO定价高于预期区间",
+          "link": "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
+          "snippet": "AI芯片公司Cerebras首次公开募股定价超出预期范围，显示华尔街对AI硬件基础设施的强劲需求。",
+          "index": 3
+        },
+        {
+          "title": "Insider One收购Bluecore推进AI营销战略",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-13/insider-one-buys-bluecore-in-ai-marketing-drive-ahead-of-ipo",
+          "snippet": "Insider One收购AI营销平台Bluecore，强化数据驱动营销能力，为潜在IPO做技术储备与业务扩张。",
+          "index": 4
+        },
+        {
+          "title": "英国AI初创Recursive融资6.5亿美元估值达46.5亿",
+          "link": "https://techfundingnews.com/uk-ai-startup-recursive-hits-4-65b-valuation-with-650m-raise-from-nvidia-and-gv/",
+          "snippet": "英国AI公司Recursive完成6.5亿美元融资，专注企业级AI Agent开发，估值飙升至46.5亿美元。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "5亿美元估值达46.5亿",
+          "link": "https://www.fastcompany.com/91529324/ai-is-changing-what-you-should-look-for-in-new-hires-heres-how-to-get-it-right-ai-hiring",
+          "snippet": "英国AI公司Recursive完成6.5亿美元融资，专注企业级AI Agent开发，估值飙升至46.5亿美元。",
+          "index": 6
+        },
+        {
+          "title": "Nvidia联手David Silver AI初创Ineffable Intelligence",
+          "link": "https://www.cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html",
+          "snippet": "英伟达与DeepMind前科学家David Silver的初创公司合作，专注Reinforcement Learning研究，推动自主AI系统发展。",
+          "index": 7
+        },
+        {
+          "title": "微软云与AI解决方案商Quisitive任命新CEO",
+          "link": "https://dallasinnovates.com/microsoft-cloud-and-ai-solutions-provider-quisitive-names-new-ceo/",
+          "snippet": "Quisitive任命Michael Roughsedge为新任首席执行官，负责推动Microsoft Azure AI解决方案及数字化转型业务增长。",
+          "index": 8
+        },
+        {
+          "title": "Revolution Venture Studios招募AI医疗科技初创联合创始人",
+          "link": "https://www.ziprecruiter.com/c/Revolution-Venture-Studios/Job/Co-Founder-of-AI-Health-Tech-Startup/-in-Manhattan,NY?jid=b891b10ab9f6d3bd",
+          "snippet": "风投工作室Revolution Venture Studios寻找医疗AI领域联合创始人，共同开发具有代际影响力的智能健康科技产品。",
+          "index": 9
+        },
+        {
+          "title": "递归超级智能：Self-Improving AI为何是下一前沿",
+          "link": "https://www.gv.com/news/recursive-superintelligence-self-improving-ai",
+          "snippet": "探讨Recursive Superintelligence技术路径，分析Self-Improving AI通过自我迭代实现能力跃迁的可能性与风险。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
