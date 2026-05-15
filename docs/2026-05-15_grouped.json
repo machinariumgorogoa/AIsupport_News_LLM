@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-15",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "狂热IPO凸显华尔街AI热潮 - 华尔街日报",
+          "link": "https://www.wsj.com/finance/stocks/frenzied-ipo-highlights-wall-streets-ai-fervor-8f1f94e2",
+          "snippet": "这场疯狂的首次公开募股凸显了华尔街对人工智能的极度狂热与追捧。(38字)",
+          "index": 1
+        },
+        {
+          "title": "AI芯片制造商Cerebras在今年迄今最大IPO中暴涨90%",
+          "link": "https://www.nbcnews.com/business/business-news/ai-chipmaker-cerebras-soars-90-years-biggest-ipo-far-rcna345128",
+          "snippet": "AI芯片商Cerebras在年内最大规模IPO中股价飙升90%，创年度上市新高。(38字)",
+          "index": 2
+        },
+        {
+          "title": "AI芯片制造商Cerebras在年内最大IPO后上涨68%(3)",
+          "link": "https://news.bloomberglaw.com/mergers-and-acquisitions/cerebras-shares-indicated-to-surge-89-after-years-top-ipo",
+          "snippet": "彭博社报道，AI芯片公司Cerebras完成年内最大IPO后股价持续攀升68%。(38字)",
+          "index": 3
+        },
+        {
+          "title": "Cerebras Swings IPO Focus to Tech and AI. But ... - Barron's",
+          "link": "https://www.barrons.com/articles/cerebras-ipo-tech-ai-healthcare-industrials-190f6313",
+          "snippet": "This copy is for your personal, non-commercial use only. Distribution and use of...",
+          "index": 4
+        },
+        {
+          "title": "Cerebras IPO explodes onto Nasdaq as AI chip frenzy mints ...",
+          "link": "https://www.investmentnews.com/equities/cerebras-ipo-explodes-onto-nasdaq-as-ai-chip-frenzy-mints-billionaires-but-is-spacex-next/266598",
+          "snippet": "Silicon Valley's blockbuster $5.55 billion debut signals a coming wave of AI listings — and South Korea is riding the same wave.",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI coding startup Cursor is hiring for 200 roles in one region - AOL",
+          "link": "https://www.aol.com/articles/ai-coding-startup-cursor-hiring-061146000.html",
+          "snippet": "Cursor plans to hire 200 employees in Asia-Pacific in the next six months. The c...",
+          "index": 6
+        },
+        {
+          "title": "Anthropic Launches Claude AI Agents for Small Business Finance",
+          "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-launches-claude-ai-agents-for-small-business-finance/",
+          "snippet": "###### Featured. # Anthropic Launches Claude AI Agents for Small Business Financ...",
+          "index": 7
+        },
+        {
+          "title": "Anthropic, Gates Foundation launch $200 million partnership for AI ...",
+          "link": "https://www.reuters.com/business/retail-consumer/anthropic-gates-foundation-launch-200-million-partnership-ai-health-education-2026-05-14/",
+          "snippet": "[Skip to main content](https://www.reuters.com/business/retail-consumer/anthropi...",
+          "index": 8
+        },
+        {
+          "title": "Former Amazon, Meta Scientists Unveil Graphon AI, the First Pre-Model Intelligence Layer, with $8.3M in Seed Funding - Las Vegas Sun News",
+          "link": "https://lasvegassun.com/news/2026/may/14/former-amazon-meta-scientists-unveil-graphon-ai-th/",
+          "snippet": "# Former Amazon, Meta Scientists Unveil Graphon AI, the First Pre-Model Intellig...",
+          "index": 9
+        },
+        {
+          "title": "A New Way to Make AI Actually Work in the Real World - May 14, 2026",
+          "link": "https://newsroom.ibm.com/2026-05-14-A-New-Way-to-Make-AI-Actually-Work-in-the-Real-World",
+          "snippet": "IBM is introducing a delivery model built for the AI era: small, senior teams th...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
