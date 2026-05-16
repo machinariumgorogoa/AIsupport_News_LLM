@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-16",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Cerebras重磅IPO彰显市场对AI的渴求",
+          "link": "https://www.marketplace.org/story/2026/05/15/cerebras-blockbuster-ipo-shows-a-hunger-for-all-things-ai",
+          "snippet": "芯片制造商Cerebras在公开市场取得成功，预示AI产业投资热度持续升温。",
+          "index": 1
+        },
+        {
+          "title": "AI巨型IPO潮将至，市场资金与热情能否支撑？",
+          "link": "https://www.aol.com/articles/ai-mega-ipos-way-enough-192743000.html",
+          "snippet": "多家AI企业计划大规模IPO，投资者需评估市场流动性与估值承受能力。",
+          "index": 2
+        },
+        {
+          "title": "年度最热门科技IPO为何关乎中美AI竞赛及中东布局",
+          "link": "https://nypost.com/2026/05/15/business/why-the-cerebras-ipo-matters-for-the-ai-race-with-china/",
+          "snippet": "该IPO不仅反映AI芯片竞争格局，更涉及地缘政治与中东地区AI战略投资。",
+          "index": 3
+        },
+        {
+          "title": "Cathie Wood增持年度最热AI IPO，ARK看好逻辑揭秘",
+          "link": "https://www.barrons.com/articles/cathie-wood-ark-etf-ai-ipo-cerebras-systems-0effc898",
+          "snippet": "ARK Invest创始人重仓Cerebras，看好其晶圆级引擎(WSE)在AI算力市场的差异化优势。",
+          "index": 4
+        },
+        {
+          "title": "2026年Q1 AI风险投资创历史新高，报告揭示趋势",
+          "link": "https://www.crowdfundinsider.com/2026/05/278941-ai-venture-funding-reaches-new-highs-in-q1-2026-report-reveals/",
+          "snippet": "PitchBook数据显示，VC对生成式AI及基础设施投资激增，早期与成长期项目均获大额融资。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "苹果下一任CEO需推出杀手级AI产品",
+          "link": "https://x.com/VirtualHardy/status/2055374219324559575",
+          "snippet": "分析师认为，接班人必须突破Siri局限，发布颠覆性AI应用以应对Google、OpenAI竞争。",
+          "index": 6
+        },
+        {
+          "title": "Cerebras犹太裔CEO Andrew Feldman IPO后一夜跻身亿万富豪",
+          "link": "https://vinnews.com/2026/05/15/jewish-cerebras-ceo-andrew-feldman-becomes-billionaire-overnight-after-blockbuster-ai-ipo/",
+          "snippet": "AI芯片公司上市后股价暴涨，创始人持股价值飙升，Feldman成为半导体行业新晋亿万富翁。",
+          "index": 7
+        },
+        {
+          "title": "Sam Altman出庭作证，OpenAI控制权归属案进入关键阶段",
+          "link": "https://abc7news.com/live-updates/elon-musk-sam-altman-live-updates-open-ai-ceo-testifies-in-trial-that-could-determine-ai%27s-future/19080697/entry/19087759/",
+          "snippet": "CEO就马斯克起诉案接受质询，庭审结果将影响OpenAI非营利向营利性转型的合法性。",
+          "index": 8
+        },
+        {
+          "title": "Greg Brockman正式接管OpenAI产品部门",
+          "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+          "snippet": "联合创始人回归后全面负责产品线，加速GPT-5及AI Agent研发，优化产品商业化路径。",
+          "index": 9
+        },
+        {
+          "title": "OpenAI收购语音克隆AI工具公司",
+          "link": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
+          "snippet": "交易涉及MultiModal AI startup，其Voice Engine技术可生成高度逼真的人声复刻，引发伦理争议。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
