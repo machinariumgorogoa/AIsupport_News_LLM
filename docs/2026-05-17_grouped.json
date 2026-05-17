@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-17",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Cerebras将IPO重点转向科技与AI，医疗保健业务仍受关注",
+          "link": "https://www.msn.com/en-us/money/topstocks/cerebras-swings-ipo-focus-to-tech-and-ai-but-healthcare-and-industrials-still-lead/ar-AA23cZAv?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+          "snippet": "这家AI芯片公司周四上市，市场关注其技术聚焦战略与医疗业务平衡。",
+          "index": 1
+        },
+        {
+          "title": "炙手可热的AI IPO、顶级基金经理耐心买入与宽护城河困境",
+          "link": "https://www.morningstar.com/markets/smart-investor-these-ai-ipos-are-booming",
+          "snippet": "晨星总结本周市场，涵盖AI IPO行情、基金经理策略及Wide-Moat企业面临的挑战。",
+          "index": 2
+        },
+        {
+          "title": "AI趋势：投资SpaceX、OpenAI和Anthropic的Pre-IPO机会",
+          "link": "https://www.binance.com/en/square/post/323718691054609",
+          "snippet": "这些高估值未上市科技公司正成为AI投资领域的热门标的，吸引大量资本关注。",
+          "index": 3
+        },
+        {
+          "title": "Cerebras轰动性IPO提振SpaceX、OpenAI、Anthropic市场热度",
+          "link": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
+          "snippet": "此次上市为其他AI独角兽的资本市场道路注入强心剂，引发投资者对AI赛道的期待。",
+          "index": 4
+        },
+        {
+          "title": "xAI股票估值、融资及投资者详情",
+          "link": "https://notice.co/c/x-ai",
+          "snippet": "马斯克创立的AI公司正成为Generative AI领域的重要竞争者，其Pre-IPO股权结构备受关注。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "FutureSight招募BidOps联合创始人兼CEO，专注AEC领域AI提案智能",
+          "link": "https://www.careerbuilder.com/job-details/co-founder-ceo-ai-proposal-intelligence-for-aec-boston-ma--a022a96f-46d2-4e28-84ea-f3f3585cbdb2?sid=f8ec21be-e201-4bb7-92e5-681bc0c5b1a0",
+          "snippet": "该职位引领Architecture, Engineering and Construction行业的AI驱动投标优化平台发展。",
+          "index": 6
+        },
+        {
+          "title": "研究显示近半数CEO不愿招聘初级员工，因AI可胜任其工作",
+          "link": "https://www.indiatoday.in/jobs/story/nearly-half-of-ceos-dont-want-to-hire-entry-level-employees-as-ai-can-do-their-work-study-tchc-2912936-2026-05-17",
+          "snippet": "此趋势引发对就业市场结构性变化的深度担忧，Entry-level岗位面临被替代风险。",
+          "index": 7
+        },
+        {
+          "title": "Toptal发布2026年5月最佳AI产品经理榜单，推荐11位顶尖人才",
+          "link": "https://www.toptal.com/product-managers/artificial-intelligence",
+          "snippet": "这些专家精通Machine Learning产品战略与AI技术商业化落地，助力企业智能化转型。",
+          "index": 8
+        },
+        {
+          "title": "奥斯汀CEO警告企业采用AI速度快于监管步伐",
+          "link": "https://www.clarionledger.com/press-release/story/150552/austin-ceo-warns-businesses-are-adopting-ai-faster-than-governing-it/",
+          "snippet": "存在AI Governance滞后风险，业界呼吁加快治理框架建设以匹配技术采用节奏。",
+          "index": 9
+        },
+        {
+          "title": "新任CEO称AI替代初级岗位速度超预期",
+          "link": "https://www.timesnownews.com/technology-science/ai-is-replacing-junior-jobs-faster-than-expected-says-new-ceo-survey-article-154336859",
+          "snippet": "企业正加速用AI取代Junior Jobs，这场变革正在重塑职场生态和人才需求结构。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
