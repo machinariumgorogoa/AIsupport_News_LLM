@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-19",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "2026年联邦AI支出状况如何？ - 布鲁金斯学会",
+          "link": "https://www.brookings.edu/articles/where-does-federal-ai-spending-stand-in-2026/",
+          "snippet": "布鲁金斯学会分析2026年联邦政府AI支出状况，探讨预算分配、政策导向及对未来技术投资的影响。",
+          "index": 1
+        },
+        {
+          "title": "OpenAI在法庭上战胜埃隆·马斯克，清除重大障碍",
+          "link": "https://www.fastcompany.com/91544267/openais-courtroom-win-over-elon-musk-clears-a-major-obstacle-to-an-ipo",
+          "snippet": "OpenAI在与马斯克的诉讼中胜诉，清除公司发展重大障碍，为OpenAI转型为营利性企业铺平道路。",
+          "index": 2
+        },
+        {
+          "title": "Anthropic股票管制震动Pre-IPO AI市场买家",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-18/anthropic-sends-jolt-through-the-market-for-buying-shares-in-the-hottest-pre-ipo-startups",
+          "snippet": "Anthropic收紧股票转让政策，震动IPO前AI股市场，限制买家交易权限，影响二级市场投资布局。",
+          "index": 3
+        },
+        {
+          "title": "英伟达支持以色列AI独角兽Decart完成3亿美元融资",
+          "link": "https://www.calcalistech.com/ctechnews/article/sjt9ncukgl",
+          "snippet": "英伟达领投以色列AI独角兽Decart 3亿美元融资，强化在生成式AI基础设施领域的战略布局。",
+          "index": 4
+        },
+        {
+          "title": "AI：PE交易风险的下一个前沿",
+          "link": "https://www.jdsupra.com/legalnews/ai-the-next-frontier-of-pe-deal-risk-3996049/",
+          "snippet": "Mayer Brown | AI成为私募股权(PE)交易风险尽职调查新前沿，投资者需关注目标公司AI合规性与算法伦理风险。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "招聘AI开发人员和AI工程师",
+          "link": "https://www.chetu.com/on-demand-developers/hire-ai-developers.php",
+          "snippet": "Chetu | Chetu提供AI开发人员与AI工程师招聘服务，帮助企业构建智能化解决方案，加速数字化转型进程。",
+          "index": 6
+        },
+        {
+          "title": "派拉蒙聘请消费者AI负责人，加大技术领域投入",
+          "link": "https://www.yahoo.com/entertainment/articles/paramount-hires-head-consumer-ai-191500759.html",
+          "snippet": "派拉蒙聘请消费者AI业务负责人，深化AI技术在内容推荐、用户交互等娱乐业务场景的应用。",
+          "index": 7
+        },
+        {
+          "title": "AI产品与服务发布 - 2026年5月18日",
+          "link": "https://www.planadviser.com/ai-product-service-launches-5-18-2026/",
+          "snippet": "PLANADVISER | PLANADVISER汇总2026年5月18日AI产品与服务发布动态，涵盖金融科技领域最新AI解决方案。",
+          "index": 8
+        },
+        {
+          "title": "教皇与Anthropic联合创始人将发布教皇AI通谕",
+          "link": "https://x.com/Crux/status/2056480019241697518",
+          "snippet": "教皇利奥十四世将与Anthropic联合创始人发布",
+          "index": 9
+        },
+        {
+          "title": "Inteligistics strengthens AI leadership with promotion, new hire - Blue Book",
+          "link": "https://www.bluebookservices.com/inteligistics-strengthens-ai-leadership-with-promotion-new-hire/",
+          "snippet": "Salinas, CA (May 18, 2025) — Inteligistics, the perishable supply chain technolo...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
