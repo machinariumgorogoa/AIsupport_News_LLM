@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-20",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX拟在IPO后以600亿美元收购AI编程初创公司Cursor",
+          "link": "https://thenextweb.com/news/spacex-plans-to-buy-cursor-for-60-billion-once-its-record-ipo-wraps",
+          "snippet": "SpaceX计划在IPO后以600亿美元收购AI编程初创公司Cursor。",
+          "index": 1
+        },
+        {
+          "title": "AI公司Commure获7000万美元融资，估值达70亿美元",
+          "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-company-commure-banks-70m-funding-round-hits-7b-valuation",
+          "snippet": "Commure完成新一轮7000万美元融资，由General Catalyst领投，公司估值达70亿美元。",
+          "index": 2
+        },
+        {
+          "title": "消息称SpaceX计划在IPO后30天收购初创公司Cursor",
+          "link": "https://x.com/business/status/2056858710136259028",
+          "snippet": "消息称SpaceX计划在IPO后30天内推进对AI编程初创公司Cursor的收购交易。",
+          "index": 3
+        },
+        {
+          "title": "重塑AI：NextEra Energy引爆巨型并购",
+          "link": "https://www.investing.com/analysis/rewiring-ai-nextera-energy-sparks-a-mega-merger-200680577",
+          "snippet": "人工智能巨大的能源需求推动NextEra Energy发起重大并购，重塑能源与AI基础设施格局。",
+          "index": 4
+        },
+        {
+          "title": "私募股权医疗并购：210亿美元基金抵御AI颠覆",
+          "link": "https://mtsoln.com/blog/ai-news-727/big-europe-and-asian-private-equity-health-funds-merge-to-defy-ai-disruption-6637",
+          "snippet": "私募股权医疗并购成立210亿美元基金，通过AI技术驱动医疗转型，应对行业颠覆性变革。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Anthropic hires OpenAI联合创始人Andrej Karpathy加入核心AI团队",
+          "link": "https://jang.com.pk/en/66065-anthropic-hires-openai-co-founder-andrej-karpathy-to-join-core-ai-team-news",
+          "snippet": "AI行业重大人事变动，Anthropic聘请OpenAI联合创始人Andrej Karpathy加入其核心AI研发团队。",
+          "index": 6
+        },
+        {
+          "title": "Anthropic hires OpenAI联合创始人、前Tesla AI负责人Andrej Karpathy",
+          "link": "https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html",
+          "snippet": "Anthropic聘请OpenAI联合创始人、前Tesla AI总监Andrej Karpathy，加强其人工智能技术研发实力。",
+          "index": 7
+        },
+        {
+          "title": "AT&T CEO谈AI如何变革劳动力市场及高等教育",
+          "link": "https://www.cnbc.com/video/2026/05/19/att-ceo-on-how-ai-will-transform-the-workforce-higher-education.html",
+          "snippet": "AT&T首席执行官探讨AI技术对劳动力市场转型和高等教育体系的深远影响及未来变革趋势。",
+          "index": 8
+        },
+        {
+          "title": "Google AI负责人、DeepMind CEO Demis Hassabis预示超人类AGI即将问世",
+          "link": "https://www.ndtv.com/artificial-intelligence/google-ai-boss-deepmind-ceo-demis-hassabis-signals-imminent-arrival-of-superhuman-artificial-general-intelligence-11520943",
+          "snippet": "DeepMind首席执行官Demis Hassabis表示，超越人类水平的通用人工智能(AGI)即将到来，引发业界关注。",
+          "index": 9
+        },
+        {
+          "title": "Google通过许可协议雇佣Bezos支持的Contextual AI团队 - Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/google-hires-staff-from-bezos-backed-contextual-ai-in-licensing-deal",
+          "snippet": "Google与Bezos支持的Contextual AI达成许可协议，并雇佣其核心技术团队，增强AI研发能力。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
