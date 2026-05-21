@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-21",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "OpenAI或于9月秘密提交IPO申请",
+          "link": "https://americanbazaaronline.com/2026/05/20/openai-may-file-confidentially-for-ipo-in-september-push-481201",
+          "snippet": "OpenAI可能在9月秘密提交首次公开募股申请，推动上市进程。",
+          "index": 1
+        },
+        {
+          "title": "具身智能推动中国机器人融资创历史新高",
+          "link": "https://news.crunchbase.com/robotics/embodied-ai-fuels-record-funding-china-ipo-momentum-builds",
+          "snippet": "中国机器人领域风险投资创历史新高，具身智能技术助力行业发展。",
+          "index": 2
+        },
+        {
+          "title": "OpenAI计划秘密IPO：ChatGPT开发商拟趁全球AI热潮上市",
+          "link": "https://openthemagazine.com/world/openai-the-company-behind-chatgpt-plans-stock-market-listing-report",
+          "snippet": "ChatGPT开发商OpenAI拟秘密上市，趁全球人工智能热潮登陆资本市场。",
+          "index": 3
+        },
+        {
+          "title": "AZIO AI与Envirotech Vehicles签署最终合并协议，估值7.5亿美元",
+          "link": "https://www.prnewswire.com/news-releases/azio-ai-executes-definitive-merger-agreement-with-envirotech-vehicles-inc-nasdaq-evtv-at-750-million-valuation-supported-by-independent-third-party-fairness-opinion-302777499.html",
+          "snippet": "AZIO AI与纳斯达克上市公司Envirotech Vehicles达成确定性合并协议，估值7.5亿美元。",
+          "index": 4
+        },
+        {
+          "title": "独家｜OpenAI正准备尽快提交IPO申请",
+          "link": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
+          "snippet": "独家消息显示，人工智能公司OpenAI正准备在近期提交首次公开募股申请。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "2026年5月最值得雇佣的11名自由职业AI开发者｜Toptal®",
+          "link": "https://www.toptal.com/developers/artificial-intelligence",
+          "snippet": "Toptal平台推荐2026年5月最佳自由职业人工智能开发工程师名单。",
+          "index": 6
+        },
+        {
+          "title": "5亿美元",
+          "link": "https://www.aol.com/finance/barnes-noble-ceo-ok-selling-212815101.html",
+          "snippet": "AZIO AI与纳斯达克上市公司Envirotech Vehicles达成确定性合并协议，估值7.5亿美元。",
+          "index": 7
+        },
+        {
+          "title": "毕业生因AI言论对演讲嘉宾喝倒彩",
+          "link": "https://www.tennessean.com/videos/news/local/2026/05/20/middle-tennessee-boo-ceo-over-ai/90178910007",
+          "snippet": "毕业典礼上，演讲者关于人工智能的言论引发毕业生不满，现场出现嘘声。",
+          "index": 8
+        },
+        {
+          "title": "CEO来信：\"人工\"现实与虚拟\"智能\" - HRO Today",
+          "link": "https://www.hrotoday.com/magazine/hro-today/ceos-letter-artificial-reality-and-virtual-intelligence",
+          "snippet": "HRO Today杂志CEO来信探讨人工智能与现实的关系，反思技术本质。",
+          "index": 9
+        },
+        {
+          "title": "AI将在一年内助力获得诺贝尔奖级别的发现",
+          "link": "https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic",
+          "snippet": "人工智能系统将在未来一年内协助人类取得诺贝尔奖级别的科学突破。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
