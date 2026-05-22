@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-22",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "OpenAI筹备IPO文件：回顾其发展历程",
+          "link": "https://www.barrons.com/articles/openai-ipo-altman-musk-microsoft-796b7a13",
+          "snippet": "据《华尔街日报》报道，OpenAI正筹备IPO文件，标志着这家AI巨头迈向公开市场的重要一步，回顾其从非营利组织到商业巨头的转型历程。",
+          "index": 1
+        },
+        {
+          "title": "SpaceX的IPO文件与其希望加入的科技巨头集团截然不同",
+          "link": "https://news.crunchbase.com/public/spacex-ipo-filing-different-nvda-goog-appl-msft-amzn",
+          "snippet": "SpaceX的IPO文件结构与传统科技巨头截然不同，凸显其在AI、通信技术和电子商务领域的独特商业模式与估值逻辑。",
+          "index": 2
+        },
+        {
+          "title": "Hark以60亿美元估值完成7亿美元A轮融资",
+          "link": "https://www.businesswire.com/news/home/20260521171628/en/Hark-Raises-%24700M-Series-A-at-a-%246B-Valuation",
+          "snippet": "AI实验室Hark宣布完成7亿美元Series A轮融资，投后估值达60亿美元，成为近期AI领域最大规模的早期融资交易之一。",
+          "index": 3
+        },
+        {
+          "title": "AI对金融机构的影响：如今已成为估值问题",
+          "link": "https://solomonpartners.com/insights/articles/the-impact-of-ai-on-financial-institutions-now-a-valuation-question",
+          "snippet": "Solomon Partners报告指出，AI对金融机构的影响已从技术层面转向估值层面，投资者需重新评估AI驱动的金融业务模型与资产价值。",
+          "index": 4
+        },
+        {
+          "title": "SpaceX加入争夺26.5万亿美元AI市场的战斗",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-21/spacex-challenges-ai-rivals-for-control-of-26-5-trillion-market",
+          "snippet": "SpaceX向IPO投资者定位为AI公司，加入争夺26.5万亿美元AI市场的竞争，展示其在卫星数据与AI融合领域的战略布局与商业愿景。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "5万亿美元AI市场的战斗",
+          "link": "https://www.usatoday.com/story/money/2026/05/20/barnes-and-noble-ceo-selling-ai-written-books/90179688007",
+          "snippet": "SpaceX向IPO投资者定位为AI公司，加入争夺26.5万亿美元AI市场的竞争，展示其在卫星数据与AI融合领域的战略布局与商业愿景。",
+          "index": 6
+        },
+        {
+          "title": "毕业生嘘声反对后，CEO为AI辩护",
+          "link": "https://x.com/fox5ny/status/2057631875905036549",
+          "snippet": "Big Machine Records CEO Scott Borchetta在毕业典礼演讲遭嘘声后公开捍卫AI技术，强调AI在音乐创作中的辅助作用而非替代人类艺术家。",
+          "index": 7
+        },
+        {
+          "title": "2026年5月最佳11位自由职业AI开发者推荐",
+          "link": "https://www.toptal.com/developers/artificial-intelligence",
+          "snippet": "Toptal平台发布2026年5月最佳自由职业AI开发者榜单，为企业招聘Machine Learning工程师和AI架构师提供高端人才推荐服务。",
+          "index": 8
+        },
+        {
+          "title": "教皇与Anthropic联合创始人将于5月25日发布教皇AI通谕",
+          "link": "https://broadbandbreakfast.com/pope-and-co-founder-of-anthropic-to-launch-pontiffs-ai-encyclical-on-may-25",
+          "snippet": "教皇方济各与Anthropic联合创始人将联合发布AI主题通谕，探讨Artificial Intelligence伦理与人类社会发展的宗教视角及道德框架。",
+          "index": 9
+        },
+        {
+          "title": "特朗普撤回AI行政令，担心其可能拖慢美国技术发展",
+          "link": "https://apnews.com/article/trump-ai-executive-order-ee318f35acc8a2c43e47f3ebf26cb459",
+          "snippet": "特朗普政府撤回前届AI行政令，担心过度监管可能阻碍美国AI技术创新，计划推出更宽松的AI发展政策框架以保持全球竞争力。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
