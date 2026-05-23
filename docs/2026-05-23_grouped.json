@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-23",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "中国AI初创企业一季度融资额增至160亿美元，押注LLM与机器人",
+          "link": "https://amp.scmp.com/tech/tech-trends/article/3354502/chinas-ai-start-funding-triples-us16b-first-quarter-amid-bets-llms-robotics",
+          "snippet": "中国AI初创公司一季度融资达160亿美元，同比增长两倍，资金主要流向LLM和机器人领域。",
+          "index": 1
+        },
+        {
+          "title": "英伟达与美光股价飙升，SpaceX IPO估值面临审查",
+          "link": "https://www.msn.com/en-us/money/other/ai-driven-markets-hit-records-nvidia-and-micron-surge-while-spacex-ipo-valuation-faces-scrutiny/vi-AA23QDeE?ocid=finance-verthp-feeds",
+          "snippet": "芯片股英伟达和美光上涨，而SpaceX即将进行的IPO估值正受到市场严格审视。",
+          "index": 2
+        },
+        {
+          "title": "Grok在华盛顿受挫，SpaceX AI叙事受打击",
+          "link": "https://www.technology.org/2026/05/22/grok-flops-government-spacex-ai-valuation",
+          "snippet": "Grok在华盛顿表现不佳，削弱了SpaceX的AI叙事，该公司正筹备可能是史上最大规模的IPO。",
+          "index": 3
+        },
+        {
+          "title": "Azio AI与Envirotech Vehicles达成7.5亿美元并购协议，获公允性意见支持",
+          "link": "https://pulse2.com/azio-ai-750-million-merger-agreement-with-envirotech-vehicles-backed-by-fairness-opinion",
+          "snippet": "Azio AI与Envirotech Vehicles签署7.5亿美元合并协议，交易已获得第三方公允性意见背书。",
+          "index": 4
+        },
+        {
+          "title": "人工智能与M&A的相互作用：技术法律视角",
+          "link": "https://www.iicj.net/paper/3838",
+          "snippet": "本文提供技术法律框架，用于理解AI与企业并购(M&A)之间的复杂互动关系及监管挑战。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Workday欲以AI替代招聘新员工",
+          "link": "https://www.theregister.com/saas/2026/05/22/workday-wants-ai-to-punch-in-instead-of-having-to-hire-new-recruits/5245011",
+          "snippet": "Workday希望通过部署AI技术提升营收和利润率，让AI承担工作任务而非增加人手。",
+          "index": 6
+        },
+        {
+          "title": "5亿美元并购协议，获公允性意见支持",
+          "link": "https://aimagazine.com/news/andrej-karpathy-joins-anthropic",
+          "snippet": "Azio AI与Envirotech Vehicles签署7.5亿美元合并协议，交易已获得第三方公允性意见背书。",
+          "index": 7
+        },
+        {
+          "title": "教皇与Anthropic联合创始人将发布AI通谕",
+          "link": "https://www.vindy.com/life/lifestyles/2026/05/pope-co-founder-of-anthropic-to-launch-pontiffs-ai-encyclical",
+          "snippet": "罗马教皇将与Anthropic联合创始人联合发布关于人工智能的教皇通谕，探讨AI伦理与宗教观点。",
+          "index": 8
+        },
+        {
+          "title": "2026年5月最值得雇佣的11位自由职业AI开发者",
+          "link": "https://www.toptal.com/developers/artificial-intelligence",
+          "snippet": "Toptal平台评选出2026年5月顶尖自由职业AI开发人才，为企业招聘提供参考指南。",
+          "index": 9
+        },
+        {
+          "title": "人工智能在新产品开发(NPD)中的应用",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0166497226000763",
+          "snippet": "该领域研究表明，在新产品开发(NPD)流程中应用AI技术能够显著提升创新效率和市场成功率。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
