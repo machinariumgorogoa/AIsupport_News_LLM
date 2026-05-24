@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-24",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic即将完成超300亿美元融资轮",
+          "link": "https://jawlah.co/en/57608",
+          "snippet": "AI估值通胀重燃关于年度经常性收入(ARR)的争论，该轮融资规模创行业新高。",
+          "index": 1
+        },
+        {
+          "title": "Mercury以52亿美元估值完成2亿美元Series D融资",
+          "link": "https://pulse2.com/mercury-200-million-series-d-raised-at-5-2-billion-valuation-for-ai-native-banking-platform",
+          "snippet": "AI原生银行平台Mercury获巨额注资，资本市场持续看好AI+Fintech赛道。",
+          "index": 2
+        },
+        {
+          "title": "SpaceX加入人工智能市场控制权争夺战",
+          "link": "https://www.pressreader.com/canada/edmonton-journal/20260523/282024743913049",
+          "snippet": "SpaceX向IPO投资者重点推介其AI能力，正式进军人工智能基础设施领域。",
+          "index": 3
+        },
+        {
+          "title": "Zoom对Anthropic的投资推动AI初创公司估值创新高",
+          "link": "https://enterpriseai.economictimes.indiatimes.com/news/industry/zooms-anthropic-investment-propels-ai-startup-valuation-to-new-heights/131277032",
+          "snippet": "Zoom该项投资账面收益近10亿美元，Anthropic估值达到新高度。",
+          "index": 4
+        },
+        {
+          "title": "Dave Blundin 觀察：80% of AI Projects Fail — The Problem Isn't the AI, It's Your Org Chart — BigGo Finance",
+          "link": "https://finance.biggo.com/news/3a08fcb4dc7b462f",
+          "snippet": "# Dave Blundin 觀察：80% of AI Projects Fail — The Problem Isn't the AI, It's Your ...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "招聘：人工智能联合创始人/CMO（100%远程）",
+          "link": "https://dailyremote.com/remote-job/artificial-intelligence-co-founder-cmo-100-remote-m-f-d-5048991",
+          "snippet": "候选人将独立拥有、建立并扩展AI初创公司，负责全栈营销战略。",
+          "index": 6
+        },
+        {
+          "title": "苹果任命新CEO接替Tim Cook，AI成为转型核心",
+          "link": "https://innotechtoday.com/apple-names-new-ceo-as-tim-cook-steps-aside-and-ai-becomes-a-defining-priority",
+          "snippet": "苹果将CEO职位交给产品工程师，标志着公司全面转向AI优先战略。",
+          "index": 7
+        },
+        {
+          "title": "2026年5月可聘用的11位最佳AI产品经理",
+          "link": "https://www.toptal.com/product-managers/artificial-intelligence",
+          "snippet": "Toptal平台发布顶尖AI产品经理名单，助力企业构建人工智能产品团队。",
+          "index": 8
+        },
+        {
+          "title": "产品负责人(PO)管理AI产品指南：技能、挑战与最佳实践",
+          "link": "https://msagilemed.com/the-product-owners-guide-to-managing-ai-products-skills-challenges-best-practices",
+          "snippet": "详解Product Owner在AI产品生命周期中所需的核心能力与风险管理策略。",
+          "index": 9
+        },
+        {
+          "title": "摩根大通CEO Dimon表示将增聘AI人才、减少银行家",
+          "link": "https://www.aol.com/articles/ceo-dimon-says-jpmorgan-hire-092441000.html",
+          "snippet": "JPMorgan战略转型，计划扩招AI工程师同时削减传统投资银行岗位。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
