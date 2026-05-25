@@ -1,83 +1,33 @@
 {
-  "date": "2026-05-24",
-  "count": 28,
+  "date": "2026-05-25",
+  "count": 16,
   "items": [
     {
-      "title": "Anthropic即将完成超300亿美元融资轮",
-      "link": "https://jawlah.co/en/57608",
-      "snippet": "AI估值通胀重燃关于年度经常性收入(ARR)的争论，该轮融资规模创行业新高。",
-      "raw_snippet": "AI valuation inflation reignites debate over annual recurring revenue (ARR) figures figures\") figures\"). ###### AI valuation inflation reignites debate over annual recurring revenue (ARR) figures figures\"). Anthropic is nearing the close of a new funding round that could value it at over $30 billion, one of the largest investment rounds in the AI sector in recent years. Anthropic is nearing the close of a new funding round that could value it at over $30 billion, in one of the largest investment rounds in the artificial intelligence sector in recent years. According to a Bloomberg report, the round is expected to close next week, amid sustained strong investor demand for AI companies and related infrastructure. This rapid expansion has made Anthropic one of the most investment-attractive AI companies in recent times. The anticipated round comes at a time when AI companies are in a massive race for funding, computing power, and cloud infrastructure, with billions of dollars continuing to flow into the sector.",
+      "title": "CAPITAL IDEAS：何为Cerebras IPO？",
+      "link": "https://theberkshireedge.com/capital-ideas-what-is-this-cerebras-ipo",
+      "snippet": "Cerebras这家AI芯片公司正筹备IPO，文章解析其晶圆级引擎技术架构、商业模式及潜在市场前景。",
+      "raw_snippet": "# CAPITAL IDEAS: What is this Cerebras IPO? There have been 142 IPOs in the U.S. stock market year to date as of May 16, 2026, an 11.81 percent increase over the same period last year. Cerebras Systems raised $5.6 billion on May 14 at a valuation of $56 billion, the largest artificial intelligence (AI) IPO ever. Elon Musk’s SpaceX is aiming for a June 12, 2026, IPO launch (pun intended), with a $1 trillion-plus (not a typo) valuation and plans to raise about $75 billion. For comparison, the largest U.S. IPO so far was in 2014, when Alibaba raised $21.8 billion at a valuation of $168 billion. That is a massive shock, and it is understandable that the price of a barrel of Brent crude oil spiked from below $70 to $126 and has since been hovering just above the triple-digit mark (about $108 at the time of writing).",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "Mercury以52亿美元估值完成2亿美元Series D融资",
-      "link": "https://pulse2.com/mercury-200-million-series-d-raised-at-5-2-billion-valuation-for-ai-native-banking-platform",
-      "snippet": "AI原生银行平台Mercury获巨额注资，资本市场持续看好AI+Fintech赛道。",
-      "raw_snippet": "# Mercury: $200 Million Series D Raised At $5.2 Billion Valuation For AI-Native Banking Platform. Follow Pulse 2.0 on LinkedIn. Mercury, the fintech company focused on modern banking solutions for startups and businesses, announced a $200 million Series D funding round at a $5.2 billion valuation. The company said it is benefiting from a surge in AI-driven entrepreneurship, positioning itself as a banking platform built specifically for modern founders and businesses. The company also saw a 2.5x increase in applications in Q1 2026 compared to the same period a year earlier. *“Mercury and Immad are delivering on a powerful vision: a radically different, genuinely delightful banking experience for ambitious companies across the U.S. We believe the next generation of entrepreneurs will be AI-native and will need a banking partner that helps them run their finances and build at the pace AI itself is setting.",
+      "title": "\"财务状况显鲁莽\"：揭开xAI与SpaceX IPO的关联",
+      "link": "https://global.morningstar.com/en-gb/stocks/financials-look-reckless-lifting-xais-hood-spacex-ipo",
+      "snippet": "xAI在8.18亿美元营收中录得24.7亿美元运营亏损，财务状况遭质疑\"鲁莽\"，文章深度剖析其IPO前真实表现。",
+      "raw_snippet": "XAI had an operating loss of USD 2.47 billion on USD 818 million in revenue in the first quarter of 2026, representing 17% of SpaceX's overall revenue of USD",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "SpaceX加入人工智能市场控制权争夺战",
-      "link": "https://www.pressreader.com/canada/edmonton-journal/20260523/282024743913049",
-      "snippet": "SpaceX向IPO投资者重点推介其AI能力，正式进军人工智能基础设施领域。",
-      "raw_snippet": "SpaceX is marketing itself to IPO investors as an artificial intelligence play targeting a US$26.5 trillion potential market opportunity, signalling its",
+      "title": "人工智能正迅速改变我们的世界！德国希望...",
+      "link": "https://x.com/en_germany/status/2058790168669065262",
+      "snippet": "德国拟联合欧洲在全球AI竞赛中建立领导地位，共同应对人工智能技术带来的产业变革与战略挑战。",
+      "raw_snippet": "Germany wants to join forces with Europe to become a global leader in AI. Over 1.6 billion euros in funding is being invested in startups and top research",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
-    },
-    {
-      "title": "Zoom对Anthropic的投资推动AI初创公司估值创新高",
-      "link": "https://enterpriseai.economictimes.indiatimes.com/news/industry/zooms-anthropic-investment-propels-ai-startup-valuation-to-new-heights/131277032",
-      "snippet": "Zoom该项投资账面收益近10亿美元，Anthropic估值达到新高度。",
-      "raw_snippet": "# Zoom’s Anthropic bet nears $1 billion gain as AI startup valuation soars. <p><i>Bloomberg</i> earlier reported that Anthropic is now close to finalising a fresh funding round at a valuation exceeding $900 billion.</p>. By commenting, you agree to the Prohibited Content Policy. ## Join the community of 2M+ industry professionals. ### Subscribe to Newsletter to get latest insights & analysis in your inbox. ## Get updates on your preferred social platform. ### Follow us for the latest news, insider access to events and more. See whats happening in Indian Enterprise AI sector right now. Explore and discuss challenges & trends in India's leading B2B events. Recognise AI Industry work that not only stood out but was also purposeful. Join AI leaders & experts for roundtables, conferences, panels and discussions. Subscribe to our Daily Newsletter. By continuing you agree to our Privacy Policy & Terms & Conditions. We have various options to advertise with us including Events, Advertorials, Banners, Mailers, etc.",
-      "is_chinese": false,
-      "source_type": "funding",
-      "index": 4
-    },
-    {
-      "title": "Dave Blundin 觀察：80% of AI Projects Fail — The Problem Isn't the AI, It's Your Org Chart — BigGo Finance",
-      "link": "https://finance.biggo.com/news/3a08fcb4dc7b462f",
-      "snippet": "# Dave Blundin 觀察：80% of AI Projects Fail — The Problem Isn't the AI, It's Your ...",
-      "raw_snippet": "# Dave Blundin 觀察：80% of AI Projects Fail — The Problem Isn't the AI, It's Your Org Chart. SpaceX is about to pull off the biggest IPO in history, but that's not the real story. The real story is what's happening underneath: artificial intelligence is now solving 80-year-old math problems, beating prediction markets, and directly plugging into 12,000 financial institutions — and yet 80% of AI projects inside companies are still failing. This report connects the dots: why SpaceX's IPO represents the first public listing of an AI-native infrastructure company, how GPT-5.5's 25% accuracy on a cutting-edge forecasting benchmark signals that AI will soon dominate investment management, and what the rise of an intelligence stack replacing the org chart means for every CEO who thinks their moat is safe. Salim Ismail put it plainly on a recent episode with Peter Diamandis: the figures are \"so out of band with any point in human history.\" But the single most important insight from that conversation wasn't about rockets or even market caps.",
-      "is_chinese": true,
-      "source_type": "funding",
-      "index": 5
-    },
-    {
-      "title": "The 1 AI Stock I'm Buying Every Single Time It Dips Below $10 - The Globe and Mail",
-      "link": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/2104995/the-1-ai-stock-im-buying-every-single-time-it-dips-below-10",
-      "snippet": "Artificial intelligence (AI) stocks often have high growth potential and valuati...",
-      "raw_snippet": "Artificial intelligence (AI) stocks often have high growth potential and valuations. This AI stock is still priced as a bargain. That's because most investors don't yet classify the company as an artificial intelligence business. That's the case even though the company's closest competitor is arguably one of the biggest AI stocks on the planet. If this emerging AI stock falls below $10, I'm going all in for the long haul. ## This Tesla competitor is my favorite AI stock in 2026. But it's really the robotaxi market that is driving Tesla's $1.3 trillion valuation. \"That's how quickly AI is going to cause these things to happen.\" Five years from now, Wood thinks that robotaxis will account for 90% of Tesla's valuation. Rivian has a similar vision, yet its stock garners a much smaller valuation both in terms of market cap and key valuation metrics like price-to-sales ratio.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "This Artificial Intelligence (AI) Stock Is the One the Smart Money ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-stock-one-062000362.html",
-      "snippet": "Wall Street may still overlook Zeta Global, but the smart money already sees an AI infrastructure play hiding inside enterprise marketing.",
-      "raw_snippet": "Wall Street may still overlook Zeta Global, but the smart money already sees an AI infrastructure play hiding inside enterprise marketing.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "AI boom is reshaping every corner of financial markets, Apollo says",
-      "link": "https://www.msn.com/en-us/money/other/ai-boom-is-reshaping-every-corner-of-financial-markets-apollo-says/ar-AA23uhAN?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-      "snippet": "Artificial intelligence is rapidly reshaping global capital markets, extending far beyond the technology sector and becoming a dominant force across corporate",
-      "raw_snippet": "Artificial intelligence is rapidly reshaping global capital markets, extending far beyond the technology sector and becoming a dominant force across corporate",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "A Look At C3.ai (AI) Valuation As Legal Win And CEO Return Shift The Story - Simply Wall St News",
-      "link": "https://simplywall.st/stocks/us/software/nyse-ai/c3ai/news/a-look-at-c3ai-ai-valuation-as-legal-win-and-ceo-return-shif",
-      "snippet": "# A Look At C3.ai (AI) Valuation As Legal Win And CEO Return Shift The Story. C3...",
-      "raw_snippet": "# A Look At C3.ai (AI) Valuation As Legal Win And CEO Return Shift The Story. C3.ai (AI) is back in focus after a Delaware jury awarded the company US$23.3 million in a trade secrets case against Cummins and founder Thomas Siebel returned to the CEO role. See our latest analysis for C3.ai. Recent momentum contrasts with a much weaker longer term record as investors weigh the CEO’s return, the Cummins verdict and ongoing revenue and legal pressures. If this legal win and leadership change have you looking more broadly at AI opportunities, it could be worth scanning 34 AI small caps. So are you looking at an underappreciated AI platform, or is the market already pricing in any future recovery? At a last close of $9.29 versus a narrative fair value of $6.00, the most widely followed view implies the market price sits well above estimated worth and leans on some punchy assumptions about C3.ai’s future.",
-      "is_chinese": false,
-      "source_type": "funding"
     },
     {
       "title": "xAI Stock | Valuation, Funding, Investors | Notice.co",
@@ -85,156 +35,105 @@
       "snippet": "## What is xAI's stock symbol? Since it is not publicly listed, there is no xAI ...",
       "raw_snippet": "## What is xAI's stock symbol? Since it is not publicly listed, there is no xAI stock symbol or xAI ticker symbol assigned for xAI. Private companies typically reserve a stock symbol up to two years prior to an IPO, and disclose this when they file a Form S-1 with the Securities and Exchange Commission when they start the IPO process. ## How can I sell xAI stock? xAI stock does not trade publicly on Nasdaq or NYSE because it is still a private company. xAI stock might be available for purchase in the secondary markets, but xAI stock is not available for purchase by the general public, and can not be purchased through traditional brokerage accounts. ## How can I buy xAI stock? Accredited investors can purchase shares in private companies like xAI. Because xAI is privately held, its stock is not available for purchase through public stock exchanges like the NYSE or Nasdaq.",
       "is_chinese": false,
-      "source_type": "funding"
+      "source_type": "funding",
+      "index": 4
     },
     {
-      "title": "AI Bubble: How Accounting Rules Drive Big Tech - Viral Methods",
-      "link": "https://metodoviral.com/en/news/ai-bubble-how-accounting-rules-drive-big-tech",
-      "snippet": "## How a 2016 accounting rule supercharged Big Tech investments in AI startups. ...",
-      "raw_snippet": "## How a 2016 accounting rule supercharged Big Tech investments in AI startups. And to understand what is really going on behind the triumphant headlines about record profits, we need to look at an accounting mechanism that almost nobody is talking about. It came from an accounting revaluation of the company’s stake in Anthropic, done through the *mark-to-market* method, which records the fair value of an asset based on its current market price rather than its historical cost. Alphabet reported roughly **$28.7 billion in similar unrealized gains** in the first quarter, driven primarily by its portfolio of stakes in private companies, dominated by its share in Anthropic. Two of the three largest cloud providers in the world reported their best quarters in years, and in both cases, the biggest contributor to the bottom line was a paper gain on a private company that has never paid them a single dividend.",
+      "title": "北京否决Meta交易后，Manus拟10亿美元回购",
+      "link": "https://www.digitimes.com/news/a20260524PD200/manus-funding-meta-ai-startup-beijing.html",
+      "snippet": "在北京监管机构否决与Meta交易后，AI公司Manus拟实施10亿美元股票回购，以调整资本结构并应对监管挫折。",
+      "raw_snippet": "# Manus eyes US$1 billion buyback after Beijing blocks Meta deal. Chinese artificial intelligence (AI) startup Manus is reportedly evaluating a US$1 billion fundraising round to buy back control of the company from Meta Platforms, in response to Chinese authorities ordering the company to withdraw from Meta's more than US$2... Meta reportedly to cancel Manus acquisition as China clamps down on 'Singapore washing' in AI China blocks Meta-Manus deal, signaling tougher stance as unwinding poses complex fallout Chinese AI startups face 'go global or decouple' dilemma after Manus deal. Meta finalizes Butterfly Effect acquisition, eyes Manus as monetization model Manus AI flees China for Singapore following US$75 million Benchmark round. Global supply chain: Emerging tech, businesses. Global supply chain: China market. * TSMC's COUPE push puts Samsung's silicon photonics ambitions under pressure. * AMD's 2nm defection to Samsung dents TSMC's AI grip. * Tech Forum 2026: AI data centers turn to on-site power amid grid constraints.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "SpaceX: This IPO Could Be The One That Pops The AI Bubble",
+      "link": "https://seekingalpha.com/article/4908374-spacex-ipo-could-be-one-that-pops-ai-bubble",
+      "snippet": "# SpaceX: This IPO Could Be The One That Pops The AI Bubble. ## SpaceX: Getting ...",
+      "raw_snippet": "# SpaceX: This IPO Could Be The One That Pops The AI Bubble. ## SpaceX: Getting ready for a blastoff in June? All right, I've set my watch for June 12th (could be earlier or later, yeah), that is, on what could be the largest IPO in. ## A Growth Investing Service To Help You Outperform. **Analyst’s Disclosure:** I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I have no business relationship with any company whose stock is mentioned in this article. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "AI uncertainty and global stock market volatility: Any signals of a Dot ...",
-      "link": "https://www.sciencedirect.com/science/article/abs/pii/S0165176526001485",
-      "snippet": "Motivated by “Dot-com 2.0” concerns around AI, this letter asks whether AI-related uncertainty spills over to global stock-market implied volatility.",
-      "raw_snippet": "Motivated by “Dot-com 2.0” concerns around AI, this letter asks whether AI-related uncertainty spills over to global stock-market implied volatility.",
+      "title": "US and China pour record capital into AI as funding race intensifies ...",
+      "link": "https://www.mexc.com/news/1110412",
+      "snippet": "However, the AI funding is now becoming aThe artificial intelligence sectors in ...",
+      "raw_snippet": "However, the AI funding is now becoming aThe artificial intelligence sectors in both the United States and China are being flooded with unprecedented capital. The artificial intelligence sectors in both the United States and China are being flooded with unprecedented capital. However, the AI funding is now becoming a. For feedback or concerns regarding this content, please contact us at crypto.news@mexc.com. However, the AI funding is now becoming a competition between the two largest economies.**. ### How is the Chinese government fueling the AI boom? It later reached an estimated $45-$50 billion by early May. Other investment rounds backed by the government include Moore Threads, a Beijing-based GPU designer, which raised $720 million at a $4.1 billion valuation in February 2025. Despite the tensions, the total deal activity for the Chinese private equity market reached 2,568 transactions worth 234.4 billion yuan in Q1 2026, and foreign-currency deals in China more than doubled year-on-year to 210 in the same period.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "The Biggest Opportunity in AI Right Now - by Devansh",
-      "link": "https://www.artificialintelligencemadesimple.com/p/the-biggest-opportunity-in-ai-right",
-      "snippet": "### How AI is eating itself, and what an Old German Philosopher can teach us abo...",
-      "raw_snippet": "### How AI is eating itself, and what an Old German Philosopher can teach us about Contrarian Bets. 1. AI was getting deeply unpopular right now because it was alienating many sections of society to enrich a very small minority. 3. Both the above meant that the next generation of great companies would be the ones that came from the ignored aspects of society (the anti-thesis) such as: deep tech, AI for low tech industries (which we broke down in depth here), etc. **We run on a “pay what you can” model**—so if you believe in the mission, there’s likely a plan that fits (over here)*. To do so, I will adopt elements of the Hegelian Dialectic to present why the “AI hating movement” can be seen as the antithesis to a world that is overrun with AI Hype and increasing disconnection b/w Tech and many other groups.",
+      "title": "Artificial Intelligence in Financial Security Markets: Catalyzing ...",
+      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/sd.71228",
+      "snippet": "The analysis indicates that AI-enabled financial innovation is associated with improvements in market efficiency, ESG integration, and risk assessment",
+      "raw_snippet": "The analysis indicates that AI-enabled financial innovation is associated with improvements in market efficiency, ESG integration, and risk assessment",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Invest and Sell Kore.ai Stock - Forge",
-      "link": "https://forgeglobal.com/koreai_stock",
-      "snippet": "Individual Investors[Employee Shareholders](https://forgeglobal.com/who-we-serve...",
-      "raw_snippet": "Individual Investors[Employee Shareholders](https://forgeglobal.com/who-we-serve/employee-shareholders/)Institutional Investors[Private Companies](https://forgeglobal.com/who-we-serve/private-companies/)[Accredited Investors](https://forgeglobal.com/who-we-serve/investors/)[Seed & Angel Investors](https://forgeglobal.com/who-we-serve/seed-angel-investors/)[Asset Managers & Hedge Funds](https://forgeglobal.com/who-we-serve/asset-managers-and-hedge-funds/)[Family Offices](https://forgeglobal.com/who-we-serve/family-offices/)[Venture Capital Firms](https://forgeglobal.com/who-we-serve/venture-capital-firms/)[Wealth Managers & RIAs](https://forgeglobal.com/who-we-serve/wealth-managers-and-rias/)Who We Serve Trading Data Liquidity Programs Retirement Individual Investing[Forge Marketplace Find new private company investment opportunities​](https://forgeglobal.com/forge-marketplace/)[Browse Companies](https://forgeglobal.com/search-companies/)Institutional Trading[Forge Pro Trade private companies with Forge’s institutional brokerage tool​](https://forgeglobal.com/forge-pro/)Data solutions[Forge Price A proprietary indicative price, calculated daily, for approximately 200 pre-IPO companies](https://forgeglobal.com/forge-price/)[Forge Data Analyze private markets via Forge’s intuitive web application​](https://forgeglobal.com/forge-data/)Index solutions[Forge Private Market Index​Monitor a benchmark for actively traded private companies ​](https://forgeglobal.com/private-market-index/)[Forge Accuidity Private Market Index​Invest in an institutionally-managed diversified basket of private companies (QPs only)​](https://forgeglobal.com/accuidity-private-market-index/)[Forge Thematic Baskets Explore focused views into key private market themes](https://forgeglobal.com/forge-thematic-baskets/)[Liquidity Programs Retain and reward employees with company-sponsored liquidity solutions like tender offers and customized programs](https://forgeglobal.com/forge-liquidity-programs/)Self-Directed IRA[Forge Trust Invest in private companies and other alternative assets through a tax-advantaged Self-Directed IRA](https://forgetrust.com/?utm_source=forgeglobal&utm_medium=topnav)What We Do[All insights](https://forgeglobal.com/insights/)Reports and highlights News and trends Private market education Tips and tutorials[Forge Investment Outlook](https://forgeglobal.com/insights/forge-investment-outlook/)[Private Market Updates](https://forgeglobal.com/insights/private-market-updates/)[IPO calendar](https://forgeglobal.com/tech-ipo-calendar-2026/)[Private Magnificent 7](https://forgeglobal.com/private-magnificent-7/)[Emerging trends](https://forgeglobal.com/insights/emerging-trends/)[Private company news](https://forgeglobal.com/insights/private-company-news/)[Upcoming IPOs](https://forgeglobal.com/insights/upcoming-ipos/)[All guides](https://forgeglobal.com/insights/private-market-education)[Private market basics](https://forgeglobal.com/insights/private-market-education/#Private-market-basics)[Private shares transactions](https://forgeglobal.com/insights/private-market-education/#Private-shares-transactions)[Valuations, pricing and market trends](https://forgeglobal.com/insights/private-market-education/#Valuations-pricing-and-market-trends)[Selling in the private market](https://forgeglobal.com/insights/private-market-education/#Selling-in-the-private-market)[FAQs](https://forgeglobal.com/faqs/)[Glossary](https://forgeglobal.com/insights/glossary/)[Company page and trades](https://forgeglobal.com/insights/tips-and-tutorials/exploring-a-company-page-and-initiating-trades-in-the-forge-marketplace/)[Proof of ownership](https://forgeglobal.com/insights/tips-and-tutorials/how-to-obtain-proof-of-ownership-for-private-company-shares/)[Bid and ask submissions](https://forgeglobal.com/insights/tips-and-tutorials/submitting-a-bid-or-ask-in-the-marketplace/)[Forge fund offerings](https://forgeglobal.com/insights/tips-and-tutorials/what-are-forge-fund-offerings-and-how-do-they-work-on-forge/)Insights[About Us](https://forgeglobal.com/about/)[Leadership](https://forgeglobal.com/team/)[People & Culture](https://forgeglobal.com/people-and-culture/)[Careers](https://forgeglobal.com/careers/)About.",
+      "title": "Anthropic Eyes $900 Billion Valuation as Quarterly ...",
+      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-eyes-900-billion-valuation-as-quarterly-revenue-doubles",
+      "snippet": "###### Featured. # Anthropic Eyes $900 Billion Valuation as Quarterly Revenue Do...",
+      "raw_snippet": "###### Featured. # Anthropic Eyes $900 Billion Valuation as Quarterly Revenue Doubles. Anthropic is set to close a funding round in which it could raise over $30 billion and be valued at over $900 billion, Bloomberg reported Friday (May 22), citing unnamed sources. By completing this form, you agree to receive marketing communications from PYMNTS and to the sharing of your information with our sponsor, if applicable, in accordance with our Privacy Policy and Terms and Conditions. Anthropic did not immediately reply to PYMNTS’ request for comment. According to the Bloomberg report, Anthropic expects to more than double its quarterly revenue to $10.9 billion in the second quarter. On May 7, it was reported that Anthropic was weighing a funding round in which it would raise as much as $50 billion and be valued at $900 billion. *For all PYMNTS AI coverage, subscribe to the daily* AI Newsletter*.*. #### Trending News. #### Featured News.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Center for Artificial Intelligence and Data Science | Paris Brain Institute",
-      "link": "https://parisbraininstitute.org/center-artificial-intelligence-and-data-science",
-      "snippet": "Center for Artificial Intelligence and Data Science. Opened in July 2025, the Ce...",
-      "raw_snippet": "Center for Artificial Intelligence and Data Science. Opened in July 2025, the Center for Artificial Intelligence (AI) and Data Science of the Paris Brain Institute federates unique multidisciplinary expertise to advance brain understanding and improve brain health. It is housed in a dedicated facility located a 5-minute walk from the main building. ## What is the Center for AI and Data Science? The Center aims at being an international hub in AI and data science for neuroscience, resulting in disruptive methodological advances and in major breakthroughs in understanding, preventing and treating brain disorders. Building on the Institute’s unique multidisciplinary environment - bringing together medicine, neurobiology, mathematics, and computer science - the Center leverages exceptionally rich research and clinical data, supported by state-of-the-art core facilities and a unique medical ecosystem. Its ambition is to open a novel era in neuroscience and brain health, resulting in more accurate diagnosis, accelerating therapeutic discovery, and advancing precision medicine. Artificial Intelligence, data Science and computational science: call for expression of interest for Senior and Mid-Career Researchers.",
+      "title": "IRCAI | International Research Centre On Artificial Intelligence",
+      "link": "https://ircai.org",
+      "snippet": "A coordination point, funding route and exploitation accelerator for approaches to the UN SDGs that make use of AI.",
+      "raw_snippet": "A coordination point, funding route and exploitation accelerator for approaches to the UN SDGs that make use of AI.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Assessing Artificial Intelligence (AI) in Patient Education: Evaluating ...",
-      "link": "https://www.cureus.com/articles/442558-assessing-artificial-intelligence-ai-in-patient-education-evaluating-accuracy-and-readability-of-responses-on-surgical-procedures-for-patellar-tendon-rupture",
-      "snippet": "#### Browse Channels. #### Specialties. #### About Channels. #### For Authors & ...",
-      "raw_snippet": "#### Browse Channels. #### Specialties. #### About Channels. #### For Authors & Reviewers. #### About Cureus. #### Browse. #### Cureus Partnerships. Offering a variety of advertising and sponsorship options for reaching influential specialists from targeted demographic splits. #### Advertising & Sponsorship. #### Competitions. Cureus provides an equitable, efficient publishing and peer reviewing experience without sacrificing publication times. Generate broad awareness and deliver relevant, peer-reviewed clinical experiences directly to potential customers. Dedicated Cranial Radiosurgery: Clinical Experience with New & Innovative SRS Technologies. Sponsored by Zap Surgical Systems. Real-Time Adaptive Motion Management on Helical and Robotic RT Platforms. Cureus Journal of Medical Science. ###### Learn more. #### Ongoing Competitions. #### Enter your email address to receive your free PDF download. Please note that by doing so you agree to be added to our monthly email newsletter distribution list. ### Sign in to Cureus. #### Email Communication and Personal Data. By joining Cureus, you agree to our. ### Download Cureus Media Kit.",
+      "title": "Amdocs expands AI ambitions through acquisition of Israeli startup Yess | Ctech",
+      "link": "https://www.calcalistech.com/ctechnews/article/b10diozegl",
+      "snippet": "# Amdocs expands AI ambitions through acquisition of Israeli startup Yess. ## Th...",
+      "raw_snippet": "# Amdocs expands AI ambitions through acquisition of Israeli startup Yess. ## The telecom software giant is integrating autonomous AI agents into its core operations platform. Israeli software giant Amdocs is strengthening its push into artificial intelligence by bringing in the founders and development team of startup Yess, a young company focused on autonomous AI agent systems that has operated largely under the radar since its founding in 2023. The entire founding and development team will join Amdocs’ Generative AI and Data division, established about a year ago as the company accelerated investments in artificial intelligence infrastructure and products. “AI agent systems are redefining our industry, and Amdocs is proud to stand at the forefront of this revolution,” Sade said in a statement announcing the deal. “The Yess team will now have the opportunity to help Amdocs accelerate the entire telecom industry toward a future of AI agents.”.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "招聘：人工智能联合创始人/CMO（100%远程）",
-      "link": "https://dailyremote.com/remote-job/artificial-intelligence-co-founder-cmo-100-remote-m-f-d-5048991",
-      "snippet": "候选人将独立拥有、建立并扩展AI初创公司，负责全栈营销战略。",
-      "raw_snippet": "The candidate will own, build, and scale their own startup within the field of Artificial Intelligence. Responsibilities include iterating the product to reach",
+      "title": "Could anything but profit steer AI? The OpenAI trial offered clues but ...",
+      "link": "https://www.washingtonpost.com/business/2026/05/24/openai-trial-musk-altman-ipo/2d460216-5725-11f1-9c40-7a0a12d9e745_story.html",
+      "snippet": "[Video 1](https://www.washingtonpost.com/business/2026/05/24/openai-trial-musk-a...",
+      "raw_snippet": "[Video 1](https://www.washingtonpost.com/business/2026/05/24/openai-trial-musk-altman-ipo/2d460216-5725-11f1-9c40-7a0a12d9e745_story.html). [Accessibility statement](https://www.washingtonpost.com/accessibility/)[Skip to main content](https://www.washingtonpost.com/business/2026/05/24/openai-trial-musk-altman-ipo/2d460216-5725-11f1-9c40-7a0a12d9e745_story.html#main-content). [Democracy Dies in Darkness](https://www.washingtonpost.com/). May 24, 2026 ![Image 2](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LHVE5UYMZLQWATV2NEAUQHW77Q_size-normalized.jpg&w=767&h=511)](https://www.washingtonpost.com/business/2026/05/24/rising-gas-prices-are-widening-gap-between-rich-poor/). May 24, 2026 ![Image 5](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/JKNAPLOMWCK5XYYTEJ2IVCUCXA.jpg&w=767&h=511)](https://www.washingtonpost.com/opinions/2026/05/24/trumps-iran-war-negotiation-seeks-path-long-shot-outcome/). *   [About The Post](https://www.washingtonpost.com/about-the-post/). *   [Accessibility Statement](https://www.washingtonpost.com/accessibility/). *   [Trending](https://www.washingtonpost.com/trending/). *   [Politics](https://www.washingtonpost.com/politics/). *   [Elections](https://www.washingtonpost.com/elections/). *   [Opinions](https://www.washingtonpost.com/opinions/). *   [National](https://www.washingtonpost.com/national/). *   [World](https://www.washingtonpost.com/world/). *   [Style](https://www.washingtonpost.com/style/). *   [Sports](https://www.washingtonpost.com/sports/). *   [Business](https://www.washingtonpost.com/business/). *   [Climate](https://www.washingtonpost.com/climate-environment/). *   [Well+Being](https://www.washingtonpost.com/wellbeing/). *   [Obituaries](https://www.washingtonpost.com/obituaries/). *   [Weather](https://www.washingtonpost.com/weather/). *   [Arts & Entertainment](https://www.washingtonpost.com/entertainment/). *   [Recipes](https://www.washingtonpost.com/recipes/). *   [Washington Post Live](https://www.washingtonpost.com/washington-post-live/). *   [Public Notices](https://www.washingtonpost.com/classifieds/). *   [Contact the Opinions Team](https://helpcenter.washingtonpost.com/hc/en-us/articles/360004745292-Leadership-of-The-Washington-Post-Opinions-section). *   [Advertise](https://www.washingtonpost.com/solutions/). *   [Terms of Service](https://www.washingtonpost.com/terms-of-service/). *   [Privacy Policy](https://www.washingtonpost.com/privacy-policy/). *   [Sitemap](https://www.washingtonpost.com/sitemap/). [washingtonpost.com](https://www.washingtonpost.com/) © 1996-2026 The Washington Post. *   [Ask The Post AI](https://www.washingtonpost.com/ask-the-post-ai/). *   [Accessibility Statement](https://www.washingtonpost.com/accessibility/). *   [Trending](https://www.washingtonpost.com/trending/). *   [Politics](https://www.washingtonpost.com/politics/). *   [Elections](https://www.washingtonpost.com/elections/). *   [Opinions](https://www.washingtonpost.com/opinions/). *   [National](https://www.washingtonpost.com/national/). *   [World](https://www.washingtonpost.com/world/). *   [Style](https://www.washingtonpost.com/style/). *   [Sports](https://www.washingtonpost.com/sports/). *   [Business](https://www.washingtonpost.com/business/). *   [Climate](https://www.washingtonpost.com/climate-environment/). *   [Well+Being](https://www.washingtonpost.com/wellbeing/). *   [Obituaries](https://www.washingtonpost.com/obituaries/). *   [Weather](https://www.washingtonpost.com/weather/). *   [Arts & Entertainment](https://www.washingtonpost.com/entertainment/). *   [Recipes](https://www.washingtonpost.com/recipes/). *   [Washington Post Live](https://www.washingtonpost.com/washington-post-live/). *   [Public Notices](https://www.washingtonpost.com/classifieds/). *   [Contact the Opinions Team](https://helpcenter.washingtonpost.com/hc/en-us/articles/360004745292-Leadership-of-The-Washington-Post-Opinions-section). *   [Advertise](https://www.washingtonpost.com/solutions/). *   [About The Post](https://www.washingtonpost.com/about-the-post/). *   [Policies & Standards](https://www.washingtonpost.com/policies-and-standards/). *   [Terms of Service](https://www.washingtonpost.com/terms-of-service/). *   [Privacy Policy](https://www.washingtonpost.com/privacy-policy/). *   [Sitemap](https://www.washingtonpost.com/sitemap/). *   [washingtonpost.com](https://www.washingtonpost.com/).",
       "is_chinese": false,
-      "source_type": "people",
-      "index": 6
+      "source_type": "funding"
     },
     {
-      "title": "苹果任命新CEO接替Tim Cook，AI成为转型核心",
-      "link": "https://innotechtoday.com/apple-names-new-ceo-as-tim-cook-steps-aside-and-ai-becomes-a-defining-priority",
-      "snippet": "苹果将CEO职位交给产品工程师，标志着公司全面转向AI优先战略。",
-      "raw_snippet": "Apple is handing the CEO role to a product engineer at a moment when execution speed and software capability are defining the next phase of the industry.",
+      "title": "AI in loan origination: moving beyond hype to measurable business ...",
+      "link": "https://www.aurionpro.com/blogs/ai-in-loan-origination-moving-beyond-hype-to-measurable-business-outcomes-2",
+      "snippet": "The focus is moving away from what AI can do in theory to what it must deliver in practice — faster decisions, intelligent risk assessment, and improved",
+      "raw_snippet": "The focus is moving away from what AI can do in theory to what it must deliver in practice — faster decisions, intelligent risk assessment, and improved",
       "is_chinese": false,
-      "source_type": "people",
-      "index": 7
+      "source_type": "funding"
     },
     {
-      "title": "2026年5月可聘用的11位最佳AI产品经理",
-      "link": "https://www.toptal.com/product-managers/artificial-intelligence",
-      "snippet": "Toptal平台发布顶尖AI产品经理名单，助力企业构建人工智能产品团队。",
-      "raw_snippet": "# Hire Artificial Intelligence Product Managers. Toptal is a marketplace for top artificial intelligence (AI) product managers. Top companies and startups hire artificial intelligence product managers freelancers from Toptal for their most complex AI & ML projects. Hire a Top Artificial Intelligence Product Manager Now. No-Risk Trial, Pay Only If Satisfied. Clients rate *Toptal artificial intelligence product managers* *4.9* / 5.0 on average based on 1,058 reviews. Find and hire **Top Artificial Intelligence Product Managers** worldwide. For example, he led a project-to-product transformation that increased ARR by $1.5 million in less than a year, moved from a 1-scope project to 100 production-licensed partners with 100 million+ transactional usages and a million AMU, and increased the valuation from $10 million to $49 million+. AI Product ManagementAgile Product ManagementData Product ManagementPrincipal Product Managers. With over a decade of professional experience and a strong background in business, product management, data, and AI, Tobias is the go-to expert for AI innovation and implementation.",
+      "title": "This $8 Stock Could Be Your Ticket to Millionaire Status",
+      "link": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/2111599/this-8-stock-could-be-your-ticket-to-millionaire-status",
+      "snippet": "The company, which focuses on developing AI-based voice assistant platforms, has experienced waves of popularity among investors since its public debut in 2021.",
+      "raw_snippet": "The company, which focuses on developing AI-based voice assistant platforms, has experienced waves of popularity among investors since its public debut in 2021.",
       "is_chinese": false,
-      "source_type": "people",
-      "index": 8
+      "source_type": "funding"
     },
     {
-      "title": "产品负责人(PO)管理AI产品指南：技能、挑战与最佳实践",
-      "link": "https://msagilemed.com/the-product-owners-guide-to-managing-ai-products-skills-challenges-best-practices",
-      "snippet": "详解Product Owner在AI产品生命周期中所需的核心能力与风险管理策略。",
-      "raw_snippet": "# The Product Owner’s Guide to Managing AI Products: Skills, Challenges & Best Practices. ## **The Product Owners Guide to Managing Artificial Intelligence Products**. * Then you kept making it better based on what customers told you. If you have ever launched a feature that used Artificial Intelligence you probably know what I mean. * “Why did the Artificial Intelligence do that?”. ### **Why Artificial Intelligence Products Change the Product Owners Job**. * What the Artificial Intelligence product can do. * Data is what makes the Artificial Intelligence product work. * If you are building a system that recommends things to users and you train it on data that’s not complete the recommendations will not be complete either. * One of the things that Product Owners need to understand is that the launch of an Artificial Intelligence product is not the end. Artificial Intelligence products do not work that way. * It is something that every Product Owner who manages Artificial Intelligence products needs to understand.",
+      "title": "Ricursive Intelligence Stock | Valuation, Funding, Investors | Notice.co",
+      "link": "https://notice.co/c/ricursive",
+      "snippet": "## Buy or sell Ricursive Intelligence. ## What is Ricursive Intelligence's stock...",
+      "raw_snippet": "## Buy or sell Ricursive Intelligence. ## What is Ricursive Intelligence's stock symbol? Since it is not publicly listed, there is no Ricursive Intelligence stock symbol or Ricursive Intelligence ticker symbol assigned for Ricursive Intelligence. ## How can I sell Ricursive Intelligence stock? Ricursive Intelligence stock does not trade publicly on Nasdaq or NYSE because it is still a private company. Ricursive Intelligence stock might be available for purchase in the secondary markets, but Ricursive Intelligence stock is not available for purchase by the general public, and can not be purchased through traditional brokerage accounts. ## How can I buy Ricursive Intelligence stock? These investors buy pre-IPO stock in the secondary market from existing employees and investors. ## How to invest in Ricursive Intelligence? Accredited investors can purchase shares in private companies like Ricursive Intelligence. Because Ricursive Intelligence is privately held, its stock is not available for purchase through public stock exchanges like the NYSE or Nasdaq.",
       "is_chinese": false,
-      "source_type": "people",
-      "index": 9
+      "source_type": "funding"
     },
     {
-      "title": "摩根大通CEO Dimon表示将增聘AI人才、减少银行家",
-      "link": "https://www.aol.com/articles/ceo-dimon-says-jpmorgan-hire-092441000.html",
-      "snippet": "JPMorgan战略转型，计划扩招AI工程师同时削减传统投资银行岗位。",
-      "raw_snippet": "# CEO Dimon says JPMorgan to hire more AI staff, fewer bankers, Bloomberg News reports. May 21 (Reuters) - JPMorgan will likely hire more artificial intelligence specialists and fewer traditional bankers, CEO ‌Jamie Dimon told Bloomberg News in an interview published ‌late Wednesday. • \"There will be all different types of jobs, ​and I think we will be hiring more AI people and fewer bankers in certain categories, and it will make them more productive,\" Dimon said in a Bloomberg ‌Television interview at ⁠the bank's China Summit in Shanghai. • \"I think it will reduce our jobs down the road,\" ⁠Dimon added. • JPMorgan's annual attrition rate of about 10%, or roughly 25,000 to 30,000 employees, gives it room to ​manage these ​changes gradually, Dimon said; ​he added that the ‌bank could retrain staff, redeploy workers or offer early retirement instead of making large layoffs. • Dimon's comments come as global banks increase investments in AI, reshaping workforces and leading to changes in job roles.",
+      "title": "Google Cloud Launches AI Startup Innovation Corridor from ...",
+      "link": "https://www.googlecloudpresscorner.com/Google-Cloud-Launches-AI-Startup-Innovation-Corridor-from-Southeast-Asia-to-Silicon-Valley-with-EnterpriseSG-Komdigi-NIC-and-SIHUB",
+      "snippet": "Google Cloud Launches AI Startup Innovation Corridor from Southeast Asia to Sili...",
+      "raw_snippet": "Google Cloud Launches AI Startup Innovation Corridor from Southeast Asia to Silicon Valley with EnterpriseSG, Komdigi, NIC, and SIHUB. Google’s investments in Singapore anchor regional initiative to fast-track growth for Southeast Asia-based AI startups, solidifying Singapore’s position as a global hub and launchpad for agentic AI solutions. New Google for Startups Accelerator: Southeast Asia builds on initiatives by Google that have helped more than 200 startups in the region raise US$6.6 billion in funding since 2018. The program offers startups technical residencies in Silicon Valley and Singapore, alongside AI engineering and go-to-market partnerships with Google Cloud. **SINGAPORE, May 25, 2026 –** Google Cloud today announced expanded collaborations with Enterprise Singapore (EnterpriseSG), Indonesia’s Ministry of Communication and Digital Affairs (Komdigi), the Vietnam National Innovation Center (NIC), and the Startup and Innovation Hub of Ho Chi Minh City (SIHUB), establishing an AI startup innovation corridor in Southeast Asia, and from the region to Silicon Valley.",
       "is_chinese": false,
-      "source_type": "people",
-      "index": 10
-    },
-    {
-      "title": "Pope and co-founder of Anthropic to launch pontiff's AI encyclical on ...",
-      "link": "https://www.indianagazette.com/news/pope-and-co-founder-of-anthropic-to-launch-pontiffs-ai-encyclical-on-may-25/article_1139c44a-c244-5679-b989-5c93c98bf5ec.html",
-      "snippet": "ROME — Pope Leo XIV and the co-founder of artificial intelligence company Anthro...",
-      "raw_snippet": "ROME — Pope Leo XIV and the co-founder of artificial intelligence company Anthropic will launch the pontiff's first encyclical on May 25, a document on the",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Barnes and Noble CEO Says Sure, Why Not Sell AI-Generated Books and Set Our Reputation On Fire?",
-      "link": "https://futurism.com/artificial-intelligence/barnes-and-noble-ceo-ai-book",
-      "snippet": "# Barnes and Noble CEO Says Sure, Why Not Sell AI-Generated Books and Set Our Re...",
-      "raw_snippet": "# Barnes and Noble CEO Says Sure, Why Not Sell AI-Generated Books and Set Our Reputation On Fire? Barnes & Noble has been making a comeback over the past few years — which is impressive, since it once looked like the dominance of Amazon, the shift to digital books, and the decline of reading at large all pointed to the chain going the same way Borders did. Now it’s turning back into a popular spot to hang out in and even buy physical tomes, opening 60 new stores in 2025 with plans to do the same this year. “I have actually no problem selling any book, as long as it doesn’t masquerade or pretend to be something that it isn’t, and that it has an essential quality to it, and that the customer, the reader, wants it,” he pontificated. “So as long as an AI-written book says it’s an AI-written book and doesn’t pretend to be something else and isn’t ripping off somebody else, as long as that’s clearly stated and the customer wants to buy it, then we will stock them.”.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Insiders at SoftBank Worry Their CEO Is Getting Conned by Sam Altman",
-      "link": "https://futurism.com/artificial-intelligence/insiders-softbank-sam-altman",
-      "snippet": "# Insiders at SoftBank Worry Their CEO Is Getting Conned by Sam Altman. A styliz...",
-      "raw_snippet": "# Insiders at SoftBank Worry Their CEO Is Getting Conned by Sam Altman. A stylized collage features a Sam Altman in a suit and tie, holding a bottle, with a blue circle behind his head. The background is a crumpled orange surface with a black grid overlay. It’s high risk and high reward: in their telling, the investments will pay off massively as the tech matures to automate huge swathes of the labor market, but some critics fear it’ll never generate enough revenue to justify the incredible spending. What’s clear from the reporting is that Altman has done what he does best: turned Son into a true believer in his vision of computer superintelligence that causes profound shifts for the entire course of civilization. The question essentially comes down to a Rorschach test: is Altman a visionary ushering in a new world order, or is he a con man taking Son — and many other financial luminaries around the world — for a wild ride that’ll soon come crashing back to reality?",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "This Artificial Intelligence (AI) Stock Is the One the Smart Money ...",
-      "link": "https://www.theglobeandmail.com/investing/markets/stocks/SNOW/pressreleases/2106809/this-artificial-intelligence-ai-stock-is-the-one-the-smart-money-doesnt-want-you-to-find",
-      "snippet": "Zeta powers enterprise AI marketing decisions with massive consumer data advanta...",
-      "raw_snippet": "Zeta powers enterprise AI marketing decisions with massive consumer data advantages. Athena transforms marketing from reactive campaign management into",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Director Artificial Intelligence at Orange EV - EV.Careers",
-      "link": "https://ev.careers/jobs/475113597-director-artificial-intelligence",
-      "snippet": "Orange EV is a technology-forward OEM seeking a Director of Artificial Intellige...",
-      "raw_snippet": "Orange EV is a technology-forward OEM seeking a Director of Artificial Intelligence to serve as the company's AI authority and strategic enabler. ... How to Hire",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "David Solomon acknowledged advancements in artificial ...",
-      "link": "https://x.com/ForbesAsia/status/2058337209250394300",
-      "snippet": "David Solomon acknowledged advancements in artificial intelligence have eliminat...",
-      "raw_snippet": "David Solomon acknowledged advancements in artificial intelligence have eliminated jobs in some industries but “may lead to job growth in others.”",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Sr. Product Owner, AI Authoring Systems - McGraw Hill Careers",
-      "link": "https://careers.mheducation.com/jobs/6089?lang=en-us",
-      "snippet": "In this role, you will drive AI-powered innovation across the authoring ecosyste...",
-      "raw_snippet": "In this role, you will drive AI-powered innovation across the authoring ecosystem, enabling smarter content development workflows, richer authoring tools, and",
-      "is_chinese": false,
-      "source_type": "people"
+      "source_type": "funding"
     }
   ]
 }

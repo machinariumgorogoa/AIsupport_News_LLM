@@ -1,0 +1,48 @@
+{
+  "date": "2026-05-25",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "CAPITAL IDEAS：何为Cerebras IPO？",
+          "link": "https://theberkshireedge.com/capital-ideas-what-is-this-cerebras-ipo",
+          "snippet": "Cerebras这家AI芯片公司正筹备IPO，文章解析其晶圆级引擎技术架构、商业模式及潜在市场前景。",
+          "index": 1
+        },
+        {
+          "title": "\"财务状况显鲁莽\"：揭开xAI与SpaceX IPO的关联",
+          "link": "https://global.morningstar.com/en-gb/stocks/financials-look-reckless-lifting-xais-hood-spacex-ipo",
+          "snippet": "xAI在8.18亿美元营收中录得24.7亿美元运营亏损，财务状况遭质疑\"鲁莽\"，文章深度剖析其IPO前真实表现。",
+          "index": 2
+        },
+        {
+          "title": "人工智能正迅速改变我们的世界！德国希望...",
+          "link": "https://x.com/en_germany/status/2058790168669065262",
+          "snippet": "德国拟联合欧洲在全球AI竞赛中建立领导地位，共同应对人工智能技术带来的产业变革与战略挑战。",
+          "index": 3
+        },
+        {
+          "title": "xAI Stock | Valuation, Funding, Investors | Notice.co",
+          "link": "https://notice.co/c/x-ai",
+          "snippet": "## What is xAI's stock symbol? Since it is not publicly listed, there is no xAI ...",
+          "index": 4
+        },
+        {
+          "title": "北京否决Meta交易后，Manus拟10亿美元回购",
+          "link": "https://www.digitimes.com/news/a20260524PD200/manus-funding-meta-ai-startup-beijing.html",
+          "snippet": "在北京监管机构否决与Meta交易后，AI公司Manus拟实施10亿美元股票回购，以调整资本结构并应对监管挫折。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": []
+    }
+  ]
+}
