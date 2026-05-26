@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-26",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "四大实验室五天内四起收购：AI行业整合信号显现...",
+          "link": "https://www.startuphub.ai/ai-news/ai-news/2026/four-labs-four-acquisitions-ai-consolidation-may-2026",
+          "snippet": "Anthropic、Mistral、Google DeepMind和Meta各自完成收购，标志着AI行业进入整合期",
+          "index": 1
+        },
+        {
+          "title": "AI推翻屹立80年的数学猜想...",
+          "link": "https://x.com/PeterDiamandis/status/2058986036295012677",
+          "snippet": "人工智能推翻一项已存在80年的数学猜想，展现数学研究新范式",
+          "index": 2
+        },
+        {
+          "title": "Commure Secures $70M at $7B Valuation to Deploy AI Agents ...",
+          "link": "https://theaiinsider.tech/2026/05/26/commure-secures-70m-at-7b-valuation-to-deploy-ai-agents-across-healthcare-administration",
+          "snippet": "Commure, an AI platform targeting healthcare's $1 trillion annual administrative burden, has raised $70 million at a $7 billion post-money valuation in a",
+          "index": 3
+        },
+        {
+          "title": "The Publicis' $3bn Liveramp deal signals shift in AI 'Intelligence ...",
+          "link": "https://marketech-apac.com/the-publicis-3bn-liveramp-deal-signals-shift-in-ai-intelligence-layer-ownership",
+          "snippet": "Publicis' $3bn LiveRamp deal proves the model isn't the moat—the AI intelligence layer is. Amperity CEO Tony Owens explains why brands must own their data.",
+          "index": 4
+        },
+        {
+          "title": "China's AI funding exceeded 100 billion yuan in the first quarter ...",
+          "link": "https://www.panewslab.com/en/articles/019e6316-46b6-71d7-b2db-d7ee53494973",
+          "snippet": "In the first quarter of 2026, the total financing amount in China's AI field exceeded 110 billion yuan, with large-scale models and embodied intelligence",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Co-Founder & CEO - AI Proposal Intelligence for AEC - Monster Jobs",
+          "link": "https://www.monster.com/job-openings/co-founder-ceo-ai-proposal-intelligence-for-aec-los-angeles-ca--6724c68f-0dee-4a5a-811c-61a346118701?hidesmr=1",
+          "snippet": "FutureSight is seeking a Co-Founder & CEO to lead BidOps, an AI-native proposal-...",
+          "index": 6
+        },
+        {
+          "title": "11 Best Freelance AI Developers for Hire in May 2026 | Toptal®",
+          "link": "https://www.toptal.com/developers/artificial-intelligence",
+          "snippet": "*   [Skip to Navigation](https://www.toptal.com/developers/artificial-intelligen...",
+          "index": 7
+        },
+        {
+          "title": "What to Think and Do as the Pope and an AI Founder Weigh in on This Fast-Forward Technology",
+          "link": "https://revkin.substack.com/p/what-to-think-and-do-as-the-pope-7e5",
+          "snippet": "## What to Think and Do as the Pope and an AI Founder Weigh in on This Fast-Forw...",
+          "index": 8
+        },
+        {
+          "title": "The CEO’s guide to AI: The Pope Has an AI Strategy Memo for Your Boardroom - Futurist Keynote Speaker | Hope Engineer - Nikolas Badminton",
+          "link": "https://futurist.com/2026/05/25/the-ceos-guide-to-ai-the-pope-has-an-ai-strategy-memo-for-your-boardroom",
+          "snippet": "# The CEO’s guide to AI: The Pope Has an AI Strategy Memo for Your Boardroom. ##...",
+          "index": 9
+        },
+        {
+          "title": "Artificial intelligence CEOs are their own worst enemies | News, Sports, Jobs - The Vindicator",
+          "link": "https://www.vindy.com/opinion/editorials/2026/05/artificial-intelligence-ceos-are-their-own-worst-enemies",
+          "snippet": "Much of our rising energy costs comes from a decadeslong campaign of progressive...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

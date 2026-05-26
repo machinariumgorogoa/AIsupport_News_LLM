@@ -1,139 +1,264 @@
 {
-  "date": "2026-05-25",
-  "count": 16,
+  "date": "2026-05-26",
+  "count": 31,
   "items": [
     {
-      "title": "CAPITAL IDEAS：何为Cerebras IPO？",
-      "link": "https://theberkshireedge.com/capital-ideas-what-is-this-cerebras-ipo",
-      "snippet": "Cerebras这家AI芯片公司正筹备IPO，文章解析其晶圆级引擎技术架构、商业模式及潜在市场前景。",
-      "raw_snippet": "# CAPITAL IDEAS: What is this Cerebras IPO? There have been 142 IPOs in the U.S. stock market year to date as of May 16, 2026, an 11.81 percent increase over the same period last year. Cerebras Systems raised $5.6 billion on May 14 at a valuation of $56 billion, the largest artificial intelligence (AI) IPO ever. Elon Musk’s SpaceX is aiming for a June 12, 2026, IPO launch (pun intended), with a $1 trillion-plus (not a typo) valuation and plans to raise about $75 billion. For comparison, the largest U.S. IPO so far was in 2014, when Alibaba raised $21.8 billion at a valuation of $168 billion. That is a massive shock, and it is understandable that the price of a barrel of Brent crude oil spiked from below $70 to $126 and has since been hovering just above the triple-digit mark (about $108 at the time of writing).",
+      "title": "AI: The Next Frontier Of PE Deal Risk - New Technology - United States",
+      "link": "https://www.mondaq.com/unitedstates/new-technology/1791378/ai-the-next-frontier-of-pe-deal-risk",
+      "snippet": "Mayer Brown is an international law firm positioned to represent the world’s maj...",
+      "raw_snippet": "Mayer Brown is an international law firm positioned to represent the world’s major corporations, funds, and financial institutions in their most important and complex transactions and disputes. Private equity transactions increasingly require sophisticated AI diligence as companies struggle to document how artificial intelligence tools are deployed across their operations. Sponsors evaluate security controls, incident history, insurance coverage, vendor exposure, and data practices as a matter of course because operational failures in any of those areas can materially impact enterprise value. The issue is no longer whether companies are using AI tools; most are. The real questions are whether management teams understand how those tools are being used inside the business, what data is being used and potentially exposed, whether outputs are reliable and auditable, and whether any meaningful governance exists around deployment. That creates legal, operational, and valuation concerns that are beginning to surface in the deal process.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "SpaceX and OpenAI IPOs could push the AI trade deeper into ...",
+      "link": "https://finance.yahoo.com/markets/article/spacex-and-openai-ipos-could-push-the-ai-trade-deeper-into-bubble-territory-chart-of-the-day-120000795.html",
+      "snippet": "* [Shopping](https://shopping.yahoo.com/). + [Tech](https://shopping.yahoo.com/t...",
+      "raw_snippet": "* [Shopping](https://shopping.yahoo.com/). + [Tech](https://shopping.yahoo.com/tech/). ### [Finance](https://finance.yahoo.com/). * [My Portfolio](https://finance.yahoo.com/portfolios/). * [News](https://finance.yahoo.com/news/). + [Tech](https://finance.yahoo.com/topic/tech/). + [More Topics](https://finance.yahoo.com/news/). * [Markets](https://finance.yahoo.com/markets/). + [Stocks](https://finance.yahoo.com/markets/stocks/). - [Most active](https://finance.yahoo.com/markets/stocks/most-active/). + [Sectors](https://finance.yahoo.com/sectors/). + [Futures](https://finance.yahoo.com/markets/commodities/). + [Calendar](https://finance.yahoo.com/calendar/). - [IPOs](https://finance.yahoo.com/calendar/ipo/). * [Videos](https://finance.yahoo.com/videos/). * [Watch Now](https://finance.yahoo.com/live/). ### [Sports](https://sports.yahoo.com/). * [Show all](https://sports.yahoo.com/). * [Tech](https://tech.yahoo.com/). * [Finance](https://finance.yahoo.com/). * [Sports](https://sports.yahoo.com/). - [Shopping](https://shopping.yahoo.com/). + [Finance](https://finance.yahoo.com/). - [My portfolio](https://finance.yahoo.com/portfolios/). - [News](https://finance.yahoo.com/news/). - [Markets](https://finance.yahoo.com/markets/). - [Videos](https://finance.yahoo.com/videos/). + [Sports](https://sports.yahoo.com/). - [Show all](https://sports.yahoo.com/). * [Tech](https://tech.yahoo.com/). 1. [My Portfolio](https://finance.yahoo.com/portfolios/). 2. [News](https://finance.yahoo.com/news/). 7. [Tech](https://finance.yahoo.com/topic/tech/). 3. [Markets](https://finance.yahoo.com/markets/). 1. [Stocks](https://finance.yahoo.com/markets/stocks/). 1. [Most active](https://finance.yahoo.com/markets/stocks/most-active/). 5. [Sectors](https://finance.yahoo.com/sectors/). 7. [Futures](https://finance.yahoo.com/markets/commodities/). 3. [Calendar](https://finance.yahoo.com/calendar/). 3. [IPOs](https://finance.yahoo.com/calendar/ipo/). 7. [Videos](https://finance.yahoo.com/videos/). 8. [Watch Now](https://finance.yahoo.com/live/). Mega initial public offerings from SpaceX ([SPAX.PVT](https://finance.yahoo.com/quote/SPAX.PVT/)) and OpenAI ([OPAI.PVT](https://finance.yahoo.com/quote/OPAI.PVT/)) could push the artificial intelligence trade deeper into bubble territory — just as rising yields make investors more demanding about growth that may take years to arrive. That pressure is already showing up across markets, with the 30-year Treasury yield ([^TYX](https://finance.yahoo.com/quote/^TYX/)) [pushing back toward the 5% zone](https://finance.yahoo.com/markets/article/the-long-bond-is-back-in-wall-streets-danger-zone-100000733.html?utm_source=chatgpt.com) that has repeatedly tested stocks.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "四大实验室五天内四起收购：AI行业整合信号显现...",
+      "link": "https://www.startuphub.ai/ai-news/ai-news/2026/four-labs-four-acquisitions-ai-consolidation-may-2026",
+      "snippet": "Anthropic、Mistral、Google DeepMind和Meta各自完成收购，标志着AI行业进入整合期",
+      "raw_snippet": "Anthropic, Mistral, Google DeepMind, and Meta each acquired an AI startup in the same week. Modal Labs raised $355M this week and explicitly repositioned around agentic AI workloads as its primary category. Anthropic, Mistral, Google DeepMind, and Meta each made a deal to absorb an AI startup within five days of each other. Anthropic bought  **Stainless**, the SDK infrastructure startup that powered developer tooling for OpenAI and Google. Mistral acquired  **Emmi AI**, a Viennese startup specializing in physics-aware AI models for industrial engineering. Google DeepMind hired the entire team from  **Contextual AI** through an $80-90 million licensing structure designed to avoid antitrust classification as a merger. Anthropic's $30 billion Growth round this week confirms exactly that arithmetic: at a $900 billion valuation, a $300 million SDK startup is rounding error on a single wire transfer. The prior week recorded 84 rounds at $22.8 billion and a median of $14.6 million.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "\"财务状况显鲁莽\"：揭开xAI与SpaceX IPO的关联",
-      "link": "https://global.morningstar.com/en-gb/stocks/financials-look-reckless-lifting-xais-hood-spacex-ipo",
-      "snippet": "xAI在8.18亿美元营收中录得24.7亿美元运营亏损，财务状况遭质疑\"鲁莽\"，文章深度剖析其IPO前真实表现。",
-      "raw_snippet": "XAI had an operating loss of USD 2.47 billion on USD 818 million in revenue in the first quarter of 2026, representing 17% of SpaceX's overall revenue of USD",
+      "title": "AI and the brave new world of deals",
+      "link": "https://www.ft.com/content/1be506e5-8fdb-49d3-847c-7fa05ee9aa4f",
+      "snippet": "[](https://www.ft.com/ \"Go to Financial Times homepage\"). *   [Western support f...",
+      "raw_snippet": "[](https://www.ft.com/ \"Go to Financial Times homepage\"). *   [Western support for Ukraine](https://www.ft.com/search?q=Western%20support%20for%20Ukraine). *   [Home](https://www.ft.com/). *   [World](https://www.ft.com/world). *   [US](https://www.ft.com/us). *   [China](https://www.ft.com/china). *   [Africa](https://www.ft.com/africa). *   [Europe](https://www.ft.com/europe). *   [US](https://www.ft.com/us). *   [US Home](https://www.ft.com/us). *   [US Economy](https://www.ft.com/us-economy). *   [US Companies](https://www.ft.com/us-companies). *   [Companies](https://www.ft.com/companies). *   [Energy](https://www.ft.com/energy). *   [Financials](https://www.ft.com/financials). *   [Industrials](https://www.ft.com/industrials). *   [Media](https://www.ft.com/media). *   [Tech](https://www.ft.com/technology). *   [Markets](https://www.ft.com/markets). *   [Currencies](https://www.ft.com/currencies). *   [Opinion](https://www.ft.com/opinion). *   [Lex](https://www.ft.com/lex). *   [Lex](https://www.ft.com/lex). *   [Recruitment](https://www.ft.com/recruitment). *   [Working It](https://www.ft.com/working-it). *   [Arts](https://www.ft.com/arts). *   [Books](https://www.ft.com/books). *   [Style](https://www.ft.com/style). *   [Travel](https://www.ft.com/travel). *   [Home](https://www.ft.com/). *   [World](https://www.ft.com/world). *   [US](https://www.ft.com/us). *   [Companies](https://www.ft.com/companies). *   [Tech](https://www.ft.com/technology). *   [Markets](https://www.ft.com/markets). *   [Opinion](https://www.ft.com/opinion). *   [Lex](https://www.ft.com/lex). *   [Western support for Ukraine](https://www.ft.com/search?q=Western%20support%20for%20Ukraine). [Share News Tips Securely](https://www.ft.com/securedrop)[Individual Subscriptions](https://www.ft.com/products)[Professional Subscriptions](https://professional.ft.com/en-gb/services/professional-subscriptions?segmentId=383c7f[%E2%80%A6]4-b62d-cb33-4c278e6fdf61&cpccampaign=B2B_link_ft.com_footer)[Republishing](https://professional.ft.com/en-gb/services/republishing/)[Executive Job Search](https://www.exec-appointments.com/)[Advertise with the FT](https://commercial.ft.com/)[Follow the FT on X](https://twitter.com/ft)[FT Channels](https://channels.ft.com/)[FT Schools](https://enterprise.ft.com/en-gb/services/group-subscriptions/secondary-education/). *   [Home](https://www.ft.com/). *   [US](https://www.ft.com/us). *   [China](https://www.ft.com/china). *   [Africa](https://www.ft.com/africa). *   [Europe](https://www.ft.com/europe). *   [US](https://www.ft.com/us)Show more US. *   [US Economy](https://www.ft.com/us-economy). *   [US Companies](https://www.ft.com/us-companies). *   [Energy](https://www.ft.com/energy). *   [Financials](https://www.ft.com/financials). *   [Industrials](https://www.ft.com/industrials). *   [Media](https://www.ft.com/media). *   [Currencies](https://www.ft.com/currencies). *   [Lex](https://www.ft.com/lex). *   [Lex](https://www.ft.com/lex). *   [Working It](https://www.ft.com/working-it). *   [Arts](https://www.ft.com/arts). *   [Books](https://www.ft.com/books). *   [Style](https://www.ft.com/style). *   [Travel](https://www.ft.com/travel). *   [Investments](https://www.ft.com/investments). *   [Tax](https://www.ft.com/tax). *   [Newsletters](https://www.ft.com/newsletters). *   [myFT](https://www.ft.com/myft).",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "AI推翻屹立80年的数学猜想...",
+      "link": "https://x.com/PeterDiamandis/status/2058986036295012677",
+      "snippet": "人工智能推翻一项已存在80年的数学猜想，展现数学研究新范式",
+      "raw_snippet": "An AI just disproved a mathematical conjecture that had stood for 80 years. The same week, SpaceX filed the largest IPO in human history: $75 billion at a",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "人工智能正迅速改变我们的世界！德国希望...",
-      "link": "https://x.com/en_germany/status/2058790168669065262",
-      "snippet": "德国拟联合欧洲在全球AI竞赛中建立领导地位，共同应对人工智能技术带来的产业变革与战略挑战。",
-      "raw_snippet": "Germany wants to join forces with Europe to become a global leader in AI. Over 1.6 billion euros in funding is being invested in startups and top research",
+      "title": "Jeremy Grantham Says AI Euphoria Is Fueling Dangerous Market ...",
+      "link": "https://acquirersmultiple.com/2026/05/jeremy-grantham-says-ai-euphoria-is-fueling-dangerous-market-excess",
+      "snippet": "# Jeremy Grantham Says AI Euphoria Is Fueling Dangerous Market Excess. During a ...",
+      "raw_snippet": "# Jeremy Grantham Says AI Euphoria Is Fueling Dangerous Market Excess. During a recent conversation on Behind the Balance Sheet, Jeremy Grantham argued that investors repeatedly make the same mistake at major market peaks by extrapolating temporary conditions far into the future. “They celebrated the new high in profit margins by multiplying by a new high in PE and this is double counting of the worst variety.”. “The great ideas like AI are guaranteed to suck in more money because everyone can see it will change the world. “So great market peaks like this are traditionally followed by the worst of times and so don’t kid yourself.”. They will never tell you to get your tail out of the market. Tags:AI bubble, Jeremy Grantham, market valuation, Stock Market Bubble, value investing. Join 30,000+ other investors in search of undervalued stocks, value investing news, investing strategies, and The Acquirer’s Podcast.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Commure Secures $70M at $7B Valuation to Deploy AI Agents ...",
+      "link": "https://theaiinsider.tech/2026/05/26/commure-secures-70m-at-7b-valuation-to-deploy-ai-agents-across-healthcare-administration",
+      "snippet": "Commure, an AI platform targeting healthcare's $1 trillion annual administrative burden, has raised $70 million at a $7 billion post-money valuation in a",
+      "raw_snippet": "Commure, an AI platform targeting healthcare's $1 trillion annual administrative burden, has raised $70 million at a $7 billion post-money valuation in a",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "xAI Stock | Valuation, Funding, Investors | Notice.co",
-      "link": "https://notice.co/c/x-ai",
-      "snippet": "## What is xAI's stock symbol? Since it is not publicly listed, there is no xAI ...",
-      "raw_snippet": "## What is xAI's stock symbol? Since it is not publicly listed, there is no xAI stock symbol or xAI ticker symbol assigned for xAI. Private companies typically reserve a stock symbol up to two years prior to an IPO, and disclose this when they file a Form S-1 with the Securities and Exchange Commission when they start the IPO process. ## How can I sell xAI stock? xAI stock does not trade publicly on Nasdaq or NYSE because it is still a private company. xAI stock might be available for purchase in the secondary markets, but xAI stock is not available for purchase by the general public, and can not be purchased through traditional brokerage accounts. ## How can I buy xAI stock? Accredited investors can purchase shares in private companies like xAI. Because xAI is privately held, its stock is not available for purchase through public stock exchanges like the NYSE or Nasdaq.",
+      "title": "AI just minted 19 new billionaires worth $59 billion",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/ai-just-minted-19-billionaires-010300302.html",
+      "snippet": "- Best gifts for sister-in-law. - Best birthday gifts for her. - Best gifts for ...",
+      "raw_snippet": "- Best gifts for sister-in-law. - Best birthday gifts for her. - Best gifts for mother-in-law. - Best anniversary gifts for wife. ### New on Yahoo. - Best streaming device of 2026. # AI just minted 19 new billionaires worth $59 billion. For the last three years, almost every story about artificial intelligence wealth has pointed to the same handful of names. Over the past 12 months, 19 new billionaires have emerged from AI startups, and they are worth a combined $59.3 billion. The CEO of Cerebras and 18 others emerge as new AI billionaires, worth a combined $59.3 billion.Photo by Bloomberg on Getty Images. ## **How AI minted 19 new billionaires in a single year**. These new US startups have \"minted 19 billionaires worth a combined $59.3 billion\" over the past year, according to Bloomberg. Shares of the AI chipmaker \"soared about 68%\" on May 14 in \"the year's biggest initial public offering,\" giving the company a market value of roughly $67 billion at the open, reported Bloomberg.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "The Publicis' $3bn Liveramp deal signals shift in AI 'Intelligence ...",
+      "link": "https://marketech-apac.com/the-publicis-3bn-liveramp-deal-signals-shift-in-ai-intelligence-layer-ownership",
+      "snippet": "Publicis' $3bn LiveRamp deal proves the model isn't the moat—the AI intelligence layer is. Amperity CEO Tony Owens explains why brands must own their data.",
+      "raw_snippet": "Publicis' $3bn LiveRamp deal proves the model isn't the moat—the AI intelligence layer is. Amperity CEO Tony Owens explains why brands must own their data.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 4
     },
     {
-      "title": "北京否决Meta交易后，Manus拟10亿美元回购",
-      "link": "https://www.digitimes.com/news/a20260524PD200/manus-funding-meta-ai-startup-beijing.html",
-      "snippet": "在北京监管机构否决与Meta交易后，AI公司Manus拟实施10亿美元股票回购，以调整资本结构并应对监管挫折。",
-      "raw_snippet": "# Manus eyes US$1 billion buyback after Beijing blocks Meta deal. Chinese artificial intelligence (AI) startup Manus is reportedly evaluating a US$1 billion fundraising round to buy back control of the company from Meta Platforms, in response to Chinese authorities ordering the company to withdraw from Meta's more than US$2... Meta reportedly to cancel Manus acquisition as China clamps down on 'Singapore washing' in AI China blocks Meta-Manus deal, signaling tougher stance as unwinding poses complex fallout Chinese AI startups face 'go global or decouple' dilemma after Manus deal. Meta finalizes Butterfly Effect acquisition, eyes Manus as monetization model Manus AI flees China for Singapore following US$75 million Benchmark round. Global supply chain: Emerging tech, businesses. Global supply chain: China market. * TSMC's COUPE push puts Samsung's silicon photonics ambitions under pressure. * AMD's 2nm defection to Samsung dents TSMC's AI grip. * Tech Forum 2026: AI data centers turn to on-site power amid grid constraints.",
+      "title": "The AI market feels incredibly acquisitive. Should that change how I ...",
+      "link": "https://sifted.eu/articles/ai-market-change-how-i-pick-a-company",
+      "snippet": "Should that change how I pick a company? ## How do you decide which AI startup t...",
+      "raw_snippet": "Should that change how I pick a company? ## How do you decide which AI startup to join when companies seem to be getting bought every few months by big labs or tech giants? ***Dear Zoe, I’m deciding between a couple of AI startups right now, but the market feels incredibly acquisitive. Companies seem to be getting bought every few months by the big labs or tech giants. Should that change how I evaluate which company to join?***. This is not a normal M&A environment, and it’s driven not just by eliminating competitors, but increasingly by the scarcity of talent and need for speed. Most candidates I speak to want to build something lasting, and an acquisitive market feels like a threat to that. The right question is not \"will this company get acquired?\", it is \"what will this experience make me capable of next, regardless of what happens to the company?\". Here is how I would think about it.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "China's AI funding exceeded 100 billion yuan in the first quarter ...",
+      "link": "https://www.panewslab.com/en/articles/019e6316-46b6-71d7-b2db-d7ee53494973",
+      "snippet": "In the first quarter of 2026, the total financing amount in China's AI field exceeded 110 billion yuan, with large-scale models and embodied intelligence",
+      "raw_snippet": "In the first quarter of 2026, the total financing amount in China's AI field exceeded 110 billion yuan, with large-scale models and embodied intelligence",
       "is_chinese": false,
       "source_type": "funding",
       "index": 5
     },
     {
-      "title": "SpaceX: This IPO Could Be The One That Pops The AI Bubble",
-      "link": "https://seekingalpha.com/article/4908374-spacex-ipo-could-be-one-that-pops-ai-bubble",
-      "snippet": "# SpaceX: This IPO Could Be The One That Pops The AI Bubble. ## SpaceX: Getting ...",
-      "raw_snippet": "# SpaceX: This IPO Could Be The One That Pops The AI Bubble. ## SpaceX: Getting ready for a blastoff in June? All right, I've set my watch for June 12th (could be earlier or later, yeah), that is, on what could be the largest IPO in. ## A Growth Investing Service To Help You Outperform. **Analyst’s Disclosure:** I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I have no business relationship with any company whose stock is mentioned in this article. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank.",
+      "title": "SPACEX AI Multiple Revenue Doubling SECRETS for $10-20T ...",
+      "link": "https://www.nextbigfuture.com/2026/05/spacex-ai-multiple-revenue-doubling-secrets-for-10-20t-valuation-in-2028.html",
+      "snippet": "SpaceX will be able to more than double its revenue every year from 2026-2028 and beyond. Most of the revenue and profits will come from AI.",
+      "raw_snippet": "SpaceX will be able to more than double its revenue every year from 2026-2028 and beyond. Most of the revenue and profits will come from AI.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "US and China pour record capital into AI as funding race intensifies ...",
-      "link": "https://www.mexc.com/news/1110412",
-      "snippet": "However, the AI funding is now becoming aThe artificial intelligence sectors in ...",
-      "raw_snippet": "However, the AI funding is now becoming aThe artificial intelligence sectors in both the United States and China are being flooded with unprecedented capital. The artificial intelligence sectors in both the United States and China are being flooded with unprecedented capital. However, the AI funding is now becoming a. For feedback or concerns regarding this content, please contact us at crypto.news@mexc.com. However, the AI funding is now becoming a competition between the two largest economies.**. ### How is the Chinese government fueling the AI boom? It later reached an estimated $45-$50 billion by early May. Other investment rounds backed by the government include Moore Threads, a Beijing-based GPU designer, which raised $720 million at a $4.1 billion valuation in February 2025. Despite the tensions, the total deal activity for the Chinese private equity market reached 2,568 transactions worth 234.4 billion yuan in Q1 2026, and foreign-currency deals in China more than doubled year-on-year to 210 in the same period.",
+      "title": "Senior Client Operations Advisor / Special Operations - AI Acquisition",
+      "link": "https://bebee.com/za/jobs/senior-client-operations-advisor-special-operations-ai-acquisition--theirstack-692787477",
+      "snippet": "The Company. AI Acquisition is a multi-8-figure business helping founders and operators scale with AI. 3,000+ clients. 200+ mastermind participants. A sales",
+      "raw_snippet": "The Company. AI Acquisition is a multi-8-figure business helping founders and operators scale with AI. 3,000+ clients. 200+ mastermind participants. A sales",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Artificial Intelligence in Financial Security Markets: Catalyzing ...",
-      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/sd.71228",
-      "snippet": "The analysis indicates that AI-enabled financial innovation is associated with improvements in market efficiency, ESG integration, and risk assessment",
-      "raw_snippet": "The analysis indicates that AI-enabled financial innovation is associated with improvements in market efficiency, ESG integration, and risk assessment",
+      "title": "Rethinking bioinformatics expertise in the era of artificial intelligence | npj Digital Medicine",
+      "link": "https://www.nature.com/articles/s41746-026-02777-1",
+      "snippet": "# Rethinking bioinformatics expertise in the era of artificial intelligence. Art...",
+      "raw_snippet": "# Rethinking bioinformatics expertise in the era of artificial intelligence. Artificial intelligence (AI) is often framed as replacing scientific expertise, especially in bioinformatics. We argue instead that AI is a powerful accelerant whose value depends on expert guidance in design, data curation, interpretation, and governance. If a large language model can draft an RNA-seq pipeline, annotate variants, and produce a publication-ready interpretation of a differential expression analysis, what exactly is left for the bioinformatician to do? And understanding why requires a clearer account of what artificial intelligence (AI) actually does, and what it cannot do without expert guidance. But it also means that the quality of the AI output is only as good as the expertise brought to bear on it, in designing the analysis, curating the data, interpreting the results, and recognising when something that looks correct is, in fact, wrong.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Anthropic Eyes $900 Billion Valuation as Quarterly ...",
-      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-eyes-900-billion-valuation-as-quarterly-revenue-doubles",
-      "snippet": "###### Featured. # Anthropic Eyes $900 Billion Valuation as Quarterly Revenue Do...",
-      "raw_snippet": "###### Featured. # Anthropic Eyes $900 Billion Valuation as Quarterly Revenue Doubles. Anthropic is set to close a funding round in which it could raise over $30 billion and be valued at over $900 billion, Bloomberg reported Friday (May 22), citing unnamed sources. By completing this form, you agree to receive marketing communications from PYMNTS and to the sharing of your information with our sponsor, if applicable, in accordance with our Privacy Policy and Terms and Conditions. Anthropic did not immediately reply to PYMNTS’ request for comment. According to the Bloomberg report, Anthropic expects to more than double its quarterly revenue to $10.9 billion in the second quarter. On May 7, it was reported that Anthropic was weighing a funding round in which it would raise as much as $50 billion and be valued at $900 billion. *For all PYMNTS AI coverage, subscribe to the daily* AI Newsletter*.*. #### Trending News. #### Featured News.",
+      "title": "The liberalization of artificial intelligence technology - ScienceDirect",
+      "link": "https://www.sciencedirect.com/science/article/abs/pii/S3051064326001329",
+      "snippet": "In Turkey, the role of artificial intelligence in human resources departments is to assist employees, facilitate their development, and enable them to be more",
+      "raw_snippet": "In Turkey, the role of artificial intelligence in human resources departments is to assist employees, facilitate their development, and enable them to be more",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "IRCAI | International Research Centre On Artificial Intelligence",
-      "link": "https://ircai.org",
-      "snippet": "A coordination point, funding route and exploitation accelerator for approaches to the UN SDGs that make use of AI.",
-      "raw_snippet": "A coordination point, funding route and exploitation accelerator for approaches to the UN SDGs that make use of AI.",
+      "title": "Co-Founder & CEO - AI Proposal Intelligence for AEC - Monster Jobs",
+      "link": "https://www.monster.com/job-openings/co-founder-ceo-ai-proposal-intelligence-for-aec-los-angeles-ca--6724c68f-0dee-4a5a-811c-61a346118701?hidesmr=1",
+      "snippet": "FutureSight is seeking a Co-Founder & CEO to lead BidOps, an AI-native proposal-...",
+      "raw_snippet": "FutureSight is seeking a Co-Founder & CEO to lead BidOps, an AI-native proposal-orchestration platform for architecture, engineering, and construction (AEC)",
       "is_chinese": false,
-      "source_type": "funding"
+      "source_type": "people",
+      "index": 6
     },
     {
-      "title": "Amdocs expands AI ambitions through acquisition of Israeli startup Yess | Ctech",
-      "link": "https://www.calcalistech.com/ctechnews/article/b10diozegl",
-      "snippet": "# Amdocs expands AI ambitions through acquisition of Israeli startup Yess. ## Th...",
-      "raw_snippet": "# Amdocs expands AI ambitions through acquisition of Israeli startup Yess. ## The telecom software giant is integrating autonomous AI agents into its core operations platform. Israeli software giant Amdocs is strengthening its push into artificial intelligence by bringing in the founders and development team of startup Yess, a young company focused on autonomous AI agent systems that has operated largely under the radar since its founding in 2023. The entire founding and development team will join Amdocs’ Generative AI and Data division, established about a year ago as the company accelerated investments in artificial intelligence infrastructure and products. “AI agent systems are redefining our industry, and Amdocs is proud to stand at the forefront of this revolution,” Sade said in a statement announcing the deal. “The Yess team will now have the opportunity to help Amdocs accelerate the entire telecom industry toward a future of AI agents.”.",
+      "title": "11 Best Freelance AI Developers for Hire in May 2026 | Toptal®",
+      "link": "https://www.toptal.com/developers/artificial-intelligence",
+      "snippet": "*   [Skip to Navigation](https://www.toptal.com/developers/artificial-intelligen...",
+      "raw_snippet": "*   [Skip to Navigation](https://www.toptal.com/developers/artificial-intelligence#nav). *   [Skip to Content](https://www.toptal.com/developers/artificial-intelligence#main). *   [Skip to Footer](https://www.toptal.com/developers/artificial-intelligence#footer). ## Hire the [Top 3%](https://www.toptal.com/developers/artificial-intelligence#top3) of **Freelance AI Developers**. [Hire a Top AI Developer Now](https://www.toptal.com/hire?interested_in=developers&skill=artificial-intelligence&skill_job_title=AI+developer). [](https://www.toptal.com/developers/artificial-intelligence#ishola-babatunde-isaac). [](https://www.toptal.com/developers/artificial-intelligence#filip-boltuzic). [](https://www.toptal.com/developers/artificial-intelligence#metti-paak). [](https://www.toptal.com/developers/artificial-intelligence#hafiz-haseeb-ahmed). [Show More](https://www.toptal.com/developers/resume/ishola-babatunde-isaac#s=artificial-intelligence). [Show More](https://www.toptal.com/developers/resume/matthew-warkentin#s=artificial-intelligence). [Show More](https://www.toptal.com/developers/resume/metti-paak#s=artificial-intelligence). [Show More](https://www.toptal.com/developers/resume/francesc-guitart#s=artificial-intelligence). ### [Filip Boltuzic](https://www.toptal.com/developers/resume/filip-boltuzic#s=artificial-intelligence). [Show More](https://www.toptal.com/developers/resume/filip-boltuzic#s=artificial-intelligence). [Show More](https://www.toptal.com/developers/resume/nimrod-talmon#s=artificial-intelligence). [Show More](https://www.toptal.com/developers/resume/hafiz-haseeb-ahmed#s=artificial-intelligence). ### [William Zhu](https://www.toptal.com/developers/resume/william-zhu#s=artificial-intelligence). [Show More](https://www.toptal.com/developers/resume/william-zhu#s=artificial-intelligence). [Show More](https://www.toptal.com/developers/resume/kaustubh-kulkarni#s=artificial-intelligence). [Show More](https://www.toptal.com/developers/resume/petr-smital#s=artificial-intelligence). [Show More](https://www.toptal.com/developers/resume/pawel-kaplanski#s=artificial-intelligence). [Start Hiring](https://www.toptal.com/hire?interested_in=developers&skill=artificial-intelligence&skill_job_title=AI+developer). [Start Hiring](https://www.toptal.com/hire?interested_in=developers&skill=artificial-intelligence&skill_job_title=AI+developer). ## [Guide to Hiring a Great AI Developer](https://www.toptal.com/developers/artificial-intelligence#hiring-guide). [Read Hiring Guide](https://www.toptal.com/developers/artificial-intelligence#hiring-guide). [Start Hiring Today](https://www.toptal.com/hire?interested_in=developers&skill=artificial-intelligence&skill_job_title=AI+developer). To get started, [schedule a call with us](https://www.toptal.com/hire?interested_in=developers&skill=artificial-intelligence&skill_job_title=AI+developer) — it’s free, and there’s no obligation to hire with Toptal. [Artificial Intelligence Services](https://www.toptal.com/services/technology-services/artificial-intelligence)[AI Development Services](https://www.toptal.com/services/technology-services/artificial-intelligence-development)[Machine Learning Consulting](https://www.toptal.com/services/technology-services/machine-learning-consulting)[Computer Vision Consulting](https://www.toptal.com/services/technology-services/computer-vision-consulting)[AI Consulting](https://www.toptal.com/services/management-consulting/ai-consulting)[Data Science Consulting](https://www.toptal.com/services/technology-services/data-science-consulting)[Intelligent Automation Services](https://www.toptal.com/services/technology-services/intelligent-automation-services)[NLP Consulting](https://www.toptal.com/services/technology-services/nlp-consulting). [](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.toptal.com%2Fdevelopers%2Fartificial-intelligence%23hiring-guide&title=How%20to%20Hire%20a%20Great%20AI%20Developer \"linkedin\"). [](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.toptal.com%2Fdevelopers%2Fartificial-intelligence%23hiring-guide&text=How%20to%20Hire%20a%20Great%20AI%20Developer \"twitter\"). [](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.toptal.com%2Fdevelopers%2Fartificial-intelligence%23hiring-guide&t=How%20to%20Hire%20a%20Great%20AI%20Developer \"facebook\"). [AI Design](https://www.toptal.com/designers/artificial-intelligence)[Data Engineering](https://www.toptal.com/developers/data-engineers)[Machine Learning](https://www.toptal.com/developers/machine-learning). [![Image 42](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2F10618800%2Fcover_image%2Fretina_500x200%2Funnamed-4d8541d0d3f2a292a567d0b3eea74920.png)](https://www.toptal.com/developers/artificial-intelligence/ai-in-medical-imaging). ### [How AI Medical Imaging Is Powering Precision Healthcare](https://www.toptal.com/developers/artificial-intelligence/ai-in-medical-imaging). [![Image 44](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2F10254177%2Fcover_image%2Fretina_500x200%2Funnamed-39f887544a0c4d6867b54131f2fcd43e.png)](https://www.toptal.com/developers/artificial-intelligence/data-labeling-teams). ### [Strategies for Structuring and Scaling High-performance Data Labeling Teams](https://www.toptal.com/developers/artificial-intelligence/data-labeling-teams). [![Image 46](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2F9977539%2Fcover_image%2Fretina_500x200%2Funnamed-6260d4bebc0ee536e7f910af52f7d290.png)](https://www.toptal.com/developers/artificial-intelligence/llm-data-labeling). ### [Fine-tuning LLMs for Your Industry: Optimal Data Labeling Strategies](https://www.toptal.com/developers/artificial-intelligence/llm-data-labeling). [Start Hiring](https://www.toptal.com/hire?interested_in=developers&skill=artificial-intelligence&skill_job_title=AI+developer). *   [AI Engineers](https://www.toptal.com/developers/artificial-intelligence).",
       "is_chinese": false,
-      "source_type": "funding"
+      "source_type": "people",
+      "index": 7
     },
     {
-      "title": "Could anything but profit steer AI? The OpenAI trial offered clues but ...",
-      "link": "https://www.washingtonpost.com/business/2026/05/24/openai-trial-musk-altman-ipo/2d460216-5725-11f1-9c40-7a0a12d9e745_story.html",
-      "snippet": "[Video 1](https://www.washingtonpost.com/business/2026/05/24/openai-trial-musk-a...",
-      "raw_snippet": "[Video 1](https://www.washingtonpost.com/business/2026/05/24/openai-trial-musk-altman-ipo/2d460216-5725-11f1-9c40-7a0a12d9e745_story.html). [Accessibility statement](https://www.washingtonpost.com/accessibility/)[Skip to main content](https://www.washingtonpost.com/business/2026/05/24/openai-trial-musk-altman-ipo/2d460216-5725-11f1-9c40-7a0a12d9e745_story.html#main-content). [Democracy Dies in Darkness](https://www.washingtonpost.com/). May 24, 2026 ![Image 2](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LHVE5UYMZLQWATV2NEAUQHW77Q_size-normalized.jpg&w=767&h=511)](https://www.washingtonpost.com/business/2026/05/24/rising-gas-prices-are-widening-gap-between-rich-poor/). May 24, 2026 ![Image 5](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/JKNAPLOMWCK5XYYTEJ2IVCUCXA.jpg&w=767&h=511)](https://www.washingtonpost.com/opinions/2026/05/24/trumps-iran-war-negotiation-seeks-path-long-shot-outcome/). *   [About The Post](https://www.washingtonpost.com/about-the-post/). *   [Accessibility Statement](https://www.washingtonpost.com/accessibility/). *   [Trending](https://www.washingtonpost.com/trending/). *   [Politics](https://www.washingtonpost.com/politics/). *   [Elections](https://www.washingtonpost.com/elections/). *   [Opinions](https://www.washingtonpost.com/opinions/). *   [National](https://www.washingtonpost.com/national/). *   [World](https://www.washingtonpost.com/world/). *   [Style](https://www.washingtonpost.com/style/). *   [Sports](https://www.washingtonpost.com/sports/). *   [Business](https://www.washingtonpost.com/business/). *   [Climate](https://www.washingtonpost.com/climate-environment/). *   [Well+Being](https://www.washingtonpost.com/wellbeing/). *   [Obituaries](https://www.washingtonpost.com/obituaries/). *   [Weather](https://www.washingtonpost.com/weather/). *   [Arts & Entertainment](https://www.washingtonpost.com/entertainment/). *   [Recipes](https://www.washingtonpost.com/recipes/). *   [Washington Post Live](https://www.washingtonpost.com/washington-post-live/). *   [Public Notices](https://www.washingtonpost.com/classifieds/). *   [Contact the Opinions Team](https://helpcenter.washingtonpost.com/hc/en-us/articles/360004745292-Leadership-of-The-Washington-Post-Opinions-section). *   [Advertise](https://www.washingtonpost.com/solutions/). *   [Terms of Service](https://www.washingtonpost.com/terms-of-service/). *   [Privacy Policy](https://www.washingtonpost.com/privacy-policy/). *   [Sitemap](https://www.washingtonpost.com/sitemap/). [washingtonpost.com](https://www.washingtonpost.com/) © 1996-2026 The Washington Post. *   [Ask The Post AI](https://www.washingtonpost.com/ask-the-post-ai/). *   [Accessibility Statement](https://www.washingtonpost.com/accessibility/). *   [Trending](https://www.washingtonpost.com/trending/). *   [Politics](https://www.washingtonpost.com/politics/). *   [Elections](https://www.washingtonpost.com/elections/). *   [Opinions](https://www.washingtonpost.com/opinions/). *   [National](https://www.washingtonpost.com/national/). *   [World](https://www.washingtonpost.com/world/). *   [Style](https://www.washingtonpost.com/style/). *   [Sports](https://www.washingtonpost.com/sports/). *   [Business](https://www.washingtonpost.com/business/). *   [Climate](https://www.washingtonpost.com/climate-environment/). *   [Well+Being](https://www.washingtonpost.com/wellbeing/). *   [Obituaries](https://www.washingtonpost.com/obituaries/). *   [Weather](https://www.washingtonpost.com/weather/). *   [Arts & Entertainment](https://www.washingtonpost.com/entertainment/). *   [Recipes](https://www.washingtonpost.com/recipes/). *   [Washington Post Live](https://www.washingtonpost.com/washington-post-live/). *   [Public Notices](https://www.washingtonpost.com/classifieds/). *   [Contact the Opinions Team](https://helpcenter.washingtonpost.com/hc/en-us/articles/360004745292-Leadership-of-The-Washington-Post-Opinions-section). *   [Advertise](https://www.washingtonpost.com/solutions/). *   [About The Post](https://www.washingtonpost.com/about-the-post/). *   [Policies & Standards](https://www.washingtonpost.com/policies-and-standards/). *   [Terms of Service](https://www.washingtonpost.com/terms-of-service/). *   [Privacy Policy](https://www.washingtonpost.com/privacy-policy/). *   [Sitemap](https://www.washingtonpost.com/sitemap/). *   [washingtonpost.com](https://www.washingtonpost.com/).",
+      "title": "What to Think and Do as the Pope and an AI Founder Weigh in on This Fast-Forward Technology",
+      "link": "https://revkin.substack.com/p/what-to-think-and-do-as-the-pope-7e5",
+      "snippet": "## What to Think and Do as the Pope and an AI Founder Weigh in on This Fast-Forw...",
+      "raw_snippet": "## What to Think and Do as the Pope and an AI Founder Weigh in on This Fast-Forward Technology. With my guests Brad Allenby and Andrew Maynard at Arizona State University, the prime focus was the Vatican rollout of Pope Leo XIV’s encyclical letter and the Pope’s admonition today that “artificial intelligence needs to be disarmed.”. Please listen and weigh in with your thoughts - and SHARE this post so we can widen our Sustain What community. > I actually think we make a mistake when we try and equate AI to human intelligence. They are all people in this bus that are pushing AI progress so it’s not just the tech bros it is every company that is saying we do not have time to ask about care and responsibility and ethics because we just got to go fast.",
       "is_chinese": false,
-      "source_type": "funding"
+      "source_type": "people",
+      "index": 8
     },
     {
-      "title": "AI in loan origination: moving beyond hype to measurable business ...",
-      "link": "https://www.aurionpro.com/blogs/ai-in-loan-origination-moving-beyond-hype-to-measurable-business-outcomes-2",
-      "snippet": "The focus is moving away from what AI can do in theory to what it must deliver in practice — faster decisions, intelligent risk assessment, and improved",
-      "raw_snippet": "The focus is moving away from what AI can do in theory to what it must deliver in practice — faster decisions, intelligent risk assessment, and improved",
+      "title": "The CEO’s guide to AI: The Pope Has an AI Strategy Memo for Your Boardroom - Futurist Keynote Speaker | Hope Engineer - Nikolas Badminton",
+      "link": "https://futurist.com/2026/05/25/the-ceos-guide-to-ai-the-pope-has-an-ai-strategy-memo-for-your-boardroom",
+      "snippet": "# The CEO’s guide to AI: The Pope Has an AI Strategy Memo for Your Boardroom. ##...",
+      "raw_snippet": "# The CEO’s guide to AI: The Pope Has an AI Strategy Memo for Your Boardroom. ## **What *Magnifica Humanitas* Means for CEOs and Executives**. Timed to the 135th anniversary of *Rerum Novarum*—the 1891 letter that launched modern Catholic social teaching in response to the Industrial Revolution—it positions AI as this generation’s equivalent upheaval. Whatever your faith, the document is worth an executive’s attention: it is a serious, principle-driven framework for thinking about technology, power, and human dignity from an institution that thinks in centuries, not quarters. The central claim is that **technology is never neutral**—”it takes on the characteristics of those who devise, finance, regulate and use it.” The choice, Leo argues, is not whether to adopt AI, but which of these two projects an organization is actually building. **Moral neutrality is rejected outright.** Because every tool “embodies choices and priorities through what it measures, ignores and optimizes,” the encyclical argues that ethical scrutiny cannot stop at *how* a system is used—it must examine how the system is designed and what vision of the person is embedded in its data and models.",
       "is_chinese": false,
-      "source_type": "funding"
+      "source_type": "people",
+      "index": 9
     },
     {
-      "title": "This $8 Stock Could Be Your Ticket to Millionaire Status",
-      "link": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/2111599/this-8-stock-could-be-your-ticket-to-millionaire-status",
-      "snippet": "The company, which focuses on developing AI-based voice assistant platforms, has experienced waves of popularity among investors since its public debut in 2021.",
-      "raw_snippet": "The company, which focuses on developing AI-based voice assistant platforms, has experienced waves of popularity among investors since its public debut in 2021.",
+      "title": "Artificial intelligence CEOs are their own worst enemies | News, Sports, Jobs - The Vindicator",
+      "link": "https://www.vindy.com/opinion/editorials/2026/05/artificial-intelligence-ceos-are-their-own-worst-enemies",
+      "snippet": "Much of our rising energy costs comes from a decadeslong campaign of progressive...",
+      "raw_snippet": "Much of our rising energy costs comes from a decadeslong campaign of progressive environmentalists and Democrat-backed regulators to tear down coal-fired power plants, block nuclear and natural gas expansion and make America reliant on wind and solar — the two power sources most popular during the dark ages. Data centers get blamed for higher power bills, but the reality is inflation has much more to do with those rising costs. Helping spread the fear are the CEOs of the AI companies — men on the spectrum, enamored with their technologies and largely unable to relate to humans. Between the egotistical and tone-deaf comments of AI CEOs and the astroturf campaign against AI, a majority of Americans are now scared of embracing or building data centers. But the economy of the future will get greater efficiencies from AI even as the population probably continues to decline.",
       "is_chinese": false,
-      "source_type": "funding"
+      "source_type": "people",
+      "index": 10
     },
     {
-      "title": "Ricursive Intelligence Stock | Valuation, Funding, Investors | Notice.co",
-      "link": "https://notice.co/c/ricursive",
-      "snippet": "## Buy or sell Ricursive Intelligence. ## What is Ricursive Intelligence's stock...",
-      "raw_snippet": "## Buy or sell Ricursive Intelligence. ## What is Ricursive Intelligence's stock symbol? Since it is not publicly listed, there is no Ricursive Intelligence stock symbol or Ricursive Intelligence ticker symbol assigned for Ricursive Intelligence. ## How can I sell Ricursive Intelligence stock? Ricursive Intelligence stock does not trade publicly on Nasdaq or NYSE because it is still a private company. Ricursive Intelligence stock might be available for purchase in the secondary markets, but Ricursive Intelligence stock is not available for purchase by the general public, and can not be purchased through traditional brokerage accounts. ## How can I buy Ricursive Intelligence stock? These investors buy pre-IPO stock in the secondary market from existing employees and investors. ## How to invest in Ricursive Intelligence? Accredited investors can purchase shares in private companies like Ricursive Intelligence. Because Ricursive Intelligence is privately held, its stock is not available for purchase through public stock exchanges like the NYSE or Nasdaq.",
+      "title": "Chris Olah, co-founder of AI company Anthropic, said artificial ...",
+      "link": "https://x.com/Reuters/status/2059087120719827214",
+      "snippet": "Reuters (@Reuters). 121 likes 20 replies. Chris Olah, co-founder of AI company A...",
+      "raw_snippet": "Reuters (@Reuters). 121 likes 20 replies. Chris Olah, co-founder of AI company Anthropic, said artificial intelligence development cannot be left solely to",
       "is_chinese": false,
-      "source_type": "funding"
+      "source_type": "people"
     },
     {
-      "title": "Google Cloud Launches AI Startup Innovation Corridor from ...",
-      "link": "https://www.googlecloudpresscorner.com/Google-Cloud-Launches-AI-Startup-Innovation-Corridor-from-Southeast-Asia-to-Silicon-Valley-with-EnterpriseSG-Komdigi-NIC-and-SIHUB",
-      "snippet": "Google Cloud Launches AI Startup Innovation Corridor from Southeast Asia to Sili...",
-      "raw_snippet": "Google Cloud Launches AI Startup Innovation Corridor from Southeast Asia to Silicon Valley with EnterpriseSG, Komdigi, NIC, and SIHUB. Google’s investments in Singapore anchor regional initiative to fast-track growth for Southeast Asia-based AI startups, solidifying Singapore’s position as a global hub and launchpad for agentic AI solutions. New Google for Startups Accelerator: Southeast Asia builds on initiatives by Google that have helped more than 200 startups in the region raise US$6.6 billion in funding since 2018. The program offers startups technical residencies in Silicon Valley and Singapore, alongside AI engineering and go-to-market partnerships with Google Cloud. **SINGAPORE, May 25, 2026 –** Google Cloud today announced expanded collaborations with Enterprise Singapore (EnterpriseSG), Indonesia’s Ministry of Communication and Digital Affairs (Komdigi), the Vietnam National Innovation Center (NIC), and the Startup and Innovation Hub of Ho Chi Minh City (SIHUB), establishing an AI startup innovation corridor in Southeast Asia, and from the region to Silicon Valley.",
+      "title": "The CEO AI Confidence Gap Is Costing Enterprises Billions - Forbes",
+      "link": "https://www.forbes.com/sites/josipamajic/2026/05/25/the-ceo-ai-confidence-gap-is-costing-enterprises-billions",
+      "snippet": "This is a BETA experience. This voice experience is generated by AI. A robot pou...",
+      "raw_snippet": "This is a BETA experience. This voice experience is generated by AI. A robot pours popcorn from a cooking pot into a bowl on March 8, 2017 at the Institute for Artificial Intelligence (AI) of the university of Bremen, northwestern Germany. The gap between a polished demo and a production-grade system is where most enterprise AI investments go to die. The companies still standing in that wreckage are now where the real capital is flowing. \"The best thing you can do as a CEO is to use AI a ton to figure out the real implications of agents in the enterprise, and come out the other side with an appreciation for both the upside and the real work that goes into them,\" Levie wrote. On the other: a smaller cohort of companies that mapped the last-mile work before they wrote the deployment brief, and built the human review layers, data governance, and workflow redesign required to make agents reliable.",
       "is_chinese": false,
-      "source_type": "funding"
+      "source_type": "people"
+    },
+    {
+      "title": "Anthropic's Olah on AI: Vatican Calls for Caution | StartupHub.ai",
+      "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/anthropic-s-olah-on-ai-vatican-calls-for-caution",
+      "snippet": "# Anthropic's Olah on AI: Vatican Calls for Caution. Anthropic co-founder Chris ...",
+      "raw_snippet": "# Anthropic's Olah on AI: Vatican Calls for Caution. Anthropic co-founder Chris Olah addressed the Vatican's new AI encyclical, emphasizing the need for external critics and deeper societal discernment. Chris Olah, co-founder of Anthropic, speaking at a podium with Vatican insignia. Anthropic co-founder Chris Olah addresses the presentation of Pope Leo XIV's encyclical in Vatican City.· Anthropic News. Chris Olah, co-founder of AI firm Anthropic, delivered remarks at the Vatican City presentation of Pope Leo XIV's encyclical, \"Magnifica humanitas: On safeguarding the human person in the time of artificial Intelligence.\" The May 25, 2026, release marks a significant engagement with AI's ethical dimensions by the Church. Olah's address, made available through Anthropic News, underscored the critical need for voices outside the AI industry's competitive pressures. AI's Mysterious Nature leads to Vatican Encyclical. Vatican Encyclical addressed by Anthropic's Olah. Industry Incentives necessitates Need for Critics. Anthropic's Olah calls for Need for Critics. 3. Anthropic's Olah: co-founder addresses Vatican on AI's ethical challenges.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "AI could replace human labour at large scale, warns Anthropic co ...",
+      "link": "https://www.wionews.com/technology/ai-could-replace-human-labour-at-large-scale-warns-anthropic-co-founder-christopher-olah-1779733296508",
+      "snippet": "Christopher Olah, co-founder of Anthropic, has warned that artificial intelligen...",
+      "raw_snippet": "Christopher Olah, co-founder of Anthropic, has warned that artificial intelligence could replace human labour on a large scale if its development is not",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'",
+      "link": "https://www.thestandard.com.hk/finance/article/332968/OpenAIs-Altman-says-AI-unlikely-to-lead-to-jobs-apocalypse",
+      "snippet": "OpenAI CEO Sam Altman said on Tuesday the rapid development and adoption of AI w...",
+      "raw_snippet": "OpenAI CEO Sam Altman said on Tuesday the rapid development and adoption of AI would not lead to a global \"jobs apocalypse\" and the technology had not",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Pope calls for robust regulation of AI in manifesto that ponders the future of humanity",
+      "link": "https://www.pbs.org/newshour/world/pope-calls-for-robust-regulation-of-ai-in-manifesto-that-ponders-the-future-of-humanity",
+      "snippet": "[Full Episode ![Image 6: Soccer-themed mural aims to break a Guinness World Reco...",
+      "raw_snippet": "[Full Episode ![Image 6: Soccer-themed mural aims to break a Guinness World Record in Mexico City](https://d3i6fh83elv35t.cloudfront.net/static/assets/images/placeholder.jpg)](https://www.pbs.org/newshour/show/may-25-2026-pbs-news-hour-full-episode). [About](https://www.pbs.org/newshour/about). *   Copy URL https://www.pbs.org/newshour/world/pope-calls-for-robust-regulation-of-ai-in-manifesto-that-ponders-the-future-of-humanity. *   [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.pbs.org%2Fnewshour%2Fworld%2Fpope-calls-for-robust-regulation-of-ai-in-manifesto-that-ponders-the-future-of-humanity&title=Pope%20calls%20for%20robust%20regulation%20of%20AI%20in%20manifesto%20that%20ponders%20the%20future%20of%20humanity&summary=The%20pope%27s%20first%20encyclical%20has%20been%20eagerly%20awaited%20ever%20since%20the%20first%20U.S.-born%20pope%20announced%20that%20he%20considered%20AI%20to%20be%20the%20biggest%20challenge%20facing%20humanity%20today.%0D%0A&source=PBS%20NewsHour). [\"Magnifica Humanitas\" (Magnificent Humanity)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), Leo's first encyclical, has been [eagerly awaited](https://www.pbs.org/newshour/world/pope-leo-xiv-to-launch-his-first-encylical-a-document-on-artificial-intelligence-with-anthropics-co-founder) ever since history's first U.S.-born pope announced days after his election that he considered AI to be the biggest challenge facing humanity today. [READ MORE: Pope Leo condemns use of AI warfare and the 'spiral of annihilation' it brings](https://www.pbs.org/newshour/world/pope-leo-condemns-use-of-ai-warfare-and-the-spiral-of-annihilation-it-brings). *   [Pope Leo XIV to launch his first encylical, a document on artificial intelligence, with Anthropic's co-founder](https://www.pbs.org/newshour/world/pope-leo-xiv-to-launch-his-first-encylical-a-document-on-artificial-intelligence-with-anthropics-co-founder). *   [Pope Leo condemns use of AI warfare and the 'spiral of annihilation' it brings](https://www.pbs.org/newshour/world/pope-leo-condemns-use-of-ai-warfare-and-the-spiral-of-annihilation-it-brings). *   [pope leo](https://www.pbs.org/newshour/tag/pope-leo). [![Image 24: Soccer-themed mural aims to break a Guinness World Record in Mexico City](https://d3i6fh83elv35t.cloudfront.net/static/assets/images/placeholder.jpg)](https://www.pbs.org/newshour/world/u-s-says-it-carried-out-self-defense-strikes-in-iran-including-missile-sites-and-boats-placing-mines). [![Image 28: Soccer-themed mural aims to break a Guinness World Record in Mexico City](https://d3i6fh83elv35t.cloudfront.net/static/assets/images/placeholder.jpg)](https://www.pbs.org/newshour/world/israeli-opposition-leader-lapid-says-trumps-emerging-deal-with-iran-is-bad-for-the-region). [![Image 30: Soccer-themed mural aims to break a Guinness World Record in Mexico City](https://d3i6fh83elv35t.cloudfront.net/static/assets/images/placeholder.jpg)](https://www.pbs.org/newshour/world/toshifumi-suzuki-the-japanese-behind-the-conbini-empire-has-died-he-was-93). *   [About Us](https://www.pbs.org/newshour/about). *   [Press](https://www.pbs.org/newshour/press-releases).",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "AI cannot be left to Big Tech alone, says Anthropic co-founder",
+      "link": "https://www.storyboard18.com/amp/brand-makers/scary-moment-ai-cannot-be-left-to-big-tech-alone-warns-anthropic-co-founder-99186.htm",
+      "snippet": "## Anthropic co-founder Christopher Olah said rapid AI progress could reshape jo...",
+      "raw_snippet": "## Anthropic co-founder Christopher Olah said rapid AI progress could reshape jobs and society, adding that governments, religious institutions and civil society should have a greater role in guiding the technology. Anthropic co-founder Christopher Olah said the future of artificial intelligence should not be shaped by technology companies alone, calling for stronger involvement from governments, religious institutions and civil society as AI systems become more influential and powerful. Speaking at the Vatican during the presentation of Pope Leo XIV's first encyclical focused on artificial intelligence, Olah said AI developers operate within commercial and geopolitical environments that can at times conflict with wider public interests. \"Every frontier AI lab operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing,\" Olah said, adding that external oversight had become necessary as AI development accelerates. Olah also described the current phase of AI development as \"a scary moment\", saying rapid progress had increased the need for collective responsibility across governments, companies and society.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Anthropic Co-Founder Warns: 'Real Possibility Of AI Replacing Human Labour At Very Large Scale'",
+      "link": "https://www.ndtvprofit.com/technology/anthropic-co-founder-warns-039-real-possibility-of-ai-replacing-human-labour-at-very-large-scale-11545381",
+      "snippet": "home     Technology    Anthropic Co-Founder Warns: 'Real Possibility Of AI Repla...",
+      "raw_snippet": "home     Technology    Anthropic Co-Founder Warns: 'Real Possibility Of AI Replacing Human Labour At Very Large Scale'. # Anthropic Co-Founder Warns: 'Real Possibility Of AI Replacing Human Labour At Very Large Scale'. * May 25, 2026 18:37 pm IST. + Published On May 25, 2026 18:37 pm IST. + Last Updated On May 25, 2026 18:37 pm IST. Supporting those displaced will be a moral imperative of historic proportions, the Anthropic co-founder said. Anthropic co-founder Chris Olah warned that artificial intelligence could replace human labour on a massive scale, arguing that the development of the technology cannot be left solely in the hands of private companies. Speaking on Monday during the presentation of Pope Leo's first encyclical focussed on artificial intelligence, Olah said there was a real possibility that AI would displace human labour at very large scale. “The questions raised by AI are bigger than the AI research community,” he said, while calling for “earnest, thoughtful critics” who could challenge technology companies and help guide the development of advanced AI systems responsibly.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Anthropic's Olah urges global moral oversight of AI - OSV News",
+      "link": "https://www.osvnews.com/anthropics-christopher-olah-urges-global-moral-oversight-of-ai-at-vatican-presentation",
+      "snippet": "(OSV News) — The May 25 speech of Anthropic‘s co-founder Christopher Olah at the...",
+      "raw_snippet": "(OSV News) — The May 25 speech of Anthropic‘s co-founder Christopher Olah at the presentation of the first encyclical of the pontificate of Pope Leo XIV ended with a special request: “We need more of the world — religious communities, civil society, scholars, governments — to do what His Holiness has done here: to take this seriously, to look closely, and to push events in a better direction.”. Olah, sitting in the Synodal Hall for the presentation of “Magnifica Humanitas,” Pope Leo’s encyclical on safeguarding the human person in the time of artificial intelligence, said the world of technology needs “informed critics who will tell the labs when we are failing,” and “moral voices that the incentives cannot bend.”. Olah admitted that as he was sitting in the same room with the pope, these words “may sound strange coming from the co-founder of an AI company — and someone who chose this work out of a desire to help things go well for humankind,” but every frontier AI lab, he said, including his own, “operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing.”.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Artificial Intelligence (AI) Engineer - Remote - Myworkdayjobs.com",
+      "link": "https://sentara.wd1.myworkdayjobs.com/scs/job/remote---va/artificial-intelligence--ai--engineer---remote_jr-99828",
+      "snippet": "The AI/ML Engineer designs, builds, and operationalizes production-grade intelli...",
+      "raw_snippet": "The AI/ML Engineer designs, builds, and operationalizes production-grade intelligent services that automate document understanding,",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Artificial Intelligence Automation Agency: Business Growth!",
+      "link": "https://www.elsner.com/artificial-intelligence-automation-agency-guide",
+      "snippet": "##### A winning team. # Artificial Intelligence Automation Agency: What They Do,...",
+      "raw_snippet": "##### A winning team. # Artificial Intelligence Automation Agency: What They Do, What They Cost, and How to Pick the Right One in 2026. Artificial Intelligence Automation Agency Services, Costs & How to Choose One (2026 Guide). Most businesses looking to hire an artificial intelligence automation agency in 2026 walk into the conversation with two problems they can’t quite name. The first: they don’t know what these agencies actually do versus what RPA vendors, custom dev shops, or SaaS automation tools deliver. The second: they have no idea what fair pricing looks like, and the agencies they talk to often don’t help. An artificial intelligence automation agency builds systems that combine LLMs, autonomous agents, workflow tools, and existing business software to handle work that used to need humans. An artificial intelligence automation agency is a specialized service company that designs, builds, and maintains AI-driven workflows for other businesses. Here’s what’s actually in the bucket, with the platforms most of these builds use in 2026.",
+      "is_chinese": false,
+      "source_type": "people"
     }
   ]
 }
