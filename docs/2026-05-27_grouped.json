@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-27",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Fireworks AI洽谈融资，估值达150亿美元",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-27/fireworks-ai-in-talks-for-funding-at-15-billion-valuation",
+          "snippet": "AI基础设施初创公司Fireworks AI正进行新一轮融资谈判，投前估值达150亿美元。",
+          "index": 1
+        },
+        {
+          "title": "SpaceX IPO：估值1.75万亿美元，与Anthropic AI的关联",
+          "link": "https://lendakaris.com/blog/spacex-ipo-a-1-75-trillion-valuation-the-anthropic-ai-connection-and-a-potential-tesla-merger",
+          "snippet": "SpaceX提交750亿美元IPO申请，估值1.75万亿美元，揭示与AI公司Anthropic的潜在战略联系。",
+          "index": 2
+        },
+        {
+          "title": "Fireworks AI洽谈融资，估值达150亿美元",
+          "link": "https://news.bloombergtax.com/financial-accounting/fireworks-ai-in-talks-for-funding-at-15-billion-valuation",
+          "snippet": "帮助企业部署生成式AI的Fireworks AI正进行融资谈判，目标估值150亿美元，较上轮大幅跃升。",
+          "index": 3
+        },
+        {
+          "title": "SK海力士市值突破1万亿美元，AI热潮提振韩国芯片股",
+          "link": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
+          "snippet": "受AI芯片需求激增推动，SK海力士市值突破1万亿美元，成为韩国第二大上市公司。",
+          "index": 4
+        },
+        {
+          "title": "马斯克与奥特曼的AI竞争随IPO竞赛升温达沸点",
+          "link": "https://www.theguardian.com/technology/2026/may/25/musk-altman-ai-rivalry-ipo",
+          "snippet": "随着xAI与OpenAI上市进程加速，Elon Musk与Sam Altman在人工智能领域的竞争日趋白热化。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "联合创始人兼CEO - AI内容与出版引擎 - Hirequorum",
+          "link": "https://hirequorum.liveblog365.com/job/co-founder-ceo-ai-content-publishing-engine-2",
+          "snippet": "AI内容智能引擎初创公司Hirequorum招聘联合创始人兼CEO，打造AI优先的出版技术平台。",
+          "index": 6
+        },
+        {
+          "title": "Anthropic完成新一轮战略融资",
+          "link": "https://www.mk.co.kr/en/it/12058444",
+          "snippet": "人工智能公司Anthropic已完成最新融资/战略合作（原文信息不完整，保留核心主体）。",
+          "index": 7
+        },
+        {
+          "title": "奥特曼质疑AI引发的工作末日论",
+          "link": "https://forklog.com/en/altman-questions-ai-induced-job-apocalypse",
+          "snippet": "OpenAI CEO Sam Altman质疑\"人工智能将导致大规模失业\"的末日预测，认为AI将创造新就业机会。",
+          "index": 8
+        },
+        {
+          "title": "OpenAI CEO萨姆·奥特曼：AI不会引发工作末日",
+          "link": "https://enterpriseai.economictimes.indiatimes.com/news/industry/openai-ceo-sam-altman-ai-wont-create-jobs-apocalypse/131342538",
+          "snippet": "Sam Altman表示人工智能虽将改变就业结构，但不会造成\"工作末日\"，强调技术补充而非替代人类。",
+          "index": 9
+        },
+        {
+          "title": "高级应用人工智能工程师 - Welcome to the Jungle",
+          "link": "https://www.welcometothejungle.com/en/companies/snowflake/jobs/senior-applied-artificial-intelligence-engineer_menlo-park-ca_7bjktxxw",
+          "snippet": "云数据平台Snowflake招聘高级应用AI工程师，负责开发企业级人工智能解决方案。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
