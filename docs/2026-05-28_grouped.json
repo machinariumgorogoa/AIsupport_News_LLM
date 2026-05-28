@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-28",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "2026年联邦AI支出将何去何从？",
+          "link": "https://www.brookings.edu/articles/where-does-federal-ai-spending-stand-in-2026",
+          "snippet": "布鲁金斯学会分析美国政府AI预算投入现状及未来趋势，探讨公共部门人工智能投资规模与政策走向。",
+          "index": 1
+        },
+        {
+          "title": "推理公司Baseten瞄准110亿美元估值融资",
+          "link": "https://www.pymnts.com/news/investment-tracker/2026/inference-firm-baseten-eyes-funding-round-at-11-billion-valuation",
+          "snippet": "AI推理基础设施服务商Baseten计划开启新一轮融资，估值达110亿美元，专注模型部署与Serving优化。",
+          "index": 2
+        },
+        {
+          "title": "Cognition以260亿美元估值募资10亿美元开发AI编程智能体",
+          "link": "https://thenextweb.com/news/cognition-just-raised-1-billion-at-a-26-billion-valuation-and-90-of-its-own-code-is-written-by-its-ai",
+          "snippet": "AI编程助手开发商Cognition完成10亿美元融资，估值260亿美元，加速推进自主Coding Agent产品迭代。",
+          "index": 3
+        },
+        {
+          "title": "Mintz律所代理Needham & Company完成AI公司3.15亿美元IPO",
+          "link": "https://www.mintz.com/insights-center/news-press/mintz-represents-needham-company-315-million-ipo-ai-and-ai",
+          "snippet": "法律事务所Mintz协助AI企业完成3.15亿美元首次公开募股，Needham & Company担任承销商。",
+          "index": 4
+        },
+        {
+          "title": "Sonar收购代码审查公司Gitar加码AI布局",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/austin-based-sonar-makes-another-150825568.html",
+          "snippet": "代码质量管理平台Sonar收购AI代码审查初创Gitar，强化静态分析与自动化代码审查能力。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "DataVisor任命Patrick Harr为CEO以扩展AI原生市场",
+          "link": "https://www.businesswire.com/news/home/20260527469062/en/DataVisor-Appoints-Patrick-Harr-as-CEO-to-Scale-AI-Native-Market-Leadership-in-Fraud-and-Financial-Crime-Prevention",
+          "snippet": "反欺诈平台DataVisor任命新首席执行官，旨在扩大AI-Native解决方案在企业级风控市场的规模化应用。",
+          "index": 6
+        },
+        {
+          "title": "Employment Hero CEO创办AI初创公司，构建可处理20%劳动力招聘解雇的自动化系统",
+          "link": "https://www.afr.com/work-and-careers/workplace/from-frustrated-lawyer-to-2b-unicorn-the-rise-of-employment-hero-20260513-p5zwg2",
+          "snippet": "人力资源科技创始人新设AI企业，开发HR自动化机器人，实现招聘、解雇及薪酬管理的智能化处理。",
+          "index": 7
+        },
+        {
+          "title": "Penguin Ai扩充产品与商业管理团队以匹配企业级规模",
+          "link": "https://www.prnewswire.com/news-releases/penguin-ai-adds-product-and-commercial-leadership-to-match-enterprise-scale-302783161.html",
+          "snippet": "企业级AI解决方案商Penguin Ai引入新高管，强化产品战略与商业化能力，支撑业务规模化扩张。",
+          "index": 8
+        },
+        {
+          "title": "AI如何改变独立创始人的游戏规则",
+          "link": "https://www.techstars.com/blog/pov/how-ai-is-changing-the-rules-for-solo-founders",
+          "snippet": "人工智能技术降低创业门槛，使Solo Founder能够借助AI工具独立构建产品、运营业务并快速扩展公司规模。",
+          "index": 9
+        },
+        {
+          "title": "投资公司被控\"监视\"AI初创公司创始人",
+          "link": "https://www.courthousenews.com/investment-firm-accused-of-surveilling-ai-startup-founder",
+          "snippet": "Cette AI创始人起诉Voya Financial，指控其利用残疾状况进行非法监控，涉及AI初创企业融资纠纷与隐私争议。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
