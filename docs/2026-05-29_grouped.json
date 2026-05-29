@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-29",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic vaults to a $965 billion valuation with new funding as ...",
+          "link": "https://abc7news.com/post/anthropic-san-francisco-ai-company-vaults-965-billion-valuation-new-funding-claude-demand-surges/19188579",
+          "snippet": "# Anthropic: San Francisco AI company vaults to a $965 billion valuation with ne...",
+          "index": 1
+        },
+        {
+          "title": "AI giant Anthropic reaches near-trillion dollar valuation - Le Monde",
+          "link": "https://www.lemonde.fr/en/pixels/article/2026/05/28/ai-giant-anthropic-reaches-near-trillion-dollar-valuation_6753920_13.html",
+          "snippet": "The artificial intelligence company announced that it has raised new funding that pushes its valuation to $965 billion – more than its competitor OpenAI.",
+          "index": 2
+        },
+        {
+          "title": "Anthropic Hits $965 Billion Post-Money Valuation - WSJ",
+          "link": "https://www.wsj.com/tech/ai/anthropic-hits-965-billion-post-money-valuation-80bf2c0a",
+          "snippet": "Altimeter Capital, Dragoneer, Greenoaks and Sequoia Capital led the funding round, Anthropic said. The artificial-intelligence company, known for its Claude",
+          "index": 3
+        },
+        {
+          "title": "Artificial intelligence company Anthropic said it raised $65 billion in ...",
+          "link": "https://x.com/nbcbayarea/status/2060090463277711471",
+          "snippet": "Artificial intelligence company Anthropic said it raised $65 billion in private funding that will push its valuation to $965 billion.",
+          "index": 4
+        },
+        {
+          "title": "Anthropic Raises at $965 Billion Valuation, Eclipsing OpenAI",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai",
+          "snippet": "[Bloomberg the Company & Its Products The Company & its Products](https://www.bl...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Wells Fargo CEO: AI’s effect on employment is ‘complicated’",
+          "link": "https://www.bankingdive.com/news/wells-fargo-ceo-scharf-ai-employment-banking-jobs/821368",
+          "snippet": "[Skip to main content](https://www.bankingdive.com/news/wells-fargo-ceo-scharf-a...",
+          "index": 6
+        },
+        {
+          "title": "Former WPP CEO Read Launches AI Start-up Conference",
+          "link": "https://www.mediapost.com/publications/article/415379/former-wpp-ceo-read-launches-ai-start-up-conferenc.html",
+          "snippet": "Toggle navigation[](https://www.mediapost.com/). *   [Publications](https://www....",
+          "index": 7
+        },
+        {
+          "title": "Costco CEO Ron Vachris: ‘I don’t see AI making choices’ for the retailer",
+          "link": "https://www.fastcompany.com/91550076/costco-ceo-ron-vachris-i-dont-see-ai-making-choices-for-the-retailer",
+          "snippet": "[![Image 2: Fast company logo](https://www.fastcompany.com/_public/fc_logo.svg)]...",
+          "index": 8
+        },
+        {
+          "title": "Salesforce CEO Marc Benioff is hiring for just one role in the age of AI. Here's the gig he is offering and why. - AOL",
+          "link": "https://www.aol.com/articles/salesforce-ceo-marc-benioff-hiring-172210000.html",
+          "snippet": "# Salesforce CEO Marc Benioff is hiring for just one role in the age of AI. He n...",
+          "index": 9
+        },
+        {
+          "title": "[Hiring] Start-up CEO - AI Trainer @10x Team",
+          "link": "https://remotive.com/remote/jobs/artificial-intelligence/start-up-ceo-ai-trainer-4792847",
+          "snippet": "# [Hiring] Start-up CEO - AI Trainer @10x Team. YDay - 10x Team is hiring a remo...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
