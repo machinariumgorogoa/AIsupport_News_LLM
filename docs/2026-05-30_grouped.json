@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-30",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Deep Fission纳斯达克IPO目标估值17亿美元，借力AI热潮",
+          "link": "https://kalkine.com/corporate-actions/ipo/deep-fission-nasdaq-ipo-targets-17-billion-valuation-amid-ai-energy-infrastructure-boom",
+          "snippet": "此次拟议发行凸显投资者对AI基础设施领域的高度关注，Deep Fission寻求通过纳斯达克上市获得17亿美元",
+          "index": 1
+        },
+        {
+          "title": "The Week's 10 Biggest Funding Rounds: Anthropic Dominates In An ...",
+          "link": "https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates",
+          "snippet": "Artificial intelligence • Clean tech and energy • Health, Wellness & Biotech • S...",
+          "index": 2
+        },
+        {
+          "title": "Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges - WHEC.com",
+          "link": "https://www.whec.com/ap-top-news/anthropic-vaults-to-a-965-billion-valuation-with-new-funding-as-claude-demand-surges",
+          "snippet": "# Anthropic vaults to a $965 billion valuation with new funding as Claude demand...",
+          "index": 3
+        },
+        {
+          "title": "Anthropic's $965B Valuation Outshines OpenAI | StartupHub.ai",
+          "link": "https://www.startuphub.ai/ai-news/funding-round/2026/anthropic-s-965b-valuation-outshines-openai",
+          "snippet": "Anthropic has reportedly raised funds at a $965 billion valuation, surpassing Op...",
+          "index": 4
+        },
+        {
+          "title": "Google Stock: As OpenAI, Anthropic Prep IPOs, Here's One Thing To ...",
+          "link": "https://www.investors.com/news/technology/google-stock-anthropic-openai-ipo-valuation-revenue-recognition",
+          "snippet": "*   [**IBD 50**](https://research.investors.com/stock-lists/ibd-50/). *   [Stock...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Hire Artificial Intelligence Developers & AI Engineers - Chetu",
+          "link": "https://www.chetu.com/on-demand-developers/hire-ai-developers.php",
+          "snippet": "Hire Artificial Intelligence developers and engineers to build secure, scalable ...",
+          "index": 6
+        },
+        {
+          "title": "AI Co-Founder / CEO at EWOR - North America Remote",
+          "link": "https://www.remoterocketship.com/us/company/ewor-2/jobs/ai-co-founder-ceo-north-america-remote",
+          "snippet": "EWOR is hiring remotely in North America. Apply now. Find more great remote jobs...",
+          "index": 7
+        },
+        {
+          "title": "Strong shekel, layoffs at Wix: CEO bets on artificial intelligence. - Viral Methods",
+          "link": "https://metodoviral.com/en/news/strong-shekel-layoffs-at-wix-ceo-bets-on-artificial-intelligence",
+          "snippet": "What the Wix CEO announced publiclyStrong shekel, revenue in dollars, and a bott...",
+          "index": 8
+        },
+        {
+          "title": "The CEO of Anthropic recently stated that \"growth no longer ...",
+          "link": "https://x.com/PeterRex/status/2060395945515270357",
+          "snippet": "The CEO of Anthropic recently stated that \"growth no longer guarantees jobs,\" cl...",
+          "index": 9
+        },
+        {
+          "title": "Microsoft AI Chief: White-Collar Jobs Automated in 18 Months",
+          "link": "https://unusualwhales.com/news/microsoft-ai-chief-white-collar-jobs-automated-18-months",
+          "snippet": "Microsoft AI CEO Mustafa Suleyman forecasts that artificial intelligence will fu...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
