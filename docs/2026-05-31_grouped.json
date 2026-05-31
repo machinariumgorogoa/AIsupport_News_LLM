@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-31",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "融资、收购与企业集成 - AI Agents Directory",
+          "link": "https://aiagentsdirectory.com/news/ai-agents-news-brief-major-funding-rounds-strategic-acquisitions-and-enterprise-integration-dominate",
+          "snippet": "AI智能体领域正经历快速演变，出现重大融资、收购与企业集成动态，行业发展势头强劲。",
+          "index": 1
+        },
+        {
+          "title": "Ineffable Intelligence股票 | 估值、融资与投资者 | Notice.co",
+          "link": "https://notice.co/c/ineffable-ai",
+          "snippet": "Ineffable Intelligence是一家专注于前沿技术开发的AI研究公司，涉及股票估值与融资详情。",
+          "index": 2
+        },
+        {
+          "title": "Smart Investor：最佳AI股票、债券前景及SpaceX IPO治理风险 | Morningstar",
+          "link": "https://www.morningstar.com/markets/smart-investor-best-ai-stocks-whats-next-bonds-governance-risks-spacex-ipo-buyers",
+          "snippet": "总结本周市场动态，涵盖最佳AI股票推荐、债券未来走势及SpaceX IPO买家需关注的治理风险。",
+          "index": 3
+        },
+        {
+          "title": "Anthropic以650亿美元估值成为估值最高AI公司",
+          "link": "https://jawlah.co/en/57792",
+          "snippet": "Anthropic在获得650亿美元融资后，成为当前估值最高的AI公司，刷新行业估值纪录。",
+          "index": 4
+        },
+        {
+          "title": "Anthropic估值逼近1万亿美元，AI融资竞赛加速 - The Edge",
+          "link": "https://edgeconsultancykw.com/anthropic-nears-1-trillion-valuation-as-ai-funding-race-accelerates",
+          "snippet": "随着AI融资竞赛加速，Anthropic估值逼近1万亿美元大关，彰显市场对生成式AI的强劲信心。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "创始工程负责人 - AI Fund - | Dice.com",
+          "link": "https://www.dice.com/job-detail/b40f3751-b479-42cf-9e5a-979252e1d645",
+          "snippet": "招聘创始工程负责人职位，公司获Sequoia Capital、AI Fund及NEA支持，由资深团队创立。",
+          "index": 6
+        },
+        {
+          "title": "科技CEO面临困境：即使最亲密盟友也质疑AI",
+          "link": "https://futurism.com/artificial-intelligence/tech-ceos-problem-ai-laziness",
+          "snippet": "科技行业CEO面临信任危机：即使最亲密的盟友和合作伙伴也开始对AI发展表示质疑和担忧。",
+          "index": 7
+        },
+        {
+          "title": "Box CEO称AI效率提升推动招聘与业务增长",
+          "link": "https://www.benzinga.com/markets/tech/26/05/52893765/box-ceo-says-ai-efficiency-gains-are-fueling-hiring-and-business-growth-reinvesting-efficiency-savings-back",
+          "snippet": "Box CEO Aaron Levie表示，AI带来的效率提升正在创造新就业岗位，并推动业务再投资与增长。",
+          "index": 8
+        },
+        {
+          "title": "Appian CEO称补贴AI时代即将结束 - MSN",
+          "link": "https://www.msn.com/en-us/news/technology/appian-ceo-says-time-of-subsidized-ai-will-end-soon/ar-AA24qpuA?ocid=tshdhp",
+          "snippet": "Appian CEO Matt Calkins预警，补贴驱动的AI时代即将结束，企业需为AI商业化新常态做好准备。",
+          "index": 9
+        },
+        {
+          "title": "人工智能将变得多么普及？",
+          "link": "https://www.blackenterprise.com/robert-smith-artificial-intelligence-xcel-summit-for-men",
+          "snippet": "探讨人工智能未来普及程度。另讯：NYPD确认绑架案中受害者认识其涉嫌绑架者。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
