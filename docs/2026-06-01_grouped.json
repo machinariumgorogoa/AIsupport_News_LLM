@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-01",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic估值达9650亿美元，超越OpenAI",
+          "link": "https://ascendants.in/industry_events/anthropic-valuation-965-billion-overtakes-openai",
+          "snippet": "AI竞赛升温，Anthropic估值达9650亿美元超越OpenAI，成为行业新领军者，彰显AI赛道资本热度持续攀升。",
+          "index": 1
+        },
+        {
+          "title": "Anthropic融资650亿美元，估值超越OpenAI",
+          "link": "https://www.alternativeswatch.com/2026/06/01/anthropic-series-h-65-billion-ipo-openai-institutional-investors",
+          "snippet": "Anthropic完成650亿美元融资，估值超过OpenAI，作为重要alternative（替代方案）推动AI行业竞争格局重塑。",
+          "index": 2
+        },
+        {
+          "title": "M&A中的Applied AI：AI如何融入交易全生命周期",
+          "link": "https://www.imaa-institute.org/blog/applied-ai-in-ma-where-artificial-intelligence-fits-in-the-deal-lifecycle",
+          "snippet": "探讨Applied AI在M&A（并购）deal lifecycle（交易生命周期）中的实际应用场景，从尽职调查到整合阶段的全流程优化。",
+          "index": 3
+        },
+        {
+          "title": "AI领域斩获约2420亿美元风险投资",
+          "link": "https://x.com/christinayiotis/status/2061121929998713216",
+          "snippet": "AI领域斩获约2420亿美元venture capital（风险投资），彰显赛道持续吸引资本关注，投资热度位居科技领域前列。",
+          "index": 4
+        },
+        {
+          "title": "第二波AI浪潮催生意外亿万富翁——阿联酋视角",
+          "link": "https://enterpriseam.com/uae/2026/06/01/second-ai-wave-is-making-bnaires-of-some-unlikely-candidates",
+          "snippet": "第二波AI浪潮推高valuation（估值），UAE（阿联酋）等地unexpected candidates（意外候选人）借此成为亿万富翁，财富效应显著。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "弗吉尼亚创始人利用AI加速创业公司发展",
+          "link": "https://virginiabusiness.com/virginia-startup-ai-prototypes-scaling",
+          "snippet": "Virginia（弗吉尼亚）创业者将AI作为co-founders（联合创始人），利用AI技术jumpstart（快速启动）公司，实现一人创业模式。",
+          "index": 6
+        },
+        {
+          "title": "Salesforce CEO马克·贝尼奥夫在AI时代仅招聘一个职位",
+          "link": "https://www.aol.com/articles/salesforce-ceo-marc-benioff-hiring-172210000.html",
+          "snippet": "Salesforce CEO Marc Benioff在AI时代仅开放一个职位招聘，阐释该职位战略价值及AI如何重塑企业组织架构与人才需求。",
+          "index": 7
+        },
+        {
+          "title": "招聘：Fuku全球AI负责人（远程职位）",
+          "link": "https://remotive.com/remote/jobs/artificial-intelligence/global-head-of-ai-4824796",
+          "snippet": "Fuku招聘Global Head of AI（全球AI负责人），需将AI投资转化为measurable business outcomes（可量化业务成果），支持远程办公。",
+          "index": 8
+        },
+        {
+          "title": "Digitide任命Sameer Ahluwalia为CEO以扩张AI及数字服务业务",
+          "link": "https://www.crnasia.com/india/news/2026/digitide-appoints-sameer-ahluwalia-as-ceo-to-expand-ai-and-digital-services-business",
+          "snippet": "Digitide任命Sameer Ahluwalia为CEO，聚焦AI-led transformation（AI主导转型）及大型数字服务项目，加速业务扩张战略。",
+          "index": 9
+        },
+        {
+          "title": "一人公司正式成为现实：NVIDIA CEO黄仁勋谈AI创业",
+          "link": "https://www.tiktok.com/@mannyfernandezsv/video/7646332640743787789",
+          "snippet": "NVIDIA CEO Jensen Huang指出，借助AI工具，one-person company（一人公司）已成现实，创业者可独立运营AI驱动企业。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
