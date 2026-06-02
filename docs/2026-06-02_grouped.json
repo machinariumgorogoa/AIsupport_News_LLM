@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-02",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic秘密提交IPO申请",
+          "link": "https://news.crunchbase.com/public/ai-unicorn-anthropic-files-confidentially-for-ipo",
+          "snippet": "AI初创企业Anthropic秘密递交首次公开募股（IPO）申请，拟进军公开市场融资。",
+          "index": 1
+        },
+        {
+          "title": "AI巨头Anthropic提交IPO申请，估值逼近1万亿美元",
+          "link": "https://www.investmentnews.com/equities/anthropic-files-for-ipo-as-ai-giant-nears-1t-valuation/266819",
+          "snippet": "旧金山人工智能公司Anthropic申请上市，估值接近1万亿美元，创行业新纪录。",
+          "index": 2
+        },
+        {
+          "title": "OpenAI与Anthropic竞速IPO为何重要——华尔街日报",
+          "link": "https://www.wsj.com/finance/stocks/openai-anthropic-ipo-race-0cf0ed36",
+          "snippet": "AI巨头OpenAI与Anthropic激烈角逐IPO race，胜者将重塑人工智能行业格局与资本市场。",
+          "index": 3
+        },
+        {
+          "title": "Anthropic提交IPO申请，AI初创公司估值9650亿美元",
+          "link": "https://www.ktvu.com/news/san-francisco-based-anthropic-files-ipo-965-billion-valuation",
+          "snippet": "旧金山AI公司Anthropic递交IPO申请，估值高达9650亿美元，引发全球资本市场关注。",
+          "index": 4
+        },
+        {
+          "title": "估值9650亿美元的人工智能实验室已提交IPO申请",
+          "link": "https://x.com/WSJ/status/2061483205253894205",
+          "snippet": "这家估值9650亿美元的AI实验室正式提交IPO文件，有望成为史上最大规模科技股上市之一。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "FutureSight招聘联合创始人兼CEO——AI零售规划Autopilot",
+          "link": "https://www.monster.com/job-openings/co-founder-ceo-ai-retail-planning-autopilot-chicago-il--c522124d-2cf4-402b-a452-497ad8b1a121",
+          "snippet": "FutureSight为Maestro寻找联合创始人兼CEO，主导AI零售规划自动驾驶（Autopilot）产品研发。",
+          "index": 6
+        },
+        {
+          "title": "Cognizant CEO逆势扩招：称AI tokenmaxxing是\"虚荣指标\"——财富杂志",
+          "link": "https://fortune.com/2026/06/01/cognizant-ceo-ravi-kumar-s-hiring-entry-level-tokenmaxxing-vanity-metric",
+          "snippet": "Cognizant首席执行官逆势招聘超2万名毕业生，批评AI领域tokenmaxxing（代币最大化）仅为虚荣指标。",
+          "index": 7
+        },
+        {
+          "title": "PayPal CEO倚重AI主管推动战略——Payments Dive",
+          "link": "https://www.paymentsdive.com/news/paypal-ceo-leans-on-ai-chief/821604",
+          "snippet": "PayPal新任首席执行官Enrique Lores正倚重公司AI主管，推动人工智能战略转型与支付创新。",
+          "index": 8
+        },
+        {
+          "title": "Product.ai招聘CEO参谋长（Builder-Orchestrator）",
+          "link": "https://builtin.com/job/chief-staff-ceo-builder-orchestrator/9561679",
+          "snippet": "Product.ai招聘首席执行官参谋长（Builder-Orchestrator角色），负责产品战略协调与执行管理。",
+          "index": 9
+        },
+        {
+          "title": "Product.ai招聘高级解决方案工程师——Commerce Intelligence平台",
+          "link": "https://www.builtinla.com/job/senior-solutions-engineer-commerce-intelligence-platform/9561661",
+          "snippet": "Product.ai招聘高级解决方案工程师，负责商业智能（Commerce Intelligence）平台技术方案与客户交付。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
