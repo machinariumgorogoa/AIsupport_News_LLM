@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-03",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "顶级分析师称\"IPO市场闸门正在打开\"",
+          "link": "https://fortune.com/2026/06/02/anthropic-ipo-openai-valuation-ai-bubble",
+          "snippet": "AI公司Anthropic正推进上市计划，标志着人工智能行业从私募融资向公开市场过渡的关键转折。",
+          "index": 1
+        },
+        {
+          "title": "Anthropic筹备IPO：五点须知",
+          "link": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/anthropic-preps-ipo-5-notes",
+          "snippet": "分析Anthropic上市的五个关键要点，探讨其对医疗AI领域及整个生成式AI市场估值体系的潜在影响。",
+          "index": 2
+        },
+        {
+          "title": "Anthropic IPO动向预示AI繁荣进入下一阶段",
+          "link": "https://www.dailymotion.com/video/xacts28",
+          "snippet": "人工智能竞赛正转向华尔街，Anthropic上市标志着AI行业从风险资本驱动向公开市场融资模式的战略转型。",
+          "index": 3
+        },
+        {
+          "title": "AI大规模市值重估（Mark-to-Market）",
+          "link": "https://saanyaojha.substack.com/p/the-great-ai-mark-to-market",
+          "snippet": "经过多年私募市场高估值融资后，AI公司正面临按市值计价的估值调整压力，公开市场对AI资产的定价更为审慎。",
+          "index": 4
+        },
+        {
+          "title": "ROI优先：投资能自负盈亏的AI",
+          "link": "https://drj.com/journal_main/roi-first-ai-investment-strategy",
+          "snippet": "AI不再是未来技术，企业应优先部署能快速产生投资回报率（ROI）的实用AI解决方案，而非仅仅追求技术先进性。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "联合创始人兼CEO - AI零售规划Autopilot @FutureSight",
+          "link": "https://www.tealhq.com/job/co-founder-ceo_7ea1a3cb79a3824fa2c14dec65d918222c6d6",
+          "snippet": "FutureSight招募联合创始人兼CEO，领导Maestro——一款面向零售业的AI自主规划与决策自动化平台。",
+          "index": 6
+        },
+        {
+          "title": "联合创始人兼CEO - FutureSight AI零售规划Autopilot",
+          "link": "https://remoteleaf.com/company/futuresight/co-founder-ceo-ai-retail-planning-autopilot-united-states-2",
+          "snippet": "FutureSight开放远程职位申请，寻找负责AI驱动的零售规划自动驾驶产品战略与执行的联合创始人。",
+          "index": 7
+        },
+        {
+          "title": "在印度班加罗尔招聘顶尖AI工程师",
+          "link": "https://www.upwork.com/hire/artificial-intelligence-engineers/in/bengaluru",
+          "snippet": "寻找班加罗尔顶级自由职业AI工程师，提供机器学习、深度学习等人工智能开发领域的专业技术人才招聘服务。",
+          "index": 8
+        },
+        {
+          "title": "2026年6月可雇佣的11位最佳AI产品经理",
+          "link": "https://www.toptal.com/product-managers/artificial-intelligence",
+          "snippet": "Toptal平台精选11位顶尖AI产品经理，助力企业制定人工智能产品路线图并管理大模型（LLM）应用开发。",
+          "index": 9
+        },
+        {
+          "title": "AI驱动个人成长初创公司市场总监",
+          "link": "https://www.builtinla.com/job/head-marketing-ai-powered-personal-growth-startup/9588953",
+          "snippet": "洛杉矶Conscious Talent招聘市场总监，负责AI赋能个人成长平台的市场战略、品牌建设及用户增长运营。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
