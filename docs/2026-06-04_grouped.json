@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-04",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "2只AI股票 poised to win big...",
+          "link": "https://www.aol.com/articles/2-artificial-intelligence-ai-stocks-200700684.html",
+          "snippet": "基于9650亿美元最新估值，这两只人工智能股票有望从当前趋势中获得巨大收益。",
+          "index": 1
+        },
+        {
+          "title": "新一轮IPO浪潮在AI驱动增长下对市场意味着什么",
+          "link": "https://www.juliusbaer.com/en/insights/market-insights/market-outlook/what-the-new-ipo-wave-means-for-markets-amid-ai-driven-growth",
+          "snippet": "人工智能相关主题正呈抛物线式增长，新一轮IPO浪潮对AI驱动的资本市场具有深远影响。",
+          "index": 2
+        },
+        {
+          "title": "AI IPO热潮唤起Dot Com时代回忆 - StoneX",
+          "link": "https://www.stonex.com/en-gb/insights/ai-ipo-boom-revives-memories-of-the-dot-com-era",
+          "snippet": "人工智能投资热潮正接近临界点，这场IPO繁荣让人回想起2000年互联网泡沫时代的投资狂热。",
+          "index": 3
+        },
+        {
+          "title": "Anthropic融资推动初创企业投资接近创纪录水平",
+          "link": "https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026",
+          "snippet": "Anthropic完成500亿美元融资——这是史上第二大初创企业融资交易，推动AI领域投资接近历史纪录。",
+          "index": 4
+        },
+        {
+          "title": "AI公司正加速迈向华尔街大型首秀：最大参与者一览 - 美联社",
+          "link": "https://apnews.com/article/ai-artificial-intelligence-ipo-openai-spacex-anthropic-2694431c5cf8850cad940731a38eb188",
+          "snippet": "多家AI独角兽正冲刺IPO，本文盘点即将在华尔街上市的最大行业参与者及其市场影响。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "亚马逊的AI创新",
+          "link": "https://www.aboutamazon.com/what-we-do/artificial-intelligence-ai",
+          "snippet": "亚马逊在Health AI领域持续突破，其AI聊天机器人可询问用户症状并提供个性化健康建议服务。",
+          "index": 6
+        },
+        {
+          "title": "FutureSight招聘联合创始人兼CEO——AI零售规划Autopilot",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-retail-planning-autopilot-136084304",
+          "snippet": "FutureSight寻求联合创始人兼CEO领导Maestro，这是一款面向零售行业的AI规划Autopilot系统。",
+          "index": 7
+        },
+        {
+          "title": "联合创始人兼CEO——AI内容智能与发布引擎",
+          "link": "https://wellfound.com/jobs/4295503-co-founder-ceo-ai-content-intelligence-publishing-engine",
+          "snippet": "FutureSight正在招聘AI内容智能与发布引擎业务的联合创始人兼CEO，推动内容产业智能化变革。",
+          "index": 8
+        },
+        {
+          "title": "联合创始人兼CEO——面向AEC的AI提案智能（FutureSight）",
+          "link": "https://www.remoterocketship.com/us/company/futuresight/jobs/co-founder-ceo-ai-proposal-intelligence-for-aec-washington-remote",
+          "snippet": "FutureSight是一家专注B2B SaaS的合资工作室，现招聘面向AEC行业的AI提案智能业务负责人。",
+          "index": 9
+        },
+        {
+          "title": "MasterClass CEO谈AI与技能重塑",
+          "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/masterclass-ceo-on-ai-and-reskilling",
+          "snippet": "MasterClass首席执行官David Rogier深入探讨AI技术如何重塑在线教育格局及职场技能重塑（Reskilling）需求。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
