@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-05",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Generalist AI融资4亿美元估值20亿美元，用于构建机器人通用智能",
+          "link": "https://siliconangle.com/2026/06/04/generalist-ai-raises-400m-2b-valuation-build-general-intelligence-real-world",
+          "snippet": "人工智能初创公司Generalist AI Inc.融资4亿美元，估值达20亿美元，致力于开发机器人通用智能技术。",
+          "index": 1
+        },
+        {
+          "title": "AI公司加速迈向华尔街大型首发",
+          "link": "https://www.nbcbayarea.com/news/national-international/ai-companies-wall-street-debuts/4094347",
+          "snippet": "从Anthropic到SpaceX再到OpenAI，科技巨头们正筹备进行大规模的华尔街IPO。",
+          "index": 2
+        },
+        {
+          "title": "收购拥有AI专利的公司能否缓解并购后专利风险",
+          "link": "https://ieeexplore.ieee.org/document/11413782",
+          "snippet": "研究表明，人工智能有助于降低并购后的专利诉讼风险，提升企业创新效率。",
+          "index": 3
+        },
+        {
+          "title": "AI公司加速迈向华尔街大型首发：巨头一览",
+          "link": "https://www.washingtonpost.com/business/2026/06/04/ai-artificial-intelligence-ipo-openai-spacex-anthropic/a814756a-5fca-11f1-9c46-d6211372eede_story.html",
+          "snippet": "多家AI企业正准备进行大规模IPO，本文分析了即将登陆华尔街的主要行业参与者。",
+          "index": 4
+        },
+        {
+          "title": "投资者需了解的SpaceX、OpenAI和Anthropic IPO要点",
+          "link": "https://blog.carnegieinvest.com/ipos-exciting-enormous-and-speculative",
+          "snippet": "卡内基投资顾问博客分析了SpaceX、OpenAI和Anthropic即将进行的IPO对投资者的意义。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "招聘联合创始人兼CEO - AEC领域AI Proposal Intelligence",
+          "link": "https://www.tealhq.com/job/co-founder-ceo_7ea1ac4dc0253acb9b01010261743556fda12",
+          "snippet": "FutureSight为BidOps招募联合创始人兼CEO，专注AEC行业的AI提案智能解决方案。",
+          "index": 6
+        },
+        {
+          "title": "招聘联合创始人兼CEO - AI Content Intelligence与Publishing Engine",
+          "link": "https://www.tealhq.com/job/co-founder-ceo_7ea1a814c27f05dc4ac050feb8130e77e3c5e",
+          "snippet": "FutureSight为InfluTrack招募联合创始人兼CEO，负责领导AI内容智能与出版引擎业务。",
+          "index": 7
+        },
+        {
+          "title": "FutureSight招聘AEC领域AI Proposal Intelligence联合创始人兼CEO",
+          "link": "https://remoteleaf.com/company/futuresight/co-founder-ceo-ai-proposal-intelligence-for-aec-canada-3",
+          "snippet": "FutureSight公开招聘远程工作的联合创始人兼CEO，负责AEC行业AI提案智能产品开发。",
+          "index": 8
+        },
+        {
+          "title": "Airbnb CEO Brian Chesky计划创办新AI公司",
+          "link": "https://fortune.com/2026/06/04/airbnb-ceo-brian-chesky-plans-to-start-a-new-ai-company",
+          "snippet": "Airbnb首席执行官Brian Chesky宣布计划创立一家人工智能新公司，拓展业务版图。",
+          "index": 9
+        },
+        {
+          "title": "招聘人工智能开发者与AI工程师",
+          "link": "https://www.chetu.com/on-demand-developers/hire-ai-developers.php",
+          "snippet": "Chetu定制软件开发公司提供AI开发人员和工程师招聘服务，助力企业智能化转型。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
