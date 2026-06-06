@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-06",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic的IPO成为AI热潮估值的首次重大考验",
+          "link": "https://www.cnbc.com/2026/06/05/tech-download-anthropic-ipo-ai-valuations.html",
+          "snippet": "Anthropic即将上市，这将是市场对AI公司高估值的首次重大检验，投资者密切关注其定价合理性及行业标杆效应。",
+          "index": 1
+        },
+        {
+          "title": "Anthropic IPO与AI芯片业务让亚马逊估值备受关注",
+          "link": "https://simplywall.st/stocks/us/retail/nasdaq-amzn/amazoncom/news/anthropic-ipo-and-ai-chips-put-amazon-valuation-in-new-focus",
+          "snippet": "随着Anthropic上市及AI芯片业务发展，亚马逊股价达253.7美元，投资者重新评估这家科技巨头在AI生态中的战略价值。",
+          "index": 2
+        },
+        {
+          "title": "3 Magnificent AI Stocks to Buy Before the Anthropic IPO - AOL.com",
+          "link": "https://www.aol.com/articles/3-magnificent-ai-stocks-buy-105800000.html",
+          "snippet": "# 3 Magnificent AI Stocks to Buy Before the Anthropic IPO. With a valuation of $...",
+          "index": 3
+        },
+        {
+          "title": "FFR 292 – 新一代IPO市场展望",
+          "link": "https://www.stilesfinancial.com/ffr/ffr292",
+          "snippet": "SpaceX、Anthropic等高关注度IPO即将登场，本报告分析新一代科技公司上市对资本市场流动性及估值体系的深远影响。",
+          "index": 4
+        },
+        {
+          "title": "AI进步与金融市场溢出效应研究",
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S1544612326004411",
+          "snippet": "探讨人工智能技术突破如何影响全球金融市场，分析AI创新对股市波动、跨资本流动及系统性风险传导的微观机制。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "据报道Airbnb CEO正在组建新AI实验室",
+          "link": "https://www.inc.com/moses-jeanfrancois/airbnb-ceo-is-reportedly-building-a-new-ai-lab-nothing-to-do-with-rental-company/91356656",
+          "snippet": "Airbnb联合创始人拟进军AGI领域， reportedly建立AI实验室，引发业界对其从共享经济向通用人工智能战略转型的广泛猜测。",
+          "index": 6
+        },
+        {
+          "title": "AI产品经理职位紧急招聘",
+          "link": "https://www.ziprecruiter.com/Jobs/Ai-Product-Owner",
+          "snippet": "ZipRecruiter平台发布1000余个AI Product Owner岗位，年薪9.3万至15万美元，反映企业对具备LLM项目经验管理人才的强劲需求。",
+          "index": 7
+        },
+        {
+          "title": "初创公司招聘AI工程师服务",
+          "link": "https://www.uplers.com/hire-ai-engineers",
+          "snippet": "Uplers承诺48小时内匹配顶尖AI Engineer，助力Startups快速组建技术团队，涵盖机器学习、神经网络及大模型微调等专业领域。",
+          "index": 8
+        },
+        {
+          "title": "Legora CEO on AI in Legal Tech | StartupHub.ai",
+          "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/legora-ceo-on-ai-in-legal-tech",
+          "snippet": "# Legora CEO on AI in Legal Tech. Legora CEO Max Junestrand discusses the unique...",
+          "index": 9
+        },
+        {
+          "title": "阿斯利康CEO称AI正在重塑Drug Development",
+          "link": "https://www.cnbc.com/2026/06/05/astrazeneca-ceo-says-ai-is-reshaping-drug-development-and-helping-boost-the-odds-of-success.html",
+          "snippet": "制药巨头AstraZeneca首席执行官表示，Deep Learning技术正加速新药发现流程，降低R&D成本，推动Precision Medicine创新发展。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
