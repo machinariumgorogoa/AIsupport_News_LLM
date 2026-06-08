@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-08",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "China's Moonshot AI Seeks $30 Billion Value in New Funding Talks",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks",
+          "snippet": "# China’s Moonshot AI Seeks $30 Billion Value in New Funding Talks. Moonshot AI'...",
+          "index": 1
+        },
+        {
+          "title": "AI IPO wave could test Wall Street's appetite for new shares - MSN",
+          "link": "https://www.msn.com/en-us/money/savingandinvesting/ai-ipo-wave-could-test-wall-street-s-appetite-for-new-shares/ar-AA252QxW",
+          "snippet": "A surge of stock offerings tied to the artificial intelligence boom is poised to deliver trillions of dollars of new equity to U.S. markets, prompting investors",
+          "index": 2
+        },
+        {
+          "title": "Private AI Funding Surge Backs US Chip Thesis - Gotrade",
+          "link": "https://www.heygotrade.com/en/news/ai-startups-moonshot-physicsx-mega-valuations",
+          "snippet": "# Private AI Funding Surge Backs US Chip Thesis. Gotrade News - Two fresh privat...",
+          "index": 3
+        },
+        {
+          "title": "AI's mega stock deals raise specter of more shares than buyers",
+          "link": "https://fortune.com/2026/06/07/ai-mega-stock-deals-ipo-openai-anthropic-spacex-google-stock-supply-buyers",
+          "snippet": "A flood of new shares from companies looking to fund their artificial intelligen...",
+          "index": 4
+        },
+        {
+          "title": "Washington, Brussels stake their claims on AI as trillion-dollar IPO wave begins - Tech 24 - France 24",
+          "link": "https://www.france24.com/en/washington-brussels-stake-their-claims-on-ai-as-trillion-dollar-ipo-wave-begins",
+          "snippet": "* Watch France 24 on TV. # Washington, Brussels stake their claims on AI as tril...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Co-Founder & CEO - AI Content Intelligence & Publishing Engine",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-content-intelligence-publishing-engine-9972009742",
+          "snippet": "FutureSight is hiring a remote Co-Founder & CEO - AI Content Intelligence & Publ...",
+          "index": 6
+        },
+        {
+          "title": "Co-Founder & CEO - AI Content Intelligence & Publishing Engine",
+          "link": "https://bebee.com/ca/jobs/co-founder-ceo-ai-content-intelligence-publishing-engine-futuresight-inc--talent-622828658513610821",
+          "snippet": "The Opportunity FutureSight is seeking a Co-Founder & CEO to lead InfluTracker, ...",
+          "index": 7
+        },
+        {
+          "title": "Co-Founder & CEO - AI Proposal Intelligence for AEC at FutureSight",
+          "link": "https://remoteleaf.com/company/futuresight/co-founder-ceo-ai-proposal-intelligence-for-aec-united-states-3",
+          "snippet": "Apply for Remote Co-Founder & CEO - AI Proposal Intelligence for AEC at FutureSi...",
+          "index": 8
+        },
+        {
+          "title": "Chief AI Officer (CAIO) Recruitment Firm - MSH Talent",
+          "link": "https://talentmsh.com/our-solutions/chief-ai-officer-recruitment-firm",
+          "snippet": "Source and hire your next Chief AI Officer with MSH. We place AI leaders who bri...",
+          "index": 9
+        },
+        {
+          "title": "Best Freelance AI Researchers for Hire (Jun 2026) - Upwork",
+          "link": "https://www.upwork.com/hire/ai-researchers",
+          "snippet": "Use platforms like Upwork to find AI researchers with the right experience. Look...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
