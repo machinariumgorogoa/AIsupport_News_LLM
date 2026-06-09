@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-09",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "OpenAI秘密提交美国IPO申请，AI热潮引发投资者狂热",
+          "link": "https://www.france24.com/en/technology/20260609-openai-confidentially-files-for-us-ipo-as-ai-boom-drives-investor-frenzy",
+          "snippet": "ChatGPT开发商OpenAI已秘密提交美国IPO申请，人工智能热潮引发投资者狂热追捧。",
+          "index": 1
+        },
+        {
+          "title": "OpenAI秘密提交IPO申请，竞争对手竞相上市",
+          "link": "https://www.chinadailyasia.com/article/634663",
+          "snippet": "ChatGPT开发商OpenAI已秘密提交IPO申请，正值竞争对手纷纷冲刺资本市场之际。",
+          "index": 2
+        },
+        {
+          "title": "Anthropic、OpenAI与SpaceX IPO背后的真相",
+          "link": "https://news.northeastern.edu/2026/06/08/anthropic-openai-spacex-ipo-race",
+          "snippet": "AI初创公司Anthropic秘密提交IPO申请，市场关注其与OpenAI、SpaceX上市背后的真实情况。",
+          "index": 3
+        },
+        {
+          "title": "Volato Group宣布220万美元战略投资及AI布局",
+          "link": "https://lasvegassun.com/news/2026/jun/08/volato-group-announces-22-million-strategic-invest",
+          "snippet": "Volato Group(NYSE American: SOAR)宣布获得220万美元战略投资，将用于发展人工智能技术。",
+          "index": 4
+        },
+        {
+          "title": "OpenAI秘密提交IPO申请，AI公司涌向华尔街",
+          "link": "https://www.nytimes.com/2026/06/08/technology/openai-ipo.html",
+          "snippet": "该初创公司近期估值超越OpenAI，AI公司正纷纷涌向华尔街寻求上市机会。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI产品经理职位（急聘）- ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/Jobs/Ai-Product-Owner",
+          "snippet": "浏览1000+个AI产品经理职位（年薪9.3万-15万美元），来自各大企业的最新招聘需求。",
+          "index": 6
+        },
+        {
+          "title": "苹果预计将在库克主持的末届开发者大会上发布新AI功能",
+          "link": "https://aldailynews.com/apple-expected-to-unveil-new-ai-features-at-last-developers-conference-with-ceo-tim-cook",
+          "snippet": "苹果预计将在CEO蒂姆·库克主持的最后一次开发者大会上发布全新人工智能功能。",
+          "index": 7
+        },
+        {
+          "title": "Apple CEO Tim Cook unveils new Siri at WWDC in AI strategy ...",
+          "link": "https://abc7news.com/post/apple-ceo-tim-cook-expected-unveil-new-siri-wwdc-ai-strategy-update-catch-competitors-chatgpt-gemini/19257048",
+          "snippet": "# Tim Cook expected to unveil all-new Siri at WWDC in major Apple update on AI s...",
+          "index": 8
+        },
+        {
+          "title": "PYMNTS | Mercury CEO Says AI Is Breaking the Old Startup Model",
+          "link": "https://www.pymnts.com/artificial-intelligence-2/2026/mercury-ceo-says-ai-is-breaking-the-old-startup-model",
+          "snippet": "###### Featured. ###### Stay Current. # Mercury CEO Says AI Is Breaking the Old ...",
+          "index": 9
+        },
+        {
+          "title": "Apple unveils new AI features with privacy focus at last developers conference with CEO Tim Cook | PBS News",
+          "link": "https://www.pbs.org/newshour/economy/apple-unveils-new-ai-features-with-privacy-focus-at-last-developers-conference-with-ceo-tim-cook",
+          "snippet": "# Apple unveils new AI features with privacy focus at last developers conference...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
