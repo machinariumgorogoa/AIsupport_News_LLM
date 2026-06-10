@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-10",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX IPO AI估值辩论 - KVB",
+          "link": "https://www.kvbplus.com/insights/market-analysis/86114",
+          "snippet": "SpaceX IPO估值引发热议，AI成为核心价值驱动因素",
+          "index": 1
+        },
+        {
+          "title": "OpenAI申请美国IPO，AI竞争对手竞相上市",
+          "link": "https://journalrecord.com/2026/06/09/openai-files-for-us-ipo-ai-rivals-public-markets",
+          "snippet": "OpenAI提交美国IPO申请，AI行业竞争对手纷纷进军公开市场",
+          "index": 2
+        },
+        {
+          "title": "AI IPO管道估值达3.6万亿美元 - StartupHub.ai",
+          "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/ai-ipo-pipeline-valued-at-3-6-trillion",
+          "snippet": "AI行业IPO排队企业总估值达3.6万亿美元，创历史纪录",
+          "index": 3
+        },
+        {
+          "title": "Lovable寻求新轮融资估值120亿美元，AI编程平台市场加速 - FNEX",
+          "link": "https://fnex.com/lovable-seeks-new-funding-round-at-12b-valuation-as-ai-coding-platform-market-accelerates",
+          "snippet": "AI编程平台Lovable寻求新一轮融资，估值达120亿美元，AI编码市场加速发展",
+          "index": 4
+        },
+        {
+          "title": "资助AI盛宴 - 宏观经济趋势与风险 - Motley Fool",
+          "link": "https://discussion.fool.com/t/funding-the-ai-bonanza/125098",
+          "snippet": "AI投资热潮部分资金来自科技巨头运营收益，引发市场关注",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI会计Agent联合创始人兼CEO - FutureSight（美国远程）",
+          "link": "https://www.remoterocketship.com/us/company/futuresight/jobs/co-founder-ceo-ai-accounting-agents-united-states-remote",
+          "snippet": "FutureSight风险工作室联合创立并资助B2B AI会计Agent项目，现招募CEO",
+          "index": 6
+        },
+        {
+          "title": "AEC领域AI提案智能联合创始人兼CEO - OpenTalent",
+          "link": "https://www.opentalent.in/jobs/co-founder-and-ceo-ai-proposal-intelligence-for-aec",
+          "snippet": "FutureSight寻求联合创始人兼CEO领导BidOps，专注AEC行业AI提案智能解决方案",
+          "index": 7
+        },
+        {
+          "title": "Adobe需新CEO推动大胆AI战略，其人选...",
+          "link": "https://www.morningstar.com/news/marketwatch/20260609111/adobe-needs-a-new-ceo-to-make-bold-ai-moves-and-its-choice-could-be-revealed-on-thursday",
+          "snippet": "分析师称Adobe新任CEO需具备强大技术背景，以推动公司AI转型战略",
+          "index": 8
+        },
+        {
+          "title": "招聘] Sayari AI产品高级总监 - 远程职位",
+          "link": "https://remotive.com/remote/jobs/artificial-intelligence/senior-director-of-ai-products-4902297",
+          "snippet": "Sayari招聘远程AI产品高级总监，负责AI产品战略规划与团队管理",
+          "index": 9
+        },
+        {
+          "title": "初创公司AI工程师招聘",
+          "link": "https://www.uplers.com/hire-ai-engineers",
+          "snippet": "2026年5月30+顶级人才 | 48小时内匹配顶级AI工程师，为初创企业提供AI模型设计与开发服务",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

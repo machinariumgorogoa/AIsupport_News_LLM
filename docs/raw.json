@@ -1,246 +1,198 @@
 {
-  "date": "2026-06-09",
-  "count": 30,
+  "date": "2026-06-10",
+  "count": 27,
   "items": [
     {
-      "title": "OpenAI秘密提交美国IPO申请，AI热潮引发投资者狂热",
-      "link": "https://www.france24.com/en/technology/20260609-openai-confidentially-files-for-us-ipo-as-ai-boom-drives-investor-frenzy",
-      "snippet": "ChatGPT开发商OpenAI已秘密提交美国IPO申请，人工智能热潮引发投资者狂热追捧。",
-      "raw_snippet": "ChatGPT maker OpenAI has confidentially filed for a US initial public offering, the company said on Monday, joining rivals such as Anthropic in a race towards public markets amid surging investor interest in artificial intelligence. ChatGPT maker OpenAI confidentially filed for a US initial public offering recently, the company said on Monday, joining rival Anthropic in a push towards the stock market as investors seek exposure to the artificial intelligence boom. OpenAI did not disclose the size or terms of the offering, and said a timeline has not yet been determined. Reuters had reported that the AI giant is targeting a valuation of up to $1 trillion in a stock market debut that could come as early as September. Anthropic, the company behind the viral coding assistant Claude Code, said on June 1 it had confidentially filed for a US initial public offering, weeks after raising $65 billion in a funding round that valued it at $965 billion.",
+      "title": "SpaceX IPO AI估值辩论 - KVB",
+      "link": "https://www.kvbplus.com/insights/market-analysis/86114",
+      "snippet": "SpaceX IPO估值引发热议，AI成为核心价值驱动因素",
+      "raw_snippet": "SpaceX IPO valuation sparks debate as AI becomes central to SpaceX $1.77 trillion growth narrative and investor expectations intensify.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "OpenAI秘密提交IPO申请，竞争对手竞相上市",
-      "link": "https://www.chinadailyasia.com/article/634663",
-      "snippet": "ChatGPT开发商OpenAI已秘密提交IPO申请，正值竞争对手纷纷冲刺资本市场之际。",
-      "raw_snippet": "OpenAI, the maker of ChatGPT, filed confidentially for an IPO, joining artificial intelligence rivals in tapping public markets to fund ambitious growth plans. The Sam Altman-led firm submitted paperwork for an initial public offering with the US Securities and Exchange Commission, the company said on Monday. OpenAI is working with Goldman Sachs Group Inc and Morgan Stanley on a potential listing as soon as in the fall, people familiar with the matter have said. OpenAI is also planning to launch a tender sale of its shares to provide liquidity to employees in the coming weeks, before the company goes public, according to a person familiar with the matter. Though the company and its flagship chatbot remain synonymous with AI for many people, OpenAI also faces a number of challenges, including heightened competition from Anthropic PBC and Alphabet Inc’s Google. The company also leaped to a $965 billion valuation in its latest private funding round — above OpenAI’s for the first time — as its revenue surged.",
+      "title": "OpenAI申请美国IPO，AI竞争对手竞相上市",
+      "link": "https://journalrecord.com/2026/06/09/openai-files-for-us-ipo-ai-rivals-public-markets",
+      "snippet": "OpenAI提交美国IPO申请，AI行业竞争对手纷纷进军公开市场",
+      "raw_snippet": "## OpenAI files for US IPO as AI rivals race to public markets. By : **Reuters** //June 9, 2026//. Sam Altman, CEO of OpenAI, attends the Asia-Pacific Economic Cooperation (APEC) CEO Summit in San Francisco, California, U.S. November 16, 2023. OpenAI confidentially filed for a U.S. initial public offering recently, the ChatGPT maker said on Monday, joining rival Anthropic in a push toward a stock market listing as it looks to tap into insatiable investor demand for AI shares. OpenAI did not disclose the size or terms of the offering, and said a timeline has not yet been determined. “It may be a while because there are things we want to do that are likely easier as a private company,” it said in a statement. Reuters had reported that the AI giant is targeting a valuation of up to $1 trillion in a stock market debut that could come as early as September.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "Anthropic、OpenAI与SpaceX IPO背后的真相",
-      "link": "https://news.northeastern.edu/2026/06/08/anthropic-openai-spacex-ipo-race",
-      "snippet": "AI初创公司Anthropic秘密提交IPO申请，市场关注其与OpenAI、SpaceX上市背后的真实情况。",
-      "raw_snippet": "When AI startup Anthropic confidentially filed for an initial public offering, or IPO, last week, it intensified what many observers have framed as a mad rush to cash in on investor enthusiasm amid one of the most historic market booms the tech sector has ever seen. Following months of what many have described as an historic stock rally driven largely by a surge of investment in companies — such as Nvidia, AMD and Intel — that produce AI parts, a wave of AI IPOs may serve as a reality check for a market largely driven by expectations about the technology’s future potential, experts say. Anthropic joins SpaceX, which filed to go public last month, as two of the three most highly anticipated equity offerings in recent memory, with the third — OpenAI — expected to follow suit in the coming weeks. SpaceX is widely expected to debut at a valuation exceeding $1 trillion, potentially making it the largest IPO in history, while OpenAI’s and Anthropic’s expected valuations appear to be closing in on $1 trillion, respectively.",
+      "title": "AI IPO管道估值达3.6万亿美元 - StartupHub.ai",
+      "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/ai-ipo-pipeline-valued-at-3-6-trillion",
+      "snippet": "AI行业IPO排队企业总估值达3.6万亿美元，创历史纪录",
+      "raw_snippet": "The artificial intelligence sector is experiencing unprecedented growth, with the current AI IPO pipeline estimated to be worth a staggering $3.6 trillion.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "Volato Group宣布220万美元战略投资及AI布局",
-      "link": "https://lasvegassun.com/news/2026/jun/08/volato-group-announces-22-million-strategic-invest",
-      "snippet": "Volato Group(NYSE American: SOAR)宣布获得220万美元战略投资，将用于发展人工智能技术。",
-      "raw_snippet": "(NYSE American: SOAR) (the “Company” or “Volato”), a technology company focused on building scalable software and data solutions that improve the reliability and intelligence of high-stakes business decisions, today announced the signing of a definitive agreement to obtain a $2.2 million strategic investment lead by Catheter Precision, Inc. The investment of restricted common stock will strengthen Volato’s balance sheet and supports the Company’s renewed focus on artificial intelligence, including the evaluation of potential acquisition and merger opportunities in AI infrastructure, AI software, data infrastructure, compute, power generation, and related sectors. “The termination of the M2i transaction gives us the opportunity to refocus on a market opportunity we believe is more closely aligned with Volato’s technology assets, public-company platform, and long-term shareholder value,” said Matt Liotta, Chief Executive Officer of Volato. Volato intends to continue evaluating opportunities in AI infrastructure, AI software, data infrastructure, compute, power generation, and related sectors that could enhance shareholder value and further align the Company’s public market platform with its long-term strategic direction.",
+      "title": "Lovable寻求新轮融资估值120亿美元，AI编程平台市场加速 - FNEX",
+      "link": "https://fnex.com/lovable-seeks-new-funding-round-at-12b-valuation-as-ai-coding-platform-market-accelerates",
+      "snippet": "AI编程平台Lovable寻求新一轮融资，估值达120亿美元，AI编码市场加速发展",
+      "raw_snippet": "# Lovable Seeks New Funding Round at $12B Valuation as AI Coding Platform Market Accelerates. Lovable, one of the fastest-growing companies in artificial intelligence-powered software development, is reportedly preparing to raise a new funding round at a **$12 billion valuation**, a move that would double the company’s valuation from its most recent financing and further cement its position as a leader in the rapidly expanding “vibe coding” market. ## Building the Infrastructure for AI-Native Software Creation. Industry observers view Lovable as one of the category’s leading innovators alongside a new generation of AI-native development platforms. According to reports, the company plans to use the proceeds from the new financing round to accelerate enterprise adoption, expand research and development initiatives, and strengthen its platform capabilities as competition intensifies across the AI development landscape. As organizations increasingly explore ways to integrate AI into product development workflows, Lovable’s ability to simplify application creation positions the company at the center of one of the most significant shifts in software engineering since the rise of cloud computing.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 4
     },
     {
-      "title": "OpenAI秘密提交IPO申请，AI公司涌向华尔街",
-      "link": "https://www.nytimes.com/2026/06/08/technology/openai-ipo.html",
-      "snippet": "该初创公司近期估值超越OpenAI，AI公司正纷纷涌向华尔街寻求上市机会。",
-      "raw_snippet": "The start-up recently passed OpenAI as the world's highest-flying A.I. start-up, with $65 billion in new financing that valued it at $900 billion before the",
+      "title": "资助AI盛宴 - 宏观经济趋势与风险 - Motley Fool",
+      "link": "https://discussion.fool.com/t/funding-the-ai-bonanza/125098",
+      "snippet": "AI投资热潮部分资金来自科技巨头运营收益，引发市场关注",
+      "raw_snippet": "Some of this is being funded from the operating earnings of AI hyperscalers like Alphabet, Amazon and Meta. # Wall Street Is Rushing to Fund the AI Bonanza in Every Conceivable Way. Tech companies are raising billions through equity and bond sales to fund the artificial-intelligence build-out, with Alphabet announcing an $85 billion equity raise. Despite concerns about overbuild risk, investor demand for AI-related investments remains strong, with tech stocks up 31% this quarter. Tech companies are hungry for cash to invest in data centers, and investors are forking it over through all possible means, in all parts of the globe—a flurry of fundraising that has mostly supported markets by powering technological advances, even as it tests their ability to absorb it all…. Spending on data centers and other AI infrastructure by just four big tech companies this year is expected to total more than $670 billion—a larger investment as a share of the economy than even the railroad expansion of the 1850s…. How is this “just getting started” in a way that will profit an investor who is jumping in with fresh cash?",
       "is_chinese": false,
       "source_type": "funding",
       "index": 5
     },
     {
-      "title": "OpenAI files confidentially for IPO as AI rivals race to list - TNW",
-      "link": "https://thenextweb.com/news/openai-confidential-ipo-filing-rivals-race",
-      "snippet": "# OpenAI filed confidentially for an IPO. The AI public market is about to get v...",
-      "raw_snippet": "# OpenAI filed confidentially for an IPO. The AI public market is about to get very crowded. Goldman Sachs and Morgan Stanley are working on a potential listing as soon as this autumn, but OpenAI says timing is undecided and it may stay private longer. OpenAI filed confidentially for an IPO with Goldman Sachs and Morgan Stanley, potentially listing this autumn. The AI public market is about to absorb three mega-listings.*. Goldman Sachs and Morgan Stanley are advising on a potential listing that could come as soon as the autumn, according to people familiar with the matter. The filing makes OpenAI the third major AI-adjacent company to move towards public markets in a single week. Anthropic filed confidentially last week at a $965 billion private valuation. Anthropic’s valuation leapt past OpenAI’s for the first time in its latest private round, hitting $965 billion as its revenue surged. That reversal, combined with SpaceX’s imminent $1.8 trillion listing, creates pressure for OpenAI to establish a public-market benchmark before its competitors define the terms.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Software acquisition deals hit lowest level since COVID due to AI",
-      "link": "https://jawlah.co/en/58329",
-      "snippet": "###### Software acquisition deals hit lowest level since COVID due to AI. The so...",
-      "raw_snippet": "###### Software acquisition deals hit lowest level since COVID due to AI. The software sector recorded its lowest value of private equity buyout deals since the onset of the pandemic, as the accelerating development of artificial intelligence forced investors to reassess the sector's future. Data from *PitchBook*, cited by *Financial Times*, points to a decline in the value of software company buyout deals to $50 billion in the first five months of 2026, compared to $88 billion in the same period last year. Until last year, the value of software company buyout deals reached $290 billion, the highest level in 11 years. If the current slowdown continues until the end of the year, 2026 will be the weakest year since 2018 in terms of deal activity in this sector. In May, the value of completed or announced deals dropped to just $5 billion, compared to $29 billion in the same month last year.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Volato Group Announces $2.2 Million Strategic Investment and AI ...",
-      "link": "https://ir.flyvolato.com/news-events/press-releases/detail/153/volato-group-announces-2-2-million-strategic-investment-and-ai-infrastructure-acquisition-focus",
-      "snippet": "***Investment strengthens balance sheet as Company evaluates non-binding AI infr...",
-      "raw_snippet": "***Investment strengthens balance sheet as Company evaluates non-binding AI infrastructure and technology transaction opportunities***. (NYSE American: SOAR) (the “Company” or “Volato”), a technology company focused on building scalable software and data solutions that improve the reliability and intelligence of high-stakes business decisions, today announced the signing of a definitive agreement to obtain a $2.2 million strategic investment lead by Catheter Precision, Inc. The investment of restricted common stock will strengthen Volato’s balance sheet and supports the Company’s renewed focus on artificial intelligence, including the evaluation of potential acquisition and merger opportunities in AI infrastructure, AI software, data infrastructure, compute, power generation, and related sectors. “The termination of the M2i transaction gives us the opportunity to refocus on a market opportunity we believe is more closely aligned with Volato’s technology assets, public-company platform, and long-term shareholder value,” said Matt Liotta, Chief Executive Officer of Volato.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Artificial intelligence driven digital governance and corporate finance",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2772503026000484",
-      "snippet": "Using explainable AI in conjunction with financial theory provides actionable insights for managers, investors, and policymakers in digital corporate finance",
-      "raw_snippet": "Using explainable AI in conjunction with financial theory provides actionable insights for managers, investors, and policymakers in digital corporate finance",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "OpenAI files for blockbuster IPO as AI giants head to public markets",
-      "link": "https://www.afr.com/world/north-america/openai-files-for-blockbuster-ipo-as-ai-giants-head-to-public-markets-20260609-p60500",
-      "snippet": "**New intelligent search** Use sentences or keywords. # OpenAI files for blockbu...",
-      "raw_snippet": "**New intelligent search** Use sentences or keywords. # OpenAI files for blockbuster IPO as AI giants head to public markets. *New York* | OpenAI has confidentially filed to go public in a blockbuster listing likely to value the ChatGPT creator at more than $US1 trillion ($1.4 trillion) as it races rival Anthropic to Wall Street. OpenAI said on Monday (Tuesday AEST) that it had submitted a draft prospectus for its initial public offering to the US Securities and Exchange Commission. Subscribe to gift this article. Gift 5 articles to anyone you choose each month when you subscribe. ## Introducing your Newsfeed. Follow the topics, people and companies that matter to you. ### Read More. ## Latest In North America. ## Most Viewed In World. The Daily Habit of Successful People. ## My Account. ## Subscribe. ## Contact. ## Magazines. ## Columns. ## Podcasts. ## Markets Data. ## Terms and Conditions. Download on the App Store. Get it on Google Play.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "OpenAI IPO 2026 Guide: Date, Expected Valuation, and How to ...",
-      "link": "https://www.zacks.com/featured-articles/781/openai-ipo",
-      "snippet": "We use cookies to understand how you use our site and to improve your experience...",
-      "raw_snippet": "We use cookies to understand how you use our site and to improve your experience. By pressing \"Accept All\" or closing out of this banner, you consent to the use of all cookies and similar technologies and the sharing of information they collect with third parties. In addition, whether you \"Accept All,\" Deny Optional,\" click the X or otherwise continue to use the site, you accept our Privacy Policy and Terms of Service, revised from time to time. ### Most Viewed Stocks on Zacks.com. OpenAI has confidentially filed with the US Securities and Exchange Commission paperwork for an IPO, the first step toward creating a public company analysts say could be worth $1 trillion. Investors are now asking whether the company behind ChatGPT could become one of the biggest public offerings in history. This comes during a wave of widely anticipated initial public offerings, led by the SpaceX IPO on June 12 and Anthropic, maker of Claude AI. That unusual structure has become one of the biggest questions surrounding a future IPO.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "OpenAI Filed Confidentially for IPO as Rivals Race to Market",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market",
-      "snippet": "# OpenAI Filed Confidentially for IPO as Rivals Race to Market - Bloomberg. Bloo...",
-      "raw_snippet": "# OpenAI Filed Confidentially for IPO as Rivals Race to Market - Bloomberg. Bloomberg the Company & Its Products The Company & its ProductsBloomberg Terminal Demo RequestBloomberg Anywhere Remote Login Bloomberg Anywhere LoginBloomberg Customer Support Customer Support. Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world. *   Manage Products and Account Information. BREAKING OpenAI Filed Confidentially for IPO as Rivals Race to Market Read more. # OpenAI Filed Confidentially for IPO as Rivals Race to Market. OpenAI filed confidentially for an IPO, as the ChatGPT maker looks to join artificial intelligence rivals tapping public markets to fund ambitious growth plans. Subscribe now for unlimited access to Bloomberg.com and the Bloomberg app. Accepting does not affect your right to opt-out at any time via the Do Not Sell or Share My Personal Information link in the website footer.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "OpenAI confidentially files for IPO, prepping Wall Street ...",
-      "link": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
-      "snippet": "* OpenAI has confidentially filed for an IPO with the Securities and Exchange Co...",
-      "raw_snippet": "* OpenAI has confidentially filed for an IPO with the Securities and Exchange Commission, setting the stage for what could be one of the largest public markets debuts in history. * The confidential disclosure comes days before Elon Musk's SpaceX is set to start trading and a week after Anthropic filed confidentially with the SEC. OpenAI has confidentially filed for an IPO with the Securities and Exchange Commission, joining the party a week after Anthropic did the same and days before Elon Musk's SpaceX is set to hit the public market. A confidential filing allows the company to submit its financials to regulators for review before they're made available to the public and prospective investors. OpenAI CFO Sarah Friar told CNBC in April that it's \"good hygiene\" for a business of OpenAI's size to \"look and feel and act\" like a public company, but she wouldn't comment on a specific IPO timeline.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
       "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
       "link": "https://www.forbes.com/lists/ai50",
       "snippet": "*   [AI](https://www.forbes.com/ai/). *   [Under 30](https://www.forbes.com/unde...",
-      "raw_snippet": "*   [AI](https://www.forbes.com/ai/). *   [Under 30](https://www.forbes.com/under30/). *   [Business](https://www.forbes.com/business/). Business[See All](https://www.forbes.com/business/). *   [Home](https://www.forbes.com/vetted/home/). *   [Gear](https://www.forbes.com/vetted/gear/). *   [Deals](https://www.forbes.com/vetted/deals/). *   [Deals](https://www.forbes.com/vetted/deals/). Deals[See All](https://www.forbes.com/vetted/deals/). *   [30 Under 30](https://www.forbes.com/under30/). *   [50 Over 50](https://www.forbes.com/over-50/). *   [Advisor](https://www.forbes.com/advisor/). Advisor[See All](https://www.forbes.com/advisor/). *   [Corrections](https://www.forbes.com/lists/ai50). *   [Cookie Preferences](https://www.forbes.com/lists/ai50#). ![Image 16](https://www.forbes.com/lists/ai50). | Anthropic[](https://www.forbes.com/companies/anthropic/?list=ai50) | AI models and products | $60 B | 2021 | San Francisco, California, United States |. | ElevenLabs[](https://www.forbes.com/companies/elevenlabs/?list=ai50) | Voice generation software | $800 M | 2022 | New York, New York, United States |. | Gamma[](https://www.forbes.com/companies/gamma/?list=ai50) | AI graphic design tools | $91 M | 2020 | San Francisco, California, United States |. | Krea[](https://www.forbes.com/companies/krea/?list=ai50) | Image generation software | $83 M | 2022 | San Francisco, California, United States |. | Notion[](https://www.forbes.com/companies/notion/?list=ai50) | Productivity software | $330 M | 2013 | San Francisco, California, United States |. | OpenAI[](https://www.forbes.com/companies/openai/?list=ai50) | AI models and products | $182.6 B | 2015 | San Francisco, California, United States |. [Elisabeth Brier](https://www.forbes.com/lists/ai50). [Sofia Chierchio](https://www.forbes.com/lists/ai50). [Iain Martin](https://www.forbes.com/lists/ai50). [Learn More](https://www.forbes.com/accolades/ai-50/). [Learn More](https://www.forbes.com/accolades/ai-50/). [Learn More](https://www.forbes.com/accolades/ai-50/). *   [Your Privacy Choices](https://www.forbes.com/lists/ai50#). *   [Cookie Preferences](https://www.forbes.com/lists/ai50#).",
+      "raw_snippet": "*   [AI](https://www.forbes.com/ai/). *   [Under 30](https://www.forbes.com/under30/). *   [Business](https://www.forbes.com/business/). Business[See All](https://www.forbes.com/business/). *   [Home](https://www.forbes.com/vetted/home/). *   [Gear](https://www.forbes.com/vetted/gear/). *   [30 Under 30](https://www.forbes.com/under30/). *   [50 Over 50](https://www.forbes.com/over-50/). *   [Advisor](https://www.forbes.com/advisor/). Advisor[See All](https://www.forbes.com/advisor/). *   [Corrections](https://www.forbes.com/lists/ai50). *   [Cookie Preferences](https://www.forbes.com/lists/ai50#). ![Image 16](https://www.forbes.com/lists/ai50). | Anthropic[](https://www.forbes.com/companies/anthropic/?list=ai50) | AI models and products | $60 B | 2021 | San Francisco, California, United States |. | Gamma[](https://www.forbes.com/companies/gamma/?list=ai50) | AI graphic design tools | $91 M | 2020 | San Francisco, California, United States |. | Krea[](https://www.forbes.com/companies/krea/?list=ai50) | Image generation software | $83 M | 2022 | San Francisco, California, United States |. | Midjourney[](https://www.forbes.com/companies/midjourney/?list=ai50) | Image generation software | $0 M | 2021 | San Francisco, California, United States |. | Notion[](https://www.forbes.com/companies/notion/?list=ai50) | Productivity software | $330 M | 2013 | San Francisco, California, United States |. | OpenAI[](https://www.forbes.com/companies/openai/?list=ai50) | AI models and products | $182.6 B | 2015 | San Francisco, California, United States |. [Elisabeth Brier](https://www.forbes.com/lists/ai50). [Sofia Chierchio](https://www.forbes.com/lists/ai50). [Iain Martin](https://www.forbes.com/lists/ai50). [Learn More](https://www.forbes.com/accolades/ai-50/). [Learn More](https://www.forbes.com/accolades/ai-50/). [Learn More](https://www.forbes.com/accolades/ai-50/). *   [Your Privacy Choices](https://www.forbes.com/lists/ai50#). *   [Cookie Preferences](https://www.forbes.com/lists/ai50#).",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Emerj Artificial Intelligence Research",
-      "link": "https://emerj.com",
-      "snippet": "*   [AI White Paper Library](https://emerj.com/whitepaperlibrary/). *   [AI Best...",
-      "raw_snippet": "*   [AI White Paper Library](https://emerj.com/whitepaperlibrary/). *   [AI Best Practice Guides](https://emerj.com/ai-executive-guides/). *   [Explore AI by Industry](https://emerj.com/membership-matrix/). *   [AI in Business Podcast](https://emerj.com/artificial-intelligence-podcast/). *   [The AI Consulting Podcast](https://emerj.com/ai-consulting-podcast/). *   [AI White Paper Library](https://emerj.com/whitepaperlibrary/). *   [AI Best Practice Guides](https://emerj.com/ai-executive-guides/). *   [Explore AI by Industry](https://emerj.com/membership-matrix/). *   [AI in Business Podcast](https://emerj.com/artificial-intelligence-podcast/). *   [The AI Consulting Podcast](https://emerj.com/ai-consulting-podcast/). [Reach Executive AI Buyers](https://emerj.com/advertise/?utm_source=homepage). Nurses now spend up to 41% of their time on EHRs, according to the U.S. Department of Health and Human Services, and validated stress‑monitoring studies show they spend more time interacting with the EHR than on any… ![Image 12](https://secure.gravatar.com/avatar/6e1848b782da2bb68399a60399be7255e0ff961b463825af31e6401c4fe862eb?s=55&d=mm&r=g) Marilie Fouche • June 1, 2026](https://emerj.com/overcoming-skepticism-and-driving-ai-adoption/). Nurses now spend up to 41% of their time on EHRs, according to the U.S. Department of Health and Human Services, and validated stress‑monitoring studies show they spend more time interacting with the EHR than on any… ![Image 18](https://secure.gravatar.com/avatar/6e1848b782da2bb68399a60399be7255e0ff961b463825af31e6401c4fe862eb?s=55&d=mm&r=g) Marilie Fouche • June 1, 2026](https://emerj.com/overcoming-skepticism-and-driving-ai-adoption/).",
+      "title": "Preoperative Risk Assessment for Surgical Operations Using ...",
+      "link": "https://www.sciencedirect.com/science/article/abs/pii/S0039606026002990",
+      "snippet": "Artificial intelligence (AI) offers the potential of examining large clinical datasets to uncover complex nonlinearities and personalized associations when",
+      "raw_snippet": "Artificial intelligence (AI) offers the potential of examining large clinical datasets to uncover complex nonlinearities and personalized associations when",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "AI in Commercial Mortgage Finance: Intelligent Document ...",
-      "link": "https://www.mba.org/conferences-and-education/event/2026/12/07/default-calendar/ai-in-commercial-mortgage-finance-intelligent-document-processing-beyond-ocr-82789",
-      "snippet": "Each session will feature industry experts and innovators discussing how organizations can responsibly adopt AI to improve efficiency, enhance borrower and",
-      "raw_snippet": "Each session will feature industry experts and innovators discussing how organizations can responsibly adopt AI to improve efficiency, enhance borrower and",
+      "title": "The Artificial Intelligence Trap in the Markets | Yosef B. Moran",
+      "link": "https://blogs.timesofisrael.com/the-artificial-intelligence-trap-in-the-markets",
+      "snippet": "The large technology companies are investing enormous amounts in AI infrastructure: data centres, chips, energy, servers, networks and cloud capacity.",
+      "raw_snippet": "The large technology companies are investing enormous amounts in AI infrastructure: data centres, chips, energy, servers, networks and cloud capacity.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "AI产品经理职位（急聘）- ZipRecruiter",
-      "link": "https://www.ziprecruiter.com/Jobs/Ai-Product-Owner",
-      "snippet": "浏览1000+个AI产品经理职位（年薪9.3万-15万美元），来自各大企业的最新招聘需求。",
-      "raw_snippet": "Browse 1000+ AI PRODUCT OWNER jobs ($93k-$150k) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click",
+      "title": "LCQ21: Promoting artificial intelligence training for all",
+      "link": "https://www.info.gov.hk/gia/general/202606/10/P2026061000476.htm",
+      "snippet": "Eligible persons are free to use their subsidy in full or in part to pursue relevant courses. There is currently no plan to introduce an \"AI-specific\" funding.",
+      "raw_snippet": "Eligible persons are free to use their subsidy in full or in part to pursue relevant courses. There is currently no plan to introduce an \"AI-specific\" funding.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Same gatekeepers, new tollbooths in the AI content licensing market",
+      "link": "https://www.brookings.edu/articles/same-gatekeepers-new-tollbooths-in-the-ai-content-licensing-market",
+      "snippet": "#### Same gatekeepers, new tollbooths in the AI content licensing market. When G...",
+      "raw_snippet": "#### Same gatekeepers, new tollbooths in the AI content licensing market. When Google began indexing news websites at the turn of the century, publishers exchanged free listings of their content in exchange for referral traffic, at a rate of 2-to-1. Within a decade, referral traffic from search had become the dominant driver of publisher revenue even as Google crawled their sites at a greater rate than it returned traffic, and the economic logic of online journalism was set by the infrastructure of a company that now used snippets and high-quality photos to index results and established an illegal monopoly in search (and would turn out to have an illegal monopoly in the digital advertising market as well). It is in this context that a market for AI content licensing has begun to take shape—the subject of a new report, “Same Gatekeepers, New Tollbooths: Mapping the AI Content Licensing Market,” which I co-authored with Karina Montoya at the Center for Journalism and Liberty at the Open Markets Institute.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Artificial Intelligence & Data Science | Nell Hodgson Woodruff School of Nursing",
+      "link": "https://www.nursing.emory.edu/research/signature-research-areas/artificial-intelligence-data-science",
+      "snippet": "By harnessing AI and advanced computational science, we uncover insights hidden ...",
+      "raw_snippet": "By harnessing AI and advanced computational science, we uncover insights hidden in biological, behavioral and environmental data — driving breakthroughs in cancer care, pressure injury prevention, neurocognitive and cardiovascular health, and more. These discoveries improve health and advance health services and education. At the heart of this mission is our *Center for Data Science,* a dynamic hub for mentorship, cutting-edge tools, and collaborative learning. Taking food photos is an easy way to track nutrition, but most apps still misidentify foods and nutrients. Professor Xiao Hu and colleagues developed DietAI24, which pairs AI image recognition with a verified nutrition database. The system identifies foods from a photo and pulls precise nutritional values — making it 63% more accurate than leading apps and giving researchers and clinicians better data for personalized nutrition guidance. ### Xiao Hu. * Contact the AI & Data Science Research Hub Director.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "CPT Appendix S: Taxonomy for artificial intelligence in medical ...",
+      "link": "https://www.ama-assn.org/practice-management/cpt/cpt-appendix-s-taxonomy-artificial-intelligence-medical-services-procedures",
+      "snippet": "## What doctors want patients to know about diverticulitis. AMA Profiles Hub is ...",
+      "raw_snippet": "## What doctors want patients to know about diverticulitis. AMA Profiles Hub is transitioning to an updated, modern site in 2026. ## More time with patients restores joy in medicine for physicians. See the advocacy work of the AMA for Graduate Medical Education (GME). Stay informed with top advocacy news and essential updates on key national and state issues impacting physicians, patients and the healthcare environment in June 2026. Clinicians interested in starting or expanding routine screening programs for HIV, STIs, viral hepatitis and LTBI are invited to join the AMA Community of Practice for a discussion on routine screening in rural emergency departments. Clinicians interested in starting or expanding routine screening programs for HIV, STIs, viral hepatitis and LTBI are invited to join the AMA Community of Practice for a discussion on routine screening in rural population care. Review the reports and resolutions submitted for consideration at the 2025 Annual Meeting of the AMA House of Delegates. ## Highlights from the 2026 AMA Annual Meeting.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Application of Artificial Intelligence in Construction Contract ...",
+      "link": "https://ascelibrary.org/doi/10.1061/JLADAH.LADR-1536",
+      "snippet": "The find ings of this review offer direct applications for clients, contractors, and managers regarding the use of artificial intelligence in construction",
+      "raw_snippet": "The find ings of this review offer direct applications for clients, contractors, and managers regarding the use of artificial intelligence in construction",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "AI会计Agent联合创始人兼CEO - FutureSight（美国远程）",
+      "link": "https://www.remoterocketship.com/us/company/futuresight/jobs/co-founder-ceo-ai-accounting-agents-united-states-remote",
+      "snippet": "FutureSight风险工作室联合创立并资助B2B AI会计Agent项目，现招募CEO",
+      "raw_snippet": "FutureSight is a venture studio that co-founds and funds B2B AI ventures, building scalable world-class businesses with values-driven leaders. FutureSight focuses on various sectors, including health tech, education tech, and fintech, offering a rigorous process for validating ideas and investing in great talent and concepts. • Lead pilots with managing partners, CAS leads, and outsourced-accounting/BPO operators at small-to-mid CPA firms, convert them to paid engagements, and build the referral-led go-to-market motion. • Partner with the FutureSight product and engineering team to ship V1 and iterate on user feedback. • Recruit and lead the founding team, and establish the cultural foundation of the company. • Clear-eyed understanding of the risks and demands of co-founding a venture-backed company. Staff Accountant supporting accurate financial reporting and month-end close activities at Celero Commerce. Accounting Manager responsible for end-to-end accounting for Coinbase’s prime financing and brokerage business. Lead Technical Accountant providing accounting advisement on complex financial transactions at L3Harris.",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "苹果预计将在库克主持的末届开发者大会上发布新AI功能",
-      "link": "https://aldailynews.com/apple-expected-to-unveil-new-ai-features-at-last-developers-conference-with-ceo-tim-cook",
-      "snippet": "苹果预计将在CEO蒂姆·库克主持的最后一次开发者大会上发布全新人工智能功能。",
-      "raw_snippet": "Get the Daily News Digest in your inbox each morning.[Sign Up](https://aldailynews.com/apple-expected-to-unveil-new-ai-features-at-last-developers-conference-with-ceo-tim-cook#daily-news). [](https://aldailynews.com/apple-expected-to-unveil-new-ai-features-at-last-developers-conference-with-ceo-tim-cook#). 12h ago • [News](https://aldailynews.com/category/news/),. ![Image 2](https://aldailynews.com/wp-content/cache/thumbnails/Apple-CEO-Tim-Cook-830x490-c.jpg). [Facebook](https://aldailynews.com/#facebook \"Facebook\")[Twitter](https://aldailynews.com/#twitter \"Twitter\")[Mastodon](https://aldailynews.com/#mastodon \"Mastodon\")[Email](https://aldailynews.com/#email \"Email\")[Share](https://www.addtoany.com/share#url=https%3A%2F%2Faldailynews.com%2Fapple-expected-to-unveil-new-ai-features-at-last-developers-conference-with-ceo-tim-cook%2F&title=Apple%20expected%20to%20unveil%20new%20AI%20features%20at%20last%20developers%20conference%20with%20CEO%20Tim%20Cook). Apple is expected to unveil new[artificial intelligence features](https://apnews.com/article/apple-iphone-17-new-features-b87ce97470188ca9df145132f412b768)at its annual developers conference beginning Monday, which will be the last one featuring CEO[Tim Cook](https://apnews.com/article/apple-tim-cook-ceo-chage-john-tenus-3e179f3ba156f37ebdc4da5c137a8263)before he turns his post over to John Ternus in September. The World Wide Developers Conference, which attracts thousands of developers from some 60 countries to Apple’s Silicon Valley headquarters, usually focuses on software, in contrast to the fall unveiling of the[latest iPhones](https://apnews.com/article/apple-iphone-17-new-features-b87ce97470188ca9df145132f412b768). Apple has gotten off to a rough start in AI[after stumbling in its efforts](https://apnews.com/article/apple-conference-iphone-artificial-intelligence-ba918c2091e0d49a8b3f164e4f980b6e)to deliver new features built on the technology,[as promised nearly two years ago.](https://apnews.com/article/apple-artificial-intelligence-siri-iphone-software-conference-4217d67977f95ead880835a71ecce098). *   [Apple expected to unveil new AI features at last developers conference with CEO Tim Cook](https://aldailynews.com/apple-expected-to-unveil-new-ai-features-at-last-developers-conference-with-ceo-tim-cook/ \"Apple expected to unveil new AI features at last developers conference with CEO Tim Cook\")12h ago. *   [Who we are](https://aldailynews.com/who-we-are/). *   [Contact](https://aldailynews.com/contact/). Copyright © 2026 [Alabama Daily News](https://aldailynews.com/). [More…](https://aldailynews.com/apple-expected-to-unveil-new-ai-features-at-last-developers-conference-with-ceo-tim-cook#addtoany \"Show all\").",
+      "title": "AEC领域AI提案智能联合创始人兼CEO - OpenTalent",
+      "link": "https://www.opentalent.in/jobs/co-founder-and-ceo-ai-proposal-intelligence-for-aec",
+      "snippet": "FutureSight寻求联合创始人兼CEO领导BidOps，专注AEC行业AI提案智能解决方案",
+      "raw_snippet": "FutureSight is seeking a Co-Founder & CEO to lead BidOps , an AI-native proposal-orchestration platform for architecture, engineering, and construction (AEC)",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "Apple CEO Tim Cook unveils new Siri at WWDC in AI strategy ...",
-      "link": "https://abc7news.com/post/apple-ceo-tim-cook-expected-unveil-new-siri-wwdc-ai-strategy-update-catch-competitors-chatgpt-gemini/19257048",
-      "snippet": "# Tim Cook expected to unveil all-new Siri at WWDC in major Apple update on AI s...",
-      "raw_snippet": "# Tim Cook expected to unveil all-new Siri at WWDC in major Apple update on AI strategy. SAN FRANCISCO -- For one of his final major public moments as Apple's CEO, Tim Cook may give Wall Street something it's long been waiting for: answers about the company's artificial intelligence strategy. Apple is expected to reveal an all-new version of Siri on Monday at its Worldwide Developers Conference, potentially bringing the roughly 15-year-old virtual assistant up to speed with OpenAI's ChatGPT and Google's Gemini. But the new Siri could be the biggest indication yet of how Apple is revamping its products as more people use chatbots and AI agents for everyday tasks. Apple is partnering with Google on the models that will power its new Siri, the companies announced in January, which could significantly improve the digital assistant's performance, according to Anurag Rana, senior equity analyst for software and IT services at Bloomberg Intelligence.",
+      "title": "Adobe需新CEO推动大胆AI战略，其人选...",
+      "link": "https://www.morningstar.com/news/marketwatch/20260609111/adobe-needs-a-new-ceo-to-make-bold-ai-moves-and-its-choice-could-be-revealed-on-thursday",
+      "snippet": "分析师称Adobe新任CEO需具备强大技术背景，以推动公司AI转型战略",
+      "raw_snippet": "He wrote that the \"right candidate\" should have a strong background in Adobe's core creative and marketing business lines, proficiency in artificial",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
     },
     {
-      "title": "PYMNTS | Mercury CEO Says AI Is Breaking the Old Startup Model",
-      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/mercury-ceo-says-ai-is-breaking-the-old-startup-model",
-      "snippet": "###### Featured. ###### Stay Current. # Mercury CEO Says AI Is Breaking the Old ...",
-      "raw_snippet": "###### Featured. ###### Stay Current. # Mercury CEO Says AI Is Breaking the Old Startup Model. Mercury’s CEO says the next wave of entrepreneurship will come from AI-powered business formation rather than traditional startup creation. It was top of mind during a conversation with PYMNTS CEO Karen Webster and Mercury Co-Founder and CEO Immad Akhund. The company also recently received conditional approval from the Office of the Comptroller of the Currency to establish Mercury Bank, N.A. Akhund said the activities come as a new generation of entrepreneurs is rising. Webster framed the change as one of the defining characteristics of the current technology cycle. Before launching Mercury, he spent years building technology companies and navigating the challenges of entrepreneurship. Akhund argued that one of the lasting lessons from the episode was the importance of direct relationships between FinTechs and their partner banks. *Immad Akhund is co-founder and CEO of Mercury, a financial technology company serving more than 300,000 businesses.*. #### Trending News. #### Featured News.",
+      "title": "招聘] Sayari AI产品高级总监 - 远程职位",
+      "link": "https://remotive.com/remote/jobs/artificial-intelligence/senior-director-of-ai-products-4902297",
+      "snippet": "Sayari招聘远程AI产品高级总监，负责AI产品战略规划与团队管理",
+      "raw_snippet": "Sayari is hiring a remote Senior Director of AI Products. 💸 Salary: usd 225,000 - 250,000 per year. You will own the product vision, roadmap, and team across",
       "is_chinese": false,
       "source_type": "people",
       "index": 9
     },
     {
-      "title": "Apple unveils new AI features with privacy focus at last developers conference with CEO Tim Cook | PBS News",
-      "link": "https://www.pbs.org/newshour/economy/apple-unveils-new-ai-features-with-privacy-focus-at-last-developers-conference-with-ceo-tim-cook",
-      "snippet": "# Apple unveils new AI features with privacy focus at last developers conference...",
-      "raw_snippet": "# Apple unveils new AI features with privacy focus at last developers conference with CEO Tim Cook. (AP) — Apple unveiled new artificial intelligence features with a focus on privacy and day-to-day at its annual developers conference Monday the last one featuring CEO Tim Cook before he turns his post over to John Ternus in September. While the iconic iPhone maker has been playing catch-up with rivals when it comes to AI, it sought to distinguish itself from its peers by stressing a privacy-centered approach and integrating AI across its devices and apps. The World Wide Developers Conference, which kicked off on Monday thousands of developers from some 65 countries at Apple's Silicon Valley headquarters, focuses on software, in contrast to the fall unveiling of the latest iPhones. Apple CEO Tim Cook gestures on stage during Apple's annual Worldwide Developers Conference in Cupertino, California, on June 8, 2026. Support for News Hour Provided By.",
+      "title": "初创公司AI工程师招聘",
+      "link": "https://www.uplers.com/hire-ai-engineers",
+      "snippet": "2026年5月30+顶级人才 | 48小时内匹配顶级AI工程师，为初创企业提供AI模型设计与开发服务",
+      "raw_snippet": "# Hire Top AI Engineer in 48 Hours! AI Engineers who design, build, and ship intelligent systems, from model integration and fine-tuning to production-ready AI infrastructure. ## Recently Added AI Engineers in our Network. Passionate about leveraging AI to solve real-world problems, I embarked on my journey in technology with a Bachelor of Engineering in Computer Science from RV Institute of Technology and Management, Bangalore. My career began with an exciting role at CloudSEK, where I currently work as a Machine Learning Engineer.Currently, I am a Machine Learning Engineer at CloudSEK, where my daily work involves utilizing cutting-edge technologies like Deep Learning Architectures (CNN, BERT, GPT-3, GPT-4), Generative AI, Advanced Large Language Models in NLP, Reinforcement Learning, Vector Databases (Milvus, Qdrant) to create innovative solutions.In addition to my professional experience, I am dedicated to fostering a community of learners and professionals.",
       "is_chinese": false,
       "source_type": "people",
       "index": 10
     },
     {
-      "title": "Senior Product Manager (Artificial Intelligence) - Fabric Health",
-      "link": "https://www.builtinnyc.com/job/senior-product-manager-artificial-intelligence/9655828",
-      "snippet": "As the Senior Product Manager, AI, you will own the AI product strategy and exec...",
-      "raw_snippet": "As the Senior Product Manager, AI, you will own the AI product strategy and execution for Fabric across both clinician-facing and member-facing surfaces.",
+      "title": "Product Marketing Manager - Raspberry AI | Built In NYC",
+      "link": "https://www.builtinnyc.com/job/product-marketing-manager/9671624",
+      "snippet": "## Raspberry AI. Hiring Remotely in New York, NY, USA. Lead product positioning ...",
+      "raw_snippet": "## Raspberry AI. Hiring Remotely in New York, NY, USA. Lead product positioning and messaging, own GTM strategy and execution for launches, conduct market and customer research, manage competitive intelligence, support content and demand campaigns, and enable sales with localized materials and training to drive pipeline. Raspberry AI is a generative AI design platform built for fashion brands and retailers. We help design, merchandising, and product development teams move faster — from concept to market-ready assets — using industry-leading AI. Some of the world's top fashion brands rely on Raspberry AI to streamline their workflows and accelerate product development. * **AI first:** We use AI across the entire company — from product to growth to operations — to move faster and produce higher-quality work. * **Innovative culture:** A generational opportunity to define the role of AI in one of the world's largest industries. **Launch new products to market**: Own end-to-end product launches including go-to-market messaging, sales enablement materials, and content creation.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "link": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
-      "snippet": "![Image 3: iPhone 17 Pro shows a Siri AI screen featuring a suggested itinerary ...",
-      "raw_snippet": "![Image 3: iPhone 17 Pro shows a Siri AI screen featuring a suggested itinerary for a day in New York City.](https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/article/Apple-iOS-27-Siri-AI-personal-context-260608_inline.jpg.large.jpg). *   [iPhone 17 Pro shows a Time Allowances screen with the prompt to set how long a child can use apps and websites within various categories, including Entertainment, Games, and Social Media.](https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more#gallery-4577e58a625c3f44806f8c391b12df87). ![Image 15: iPhone 17 Pro shows a Time Allowances screen with the prompt to set how long a child can use apps and websites within various categories, including Entertainment, Games, and Social Media.](https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/article/Apple-iOS-27-child-account-Time-Allowances-260608_inline.jpg.large.jpg). ![Image 16: iPhone 17 Pro shows a screen that prompts the user to set when and for how long a child can use various categories of apps and websites.](https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/article/Apple-iOS-27-child-account-Screen-Time-Schedule-260608_inline.jpg.large.jpg). ![Image 17: iPhone 17 Pro shows the setup for which categories of apps and websites are allowed during a specific time window labeled “School” and noted as 8:30 a.m. to 3 p.m.](https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/article/Apple-iOS-27-child-account-Screen-Time-Schedule-settings-260608_inline.jpg.large.jpg).",
+      "title": "NTT DATA CEO: Most Companies Are Thinking About AI the Wrong ...",
+      "link": "https://www.wsj.com/video/ntt-data-ceo-most-companies-are-thinking-about-ai-the-wrong-way/0DAC31FD-F07B-401B-B4B5-DCE459769942",
+      "snippet": "Companies have already spent trillions on AI infrastructure, but how many have f...",
+      "raw_snippet": "Companies have already spent trillions on AI infrastructure, but how many have figured out how to turn that investment into business value?",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "AI Product Manager at AnswerRocket - United States Remote",
-      "link": "https://www.remoterocketship.com/company/answerrocket/jobs/ai-product-manager-united-states-remote",
-      "snippet": "AnswerRocket is a company that provides an advanced analytics platform leveragin...",
-      "raw_snippet": "AnswerRocket is a company that provides an advanced analytics platform leveraging generative AI and machine learning to enhance business intelligence. By",
+      "title": "Artificial Intelligence jobs in Remote - Indeed",
+      "link": "https://www.indeed.com/q-artificial-intelligence-l-remote-jobs.html",
+      "snippet": "Artificial intelligence jobs in Remote. Full Stack Developer - AI Trainer. Easil...",
+      "raw_snippet": "Artificial intelligence jobs in Remote. Full Stack Developer - AI Trainer. Easily apply. DataAnnotation. Remote. Up to $100 an hour. Full-time. On demand.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Flexible Artificial Intelligence Ai Director Remote Jobs - Indeed",
-      "link": "https://www.indeed.com/q-artificial-intelligence-ai-director-remote-jobs.html",
-      "snippet": "Browse 1890 Artificial Intelligence Ai Director Remote job openings. Discover fl...",
-      "raw_snippet": "Browse 1890 Artificial Intelligence Ai Director Remote job openings. Discover flexible, work-from-home opportunities on Indeed in fields like tech, admin,",
+      "title": "Artificial Intelligence and Succession Planning in South African ...",
+      "link": "https://www.wr-publishing.org/index.php/ijarbm/article/view/703",
+      "snippet": "Evidence suggests that AI is most effective when deployed as a complementary too...",
+      "raw_snippet": "Evidence suggests that AI is most effective when deployed as a complementary tool within governance structures that retain human judgement while enhancing",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Associate Director of AI Product Development - Verizon - Irving, TX, US",
-      "link": "https://www.dice.com/job-detail/d654ce42-6971-4a9c-8e2c-3bded9df1aaa",
-      "snippet": "Experience in the application of artificial intelligence to the development of f...",
-      "raw_snippet": "Experience in the application of artificial intelligence to the development of functioning systems and product development. A proven track record of",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Artificial Intelligence I Publications | Roland Berger",
-      "link": "https://www.rolandberger.com/en/Insights/Global-Topics/Artificial-Intelligence",
-      "snippet": "How performance culture drives results: Defining behaviors and aligning leadersh...",
-      "raw_snippet": "How performance culture drives results: Defining behaviors and aligning leadership to turn organizational culture into a measurable performance advantage. The Handelsblatt Jahrestagung Chemie 2026 brings together senior executives and industry experts to discuss the future of the chemical industry, including competitiveness, energy and raw material supply, sustainability and innovation. On May 19, our Partner  Christian Lumpe will participate in the panel “Consolidation of the chemical industry: Causes, opportunities and risks”, sharing his perspective on the key transformation challenges and opportunities shaping the sector. Together with Alixio, Roland Berger invites senior decision-makers to a morning session in Paris dedicated to the structural implications of AI on workforce transformation. To guide organizations in implementing the right solutions, we combine our proprietary Roland Berger AI lab of products, methodologies and tools with a deep understanding of the industries our clients operate in. The successful application of artificial intelligence calls for a transformation in culture and processes and the navigation of potential risks and insecurities — from IT (infrastructure) security to regulatory compliance to talent scarcity.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Head of Hardware Product Design - San Francisco - Plaud.ai",
-      "link": "https://www.builtinsf.com/job/head-hardware-product-design-san-francisco/8673014",
-      "snippet": "Lead the design and development of AI-native hardware, building a world-class de...",
-      "raw_snippet": "Lead the design and development of AI-native hardware, building a world-class design team and defining new product categories like AI wearables and companion",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Senior Agentic AI Product Manager - Apple - BeBee",
-      "link": "https://bebee.com/us/jobs/senior-agentic-ai-product-manager-apple-austin-tx--theirstack-709588752",
-      "snippet": "As a Senior Agentic AI Product Manager, you will own the full lifecycle of agent...",
-      "raw_snippet": "As a Senior Agentic AI Product Manager, you will own the full lifecycle of agent products - from discovery through deployment and ongoing quality iteration. You",
+      "title": "Why Your AI for Sales Investment Isn’t Paying Off — And What to Do About It | No Smoke and Mirrors",
+      "link": "https://www.nosmokeandmirrors.com/2026/06/09/why-your-ai-for-sales-investment-isnt-paying-off-and-what-to-do-about-it",
+      "snippet": "# Why Your AI for Sales Investment Isn’t Paying Off — And What to Do About It. E...",
+      "raw_snippet": "# Why Your AI for Sales Investment Isn’t Paying Off — And What to Do About It. Every week I hear some version of the same story. A CEO comes back from a conference energized about AI for sales. (How AI does what you have wanted your sales team to do for years) Your marketing agency is now an AI for sales expert and recommends investing in AI for sales and increasing their monthly retainer. Or my favorite, the CEO’s buddy on the golf course recommends AI for sales to improve results and lower costs. They select a tool, write a check, make an announcement, and expect the organization to embrace the change. The sales team isn’t using the platform (they are selling around it, like your CRM). ### What does the research say about AI for sales and failure to meet goals and ROI? #### **Here’s what happened: most companies assume they have an AI for Sales problem. ### **The AI for Sales Technology Isn’t Failing.",
       "is_chinese": false,
       "source_type": "people"
     },
@@ -249,6 +201,30 @@
       "link": "https://podcast.emerj.com",
       "snippet": "## From Experimentation to Clinical-grade AI in Healthcare - with Alex Tyrrell o...",
       "raw_snippet": "## From Experimentation to Clinical-grade AI in Healthcare - with Alex Tyrrell of Wolters Kluwer. Agentic AI is running into a hard limit: most enterprise. CTO of Health at Wolters Kluwer, joins Emerj’s Matthe DeMello to. ## Capturing Tribal Knowledge to Solve the Manufacturing Skills Gap - with Sebastian Dykas of Smith+Nephew. Dykas, Director of Manufacturing, Engineering, and... ## Designing Supply Chains for Volatility - with Dr. Gopalendu Pal of Target. In this episode, Dr. Gopalendu Pal,. Director of Operations at Target, joins us to examine how... a primary operational risk for financial institutions and. Morino, Director of Market and Behavioral Research at... ## Building Trustworthy AI for Enterprise Workflows - with Amar Akshat of PaySafe. The consistency gap in enterprise AI represents a critical. The AI in Business Podcast is for non-technical business leaders who need to find AI opportunities, align AI capabilities with strategy, and deliver ROI.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "AI Audit Tools and What Accounting Firms Expect from New Hires",
+      "link": "https://www.kent.edu/business/ms-accounting-blog/ai-audit-tools-new-hires",
+      "snippet": "The practical effect for a new hire is that AI in auditing maneuvers the first-y...",
+      "raw_snippet": "The practical effect for a new hire is that AI in auditing maneuvers the first-year role into interpretation work earlier than it used to. The software prepares",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Lead Product Manager, AI Platform at DISNEY",
+      "link": "https://jobs.disneycareers.com/job/orlando/lead-product-manager-ai-platform/391/96229134752",
+      "snippet": "At Disney Experiences Technology, our team creates world-class immersive digital...",
+      "raw_snippet": "At Disney Experiences Technology, our team creates world-class immersive digital experiences for the Company’s premier vacation brands including Disney’s Parks & Resorts worldwide, Disney Cruise Line, Aulani, A Disney Resort & Spa, and Disney Vacation Club. As a Lead Product Manager (AI Platform), you will report into the Senior Manager, AI Platform, and serve as the senior technical IC inside a Product Engineering pod focused on translating internal stakeholder needs into shipped AI capabilities on the platform stack. You will own the path from initial stakeholder conversation through working system — scoping, building, evaluating, and graduating or retiring AI work end-to-end — and will set the technical direction for how the team prototypes and ships. You will operate independently of the standard sprint cycle, work directly with internal stakeholders without a PM intermediary, and influence adjacent engineers and PMs without managing them. * Drive technical direction for the Product Engineering pod within the AI Platform team: setting prototyping standards, evaluation patterns, and shared tooling that the rest of the team builds on.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Manager Artificial Intelligence – Agentic in Hyderabad, Telangāna, India | Technology at Southwest",
+      "link": "https://careers.southwestair.com/in/en/job/R-2026-68182/Manager-Artificial-Intelligence-Agentic",
+      "snippet": "Hmm...It looks like this career has changed gates! This job has closed at this t...",
+      "raw_snippet": "Hmm...It looks like this career has changed gates! This job has closed at this time, but it might open again soon! In the mean time, why don't you join our Talent Community? That's the best way to ensure you recieve an email as soon as it opens up again, or when we have something that you might like. ### Land a career with Heart. Photo of Customer Relations Specialist, Kelby S. ##### A career by you, **for you**. Photo of two Employees laughing in the office. ##### A job built on **partnership**. Photo of Captain Tyrone W. laughing in the flight deck. ##### A Culture of **caring**. Photo of Customer Service Agents singing together at a gate. ##### A part of a winning Team. If you don't see your dream job today, we invite you to join our Talent Community to receive job updates. We'll notify you about relevant positions and keep you in mind when interesting opportunities become available.",
       "is_chinese": false,
       "source_type": "people"
     }
