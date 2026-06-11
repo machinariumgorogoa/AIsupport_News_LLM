@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-11",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI热潮掀起IPO竞赛，或重塑行业格局与市场力量平衡",
+          "link": "https://english.elpais.com/economy-and-business/2026-06-10/ai-fever-sparks-an-ipo-race-that-threatens-to-change-the-balance-of-financial-markets.html",
+          "snippet": "AI fever引发IPO race，或将改变市场balance of power，科技公司竞相上市把握资本风口。",
+          "index": 1
+        },
+        {
+          "title": "融资、人工智能及其他法官与律师事务",
+          "link": "https://www.druganddevicelawblog.com/2026/06/funding-artificial-intelligence-and-other-bench-bar-business.html",
+          "snippet": "探讨法律界在AI时代的funding趋势与bench-bar业务新动态，解析司法与律师行业智能化转型。",
+          "index": 2
+        },
+        {
+          "title": "身着宇航服的AI IPO：SpaceX案例研究",
+          "link": "https://etfdb.com/artificial-intelligence-content-hub/ai-ipo-spacesuit",
+          "snippet": "SpaceX作为AI概念IPO的独特性，space与AI技术融合催生新型投资标的，颠覆传统估值逻辑。",
+          "index": 3
+        },
+        {
+          "title": "过于先进而难以负担？人工智能投资与成本效益研究",
+          "link": "https://www.sciencedirect.com/science/article/pii/S1544612326008627",
+          "snippet": "论文检验企业AI investment回报，分析高端AI技术是否具备affordability，探讨智能化投入产出比。",
+          "index": 4
+        },
+        {
+          "title": "5家律所指导AI初创公司Robseek的10亿美元SPAC合并",
+          "link": "https://www.law360.com/articles/2487983/5-firms-guide-ai-startup-robseek-s-1b-spac-merger",
+          "snippet": "五家顶级律所联合为Robseek的$1B SPAC merger提供法律服务，创AI初创企业借壳上市新纪录。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "随着AI工具能力增强，雇佣人工智能是否成为新趋势",
+          "link": "https://community.openai.com/t/as-ai-tools-become-more-capable-is-hiring-artificial-intelligence-engineers-becoming-more-important-or-less-necessary/1383344",
+          "snippet": "探讨企业是否应直接hiring AI系统替代传统人力，AI capability跃升推动recruitment模式革新。",
+          "index": 6
+        },
+        {
+          "title": "AI如何助力中小企业招聘更优人才",
+          "link": "https://www.uschamber.com/co/run/human-resources/ai-hiring-for-small-businesses",
+          "snippet": "美国US Chamber of Commerce发布指南，阐述AI技术帮助small businesses优化talent acquisition，提升招聘精准度。",
+          "index": 7
+        },
+        {
+          "title": "微软CEO萨提亚·纳德拉称\"每个人都是AI的利益相关者\"",
+          "link": "https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html",
+          "snippet": "Nadella回应AI backlash，强调stakeholder capitalism在artificial intelligence治理中的核心地位。",
+          "index": 8
+        },
+        {
+          "title": "\"CEO必须兼任首席AI官\"：YC创业图书馆",
+          "link": "https://www.ycombinator.com/library/RB-the-ceo-must-be-the-chief-ai-officer",
+          "snippet": "Brex联合创始人Pedro Franceschi在Lightcone Podcast阐述，chief executive需亲自掌舵企业AI strategy与转型。",
+          "index": 9
+        },
+        {
+          "title": "南加州大学聘请大学橄榄球史上首位人工智能总监",
+          "link": "https://www.athleticbusiness.com/operations/personnel/article/15827344/report-usc-hires-college-footballs-firstever-director-of-artificial-intelligence",
+          "snippet": "USC开创先例，在college football项目设立director of artificial intelligence职位，引领体育科技化变革。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
