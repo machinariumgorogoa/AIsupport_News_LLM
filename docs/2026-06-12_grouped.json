@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-12",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "巨型IPO：如何看待SpaceX、Anthropic和OpenAI",
+          "link": "https://www.bluetrust.com/insight/mega-ipos-how-to-think-about-spacex-anthropic-and-openai",
+          "snippet": "分析SpaceX、Anthropic与OpenAI等独角兽企业的IPO前景与估值逻辑，探讨AI与航天领域的资本化路径。",
+          "index": 1
+        },
+        {
+          "title": "专访：AI如何推动并购并改变流程",
+          "link": "https://www.skadden.com/insights/publications/2026/06/the-informed-board/interview-how-ai-is-driving-ma",
+          "snippet": "Skadden律所专家解析人工智能在尽职调查、合同审查中的应用，以及AI技术如何重塑M&A交易效率与决策模式。",
+          "index": 2
+        },
+        {
+          "title": "在为IPO窗口欢呼前，关注资金流向",
+          "link": "https://news.crunchbase.com/public/ipo-window-liquid-money-ma-schroder-mgv",
+          "snippet": "提醒投资者警惕AI与国防科技IPO热潮中的资本配置风险，关注公开市场与并购市场的资金实际流向。",
+          "index": 3
+        },
+        {
+          "title": "四家AI公司计划融资...",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/4-artificial-intelligence-ai-companies-163200217.html",
+          "snippet": "聚焦AI企业IPO与融资动态，分析货币市场账户与一级市场投资趋势，探讨AI板块资本募集的市场环境。",
+          "index": 4
+        },
+        {
+          "title": "AI在企业估值中：得力助手还是过度自信的实习生？",
+          "link": "https://www.meadenmoore.com/blog/consulting/ai-in-business-valuation-helpful-assistant-or-overconfident-intern-meaden-moore?hs_amp=true",
+          "snippet": "探讨AI技术在企业估值中的应用边界，分析机器学习模型对目标公司价值评估的辅助作用与潜在偏差。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "南加大聘请Conor McQuiston担任AI总监",
+          "link": "https://trojanswire.usatoday.com/story/sports/college/trojans/football/2026/06/11/lincoln-riley-usc-football-hire-director-artificial-intelligence/90504621007",
+          "snippet": "南加州大学体育项目首创先例，任命首位人工智能总监，推动AI技术在运动员表现分析与训练优化中的应用。",
+          "index": 6
+        },
+        {
+          "title": "Govra（General Catalyst投资）招聘首席运营官",
+          "link": "https://www.builtinsf.com/job/chief-staff-govra-general-catalyst-backed/9142143",
+          "snippet": "Jack & Jill AI旗下Govra公司招聘CoS，负责协助CEO战略规划与执行，支持AI初创",
+          "index": 7
+        },
+        {
+          "title": "[Hiring] AI Product Engineer @HI Technology & Innovation",
+          "link": "https://remotive.com/remote/jobs/artificial-intelligence/ai-product-engineer-4925164",
+          "snippet": "We're looking for an AI Product Engineer in New Zealand to work on a focused, hi...",
+          "index": 8
+        },
+        {
+          "title": "Anthropic CEO floats AI tax to fund universal basic income",
+          "link": "https://www.foxbusiness.com/video/6398194818112",
+          "snippet": "Log in to comment on videos and join in on the fun. Watch the live stream of Fox...",
+          "index": 9
+        },
+        {
+          "title": "xAI — Creators of Grok, the AI Chatbot",
+          "link": "https://x.ai",
+          "snippet": "*   [Products](https://x.ai/grok). *   [Solutions](https://x.ai/solutions). *   ...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
