@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-13",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "CNN精彩访谈：探讨重大IPO与人工智能的重要性",
+          "link": "https://x.com/CoryTV/status/2065491823095648564",
+          "snippet": "我们在CNN讨论这一重大IPO及人工智能技术发展的重要意义与深远影响",
+          "index": 1
+        },
+        {
+          "title": "SpaceX巨额IPO后，美国人财务未来将与AI紧密相连",
+          "link": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
+          "snippet": "探讨SpaceX上市对美国经济及人工智能产业发展的深远影响与关联",
+          "index": 2
+        },
+        {
+          "title": "Game Your Game(GYGY)IPO：专注开发AI驱动技术",
+          "link": "https://www.renaissancecapital.com/Profile/GYGY/Game-Your-Game/IPO",
+          "snippet": "开发并销售基于人工智能(\"AI\")的创新技术产品，推动行业智能化转型升级",
+          "index": 3
+        },
+        {
+          "title": "切勿抛售AI股票以筹资认购SpaceX IPO",
+          "link": "https://www.fool.com/investing/2026/06/12/dont-sell-this-ai-stock-to-fund-a-spacex-ipo-purch",
+          "snippet": "无论短期股价如何波动，这只人工智能股票都值得长期持有而非变现套现",
+          "index": 4
+        },
+        {
+          "title": "OpenAI IPO：投资者认购前必看指南",
+          "link": "https://marketwise.com/investing/openai-ipo-what-investors-must-see-before-buying",
+          "snippet": "投资这家顶尖AI初创公司IPO前必须审视的核心要素、技术壁垒与估值指标",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "FutureSight诚聘AI零售规划自动驾驶联合创始人兼CEO",
+          "link": "https://www.monster.com/job-openings/co-founder-ceo-ai-retail-planning-autopilot-chicago-il--d51ea87d-3902-424a-ac7a-109889dbba36",
+          "snippet": "寻找领导者掌舵Maestro项目，推动AI零售规划自动驾驶技术商业化落地",
+          "index": 6
+        },
+        {
+          "title": "AI联合创始人/首席产品技术官招募",
+          "link": "https://www.remoterocketship.com/company/ewor-2/jobs/artificial-intelligence-co-founder-chief-product-technology-officer-greece-remote",
+          "snippet": "提供高达50万欧元启动资金、定制化导师指导及全方位创业支持资源",
+          "index": 7
+        },
+        {
+          "title": "亚马逊创始人杰夫·贝索斯创办全新AI初创公司",
+          "link": "https://www.abccolumbia.com/2026/06/12/amazon-founder-jeff-bezos-begins-start-up-ai-company",
+          "snippet": "其初创公司Prometheus致力于开发突破性人工智能技术与创新应用",
+          "index": 8
+        },
+        {
+          "title": "共建生成式AI未来——亚马逊AI人才招聘",
+          "link": "https://www.amazon.jobs/content/en/artificial-intelligence-ai",
+          "snippet": "加入亚马逊AI团队，参与构建下一代Generative AI技术架构与产品生态",
+          "index": 9
+        },
+        {
+          "title": "KPG 99招聘AI产品负责人",
+          "link": "https://www.dice.com/job-detail/775cd5c5-b74f-42e0-9df0-feebd610a75e",
+          "snippet": "负责AI产品战略定义与需求优先级管理，推动人工智能产品路线图落地与商业化进程",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
