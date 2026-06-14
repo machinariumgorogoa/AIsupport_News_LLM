@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-14",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "OpenAI在IPO前夕遭多州调查用户损害风险",
+          "link": "https://www.pbs.org/newshour/nation/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms",
+          "snippet": "OpenAI面临多州对其可能造成的用户伤害展开调查，正值其IPO上市临近之际，监管压力加剧。",
+          "index": 1
+        },
+        {
+          "title": "科技行业能否支撑万亿美元估值？- 雅虎财经",
+          "link": "https://finance.yahoo.com/video/tech-justify-trillion-dollar-valuation-121017483.html",
+          "snippet": "探讨科技巨头尤其是AI公司的高估值是否合理，分析其商业模式与盈利能力能否支撑万亿市值。",
+          "index": 2
+        },
+        {
+          "title": "Anthropic撤回新AI模型，对其IPO意味着什么？- 巴伦周刊",
+          "link": "https://www.barrons.com/articles/anthropic-ipo-ai-models-fable-mythos-0598f184",
+          "snippet": "Anthropic撤回新模型事件引发市场关注，分析此举对其潜在IPO计划及估值的影响。",
+          "index": 3
+        },
+        {
+          "title": "人工智能与企业影子银行：实证研究",
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0160791X2600045X",
+          "snippet": "研究表明AI通过加速企业金融化进程，助力公司开展影子银行业务，改变传统金融格局。",
+          "index": 4
+        },
+        {
+          "title": "获Y Combinator资助的AI初创公司（2026）",
+          "link": "https://www.ycombinator.com/companies/industry/Artificial%20Intelligence",
+          "snippet": "盘点获YC投资的AI初创企业，涵盖B2B、网络安全、SaaS及无代码平台等热门赛道。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "谁将为智能定价？",
+          "link": "https://x.com/JayaGup10/article/2065965053334216718",
+          "snippet": "Jaya Gupta | AI正将智能转化为可定价资源，探讨在AI时代谁掌握定价权及智力商品化的经济影响。",
+          "index": 6
+        },
+        {
+          "title": "AI联合创始人/产品负责人（100%远程）",
+          "link": "https://www.cybersecurityjobsite.com/job/5536984/artificial-intelligence-co-founder-head-of-product-100-percent-remote-m-f-d-",
+          "snippet": "招聘AI领域联合创始人或产品负责人，要求具备AI产品经验，支持 fully remote 工作模式。",
+          "index": 7
+        },
+        {
+          "title": "远程联合创始人兼CEO - AI内容智能与出版平台",
+          "link": "https://bebee.com/ca/jobs/remote-co-founder-ceo-ai-content-intelligence-publishing-engine-futuresight-mount-royal--talent-623516071203637664",
+          "snippet": "FutureSight招募CEO兼联合创始人，负责领导AI内容智能平台InfluTrack的战略发展与运营。",
+          "index": 8
+        },
+        {
+          "title": "人工智能产品负责人",
+          "link": "https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Product-Owner---Artificial-Intelligence_REQ259969",
+          "snippet": "招聘AI产品负责人，负责构建下一代AI驱动的风险管理与合规监管解决方案，推动产品创新。",
+          "index": 9
+        },
+        {
+          "title": "亚马逊CEO与美方会谈引发监管审查 - 华尔街日报",
+          "link": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+          "snippet": "亚马逊CEO与美国政府官员会谈后触发监管打击，涉及反垄断及市场竞争相关调查。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
