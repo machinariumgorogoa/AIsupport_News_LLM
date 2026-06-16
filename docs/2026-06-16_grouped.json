@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-16",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Salesforce以36亿美元收购agentic AI公司Fin - CIO",
+          "link": "https://www.cio.com/article/4185285/salesforce-buying-agentic-ai-firm-fin-for-3-6-billion.html",
+          "snippet": "Salesforce收购Fin公司，押注agentic AI技术未来发展。",
+          "index": 1
+        },
+        {
+          "title": "驾驭AI IPO浪潮 - Horizon Investments",
+          "link": "https://www.horizoninvestments.com/navigating-the-ai-ipo-wave",
+          "snippet": "AI企业首次公开募股浪潮兴起，投资者需谨慎应对市场机遇与风险。",
+          "index": 2
+        },
+        {
+          "title": "英伟达加入华尔街AI融资浪潮 - Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-joins-wall-streets-ai-funding-wave-163231887.html",
+          "snippet": "英伟达参与华尔街AI领域大规模融资活动，推动人工智能投资热潮。",
+          "index": 3
+        },
+        {
+          "title": "AI正驱动新资本周期并考验市场容量 - TCW",
+          "link": "https://www.tcw.com/insights/2026/2026-06-15-quick-take",
+          "snippet": "人工智能引发资本市场新周期，同时测试市场吸纳巨额投资的能力极限。",
+          "index": 4
+        },
+        {
+          "title": "2026年AI领域的构建、支持与收购 - PitchBook",
+          "link": "https://pitchbook.com/video-library/building-backing-and-buying-ai-in-2026",
+          "snippet": "展望2026年，AI行业将通过自主研发、投资支持和并购整合加速发展。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI就业晴雨表 - 普华永道",
+          "link": "https://www.pwc.com/gx/en/services/ai/ai-jobs-barometer.html",
+          "snippet": "普华永道发布AI就业监测报告，分析人工智能对劳动力市场的影响趋势。",
+          "index": 6
+        },
+        {
+          "title": "AI产品与服务发布（2026年6月15日）- PLANADVISER",
+          "link": "https://www.planadviser.com?p=120944",
+          "snippet": "BetaNXT与DeepSee合作推出AI解决方案，助力投资顾问提升客户留存率。",
+          "index": 7
+        },
+        {
+          "title": "微软CEO警告AI可能掏空整个行业",
+          "link": "https://www.bizjournals.com/seattle/news/2026/06/15/microsoft-ceo-nadella-artificial-intelligence.html",
+          "snippet": "Satya Nadella警告称，AI价值集中可能摧毁传统行业结构，导致产业空心化。",
+          "index": 8
+        },
+        {
+          "title": "xAI",
+          "link": "https://x.ai",
+          "snippet": "马斯克旗下xAI公司发布Grok产品，提供生成式AI解决方案服务。",
+          "index": 9
+        },
+        {
+          "title": "CPO崛起系列：康卡斯特产品SVP谈为AI重构产品生命周期",
+          "link": "https://productsthatcount.com/cpo-rising-series-comcast-product-svp-on-rewiring-the-entire-product-lifecycle-for-ai",
+          "snippet": "康卡斯特产品高级副总裁分享如何全面重构产品生命周期以适应AI转型。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
