@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-18",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI在Valuation Report Writing中的应用：2026年分析师实用指南",
+          "link": "https://quickreadbuzz.com/2026/06/17/bv-pm-nancy-mccarthy-ai-in-valuation-report-writing",
+          "snippet": "面向金融咨询专业人士，详解AI如何辅助估值报告撰写，提升分析师工作效率与准确性。",
+          "index": 1
+        },
+        {
+          "title": "Robo.ai宣布拟收购QC Capital",
+          "link": "https://finance.yahoo.com/technology/ai/articles/robo-ai-announces-proposed-acquisition-060700017.html",
+          "snippet": "Robo.ai宣布计划收购AI金融公司QC Capital，进一步扩展其在人工智能投资领域的技术布局。",
+          "index": 2
+        },
+        {
+          "title": "AI驱动的M&A：人工智能如何重塑交易全流程",
+          "link": "https://capital-riesgo.es/en/articles/ai-driven-m-a-how-artificial-intelligence-is-reshaping-every-stage-of-the-deal-cycle",
+          "snippet": "探讨AI技术如何变革并购(M&A)交易的尽职调查、估值分析到后期整合等各阶段操作。",
+          "index": 3
+        },
+        {
+          "title": "SpaceX同意收购AI编程代理Cursor",
+          "link": "https://www.govconwire.com/category/ma-activity",
+          "snippet": "据GovCon Wire报道，SpaceX达成协议收购AI编程工具Cursor，加码布局人工智能编程代理领域。",
+          "index": 4
+        },
+        {
+          "title": "什么是Agentic AI及其如何影响M&A？",
+          "link": "https://grata.com/resources/agentic-ai-impacting-mergers-acquisitions",
+          "snippet": "解析Agentic AI（自主智能体）技术特性，及其在并购交易工作流程自动化与决策优化中的应用。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Allbirds更名为Smartbird并聘请CEO后股价飙升",
+          "link": "https://www.cnbc.com/amp/2026/06/17/allbirds-bird-ai-smartbird-ceo.html",
+          "snippet": "鞋履品牌Allbirds更名为Smartbird并任命新CEO，全面转向AI战略，推动公司股价大幅上涨。",
+          "index": 6
+        },
+        {
+          "title": "贝索斯：AI将导致劳动力短缺而非取代人类",
+          "link": "https://thehill.com/policy/technology/5928754-jeff-bezos-ai-labor",
+          "snippet": "亚马逊创始人杰夫·贝索斯认为，AI技术发展将创造更多就业机会，反而可能导致劳动力短缺。",
+          "index": 7
+        },
+        {
+          "title": "\"AI将造成劳动力短缺\"：贝索斯谈AI与就业",
+          "link": "https://fortune.com/2026/06/17/ai-create-more-jobs-labor-shortage-jeff-bezos",
+          "snippet": "杰夫·贝索斯预测AI将创造更多工作岗位而非大规模失业，未来可能出现劳动力供不应求局面。",
+          "index": 8
+        },
+        {
+          "title": "英伟达CEO黄仁勋对AI批评者的建议",
+          "link": "https://www.businessreport.com/article/nvidia-ceo-jensen-huangs-advice-to-critics-of-ai",
+          "snippet": "黄仁勋回应质疑AI就业影响的批评者，建议积极拥抱技术变革，强调AI将创造新的就业机会。",
+          "index": 9
+        },
+        {
+          "title": "首席AI工程师 - Mirakl平台/广告/目录",
+          "link": "https://www.mirakl.com/careers/6092533004",
+          "snippet": "招聘首席AI工程师，负责Mirakl电商平台、广告系统及目录管理产品的AI技术研发与架构设计。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
