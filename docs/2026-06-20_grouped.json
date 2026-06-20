@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-20",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "人工智能作为并购(M&A)催化剂",
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S1057521926000906",
+          "snippet": "研究发现，企业采用AI技术能显著提升其并购活动频率与成功率，成为推动行业整合的关键技术驱动力。",
+          "index": 1
+        },
+        {
+          "title": "创始人如何利用AI与SBA Loan收购企业",
+          "link": "https://www.inc.com/dave-kerpen/sba-acquisition-loan-program-ai-company/91362709",
+          "snippet": "一位创业者结合AI技术工具与SBA贷款融资方案，成功完成公司收购，展示技术驱动型并购的创新路径。",
+          "index": 2
+        },
+        {
+          "title": "观点：AI会产生幻觉，金融市场亦然",
+          "link": "https://amp.scmp.com/opinion/world-opinion/article/3357574/ai-has-been-known-hallucinate-so-have-financial-markets",
+          "snippet": "股市因美国科技巨头AI布局而繁荣，但投资者需警惕类似AI Hallucination的市场过度乐观预期与估值泡沫风险。",
+          "index": 3
+        },
+        {
+          "title": "法律顾问，并购(M&A)部门",
+          "link": "https://saputo.wd5.myworkdayjobs.com/en-US/Saputo_External_Careers/job/Montral-QC/Legal-Counsel--Mergers---Acquisitions_JR64896",
+          "snippet": "该M&A法律顾问职位招聘信息显示，公司可能使用AI工具进行候选人初筛，体现AI在法务招聘领域的渗透应用。",
+          "index": 4
+        },
+        {
+          "title": "Robo.ai宣布拟收购QC Capital",
+          "link": "https://ai-techpark.com/robo-ai-announces-proposed-acquisition-of-qc-capital",
+          "snippet": "此次Proposed Acquisition标志着Robo.ai在AI技术生态布局中的战略进阶，将增强其在智能自动化领域的资本实力。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "EWOR招聘AI Co-Founder/CEO（欧洲远程）",
+          "link": "https://www.remoterocketship.com/company/ewor-2/jobs/ai-co-founder-ceo-europe-remote",
+          "snippet": "EWOR面向欧洲远程招聘AI联合创始人兼CEO，要求候选人具备AI技术背景与远程团队管理能力，推动欧洲AI创业生态。",
+          "index": 6
+        },
+        {
+          "title": "AI Chief of Staff - Product.ai",
+          "link": "https://www.builtinla.com/job/ai-chief-staff/9828863",
+          "snippet": "Product.ai在洛杉矶招聘AI Chief of Staff，负责协调AI产品战略落地，要求具备AI产品管理与跨部门协作经验。",
+          "index": 7
+        },
+        {
+          "title": "CEO Chief of Staff - Builder-Orchestrator - Product.ai",
+          "link": "https://builtin.com/job/chief-staff-ceo-builder-orchestrator/9561679",
+          "snippet": "Product.ai招聘CEO首席幕僚，专注Builder-Orchestrator业务线，需协调AI产品开发与商业化战略执行。",
+          "index": 8
+        },
+        {
+          "title": "AI Product Management：角色、技能与最佳实践",
+          "link": "https://origamistudios.us/blog/ai-product-management",
+          "snippet": "系统解析AI产品经理的核心职责、技术素养要求及AI产品生命周期管理的行业最佳实践方法论。",
+          "index": 9
+        },
+        {
+          "title": "远程AI职位招聘 - Indeed平台",
+          "link": "https://www.indeed.com/q-artificial-intelligence-l-remote-jobs.html",
+          "snippet": "Indeed平台现有7741个Remote AI岗位开放，涵盖机器学习工程师、AI产品经理等职位，反映远程AI就业市场活跃。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
