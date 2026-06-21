@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-21",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "2只AI股票有望从Anthropic IPO中大幅获益",
+          "link": "https://www.aol.com/articles/2-artificial-intelligence-ai-stocks-200700684.html",
+          "snippet": "Anthropic即将IPO，两只人工智能股票 poised to win big，投资者关注其潜在收益机遇。",
+          "index": 1
+        },
+        {
+          "title": "SpaceX IPO刺激AI公开募股预期",
+          "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/spacex-ipo-spurs-ai-public-offering-anticipation",
+          "snippet": "SpaceX引发市场对类似公开发行的期待浪潮，AI公司IPO anticipation持续升温，StartupHub.ai分析其影响。",
+          "index": 2
+        },
+        {
+          "title": "两家公司十天内相继提交IPO申请，内部数据揭秘",
+          "link": "https://medium.com/@aftab001x/two-companies-filed-for-ipo-ten-days-apart-a58da7c2474d",
+          "snippet": "OpenAI实际上在补贴成为行业领先者的成本，两家AI企业密集递交上市申请引发关注。",
+          "index": 3
+        },
+        {
+          "title": "3只兼具盈利增长与估值债务疑问的AI股票",
+          "link": "https://simplywall.st/stocks/us/semiconductors/nasdaq-alab/astera-labs/news/3-ai-stocks-combining-earnings-growth-with-valuation-and-deb",
+          "snippet": "对投资者而言，挑战不在于发现AI趋势，而在于甄别兼具收益增长与财务风险的标的。",
+          "index": 4
+        },
+        {
+          "title": "Brian Roemmele：某人可能引发AI Ice Age而非AI Winter",
+          "link": "https://x.com/BrianRoemmele/status/2068543988664279251",
+          "snippet": "若此人继续如此言论，很可能导致AI Ice Age（AI冰期），而非简单的AI Winter（AI寒冬）。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI联合创始人/产品负责人（100%远程）",
+          "link": "https://www.cybersecurityjobsite.com/job/5538811/artificial-intelligence-co-founder-head-of-product-100-percent-remote-m-f-d-",
+          "snippet": "招聘人工智能联合创始人兼产品负责人，100%远程工作，负责AI产品战略与执行。",
+          "index": 6
+        },
+        {
+          "title": "强生CEO为何称AI为医疗\"Force Multiplier\"",
+          "link": "https://www.wsj.com/video/series/wsj-leadership-institute-leaders/why-jjs-ceo-calls-ai-a-healthcare-force-multiplier/52B98BDF-D932-451C-B2D3-5DEFDABA3321",
+          "snippet": "强生CEO Joaquin Duato解释公司如何将AI作为healthcare force multiplier（力量倍增器）推动医疗创新。",
+          "index": 7
+        },
+        {
+          "title": "人工智能集团产品经理",
+          "link": "https://www.iimjobs.com/j/group-product-manager-artificial-intelligence-1707698?ref=cl&jobPos=30",
+          "snippet": "主导AI与machine learning模型集成到产品中的工作，负责AI产品路线图与团队管理。",
+          "index": 8
+        },
+        {
+          "title": "智能已变得充裕，现在掌握闭环至关重要",
+          "link": "https://www.prosus.com/news-insights/2026/intelligence-just-became-abundant-now-own-the-loop",
+          "snippet": "赢家将AI能力feed back到产品中形成闭环，Prosus强调own the loop（掌握反馈闭环）的重要性。",
+          "index": 9
+        },
+        {
+          "title": "AI作为其他创新活动的补充",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/10438599.2026.2682250",
+          "snippet": "本研究调查artificial intelligence与其他创新活动之间的关系，探讨AI对创新的complement（互补）效应。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
