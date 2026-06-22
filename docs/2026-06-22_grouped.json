@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-22",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "苹果供应商领益智造寻求11亿美元香港IPO以资助AI与机器人业务",
+          "link": "https://www.scmp.com/tech/article/3357705/apple-supplier-lingyi-seeks-us11-billion-hong-kong-ipo-fund-ai-and-robotics-push",
+          "snippet": "领益智造计划通过香港IPO筹资11亿美元，用于投资人工智能与机器人技术。",
+          "index": 1
+        },
+        {
+          "title": "Y Combinator资助的人工智能初创企业盘点",
+          "link": "https://www.ycombinator.com/companies/industry/ai/india",
+          "snippet": "Y Combinator投资的AI初创公司涵盖金融科技与服务等多个创新领域。",
+          "index": 2
+        },
+        {
+          "title": "并购视角：私募股权如何押注AI基础设施",
+          "link": "https://www.themiddlemarket.com/feature/how-pe-is-betting-on-the-backbone-of-ai",
+          "snippet": "私募股权已向数字基础设施投资约3200亿美元，押注AI发展基础架构。",
+          "index": 3
+        },
+        {
+          "title": "AI辅助决策中的人为因素",
+          "link": "https://ww3.rics.org/uk/en/modus/technology-and-data/surveying-tools/human-factor-ai-decision.html",
+          "snippet": "Hookham指出AI生成低质量内容可能在建筑环境显现，强调人机协作重要性。",
+          "index": 4
+        },
+        {
+          "title": "AI公司利用高估值股票进行收购引担忧",
+          "link": "https://www.asiae.co.kr/en/article/2026062209020851835",
+          "snippet": "AI企业利用高估值股票进行并购扩张，如与Anthropic合并，引发市场担忧。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "苹果新任CEO为AI定调：工具服务于产品，而非相反",
+          "link": "https://www.aol.com/articles/apple-incoming-ceo-draws-line-123055209.html",
+          "snippet": "苹果候任CEO明确AI定位，强调技术应作为产品服务的工具，而非主导。",
+          "index": 6
+        },
+        {
+          "title": "人工智能联合创始人/产品负责人（100%远程）",
+          "link": "https://dailyremote.com/remote-job/artificial-intelligence-co-founder-head-of-product-100-remote-m-f-d-5176185",
+          "snippet": "候选人将全权拥有、构建并扩展AI初创企业，该职位为100%远程工作。",
+          "index": 7
+        },
+        {
+          "title": "人工智能：HR领域的流行语还是真实能力？",
+          "link": "https://www.peoplehum.com/blog/artificial-intelligence-a-buzzword-or-real-capability-for-hr",
+          "snippet": "真正取得成效的企业正利用AI解决实际问题，而非仅追逐技术概念。",
+          "index": 8
+        },
+        {
+          "title": "AI产品负责人职位急聘",
+          "link": "https://www.ziprecruiter.com/Jobs/Ai-Product-Owner",
+          "snippet": "ZipRecruiter平台发布千余AI产品负责人职位，年薪9.3万至13.1万美元。",
+          "index": 9
+        },
+        {
+          "title": "以人为本的AI战略是CEO赢得客户信任的途径",
+          "link": "https://www.fastcompany.com/91553821/a-human-centric-ai-strategy-is-the-ceos-path-to-inspiring-customers-and-team-members-ai-strategy-leadership",
+          "snippet": "CEO通过实施以人为本的AI战略，建立客户信任并激发市场创新活力。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
