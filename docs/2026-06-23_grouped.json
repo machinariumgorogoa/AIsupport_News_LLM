@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-23",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "ITG在AI驱动需求下美国IPO目标估值27亿美元",
+          "link": "https://csba.org/expert-time/ITG-Targets-27-Billion-Valuation-in-US-IPO-Amid-AIDriven-Demand-38-6291",
+          "snippet": "AI需求推动ITG赴美IPO，目标估值达26.7亿美元，反映市场对AI基础设施服务的高度认可。",
+          "index": 1
+        },
+        {
+          "title": "2026年AI IPO热潮：SpaceX、OpenAI与Anthropic投资指南",
+          "link": "https://intellectia.ai/blog/ai-ipo-boom-2026-investment-guide",
+          "snippet": "展望2026年人工智能公司上市潮，涵盖SpaceX、OpenAI及Anthropic等独角兽IPO投资机会与风险评估。",
+          "index": 2
+        },
+        {
+          "title": "IPO金融智能体：基于自动评分标准的LLM金融分析师评估——以SpaceX IPO为例",
+          "link": "https://arxiv.org/abs/2606.23032",
+          "snippet": "研究LLM金融分析师能力边界，提出自动评分标准（Rubric）并以SpaceX IPO案例进行验证测试。",
+          "index": 3
+        },
+        {
+          "title": "Upscale AI融资延期后估值达20亿美元——路透社",
+          "link": "https://www.reuters.com/business/upscale-ai-valued-2-billion-after-funding-extension-2026-06-22",
+          "snippet": "AI营销科技公司Upscale完成融资延期，估值升至20亿美元，反映投资者对AI SaaS模式的持续看好。",
+          "index": 4
+        },
+        {
+          "title": "AI并购估值倍数：按收入倍数排名的十大交易",
+          "link": "https://www.finrofca.com/news/ai-ma-multiples-top-10-deals-revenue-multiple",
+          "snippet": "分析AI领域并购中企业价值/收入（EV/Revenue）倍数最高的十大交易案例及估值逻辑。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Artificial Intelligence Co-Founder / COO (100 % remote) (m/f/d)",
+          "link": "https://frontendnode-production.up.railway.app/job/artificial-intelligence-co-founder-coo-100-remote-mfd-2",
+          "snippet": "We are looking to hire ambitious entrepreneurs to start and scale their own star...",
+          "index": 6
+        },
+        {
+          "title": "Instacart CMO谈AI购物助手上线——华尔街日报",
+          "link": "https://www.wsj.com/video/instacart-cmo-on-launch-of-ai-shopping-assistant/0352A5C9-B013-4AEB-B3EE-D86F3D8DC53C",
+          "snippet": "Instacart首席营销官Laura Jones介绍新推出的AI购物助手功能及其对 grocery 电商体验的重构。",
+          "index": 7
+        },
+        {
+          "title": "Global Work AI：联合创始人兼CEO Alex Chepovoi专访",
+          "link": "https://pulse2.com/global-work-ai-profile-alex-chepovoi-interview/amp",
+          "snippet": "求职平台Global Work AI利用AI Agent技术帮助求职者匹配全球远程工作机会。",
+          "index": 8
+        },
+        {
+          "title": "Hippocratic AI CEO谈超越\"有限想象力\"——HIMSS TV",
+          "link": "https://himsstv.brightcovegallery.com/detail/videos/ai-ml/video/6332648374112/hippocratic-ai-ceo-on-surpassing-others-limited-imagination?autoStart=true&page=12",
+          "snippet": "Hippocratic AI首席执行官探讨如何通过安全导向的LLM突破医疗AI领域的传统思维局限。",
+          "index": 9
+        },
+        {
+          "title": "AI智能体与平台产品经理——Jerry公司",
+          "link": "https://builtin.com/job/product-owner-ai-agents-and-platform/9850548",
+          "snippet": "Built In | Jerry招聘远程产品经理，负责AI Agents及相关平台的产品规划与生命周期管理。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
