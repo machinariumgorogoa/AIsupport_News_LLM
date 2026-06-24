@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-24",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "2026年全球M&A行业趋势年中展望 - 普华永道",
+          "link": "https://www.pwc.com/gx/en/services/deals/trends.html",
+          "snippet": "普华永道发布2026年M&A行业年中展望，分析AI驱动的全球并购交易趋势与市场格局变化。",
+          "index": 1
+        },
+        {
+          "title": "AI风险加剧致SpaceX估值下滑",
+          "link": "https://www.investing.com/analysis/spacex-valuation-loses-altitude-as-ai-risks-mount-200682646",
+          "snippet": "Investing.com | 随着AI风险上升，SpaceX历史性公开首秀后的峰值市值回落，投资者重新评估科技股估值逻辑。",
+          "index": 2
+        },
+        {
+          "title": "利用AI在M&A中获取竞争优势 - Intralinks",
+          "link": "https://www.intralinks.com/guides/harnessing-ai-in-ma",
+          "snippet": "Intralinks探讨如何利用AI技术在M&A交易中获得竞争优势，提升尽职调查效率与交易决策质量。",
+          "index": 3
+        },
+        {
+          "title": "美国财政部与人工智能政策",
+          "link": "https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/treasury-and-artificial-intelligence",
+          "snippet": "美国财政部发布AI政策文件，探讨人工智能在金融领域的监管框架、风险管理与合规要求。",
+          "index": 4
+        },
+        {
+          "title": "OpenAI Pre-IPO投资指南：通过Libertex参与上市前融资",
+          "link": "https://libertex.org/blog/pre-ipo-open-ai-libertex",
+          "snippet": "介绍投资者如何通过Libertex平台参与OpenAI Pre-IPO投资，在上市前把握生成式AI龙头机遇。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "雅虎CEO谈推出Adtech Agent网络及AI搜索",
+          "link": "https://www.wsj.com/video/yahoo-ceo-on-launching-an-adtech-agent-network-and-ai-search/786E4880-3EE4-40C9-8CB5-983BBE55B6E6",
+          "snippet": "雅虎CEO介绍推出Yahoo Scout AI搜索及Adtech Agent网络，重塑数字广告生态与智能搜索体验。",
+          "index": 6
+        },
+        {
+          "title": "Y Combinator投资的AI初创公司盘点",
+          "link": "https://www.ycombinator.com/companies/industry/ai/india",
+          "snippet": "盘点获Y Combinator资助的AI初创公司，涵盖Bengaluru等地创新团队及前沿人工智能应用案例。",
+          "index": 7
+        },
+        {
+          "title": "AWS CEO Matt Garman解读企业AI ROI实现路径",
+          "link": "https://www.aboutamazon.com/news/aws/aws/aws-matt-garman-enterprise-ai-roi-interview-2026",
+          "snippet": "AWS CEO阐述企业如何通过云端AI服务实现ROI，推动生成式AI从技术试点走向规模化商业落地。",
+          "index": 8
+        },
+        {
+          "title": "全球领导人被敦促应对AI网络安全风险",
+          "link": "https://thehill.com/policy/technology/5936339-ai-cybersecurity-risks-warning",
+          "snippet": "",
+          "index": 9
+        },
+        {
+          "title": "[2606.24655] AI-PAVE-Br: Leveraging Large Language Models for ...",
+          "link": "https://arxiv.org/abs/2606.24655",
+          "snippet": "This work not only delivers a superior, scalable solution for a major non-Englis...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
