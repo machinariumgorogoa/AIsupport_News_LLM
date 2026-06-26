@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-26",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Airwallex融资3.2亿美元，为AI智能体驱动的金融服务提供动力",
+          "link": "https://www.cnbc.com/2026/06/26/airwallex-series-h-funding-11-billion-valuation-ai-finance.html",
+          "snippet": "Airwallex完成3.2亿美元融资，估值达110亿美元，资金用于支持AI agents驱动的金融基础设施建设。",
+          "index": 1
+        },
+        {
+          "title": "并购聚焦：以重资产和服务业策略逆势应对AI热潮",
+          "link": "https://www.spglobal.com/market-intelligence/en/events/webinars/2026/m-and-a-in-focus-bucking-the-ai-boom-with-asset-heavy-and-services-deals",
+          "snippet": "当市场聚焦AI驱动交易时，部分投资者正通过重资产和服务业布局来对冲AI热潮风险。",
+          "index": 2
+        },
+        {
+          "title": "2亿美元，为AI智能体驱动的金融服务提供动力",
+          "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html?eafs_enabled=false",
+          "snippet": "Airwallex完成3.2亿美元融资，估值达110亿美元，资金用于支持AI agents驱动的金融基础设施建设。",
+          "index": 3
+        },
+        {
+          "title": "OpenAI倾向于推迟至明年进行IPO",
+          "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+          "snippet": "本文正在审核中，目前仅提供预览视图。OpenAI可能延迟其IPO计划至次年。",
+          "index": 4
+        },
+        {
+          "title": "Recursive Superintelligence估值、融资及最新动态",
+          "link": "https://stockanalysis.com/private/recursive-superintelligence",
+          "snippet": "Recursive Superintelligence总融资额达6.5亿美元，该公司专注于递归超级智能技术研发。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "ProcUcev - Co-Founder - Technology & AI | iimjobs.com",
+          "link": "https://www.iimjobs.com/j/procucev-co-founder-technology-and-ai-1709343?ref=kp&jobPos=19",
+          "snippet": "As a Co-Founder, you will drive the technology vision, product architecture, AI ...",
+          "index": 6
+        },
+        {
+          "title": "AI时代的招聘策略——True Search观点",
+          "link": "https://trueplatform.com/news/hiring-in-the-ai-era",
+          "snippet": "传统高管招聘方式已不适用，AI时代企业需重新评估人才标准，寻找具备AI素养的领导者。",
+          "index": 7
+        },
+        {
+          "title": "每位代理商创始人终将成为操作系统本身",
+          "link": "https://medium.com/@alizahidraja/every-agency-founder-eventually-becomes-the-operating-system-i-decided-to-replace-mine-4f3774378e66",
+          "snippet": "Entropic创始人指出，AI转型中创始人需从执行者转变为制定规则的\"操作系统\"。",
+          "index": 8
+        },
+        {
+          "title": "Practifi首届高级用户论坛：洞察与执行的交汇",
+          "link": "https://www.practifi.com/blog/practifis-first-power-user-forum-where-insight-met-execution",
+          "snippet": "咨询行业AI应用发展迅速，73%的高管正加速布局，论坛探讨AI洞察如何转化为执行力。",
+          "index": 9
+        },
+        {
+          "title": "Ceva首席执行官Amir Panush荣获2026年AI突破奖\"年度AI公司CEO\"",
+          "link": "https://www.prnewswire.com/news-releases/ceva-ceo-amir-panush-named-artificial-intelligence-company-ceo-of-the-year-in-2026-ai-breakthrough-awards-program-302810369.html",
+          "snippet": "Amir Panush凭借AI领域卓越领导力获奖，Ceva在自动驾驶和交通运输AI解决方案方面表现突出。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
