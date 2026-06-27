@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-27",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "生成式AI失去动能的一月",
+          "link": "https://open.substack.com/pub/garymarcus/p/the-month-generative-ai-lost-its?comments=true",
+          "snippet": "探讨本月生成式AI领域热度下降、投资放缓及市场理性回归现象，分析行业从炒作走向实用的转折点。",
+          "index": 1
+        },
+        {
+          "title": "人工智能能否降低企业审计风险？",
+          "link": "https://www.sciencedirect.com/science/article/pii/S1059056026003229",
+          "snippet": "通过聚合AI相关投资数据衡量企业AI投入，研究AI技术对降低公司审计风险及提升财务透明度的实际效果。",
+          "index": 2
+        },
+        {
+          "title": "本周十大融资轮次：AI驱动投资热潮",
+          "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten",
+          "snippet": "聚焦人工智能、健康医疗及生物科技领域最新大额融资动态，揭示AI技术持续引领资本市场投资趋势。",
+          "index": 3
+        },
+        {
+          "title": "股票分析最佳19个AI提示词模板",
+          "link": "https://corporatefinanceinstitute.com/resources/artificial-intelligence-ai/best-ai-prompts-for-stock-analysis",
+          "snippet": "提供可直接复制使用的AI Prompts模板，帮助投资者利用生成式AI进行股票研究、财务分析和市场趋势预测。",
+          "index": 4
+        },
+        {
+          "title": "M&A应用AI网络研讨会：尽职调查中的人工智能",
+          "link": "https://imaa-institute.org/blog/applied-ai-in-ma-webinar-series-ai-in-due-diligence",
+          "snippet": "探讨AI技术在并购尽职调查中的具体应用，覆盖并购全生命周期，展示如何提升交易效率与风险识别能力。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI优先产品经理招聘",
+          "link": "https://www.dice.com/job-detail/9f682dbc-143e-4c5a-ab90-62339eab1b5f",
+          "snippet": "分析企业如何利用AI语言技术优化招聘流程，以及AI-first产品经理在信息系统公司中的职责与技能要求。",
+          "index": 6
+        },
+        {
+          "title": "招聘CEO称传统求职可击败AI申请",
+          "link": "https://www.businessinsider.com/recruitment-ceo-old-school-job-hunting-beat-ai-reed-2026-6",
+          "snippet": "在AI招聘算法普及背景下，专家建议求职者采用传统方式突出个人特质，以在自动化筛选中脱颖而出。",
+          "index": 7
+        },
+        {
+          "title": "AI如何重塑企业技术栈",
+          "link": "https://www.fastcompany.com/91564462/how-ai-reshapes-the-corporate-tech-stack",
+          "snippet": "分析人工智能技术对企业技术架构的深层变革，探讨Generative AI如何整合至现有IT基础设施与业务流程。",
+          "index": 8
+        },
+        {
+          "title": "AWS CEO称AI正在创造新岗位",
+          "link": "https://aimagazine.com/articles/aws-ceo-white-collar-jobs-may-change-with-ai",
+          "snippet": "AWS首席执行官马特·加曼表示，AI技术不仅替代部分工作，更在云计算、数据科学等领域创造大量新兴就业机会。",
+          "index": 9
+        },
+        {
+          "title": "Anthropic Fable 5传奇继续，Noam Shazeer加入OpenAI",
+          "link": "https://www.mindtheproduct.com/anthropic-fable-5-sage-continues-with-noam-shazeer-joins-open-ai-your-weekly-product-briefing",
+          "snippet": "报道Anthropic公司最新动态，以及Transformer架构作者Noam Shazeer从Character.AI回归OpenAI的重要人事变动。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
