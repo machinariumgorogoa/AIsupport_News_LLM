@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-28",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI采用如何影响保险代理机构估值与M&A",
+          "link": "https://www.agencybrokerage.com/resources/blog/how-ai-adoption-affects-insurance-agency-valuations",
+          "snippet": "AI正重塑保险代理运营模式及买方估值逻辑，推动行业并购交易结构变革与资产定价体系重构。",
+          "index": 1
+        },
+        {
+          "title": "AI能源危机促使投资者寻找下一个IPO赢家",
+          "link": "https://finance.yahoo.com/energy/articles/ai-energy-crunch-investors-searching-130000398.html",
+          "snippet": "彭博社报道，AI算力需求激增引发能源紧张，投资者重点关注清洁能源与基础设施领域的IPO标的。",
+          "index": 2
+        },
+        {
+          "title": "从Proxy到Pure-Play：2026年AI IPO浪潮如何重塑美国股市资本配置",
+          "link": "https://kalkine.com/news/premium/from-proxy-to-pure-play-how-the-2026-ai-ipo-wave-is-redrawing-capital-allocation-across-us-equity-markets",
+          "snippet": "2026年AI企业上市浪潮正改变美股资金布局，投资者从间接持股转向直接投资AI原生企业。",
+          "index": 3
+        },
+        {
+          "title": "AI热潮推动IPO rush，华尔街押注数十亿美元于电力公司 - 彭博社",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush",
+          "snippet": "彭博社报道，受AI算力需求驱动，华尔街巨额押注电力基础设施企业，催生新一轮IPO热潮。",
+          "index": 4
+        },
+        {
+          "title": "人工智能(AI)与新兴技术 - Hrbek Law",
+          "link": "https://www.hrbeklaw.com/practice-areas/artificial-intelligence-ai-emerging-technology",
+          "snippet": "就AI治理、知识产权及合规事务提供法律顾问服务，涵盖机器学习算法与数据隐私保护领域。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "人工智能联合创始人/产品负责人(100%远程)",
+          "link": "https://2.halvolink.liveblog365.com/job/2680004",
+          "snippet": "招募有抱负的创业者担任AI产品负责人，负责从零搭建产品体系并推动技术商业化落地与增长。",
+          "index": 6
+        },
+        {
+          "title": "人工智能联合创始人/产品负责人(100%远程)",
+          "link": "https://eworgmbh.teamtailor.com/jobs/7977173-artificial-intelligence-co-founder-head-of-product-100-remote-m-f-d",
+          "snippet": "[重复条目 招募有抱负的创业者担任AI产品负责人，负责从零搭建产品体系并推动技术商业化落地。",
+          "index": 7
+        },
+        {
+          "title": "人工智能",
+          "link": "https://www.hklaw.com/en/services/practices/technology-and-cybersecurity/artificial-intelligence",
+          "snippet": "业务领域 - Holland & Knight | 新技术发展促使律师重新审视AI伦理、算法责任及监管框架，为科技企业提供全方位合规咨询。",
+          "index": 8
+        },
+        {
+          "title": "产品负责人 - Jobot - Dice.com",
+          "link": "https://www.dice.com/job-detail/43f67bbe-6e03-4e6c-8736-a94af64f4b12",
+          "snippet": "年薪20-30万美元，雇主可通过Dice平台获取人才资源，要求具备AI产品管理经验及远程协作能力。",
+          "index": 9
+        },
+        {
+          "title": "战略准备遇上AI：重塑创业格局 - Grit Daily News",
+          "link": "https://gritdaily.com/strategic-preparation-meets-ai-reshaping-the-startup-landscape",
+          "snippet": "AI技术正在重构创业生态，战略准备与机器学习结合成为初创企业获取竞争优势的关键要素。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
