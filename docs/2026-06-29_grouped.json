@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-29",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "百度AI芯片部门昆仑芯据称瞄准500亿美元估值，股价跳涨7%",
+          "link": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
+          "snippet": "百度AI芯片子公司昆仑芯（Kunlunxin）据传目标估值达500亿美元，推动母公司股价大涨7%。",
+          "index": 1
+        },
+        {
+          "title": "英特尔CEO另一项AI押注估值跃升至100亿美元",
+          "link": "https://finance.yahoo.com/technology/ai/articles/intel-ceos-other-ai-bet-203048298.html",
+          "snippet": "英特尔CEO投资的另一项AI布局估值飙升至100亿美元，成为其除主业外的重要人工智能押注。",
+          "index": 2
+        },
+        {
+          "title": "在合规轨道上资助算力、模型和AI企业——Stobox",
+          "link": "https://www.stobox.io/industries/ai",
+          "snippet": "AI极度消耗资本：GPU、数据集、训练及推理。Stobox提供合规融资方案支持算力、模型及AI创业。",
+          "index": 3
+        },
+        {
+          "title": "这家英伟达支持的AI基础设施股...",
+          "link": "https://www.fool.com/investing/2026/06/28/this-nvidia-backed-artificial-intelligence-ai-infr",
+          "snippet": "英伟达（Nvidia）向新云（neocloud）基础设施提供商投资20亿美元，助力AI算力基础设施建设。",
+          "index": 4
+        },
+        {
+          "title": "OpenAI IPO：你需要知道的一切",
+          "link": "https://www.investing.com/analysis/openai-ipo-everything-you-need-to-know-200682609",
+          "snippet": "OpenAI据传已秘密提交美国IPO申请。这家人工智能巨头或将在资本市场开启新篇章。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI联合创始人/产品负责人（100%远程...",
+          "link": "https://www.cybersecurityjobsite.com/job/5540996/artificial-intelligence-co-founder-head-of-product-100-percent-remote-m-f-d-",
+          "snippet": "招聘AI领域联合创始人兼产品负责人，全职远程工作，负责人工智能产品战略定义与开发管理。",
+          "index": 6
+        },
+        {
+          "title": "【招聘】FIRY AI负责人——远程职位",
+          "link": "https://remotive.com/remote/jobs/artificial-intelligence/head-of-ai-5076476",
+          "snippet": "作为AI负责人，你将定义FIRY人工智能战略方向，领导技术团队推动AI产品创新与研发。",
+          "index": 7
+        },
+        {
+          "title": "Ceva CEO Amir Panush获评\"人工智能公司...",
+          "link": "https://www.design-reuse.com/news/202530731-ceva-ceo-amir-panush-named-artificial-intelligence-company-ceo-of-the-year-in-2026-ai-breakthrough-awards-program",
+          "snippet": "Ceva首席执行官Amir Panush荣获人工智能公司相关奖项，表彰其在AI技术商业化领域的卓越贡献。",
+          "index": 8
+        },
+        {
+          "title": "Scale AI产品隐私副总法律顾问 - Legal.io",
+          "link": "https://www.legal.io/jobs/5838399/Full-time/Associate-General-Counsel-Product-and-Privacy",
+          "snippet": "Scale AI招聘产品隐私法律顾问，要求对人工智能、生成式AI（Generative AI）及数据隐私法规有深入理解。",
+          "index": 9
+        },
+        {
+          "title": "这位CEO借助AI效率提升3倍，随后读到女儿在达特茅斯写的内容",
+          "link": "https://fortune.com/2026/06/28/ai-productivity-ceo-syndio-colacurcio-daughter-dartmouth-cognitive-surrender",
+          "snippet": "财富 | 一位CEO通过AI工具将生产力提升三倍，却在女儿达特茅斯大学的作文中读到对人工智能技术的不同视角。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
