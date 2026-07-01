@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-01",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "PDF] AI IPOs 101：为什么它们将永远改变这股热潮",
+          "link": "https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000632122/AI_IPOs_101%3A_why_they%27ll_change_the_boom_forever.pdf?rwnode=IE-PROD%24HIDDEN_GLOBAL_SEARCH",
+          "snippet": "德意志银行研究报告指出，AI企业IPO将重塑行业投资格局，标志着人工智能热潮进入新阶段。",
+          "index": 1
+        },
+        {
+          "title": "市场更新6/30/26：人工智能：泡沫还是...",
+          "link": "https://cressetcapital.com/articles/market-update/market-update-6-30-26-artificial-intelligence-a-bubble-or-an-opportunity",
+          "snippet": "市场分析探讨当前AI投资热潮本质，辨析泡沫风险与长期价值潜力，为机构投资者提供决策参考。",
+          "index": 2
+        },
+        {
+          "title": "Zero Revenue, 10 Billion Valuation: Big Tech AI Executives ... - 36氪",
+          "link": "https://eu.36kr.com/en/p/3876499565097225",
+          "snippet": "Recently, executives leaving large Internet companies have been launching AI sta...",
+          "index": 3
+        },
+        {
+          "title": "申请NIH Common Fund PRIMED-AI资助机会",
+          "link": "https://commonfund.nih.gov/primed-ai/news/apply-nih-common-fund-primed-ai-funding-opportunities",
+          "snippet": "NIH启动PRIMED-AI资助计划，支持开发创新可靠的医疗AI解决方案，推动精准医学与诊断技术发展。",
+          "index": 4
+        },
+        {
+          "title": "Agentic AI定价：财务与产品负责人的实用指南 - Zuora",
+          "link": "https://www.zuora.com/guides/agentic-ai-pricing",
+          "snippet": "Zuora发布Agentic AI定价指南，帮助财务与产品负责人制定AI Agent商业化策略，优化收入模式。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "人工智能联合创始人/产品负责人（100%远程...",
+          "link": "https://www.cybersecurityjobsite.com/job/5541459/artificial-intelligence-co-founder-head-of-product-100-percent-remote-m-f-d-",
+          "snippet": "AI初创公司招聘远程联合创始人兼产品负责人，负责AI产品战略制定与团队建设，推动技术创新。",
+          "index": 6
+        },
+        {
+          "title": "Grindr首席执行官如何采用AI：\"我只是强制推行它\" - 纽约时报",
+          "link": "https://www.nytimes.com/2026/06/30/business/grindr-ceo-george-arison-ai.html",
+          "snippet": "Grindr CEO George Arison分享强制推行AI转型经验，旨在通过人工智能重塑同性恋社交应用用户体验。",
+          "index": 7
+        },
+        {
+          "title": "创始产品设计师 - P-1 AI - Built In",
+          "link": "https://builtin.com/job/founding-product-designer/10012493",
+          "snippet": "P-1 AI招聘远程创始产品设计师，负责打造AI产品用户体验，建立设计体系，陪伴公司从早期发展到成熟。",
+          "index": 8
+        },
+        {
+          "title": "AWS首席执行官反驳AI就业担忧，称亚马逊正在招聘1.1万名毕业生",
+          "link": "https://www.firstpost.com/tech/aws-ceo-pushes-back-on-ai-job-fears-says-amazon-is-hiring-11000-graduates-14027901.html",
+          "snippet": "AWS CEO回应AI取代工作担忧，宣布亚马逊将招聘1.1万名毕业生，强调AI技术创造新就业机会。",
+          "index": 9
+        },
+        {
+          "title": "职业机会：人工智能(AI)总监(211380)",
+          "link": "https://jobgether.com/offer/6a439abaeee2f285e30f373e-career-opportunities-director-artificial-intelligence-ai-211380",
+          "snippet": "企业招聘AI总监，负责识别AI驱动的收入增长机会，制定人工智能战略，推动企业数字化转型与商业化落地。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
