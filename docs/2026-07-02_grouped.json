@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-02",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Venice AI估值达10亿美元，Plaid考虑IPO，高通收购安全公司",
+          "link": "https://www.axios.com/pro/all-deals/2026/07/01/pro-rata-premium-first-look",
+          "snippet": "Dragonfly领投，Coinbase Ventures和North Island跟投，Venice AI跻身独角兽行列。",
+          "index": 1
+        },
+        {
+          "title": "Together AI获8亿美元融资估值达83亿美元",
+          "link": "https://x.com/ReutersLegal/status/2072417537602539740",
+          "snippet": "Aramco Ventures领投，AI初创公司Together AI估值翻倍至83亿美元，创下新纪录。",
+          "index": 2
+        },
+        {
+          "title": "追逐IPO热潮前：先问自己这5个问题",
+          "link": "https://www.vigilwealthmanagement.com/blog/you-chase-ipo-hype-ask-yourself-these-5-questions",
+          "snippet": "投资人工智能、太空探索等领域公司IPO前，投资者应审慎评估五个关键风险因素。",
+          "index": 3
+        },
+        {
+          "title": "Together AI融资8亿美元估值达83亿美元",
+          "link": "https://www.reuters.com/legal/transactional/together-ai-raises-800-million-83-billion-valuation-2026-07-01",
+          "snippet": "AI初创公司Together AI完成新一轮融资，估值达到83亿美元，Aramco Ventures领投。",
+          "index": 4
+        },
+        {
+          "title": "并购动态：Iridium CEO评论Rocket Lab收购计划",
+          "link": "https://www.govconwire.com/category/ma-activity",
+          "snippet": "Iridium首席执行官就Rocket Lab收购举措发表评论，涉及卫星通信领域战略整合。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "人工智能实践：新技术发展给律师带来诸多思考",
+          "link": "https://www.hklaw.com/en/services/practices/technology-and-cybersecurity/artificial-intelligence",
+          "snippet": "新AI技术发展使法律从业者面临合规、伦理及专业责任等诸多考量。",
+          "index": 6
+        },
+        {
+          "title": "Hippocratic AI CEO谈超越他人\"有限想象力\"",
+          "link": "https://himsstv.brightcovegallery.com/detail/videos/ai-ml/video/6332648374112/hippocratic-ai-ceo-on-surpassing-others-limited-imagination?autoStart=true&page=12",
+          "snippet": "Hippocratic AI首席执行官谈如何突破医疗AI领域的固有思维局限，推动行业创新。",
+          "index": 7
+        },
+        {
+          "title": "创始人CEO创业洞察：为何战略契合胜过PMF",
+          "link": "https://www.forbes.com/sites/dileeprao/2026/07/01/founder-ceo-startup-intelligence-why-strategic-fit-beats-product-market-fit",
+          "snippet": "创始人CEO认为战略契合度比Product-Market Fit对初创企业长期成功更为关键。",
+          "index": 8
+        },
+        {
+          "title": "AI可以撰写食谱，但只有人类能品尝食物",
+          "link": "https://www.imd.org/ibyimd/artificial-intelligence/ai-may-write-the-recipe-but-only-we-can-taste-the-food",
+          "snippet": "人工智能虽能生成内容，但人类独特体验、判断力和创造力仍不可替代。",
+          "index": 9
+        },
+        {
+          "title": "Musk诉Altman案最新进展：庭审进入结案陈词阶段",
+          "link": "https://abc7news.com/live-updates/elon-musk-sam-altman-live-updates-open-ai-ceo-testifies-in-trial-that-could-determine-ai%27s-future/19080697/entry/19087759?userab=kabc_content_recs-577%2Avariant_c_trending-2482%2Cwls_content_recs-584%2Avariant_b_trending_wls-2517%2Cwtvd_content_recs-585%2Avariant_b_trending_wtvd-2519%2Cktrk_content_recs-587%2Avariant_a_control_ktrk-2522%2Cwpvi_content_recs-586%2Avariant_b_trending_wpvi-2521%2Cotv_web_content_rec-539%2Avariant_c_trending-2268%2Cotv_web_topic-580%2Avariant_a_topic-2508%2Cotv_search_page_design_unification-546%2Avariant_b_search_redesign-2300%2Ckgo_content_recs-583%2Avariant_a_control_kgo-2514%2Cabcn_popular_reads_exp-542%2Avariant_a_control-2287&userab=kabc_content_recs-577%2Avariant_a_control-2480%2Cwls_content_recs-584%2Avariant_a_control_wls-2516%2Cwtvd_content_recs-585%2Avariant_b_trending_wtvd-2519%2Cktrk_content_recs-587%2Avariant_a_control_ktrk-2522%2Cwpvi_content_recs-586%2Avariant_b_trending_wpvi-2521%2Cotv_web_content_rec-539%2Avariant_c_trending-2268%2Cotv_web_topic-580%2Avariant_a_topic-2508%2Cotv_search_page_design_unification-546%2Avariant_b_search_redesign-2300%2Ckgo_content_recs-583%2Avariant_b_trending_kgo-2515%2Cabcn_popular_reads_exp-542%2Avariant_b_7days_filter-2288&userab=kabc_content_recs-577%2Avariant_c_trending-2482%2Cwls_content_recs-584%2Avariant_b_trending_wls-2517%2Cwtvd_content_recs-585%2Avariant_b_trending_wtvd-2519%2Cktrk_content_recs-587%2Avariant_a_control_ktrk-2522%2Cwpvi_content_recs-586%2Avariant_a_control_wpvi-2520%2Cotv_web_content_rec-539%2Avariant_c_trending-2268%2Cotv_web_topic-580%2Avariant_b_topic_redesign-2509%2Cotv_search_page_design_unification-546%2Avariant_b_search_redesign-2300%2Ckgo_content_recs-583%2Avariant_b_trending_kgo-2515%2Cabcn_popular_reads_exp-542%2Avariant_b_7days_filter-2288",
+          "snippet": "Musk与OpenAI CEO Altman诉讼案在奥克兰法院进入最后审理阶段，即将裁决。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
