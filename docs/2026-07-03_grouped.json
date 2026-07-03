@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-03",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Crunchbase数据：全球初创企业投资创历史新高5100亿美元",
+          "link": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026",
+          "snippet": "全球VC投资在AI热潮推动下突破5100亿美元纪录，显示资本市场对AI Startup的强烈信心与长期看好。",
+          "index": 1
+        },
+        {
+          "title": "Jersey Mike's IPO揭示AI炒作已多么严重",
+          "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become",
+          "snippet": "三明治连锁品牌IPO被包装成AI概念股，反映当前市场对AI概念的过度炒作，显示AI Hype已渗透至传统餐饮行业。",
+          "index": 2
+        },
+        {
+          "title": "AI与倍数：AI如何重写私募股权价值创造Playbook",
+          "link": "https://hatchworks.com/blog/pe/private-equity-value-creation",
+          "snippet": "AI技术正在重塑PE行业价值创造策略，通过提升运营效率重构企业估值Multiple模型，改变传统Buyout逻辑。",
+          "index": 3
+        },
+        {
+          "title": "AI融资：真正的转折点 - Bertrand Duperrin",
+          "link": "https://www.duperrin.com/english/2026/07/02/funding-openai-ipo-sofbank",
+          "snippet": "探讨AI Funding是否进入理性回归阶段，从疯狂炒作转向实际应用价值评估的关键Turning Point，预示市场成熟度提升。",
+          "index": 4
+        },
+        {
+          "title": "当AI成为估值指标：金融服务的新竞争分水岭",
+          "link": "https://receivablesinfo.com/2026/07/02/ai-driven-industry-bifurcation-ma-value",
+          "snippet": "AI能力正成为金融机构估值的核心Metric，在Debt Collection等细分领域，AI技术储备直接决定公司Market Value与竞争力。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "获Y Combinator(YC)投资的AI初创企业盘点",
+          "link": "https://www.ycombinator.com/companies/industry/ai/new-york/hiring",
+          "snippet": "梳理YC孵化的AI Startup名单与技术方向，展现硅谷顶级Accelerator的AI投资版图，分析其商业模式与技术创新点。",
+          "index": 6
+        },
+        {
+          "title": "Yann LeCun致力于开发更灵活的AI系统",
+          "link": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+          "snippet": "Meta首席AI科学家指出当前AI\"并不聪明\"，正研发具备更高Flexibility和推理能力的新一代AI架构，突破现有LLM局限性。",
+          "index": 7
+        },
+        {
+          "title": "AI联合创始人：独立创业者的真实评测",
+          "link": "https://blog.startupstash.com/ai-co-founder-review-a-solo-founders-honest-take-7387163cd28e",
+          "snippet": "Solo Founder深度评测AI Co-founder工具，认为其不仅是Coding助手，更是能提供战略思考的严肃创业Partner与决策参谋。",
+          "index": 8
+        },
+        {
+          "title": "福特CEO解释因AI问题重新雇佣员工",
+          "link": "https://www.aol.com/articles/ford-ceo-explains-rehiring-employees-000343000.html",
+          "snippet": "Ford CEO透露因AI技术无法完全替代人工，不得不重新招聘此前因Automation裁员的技术工人，反映AI落地现实挑战与局限。",
+          "index": 9
+        },
+        {
+          "title": "SharkNinja招聘AI产品开发高级总监",
+          "link": "https://www.builtinboston.com/job/sr-director-ai-product-development-product-excellence-transformation/10038452",
+          "snippet": "小家电巨头招募Sr. Director负责构建统一Data Infrastructure，部署AI工具并推动Product Excellence数字化转型战略实施。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
