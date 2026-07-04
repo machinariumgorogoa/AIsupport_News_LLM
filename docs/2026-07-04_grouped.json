@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-04",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI对并购的日益影响 - 普华永道",
+          "link": "https://www.pwc.com/gx/en/1/issues/c-suite-insights/the-leadership-agenda/ma-outlook.html",
+          "snippet": "外部估计显示，AI对全球M&A市场影响规模预计达5万亿至8万亿美元，人工智能正深刻改变企业并购策略与估值体系。",
+          "index": 1
+        },
+        {
+          "title": "Jersey Mike's IPO文件因人工智能表述受审",
+          "link": "https://smebusinessreview.com/opinion/jersey-mikes-ipo-filing-artificial-intelligence-non-technology-sections",
+          "snippet": "Jersey Mike's的IPO申请中AI技术提及贯穿全文，引发监管机构对其技术实际应用价值与披露合规性的严格审查。",
+          "index": 2
+        },
+        {
+          "title": "BlueFive Capital联合领投可灵AI 30亿美元融资轮",
+          "link": "https://bluefivecapital.com/newsroom/bluefive-capital-co-leads-3-billion-kling-ai-funding-round",
+          "snippet": "中国AI视频生成公司Kling AI筹集近30亿美元，创中国AI领域单轮融资纪录，资金将用于大模型研发与全球化扩张。",
+          "index": 3
+        },
+        {
+          "title": "并购咨询",
+          "link": "https://www.ey.com/en_us/mergers-acquisitions-consulting",
+          "snippet": "安永 - 美国 | 安永发布M&A咨询服务新框架，强调通过提出关键问题解锁新答案，帮助客户在AI驱动的变革时代实现战略整合与价值创造。",
+          "index": 4
+        },
+        {
+          "title": "人工智能与公开市场无形资产估值",
+          "link": "https://recerca.uoc.edu/documentos/698e4b29adbb0144f69e7243?lang=en_US",
+          "snippet": "本文研究AI技术如何影响公开市场无形资产估值，分析机器学习对企业商誉、专利及数据资产定价机制的深层改变与评估挑战。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI联合创始人/产品负责人（100%远程）- EWOR GmbH",
+          "link": "https://eworgmbh.teamtailor.com/jobs/8015736-artificial-intelligence-co-founder-head-of-product-100-remote-m-f-d",
+          "snippet": "EWOR招聘AI产品负责人（远程全职），要求具备连续创业经验，主导AI产品战略制定与跨职能团队管理。",
+          "index": 6
+        },
+        {
+          "title": "Palo Alto Networks CEO预测AI将使企业成本减半",
+          "link": "https://www.ndtv.com/artificial-intelligence/palo-alto-networks-ceo-nikesh-arora-predicts-ai-will-halve-marketing-hr-and-finance-teams-within-three-years-11722213",
+          "snippet": "Palo Alto Networks首席执行官Nikesh Arora表示，AI技术将使企业安全运营成本降低50%，通过自动化威胁检测重塑网络安全产业格局。",
+          "index": 7
+        },
+        {
+          "title": "产品经理 — 企业分析/AI/ML",
+          "link": "https://jobs.massdigitalhealth.org/companies/sanofi-2/jobs/85184236-product-manager-product-owner-enterprise-analytics-ai-ml",
+          "snippet": "招聘企业级AI/ML产品经理，要求精通机器学习驱动的分析解决方案，具备将AI模型转化为企业级产品的丰富实战经验。",
+          "index": 8
+        },
+        {
+          "title": "招聘] AI-First产品分析师 @Smartcat",
+          "link": "https://remotive.com/remote/jobs/artificial-intelligence/ai-first-product-analyst-5128498",
+          "snippet": "Smartcat招聘AI优先产品分析师，限时八折优惠解锁职位，该岗位聚焦生成式AI在语言技术产品中的应用与用户体验优化。",
+          "index": 9
+        },
+        {
+          "title": "人工智能",
+          "link": "https://www.ucsc-extension.edu/series/artificial-intelligence",
+          "snippet": "UCSC硅谷分校 | 面向希望掌握前沿AI技术的商业与工程专业人士，课程涵盖机器学习、深度学习及行业应用实践，助力学员在AI领域保持技术领先。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
