@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-06",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "PYMNTS | SK Hynix Courts US AI Investors With $29 Billion IPO",
+          "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/sk-hynix-courts-us-ai-investors-with-29-billion-ipo",
+          "snippet": "South Korean semiconductor maker SK Hynix is preparing to go public in the U.S. ...",
+          "index": 1
+        },
+        {
+          "title": "How to Get Exposure to OpenAI Before Its IPO - Yahoo Finance",
+          "link": "https://finance.yahoo.com/technology/ai/articles/exposure-openai-ipo-123000522.html",
+          "snippet": "1. [My Portfolio](https://finance.yahoo.com/portfolios/). 3. [Stock market](http...",
+          "index": 2
+        },
+        {
+          "title": "Bill Ackman: Why Predictable Businesses Beat Chasing AI Hype - The Acquirer's Multiple®",
+          "link": "https://acquirersmultiple.com/2026/07/bill-ackman-why-predictable-businesses-beat-chasing-ai-hype",
+          "snippet": "Rather than attempting to predict short-term winners, his focus remains on ident...",
+          "index": 3
+        },
+        {
+          "title": "South Korea's SK Hynix launching $28 billion US listing to ... - Reuters",
+          "link": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-2026-07-06",
+          "snippet": "[Video 2](https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-launc...",
+          "index": 4
+        },
+        {
+          "title": "Kore.ai IPO: Investment Opportunities & Pre-IPO Valuations - Forge",
+          "link": "https://forgeglobal.com/koreai_ipo",
+          "snippet": "Individual InvestorsEmployee ShareholdersInstitutional InvestorsPrivate Companie...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI (Artificial Intelligence) Startups funded by ...",
+          "link": "https://www.ycombinator.com/companies/industry/ai/new-york/hiring",
+          "snippet": "# AI (Artificial Intelligence) Startups funded by Y Combinator (YC) in New York ...",
+          "index": 6
+        },
+        {
+          "title": "EA to Co-Founder and CEO - Tribe AI | Built In NYC",
+          "link": "https://www.builtinnyc.com/job/ea-co-founder-and-ceo/9935940",
+          "snippet": "Tribe AI is hiring for a EA to Co-Founder and CEO in New York, NY, USA. Find mor...",
+          "index": 7
+        },
+        {
+          "title": "Mark Zuckerberg builds AI CEO to help him run Meta - AOL",
+          "link": "https://www.aol.com/articles/mark-zuckerberg-builds-ai-ceo-143240755.html",
+          "snippet": "Meta boss Mark Zuckerberg is developing a personal artificial intelligence agent...",
+          "index": 8
+        },
+        {
+          "title": "I spoke to Anthropic's CEO about how AI may affect biotech. Here's ...",
+          "link": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact",
+          "snippet": "STAT A decade of reporting from the frontiers of health and medicine. # I spoke ...",
+          "index": 9
+        },
+        {
+          "title": "Hire Artificial Intelligence Ai Specialist in Chicago | Talentskape",
+          "link": "https://talentskape.com/artificial-intelligence-ai-specialist-in-chicago",
+          "snippet": "Unlock access to a global network of top-tier Artificial Intelligence (AI) speci...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
