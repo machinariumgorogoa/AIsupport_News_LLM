@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-07",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI股票与IPO - 投资主题",
+          "link": "https://www.listingtrack.io/theme/ai",
+          "snippet": "ListingTrack追踪AI相关上市公司、IPO候选企业及上市计划。",
+          "index": 1
+        },
+        {
+          "title": "英特尔支持的AI芯片商Syntiant申请IPO",
+          "link": "https://finance.yahoo.com/technology/ai/articles/intel-backed-ai-chip-software-222745613.html",
+          "snippet": "AI芯片及软件制造商Syntiant在英特尔支持下提交IPO申请。",
+          "index": 2
+        },
+        {
+          "title": "AI资金热潮：全球初创募资创纪录5100亿美元",
+          "link": "https://lowerbuckstimes.com/2026/07/06/global-ai-startup-funding-record-boom",
+          "snippet": "全球初创企业上半年募资达创纪录的5100亿美元。",
+          "index": 3
+        },
+        {
+          "title": "9500万美元融资助力Higharc AI进军住宅建筑",
+          "link": "https://www.housingwire.com/articles/higharc-funding-ai-trust",
+          "snippet": "Higharc获9500万美元C轮融资，携手USLBM推进住宅建筑AI应用。",
+          "index": 4
+        },
+        {
+          "title": "Thrive Holdings募资20亿美元收购并AI重构企业",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/thrive-holdings-raises-2-billion-to-buy-and-rewire-services-firms-with-ai",
+          "snippet": "Thrive Holdings募资20亿美元，用于收购并以AI技术重构目标企业。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "货运物流AI通信代理公司招募联合创始人兼CEO",
+          "link": "https://www.careerbuilder.com/job-details/co-founder-ceo-ai-communication-agents-for-freight-logistics-seattle-wa--fa30edc1-2b19-4549-924a-9d3dfe8a2784",
+          "snippet": "FutureSight诚聘联合创始人兼CEO，开发货运物流领域AI通信代理。",
+          "index": 6
+        },
+        {
+          "title": "如何聘请首席AI官：2026指南",
+          "link": "https://www.kore1.com/how-to-hire-chief-ai-officer-2026",
+          "snippet": "KORE1发布2026年首席AI官（CAIO）招聘指南，助力企业遴选AI领导者。",
+          "index": 7
+        },
+        {
+          "title": "AI产品与服务发布 - 2026年7月6日",
+          "link": "https://www.planadviser.com/ai-product-service-launches-7-6-2026",
+          "snippet": "PLANADVISER汇总7月6日当周AI产品与服务最新发布动态。",
+          "index": 8
+        },
+        {
+          "title": "在Upwork雇佣中国顶尖AI工程师",
+          "link": "https://www.upwork.com/hire/artificial-intelligence-engineers/cn",
+          "snippet": "Upwork平台助力企业对接中国顶尖AI工程师资源。",
+          "index": 9
+        },
+        {
+          "title": "AI产品经理 - Cloud Destinations LLC - 远程",
+          "link": "https://www.dice.com/job-detail/571f6f5a-037d-4b00-889d-abaea9768be9",
+          "snippet": "Cloud Destinations招聘远程AI产品经理，负责AI产品战略领导与规划。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
