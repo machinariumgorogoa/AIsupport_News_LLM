@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-08",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX收购目标公司成立CFO委员会破解AI投资回报率难题",
+          "link": "https://www.cfodive.com/news/spacex-acquisition-target-launches-cfo-council-to-crack-ais-roi-puzzle/824548",
+          "snippet": "某SpaceX潜在收购目标企业成立CFO委员会，致力于破解AI项目投资回报率（ROI）计算难题。",
+          "index": 1
+        },
+        {
+          "title": "北美初创企业融资上半年创历史新高",
+          "link": "https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026",
+          "snippet": "北美地区初创公司上半年融资额打破历史纪录，人工智能领域投资成为主要增长驱动力。",
+          "index": 2
+        },
+        {
+          "title": "Envirotech Vehicles提前完成与Azio AI合并，抓住2026年4870亿美元AI基础设施机遇",
+          "link": "https://www.networkworld.com/article/4193802/envirotech-vehicles-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity-2.html",
+          "snippet": "Envirotech Vehicles提前完成与Azio AI合并，合并实体将把握2026年达4870亿美元的AI基础设施市场机遇。",
+          "index": 3
+        },
+        {
+          "title": "SK海力士创纪录美股IPO考验AI交易热度",
+          "link": "https://www.morningstar.com/stocks/forget-spacexsk-hynixs-record-us-ipo-tests-ai-trades-hottest-corner",
+          "snippet": "SK海力士创纪录的美股IPO成为测试AI板块投资热度的试金石，市场关注度超越SpaceX相关话题。",
+          "index": 4
+        },
+        {
+          "title": "运营经理（并购后整合）- Built In NYC",
+          "link": "https://www.builtinnyc.com/job/global-operations-manager-pmi-m/9722009",
+          "snippet": "AI及金融科技公司招聘运营经理，负责并购后整合（PMI）工作，推动企业战略重组与业务协同运营。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI初创公司CEO就利用律师内幕消息交易认罪",
+          "link": "https://www.reuters.com/legal/government/ai-startup-ceo-pleaded-guilty-us-trading-insider-tips-lawyers-2026-07-07",
+          "snippet": "某AI初创企业首席执行官在美国法院认罪，承认利用从律师处获得的内幕消息进行证券交易。",
+          "index": 6
+        },
+        {
+          "title": "AI产品负责人 - 弗吉尼亚州尚蒂利远程职位 - Dice",
+          "link": "https://www.dice.com/job-detail/498d6b72-c15f-47fa-bc28-af456ae9926d",
+          "snippet": "Dice平台招募资深AI产品负责人（Product Owner），支持远程办公，工作地点位于弗吉尼亚州尚蒂利。",
+          "index": 7
+        },
+        {
+          "title": "Next in Tech第275期：AI CEO系列专访Varun Sivaram博士 - 标普全球",
+          "link": "https://www.spglobal.com/market-intelligence/en/news-insights/podcasts/next-in-tech/next-in-tech-ep-275-ai-ceo-series-dr-varun-sivaram",
+          "snippet": "标普全球《Next in Tech》节目AI CEO系列访谈，探讨能源领域人工智能应用的潜力与发展前景。",
+          "index": 8
+        },
+        {
+          "title": "人工智能系统技术产品经理",
+          "link": "https://www.dice.com/job-detail/9918bba9-b54e-4ae9-9f2b-1444ae705fe8",
+          "snippet": "招聘AI系统技术产品经理（Technical Product Manager），负责人工智能产品的技术规划与系统架构设计。",
+          "index": 9
+        },
+        {
+          "title": "从休假到打造首个全栈工业AI平台",
+          "link": "https://manufacturinghappyhour.com/from-a-sabbatical-to-building-the-first-full-stack-industrial-ai-company-with-andres-naranjo-ceo-of-software-toolbox",
+          "snippet": "Andres Naranjo结束环球帆船赛休假后，创建日本首个全栈工业AI平台，实现从学术到产业跨越。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
