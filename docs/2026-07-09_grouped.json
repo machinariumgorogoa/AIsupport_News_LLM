@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-09",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "全球并购今年因大规模AI交易激增",
+          "link": "https://www.wsj.com/finance/stocks/global-m-a-sent-surging-this-year-with-massive-ai-deals-22b7c5eb",
+          "snippet": "全球并购市场今年因大规模AI交易而激增，Mergermarket数据显示涉及AI领域的交易活跃度显著提升。",
+          "index": 1
+        },
+        {
+          "title": "AI芯片初创公司SambaNova以110亿美元估值融资",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-08/ai-chip-startup-raises-funds-at-11b-valuation-video",
+          "snippet": "芯片初创公司SambaNova完成10亿美元融资，估值达110亿美元，资金将用于加速AI芯片研发与商业化。",
+          "index": 2
+        },
+        {
+          "title": "AI重塑软件交易，市场分裂为不同层级",
+          "link": "https://hl.com/about-us/newsroom/ai-reshapes-software-dealmaking-as-market-splinters-into-tiers-of-disruption",
+          "snippet": "Sascha Pfeiffer在Mergermarket分析AI如何重塑软件交易格局，市场正分层为不同等级，改变传统dealmaking模式。",
+          "index": 3
+        },
+        {
+          "title": "企业采用AI是否能提高投资效率",
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S1544612326008949",
+          "snippet": "研究发现企业AI采用与投资效率呈显著正相关，有助于优化资本配置、提升决策质量并改善长期财务表现。",
+          "index": 4
+        },
+        {
+          "title": "为信任而设计：商业决策中的拟人化",
+          "link": "https://ssrn.com/abstract=7030298",
+          "snippet": "商业组织日益依赖AI系统，研究探讨拟人化(Anthropomorphism)设计如何增强用户对AI决策的信任度和接受意愿。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "我们也需要谈论人工智能的积极潜力",
+          "link": "https://genevasolutions.news/science-tech/we-also-need-to-talk-about-artificial-intelligence-s-positive-potential-says-ai-for-good-founder",
+          "snippet": "文章呼吁在关注AI风险的同时，也应探讨其在解决社会问题、推动可持续发展方面的积极潜力和应用前景。",
+          "index": 6
+        },
+        {
+          "title": "联合创始人兼CEO - AI内容智能与发布引擎",
+          "link": "https://remotive.com/remote/jobs/all-others/co-founder-ceo-ai-content-intelligence-publishing-engine-5175338",
+          "snippet": "FutureSight招聘联合创始人兼CEO，负责领导AI内容智能(Content Intelligence)与发布引擎的战略发展与业务运营。",
+          "index": 7
+        },
+        {
+          "title": "人工智能卓越中心产品赋能高级经理",
+          "link": "https://academy.wd1.myworkdayjobs.com/en-US/Careers/job/Headquarters---Katy-TX/Sr-Manager-Artificial-Intelligence-CoE-Product-Enablement_R332199",
+          "snippet": "负责将业务问题转化为AI机遇，制定解决方案并推动CoE(Center of Excellence)产品赋能(Product Enablement)落地实施。",
+          "index": 8
+        },
+        {
+          "title": "参谋长 - Sapiom",
+          "link": "https://www.builtinsf.com/job/chief-staff/10108578",
+          "snippet": "Built In San Francisco | AI代理(AI agents)开始代表公司和个人执行任务，推动企业自动化升级和运营效率变革，重塑组织架构。",
+          "index": 9
+        },
+        {
+          "title": "高级AI产品经理（合同制）- 富国银行",
+          "link": "https://wellsfargo.talentnet.community/jobs/f549a980-585e-41a6-b464-ec4c7e28b194",
+          "snippet": "富国银行招聘合同制高级AI产品经理，协助推动银行AI产品战略制定、需求分析与技术实施项目管理。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
