@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-10",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "OpenAI与Anthropic IPO对比：差异与已知信息",
+          "link": "https://www.forbes.com/sites/investor-hub/article/openai-vs-anthropic-ipo-comparison",
+          "snippet": "OpenAI和Anthropic正筹备IPO，本文对比两者差异及已知细节。",
+          "index": 1
+        },
+        {
+          "title": "Bain：AI与并购需求考验CFO，交易活动回暖",
+          "link": "https://finance.yahoo.com/technology/ai/articles/ai-m-demands-test-cfos-152339327.html",
+          "snippet": "贝恩报告指出，随着交易回暖，AI和M&A需求正对CFO构成挑战。",
+          "index": 2
+        },
+        {
+          "title": "AI数据标注公司Mercor拟融资5亿美元，估值达200亿美元",
+          "link": "https://www.forbes.com/sites/richardnieva/2026/07/09/mercor-fundraise",
+          "snippet": "AI数据标注服务商Mercor正谈判融资5亿美元，投前估值高达200亿美元。",
+          "index": 3
+        },
+        {
+          "title": "Bain：AI与并购需求考验CFO，交易活动回暖",
+          "link": "https://www.cfodive.com/news/ai-merger-demands-test-cfos-dealmaking-rebounds-bain/824882",
+          "snippet": "贝恩研究显示，交易复苏之际，AI和M&A业务需求正在考验首席财务官能力。",
+          "index": 4
+        },
+        {
+          "title": "SK海力士创纪录美股IPO考验AI交易热度",
+          "link": "https://global.morningstar.com/en-gb/stocks/forget-spacexsk-hynixs-record-us-ipo-tests-ai-trades-hottest-corner",
+          "snippet": "SK海力士在美国创下IPO纪录，成为测试AI投资热度的风向标。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "CEO承认内幕交易的AI公司聘请新任首席律师",
+          "link": "https://news.bloomberglaw.com/business-and-practice/ai-firm-whose-ceo-pled-to-insider-trading-hires-new-top-attorney",
+          "snippet": "Applied AI Corp.在CEO承认内幕交易后，任命新的首席法律顾问。",
+          "index": 6
+        },
+        {
+          "title": "微软AI CEO预测：未来18个月内多数白领工作将被AI自动化",
+          "link": "https://www.aol.com/microsoft-ai-ceo-predicts-most-221645487.html",
+          "snippet": "微软AI部门CEO预计，大多数白领任务将在18个月内实现AI自动化。",
+          "index": 7
+        },
+        {
+          "title": "Palo Alto CEO Arora称AI定价需下降90%",
+          "link": "https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html",
+          "snippet": "Palo Alto Networks CEO Arora表示，随着技术普及，AI服务价格需降低九成。",
+          "index": 8
+        },
+        {
+          "title": "高级机器学习工程师（人工智能方向）",
+          "link": "https://www.aijobs.com/jobs/516958103-senior-machine-learning-engineer-artificial-intelligence-ai-required-work-from-home",
+          "snippet": "招聘高级机器学习工程师，负责构建和优化AI模型与系统。",
+          "index": 9
+        },
+        {
+          "title": "应用AI：Prime Intellect产品战略与收入负责人",
+          "link": "https://jobs.menlovc.com/companies/prime-intellect/jobs/85795458-applied-ai-product-strategy-revenue-lead",
+          "snippet": "Prime Intellect正在构建开放式超级智能技术栈，招聘产品战略与收入负责人。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
