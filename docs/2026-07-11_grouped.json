@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-11",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX、Anthropic与OpenAI引领的AI IPO浪潮将至",
+          "link": "https://theaiinsider.tech/2026/07/10/ai-ipo-wave-led-by-spacex-anthropic-and-openai-set-to-surpass-value-of-all-u-s-venture-exits-since-2000",
+          "snippet": "AI IPO浪潮由SpaceX、Anthropic和OpenAI领衔，涉及AI融资、投资与研究进展。",
+          "index": 1
+        },
+        {
+          "title": "Mercor融资谈判凸显AI数据热潮",
+          "link": "https://finance.yahoo.com/technology/ai/articles/mercor-funding-talks-show-ai-195703187.html",
+          "snippet": "Mercor新一轮融资谈判反映AI数据需求激增，凸显行业增长潜力与投资价值。",
+          "index": 2
+        },
+        {
+          "title": "xAI股票动态：估值、融资与投资者",
+          "link": "https://notice.co/c/x-ai",
+          "snippet": "埃隆·马斯克旗下xAI公司最新估值、融资轮次及主要投资者信息汇总。",
+          "index": 3
+        },
+        {
+          "title": "280亿美元AI IPO市盈率仅7倍",
+          "link": "https://247wallst.com/investing/2026/07/10/a-28-billion-ai-ipo-trading-at-just-7x-earnings-too-cheap-or-too-cyclical-to-trust",
+          "snippet": "SK海力士280亿美元NASDAQ上市交易，远期市盈率仅7倍，AI芯片龙头估值吸引力凸显。",
+          "index": 4
+        },
+        {
+          "title": "你可能错过的5笔有趣初创公司交易",
+          "link": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare",
+          "snippet": "盘点5宗值得关注但易被忽视的AI初创公司投融资交易，涵盖前沿技术领域。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "人工智能联合创始人/产品负责人（100%远程）",
+          "link": "https://eworgmbh.teamtailor.com/jobs/8052363-artificial-intelligence-co-founder-head-of-product-100-remote-m-f-d",
+          "snippet": "招聘有抱负的创业者担任AI初创公司联合创始人，负责产品从零到一的构建与规模化。",
+          "index": 6
+        },
+        {
+          "title": "人工智能联合创始人/产品负责人（100%远程）",
+          "link": "https://dailyremote.com/remote-job/artificial-intelligence-co-founder-head-of-product-100-remote-m-f-d-5273658",
+          "snippet": "候选人将全权拥有、建立并扩展自主AI初创公司，全面负责产品战略与执行落地。",
+          "index": 7
+        },
+        {
+          "title": "Tingyu Su谈AI初创公司为何应重视创始设计师",
+          "link": "https://thenextweb.com/news/tingyu-su-founding-designer-ai-startups-strategic-hire",
+          "snippet": "设计师Tingyu Su探讨AI初创企业早期应将创始设计师视为核心战略角色的重要性。",
+          "index": 8
+        },
+        {
+          "title": "联合创始人兼CEO - AI内容智能与发布引擎",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-content-intelligence-publishing-engine-7710936905",
+          "snippet": "FutureSight招聘AI内容智能与发布引擎平台的联合创始人兼CEO，把握",
+          "index": 9
+        },
+        {
+          "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for ...",
+          "link": "https://finance.yahoo.com/technology/ai/articles/micron-ceo-sanjay-mehrotra-announces-065500804.html",
+          "snippet": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artifi...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
