@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-12",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI股票与IPO投资主题",
+          "link": "https://www.listingtrack.io/theme/ai",
+          "snippet": "ListingTrack追踪AI相关上市公司、IPO候选企业及上市计划",
+          "index": 1
+        },
+        {
+          "title": "AI品牌重塑难带来持久股价提振 - 金融时报",
+          "link": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
+          "snippet": "企业借AI概念重塑品牌，但未能实现股价的长期显著提升",
+          "index": 2
+        },
+        {
+          "title": "市场低迷致加密IPO放缓 - CoinDesk",
+          "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+          "snippet": "加密IPO pipeline放缓，资本转向AI及宏观领域，新股发行停滞",
+          "index": 3
+        },
+        {
+          "title": "该数据中心IPO将成AI交易新考验 - 巴伦周刊",
+          "link": "https://www.barrons.com/articles/csquare-ipo-data-center-ai-stock-574e67b9",
+          "snippet": "数据中心企业IPO成为检验AI投资热潮持续性的重要试金石",
+          "index": 4
+        },
+        {
+          "title": "AI联合创始人/CMO（100%远程）",
+          "link": "https://dailyremote.com/remote-job/artificial-intelligence-co-founder-cmo-100-remote-m-f-d-5280304",
+          "snippet": "提供创业期间薪资支持，全职远程，协助搭建AI初创企业",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "EWOR招聘AI联合创始人/CEO（荷兰远程）",
+          "link": "https://www.remoterocketship.com/company/ewor-2/jobs/ai-co-founder-ceo-netherlands-remote",
+          "snippet": "主导去中心化AI解决方案的复杂实施，全职远程办公",
+          "index": 6
+        },
+        {
+          "title": "CTO联合创始人（AI方向）- Weekday",
+          "link": "https://builtin.com/job/cto-co-founder-ai/10145951",
+          "snippet": "寻找有远见的CTO联合创始人，领导技术团队与产品开发",
+          "index": 7
+        },
+        {
+          "title": "构建生成式AI未来 - 亚马逊AI招聘",
+          "link": "https://www.amazon.jobs/content/en/artificial-intelligence-ai",
+          "snippet": "在亚马逊创造具有现实影响力的AI，参与前沿生成式技术研发",
+          "index": 8
+        },
+        {
+          "title": "Intuit产品经理职位搜索",
+          "link": "https://jobs.intuit.com/category/product-management-jobs/27595/68351/1?k=&l=fc%25252520coin%25252520store%25252520Coinsnight.com%25252520FC%2525252026%25252520coins%2525252030%25252525%25252520OFF%25252520code%2525253A%25252520FC2026.%25252520Proactive%25252520in%25252520providing%25252520regular%25252520updates%25252520always.VbMS&cid=directBookmarked_directBookmarked",
+          "snippet": "探索企业AI集成方案，向Intuit学习AI业务整合经验与最佳实践",
+          "index": 9
+        },
+        {
+          "title": "Intuit产品经理职位搜索",
+          "link": "https://jobs.intuit.com/category/product-management-jobs/27595/68351/1?k=&l=cc%252520dumps%252520with%252520pin%252520%2525E3%252580%252590BestSite%253A%252520Amsiga.com%252520%2525E3%252580%252591.N4OH&cid=directBookmarked_directBookmarked",
+          "snippet": "探索企业AI集成方案，向Intuit学习AI业务整合经验与最佳实践",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
