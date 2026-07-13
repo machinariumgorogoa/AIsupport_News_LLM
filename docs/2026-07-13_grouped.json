@@ -4,5 +4,14 @@
     "title": "🤖 AI业界动态早报",
     "subtitle": "machinariumAIsupport | 每日早8点自动推送"
   },
-  "news": []
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": []
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": []
+    }
+  ]
 }
