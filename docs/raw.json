@@ -1,190 +1,198 @@
 {
-  "date": "2026-07-14",
-  "count": 22,
+  "date": "2026-07-15",
+  "count": 23,
   "items": [
     {
-      "title": "人工智能在尽职调查中的应用研究",
-      "link": "https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-3057.pdf",
-      "snippet": "发表于《World Journal of Advanced Research and Reviews》2025年第27卷第2期，探讨AI在尽职调查中的创新应用与风险评估。",
-      "raw_snippet": "World Journal of Advanced Research and Reviews, 2025, 27(02), 2035-2076 Publication history: Received on 18 July 2025; revised on 24 August 2025; accepted on 26 August 2025 Article DOI: https://doi.org/10.30574/wjarr.2025.27.2.3057 Abstract Background: Artificial intelligence integration in due diligence procedures of mega-large merger acquisition dealings has been brought out as a powerful method in the American business world. Advanced analytics and machine learning algorithms have proven to hold a lot of promise in terms of improving the accuracy of the evaluation of transactions, and also in terms of mitigating time pressures that are normally promulgated in view of intricate MandA assessments. We have applied the machine learning algorithms based on AdaBoost and support vector machine models as a predictive analysis. Results: Analysis indicated that AI-based due diligence platforms have a prediction accuracy of 80.1% in the determination of merger success when compared to traditional approaches, which had 62.7% accuracy.",
+      "title": "私募股权一边投资AI一边对冲风险",
+      "link": "https://www.iflr.com/article/2gmnqjln2ohm5qdlomo74/corporate/private-equity-is-investing-in-ai-while-hedging-against-it",
+      "snippet": "随着AI改变收购标的性质，咨询顾问建议赞助商通过多元化策略平衡投资组合风险。",
+      "raw_snippet": "17 hours ago — As AI changes what sponsors buy, advisers must sharpen their focus on valuation, data rights and resilience.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "人工智能驱动型初创企业的估值",
-      "link": "https://ideas.repec.org/h/spr/sprchp/978-3-031-53622-9_5.html",
-      "snippet": "R Moro-Visconti 2024年发表，被引7次。探讨创新型AI Startup的估值方法与投资价值评估框架。",
-      "raw_snippet": "by R Moro-Visconti · 2024 · Cited by 7 — Innovative AI startups are newly formed companies with no operating profits and history, and with high growth potential.Read more",
+      "title": "GMEX Robotics签署意向书战略收购AI平台",
+      "link": "https://www.fidelity.com/news/article/mergers-and-acquisitions/202607140830PRIMZONEFULLFEED9761812",
+      "snippet": "该公司拟收购AI平台以构建Social World Models（社会世界模型），实现Human-Centric（以人为本）的大规模部署。",
+      "raw_snippet": "**Sydney, Australia, July 14, 2026 (GLOBE NEWSWIRE) --**GMEX Robotics Corporation( GMEX ) (the \"Company\") today announced it has entered into a letter of intent for the strategic acquisition of an artificial intelligence platform (the \"AI Platform\") specializing in social-intelligence AI and human-behavioral modeling. The proposed transaction, which is expected to be structured as a mix of shares and cash consideration, reflects the Company's conviction in the AI Platform's long-term value and its commitment to aligning incentives across both organizations for sustained growth. The Company’s decision to pursue this proposed acquisition reflects its belief that the AI Platform represents one of the most important bodies of work in applied social-intelligence research being conducted anywhere in the world today. The world's largest addressable markets for robotics and AI are not in factories or warehouses — they are in the social environments that constitute the overwhelming majority of human experience.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "AI在M&A中的应用：助力职业发展的三种方式",
-      "link": "https://redcliffetraining.com/blog/ai-in-manda",
-      "snippet": "探讨人工智能在并购(M&A)领域的三大应用模式，以及如何帮助职场人士推进企业职业发展。",
-      "raw_snippet": "<  AI in M&A (3 Ways AI Helps Your Corporate Career). ## Thank you for your enquiry. A member of the team will be in touch shortly. ### Select a Job Role from the list below:. Clicking your 'Job Role' will help us select the right Courses and Categories for you. ### Specialising in:. Clicking your 'Specialisation' will help us select the right Courses and.",
+      "title": "投资人工智能：一个三体问题",
+      "link": "https://caia.org/newsletter/investing-in-artificial-intelligence-a-three-body-problem",
+      "snippet": "探讨AI投资面临的三大复杂变量——技术迭代、监管政策与商业变现之间的动态博弈与平衡难题。",
+      "raw_snippet": "# Investing in Artificial Intelligence: A Three-Body Problem. To foreshadow my thinking a bit, three forces are interacting simultaneously in ways that make the system unpredictable, and it is their interaction that creates chaos. Figure 1 maps the four layers of the AI investment stack, from the raw compute infrastructure at the base to the application layer at the top. **Layer 1 — Models:**Enterprise LLM API spending reached $12.5 billion in 2025 and is growing fast, but the two primary direct beneficiaries — OpenAI and Anthropic — are private companies valued at $852 billion and $380 billion respectively. **Layer 2 — Platform Companies:**The hyperscalers are spending $725 billion in AI capex in 2026, but that spending is mostly an outflow and compresses their free cash flow rather than generating a targeted AI return. **Layer 4 — Applications:**Enterprise AI application spending reached $19 billion in 2025, and this is where the most durable long-term value may sit, but only for the subset of companies that have built something the platforms cannot replicate.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "AI在M&A中的应用：重塑当代专业人士的交易格局",
-      "link": "https://dealroom.net/blog/ai-in-m-a",
-      "snippet": "AI技术助力并购团队高效管理项目Pipeline，优化交易流程，提升M&A专业人士的决策效率。",
-      "raw_snippet": "AI that helps M&A teams work more efficiently with pipeline and diligence workflows. All M&A resources in one place for deal teams. Compare your deal team, process, and tools against 150+ M&A teams. However, the use of AI in M&A deals is reshaping how dealmakers approach these challenges, enabling faster, data-driven decision-making and enhancing efficiency across the complete deal lifecycle. From automating repetitive tasks in due diligence to providing powerful financial analysis and insights, AI is proving to be a game-changer. In this blog, we’ll explore how AI is revolutionizing M&A, including the role it plays in various stages of the deal process — target identification, financial modeling, post-merger integration, and more. The use of AI in M&A is expected to see widespread adoption — with 80% of M&A processes expected to use AI within the next three years — as firms look for more efficient ways to handle data-heavy tasks. ## AI in M&A Due Diligence.",
+      "title": "AI投资者狂热：中国DeepSeek追逐700亿美元估值",
+      "link": "https://www.scmp.com/tech/big-tech/article/3360626/ai-investor-mania-chinas-deepseek-chases-us70-billion-valuation-fresh-round",
+      "snippet": "中国前沿AI初创公司DeepSeek最新融资引发市场关注，估值目标反映全球资本对基础模型赛道的追捧热度。",
+      "raw_snippet": "3 hours ago — Chinese frontier artificial intelligence start-up DeepSeek is in talks with investors to raise a new financing round at around US$70 billion pre-investment ...Read more",
       "is_chinese": false,
       "source_type": "funding",
       "index": 4
     },
     {
-      "title": "AI投资创造股东价值的专题研究",
-      "link": "https://ink.library.smu.edu.sg/etd_coll/897",
-      "snippet": "最新研究显示，风险投资基金(VC)通过战略性AI投资为被投企业创造显著股东价值与长期回报。",
-      "raw_snippet": "19 hours ago — Research reveals that venture capital funds with an AI investment focus have generated statistically significant and economically meaningful higher abnormal ...Read more",
+      "title": "AI初创企业融资：供应链领导者须知",
+      "link": "https://www.traxtech.com/ai-in-supply-chain/ai-startup-funding-supply-chain-investment?hs_amp=true",
+      "snippet": "解析供应链管理者应关注的AI Startup Funding趋势，包括技术成熟度评估与供应商尽职调查关键要点。",
+      "raw_snippet": "# AI Startup Funding: What Supply Chain Leaders Should Know. * **Series B milestone:** A Bellevue-based AI startup secured $50 million in Series B funding, signaling continued investor confidence in enterprise AI solutions. * **Growth stage funding:** Series B rounds at this scale typically indicate a company has demonstrated real product-market fit and is now scaling operations and go-to-market efforts. Sitting in the shadow of major technology employers and adjacent to one of the most active AI research communities in the country, the Pacific Northwest has quietly become a serious hub for enterprise AI development. For supply chain leaders watching how the AI technology landscape is evolving, rounds like this are worth paying attention to, not because of any single company, but because of what the funding patterns reveal about where enterprise AI is heading. ## What $50M AI Rounds Tell Supply Chain Leaders About Enterprise Technology Spending.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 5
     },
     {
-      "title": "List of 424 Acquisitions in Artificial Intelligence Ai (Jul 2026)",
-      "link": "https://acquirezy.com/acquisitions/industry/artificial-intelligence-ai",
-      "snippet": "The Artificial Intelligence (AI) sector has seen 375 acquisitions spanning from 1992-2025. With 41 deals in the last 2 years, the sector shows strong M&A ...Read more",
-      "raw_snippet": "The Artificial Intelligence (AI) sector has seen 375 acquisitions spanning from 1992-2025. With 41 deals in the last 2 years, the sector shows strong M&A ...Read more",
+      "title": "How financial institutions build internal buy-in for artificial ...",
+      "link": "https://www.abrigo.com/blog/how-financial-institutions-build-internal-buy-in-for-artificial-intelligence-ai",
+      "snippet": "9 hours ago — Build internal buy-in for AI in banks and credit unions by aligning stakeholders on relevant use cases, highlighting human oversight, and emphasizing",
+      "raw_snippet": "9 hours ago — Build internal buy-in for AI in banks and credit unions by aligning stakeholders on relevant use cases, highlighting human oversight, and emphasizing",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Venture capital investments in artificial intelligence through 2025",
-      "link": "https://www.oecd.org/en/publications/venture-capital-investments-in-artificial-intelligence-through-2025_a13752f5-en/full-report.html",
-      "snippet": "# Venture capital investments in artificial intelligence through 2025. Copy link...",
-      "raw_snippet": "# Venture capital investments in artificial intelligence through 2025. Copy link to Venture capital investments in artificial intelligence through 2025. * In 2025, venture capital (VC) investments in AI firms globally made up over half (61%, USD 258.7 billion) of all VC investment (USD 427.1 billion), doubling its 2022 share (30%). * For generative AI firms specifically, VC funding surged from about 2% (USD 2.8 billion) to 12% (USD 15.3 billion) of total AI VC investments between 2022 and 2023. United States VC investors also are the most active, representing about 56% (USD 124 billion) of the worldwide value of outgoing VC investments in AI in 2025, followed by investors in the United Kingdom at 9% (USD 20.7 billion), China at 8% (USD 17.2 billion) and EU27 investors at 7% (USD 14.5 billion).",
+      "title": "Trending - Department of Navy Chief Information Officer",
+      "link": "https://www.doncio.navy.mil/ContentView.aspx?id=20518",
+      "snippet": "Department of the Navy Chief Information Officer - The DON IT Resource. | Chief ...",
+      "raw_snippet": "Department of the Navy Chief Information Officer - The DON IT Resource. | Chief Data and AI Officer (26) | DON Enterprise Services (14) | IT Asset Management (6) | Social Media (16) |. ## Acting Secretary of the Navy Signs Strategy to Weaponize Data and Artificial Intelligence. The Department of the Navy announced this month the formal approval of its Strategy to Weaponize Data and Artificial Intelligence, establishing the Department’s roadmap for building a data-ready, AI-enabled force capable of accelerating decision-making and maintaining maritime superiority. Signed by Acting Secretary of the Navy Hung Cao, the strategy is effective immediately and reflects more than a year of collaboration led by the Department of the Navy Chief Data and AI Officer (DON CDAO), alongside AI communities across both the Navy and Marine Corps. The purpose of this website is to facilitate effective information flow about information management/information technology and cybersecurity issues and initiatives occuring within the Department of the Navy.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Using Artificial Intelligence to Improve the Efficiency of ...",
-      "link": "https://faba.bg/index.php/faba/article/view/238",
-      "snippet": "by S Stoyanov · 2024 · Cited by 3 — This shows that the usage of AI could be an integral part of financial analysis in the future and could significantly improve the efficiency of ...Read more",
-      "raw_snippet": "by S Stoyanov · 2024 · Cited by 3 — This shows that the usage of AI could be an integral part of financial analysis in the future and could significantly improve the efficiency of ...Read more",
+      "title": "A 'Tool for Winners': What 1.8 Million Patents Reveal About AI's Value | Working Knowledge",
+      "link": "https://www.library.hbs.edu/working-knowledge/tool-for-winners-what-millions-of-patents-reveal-about-ais-value",
+      "snippet": "Powerful learning networks that change the trajectory of careers, positively imp...",
+      "raw_snippet": "Powerful learning networks that change the trajectory of careers, positively impact organizations, and make a difference in the world. HBS students and alumni are serious, collaborative learners with diverse backgrounds and perspectives that positively impact organizations and make a difference in the world. An analysis by **Suraj Srinivasan** shows how AI creates significant value not only for the technology's developers, but for companies that use it to innovate. Already, inventions that involve artificial intelligence are worth 9.6% more than non-AI ideas, on average, according to an analysis of 1.8 million patents by Harvard Business School Professor Suraj Srinivasan. “It’s not just the original developers of AI technology that capture the economic benefits,” says Srinivasan. Srinivasan details his findings in the February 2026 working paper “The Value of AI Innovations.” He teamed with Wilbur Xinyuan Chen, a professor at Hong Kong University of Science and Technology; Terrence Tianshuo Shi, a professor at the University of California, Los Angeles; and Saleh Zakerinia, a professor at Friedrich Schiller University Jena in Germany.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "The Relationship Between Artificial Intelligence and Property Condition | Veros",
-      "link": "https://www.veros.com/the-relationship-between-artificial-intelligence-and-property-condition",
-      "snippet": "Veros Real Estate Solutions Logo. Veros Real Estate Solutions is a top choice fo...",
-      "raw_snippet": "Veros Real Estate Solutions Logo. Veros Real Estate Solutions is a top choice for real estate data and technology. # The Relationship Between Artificial Intelligence and Property Condition. Automated Valuation Models (AVMs) can precisely quantify how a market has changed since a property’s last sale and can analyze far more comparable sales than a human could. In episode 14 of *RiskWire: On the House,* Veros’ Chief Economist Eric Fox is joined by Jon Flees, Director of Data Science and Modeling, to discuss how AI-powered property condition scoring is helping overcome one of the biggest challenges in automated valuation. Curious to learn more about artificial intelligence and property condition? Watch episode 14 of *RiskWire: On the House* today: Webcast & Interviews – RiskWire, powered by Veros. For ongoing economic updates and housing market insights, visit RiskWire.com! You can also find *RiskWire: On the House* on Apple Podcasts, Spotify, and YouTube Podcasts. ### Are Investors Taking Over the Housing Market? ##### CONTACT OUR TEAM. Veros Real Estate Solutions HQ.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "[PDF] Artificial Intelligence and Customer Acquisition in Retail Financial ...",
-      "link": "https://www.udel.edu/content/dam/udelImages/star/fintech-innovation-hub/XingLiu_AI_Insurance_20240407.pdf",
-      "snippet": "(2022) examine dealer-intermediation frictions in residential real estate by stu...",
-      "raw_snippet": "(2022) examine dealer-intermediation frictions in residential real estate by studying iBuyers’ (machines’) intermediation process through algorithmic pricing, while I uncover agent-intermediation frictions by studying how agents (humans) respond to and utilize algorithmic information.15 Fifth, the FinTech literature has focused exclusively on information technologies that predict risk (e.g., credit scoring).16 Recognizing the importance of human intermediation, this paper focuses on technologies aiming to mitigate information frictions faced by the sales force – a common but understudied application of AI to predict consumer demand (i.e., take-up) – and shows that AI-generated demand metrics could also have side effects on risk.17 Sixth, my results speak to how artificial intelligence might affect information production and principal-agent problems in 12My focus on individuals in intermediaries differs from those looking at the consequences of technology adoption at the institution level, which are endogenous choices in most occasions.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "How A.I. Is Quietly Rewriting the Rules of Art Valuation | Observer",
-      "link": "https://observer.com/2026/07/how-art-market-is-using-ai-valuation",
-      "snippet": "## When it comes to determining the value of artworks and spotting emerging tren...",
-      "raw_snippet": "## When it comes to determining the value of artworks and spotting emerging trends, some industry players are betting that A.I. can provide a data-driven counterbalance to instinct, taste and connoisseurship. Part of what makes the art market seem opaque is that it is based on trust—trust in a dealer or advisor who presumably has a great deal of knowledge and a sense of what’s up-and-coming—rather than on verifiable fact. Wondeur’s model is fed massive amounts of information about art galleries and museums, as well as about artists and artworks, particularly from the past 75 years—such as where an artist’s work has been exhibited, which institutions have collected the work, prices earned by dealers for sales of artworks, the primary medium and most acclaimed period of the artist, as well as the critical response to the work and the gender and nationality of the artist—to identify patterns in the career trajectories of artists of all types, from emerging to world-famous, that can create comparables.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Artificial Intelligence Grant – Apply Today | NSF SBIR",
-      "link": "https://seedfund.nsf.gov/topics/artificial-intelligence",
-      "snippet": "# Artificial Intelligence (AI). The Artificial Intelligence topic focuses on cut...",
-      "raw_snippet": "# Artificial Intelligence (AI). The Artificial Intelligence topic focuses on cutting-edge technologies in the field of deep learning-based AI systems and AI-based hardware. The recent successes in computer vision, machine translation, natural-language processing and speech recognition have led to widespread use of learning-based systems in production and an unprecedented growth in AI systems that interact frequently with and/or on behalf of humans in highly personalized contexts. It also includes cutting-edge hardware technologies needed for sustainable AI (i.e., novel devices and architectures to support the tremendous processing power needed by AI technologies), edge devices (i.e., intelligent systems on a chip for applications such as voice assistants) and AI technologies that lead to better hardware systems. Novel AI Hardware Technologies (e.g. Neuromorphic Computing, High-performance Technologies for AI, Smart and Secure Edge Devices, etc.). **Application process** for Artificial Intelligence (AI) funding. Eligibility for Artificial Intelligence (AI) funding +.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "AI in transplantation: levelling the playing field and raising the ...",
-      "link": "https://www.frontierspartnerships.org/articles/10.3389/ti.2026.17015",
-      "snippet": "43 minutes ago — Artificial intelligence has rapidly entered the scientific publishing ecosystem, often faster than the norms designed to govern it.Read more",
-      "raw_snippet": "43 minutes ago — Artificial intelligence has rapidly entered the scientific publishing ecosystem, often faster than the norms designed to govern it.Read more",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Unlocking AI ROI in the technology industry | EY - Belgium",
-      "link": "https://www.ey.com/en_be/unlocking-ai-roi-in-the-technology-industry",
-      "snippet": "Discover the insights you need to make better decisions today, to shape the futu...",
-      "raw_snippet": "Discover the insights you need to make better decisions today, to shape the future with confidence. Enabled by data and technology, our services and solutions provide trust through assurance and help clients transform, grow and operate. EY.ai - A unifying platform. EY Nexus: business transformation platform. Discover how EY insights and services are helping to reframe the future of your industry. The insights and services we provide help to create long-term value for clients, people and society, and to build trust in the capital markets. Search for insights, services and people... The latest EY research shows AI is moving from promise to performance, and technology leaders are under growing pressure to show real ROI. The new EY Technology Insights series outlines a practical execution agenda: Scale AI through processes not tools, strengthen governance, define and measure value, invest in AI-ready data and use AI to support AI governance, always with humans involved. How can you break out of the AI ROI trap?",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Federal AI Projects Get Priority in TMF Funding Dash",
-      "link": "https://www.govinfosecurity.com/federal-ai-projects-get-priority-in-tmf-funding-dash-a-32218",
-      "snippet": "The U.S. federal Technology Modernization Fund is racing to push new money into ...",
-      "raw_snippet": "The U.S. federal Technology Modernization Fund is racing to push new money into generative artificial intelligence and permitting projects across the federal government before its authority to make new investments expires at the end of September. TMF Acting Executive Director Jessie Posilkin announced Thursday that the fund is prioritizing two new calls for proposals: one focused on \"the fast and responsible adoption of generative AI\" and another on faster permitting technology. She described the effort as building on the fund's earlier investments in cloud, security and automation. The speed tracking for GenAI projects comes amid a reauthorization cliff that has hung over the TMF for months, with Congress allowing TMF's authorization to lapse in December for the first time since the fund's 2017 creation. The AI call for proposals was developed in collaboration with General Services Administration's USAi team and aims to fund projects that prepare agency data and infrastructure for AI, pilots emerging AI applications or deploys secure enterprise-scale AI capabilities.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "人工智能市场解决方案 - Proskauer Rose LLP",
-      "link": "https://www.proskauer.com/market-solutions/Artificial-intelligence",
-      "snippet": "该律所22小时前发布，帮助企业合规推出AI驱动产品，提供市场准入与监管合规法律服务。",
-      "raw_snippet": "22 hours ago — We help businesses launch AI-driven products and services with the legal, commercial, and regulatory support to move forward quickly and responsibly. Our work ...Read more",
+      "title": "人工智能公司CEO数据库盘点",
+      "link": "https://golden.com/query/ceos-of-artificial-intelligence-ai-companies-X8GXX",
+      "snippet": "Golden平台收录8,729位AI公司首席执行官资料，涵盖Elon Musk等连续创业者及其企业治理数据。",
+      "raw_snippet": "|  | Elon Musk Elon Musk | Elon Musk is a serial entrepreneur known for creating high-tech, science fiction-inspired ventures. |  | Jeff Bezos Jeff Bezos | Jeff Bezos is an American entrepreneur, the founder and chairman of Amazon, and the founder of Blue Origin private spaceflight company. Eric Lefkofsky is an American entrepreneur and co-founder and CEO of Tempus. |  | Ross Levinsohn Ross Levinsohn | CEO of The Arena Group and Sports Illustrated Media | January 1, 1964 | New York New York |  |. | May 14, 1984 | White Plains, New York White Plains, New York |  |. Marissa Mayer is an American business executive and engineer, founder and CEO of Sunshine, and former CEO of Yahoo! Jeff Bezos is an American entrepreneur, the founder and chairman of Amazon, and the founder of Blue Origin private spaceflight company. Reid Hoffman is an entrepreneur, investor, and the co-founder of LinkedIn. Jamie Dimon is an American business executive.",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "AI产品与服务发布动态 - 2026年7月13日",
-      "link": "https://www.planadviser.com/ai-product-service-launches-7-13-2026",
-      "snippet": "Voya Partners扩展SinglepointAI合作；Amplify发布新品。汇总最新AI商业合作与产品发布资讯。",
-      "raw_snippet": "Voya Partners expands SinglepointAI partnership; Amplify launches custody solutions for RIAs; First Recon AI rolls out security platform; and more. Voya Financial Inc. announced a new application programming interface integration with SinglepointAI Inc. that will add artificial-intelligence-enabled technology and data connectivity to the retirement plan onboarding process for third-party administrators. The integration will connect SinglepointAI and Voya’s digital onboarding platform to reduce manual processes, improve data accuracy and deliver a more streamlined onboarding. The integrated platform delivers the custody account opening operations and capabilities of GSCS, with client data flowing directly into Amplify’s artificial-intelligence-powered data. The platform is expected to eliminate data fragmentation and to combine custody, trading, investment management, service and billing data into a single environment built for independent advisers. First Recon AI publicly launched AI Security Runtime, a platform expected to govern and secure how enterprises use artificial intelligence across an organization.",
+      "title": "AI无法商品化的创始人CEO核心领导力",
+      "link": "https://www.forbes.com/sites/dileeprao/2026/07/14/the-1-founder-ceo-leadership-skill-ai-cant-commoditize",
+      "snippet": "分析在AI Commoditization趋势下，Founder-CEO不可替代的战略判断与组织文化建设能力。",
+      "raw_snippet": "# The 1 Founder-CEO Leadership Skill AI Can't Commoditize. The article posits that \"Business Integration,\" exemplified by Founder-CEOs, is the answer. These leaders, like Gates and Bezos, excel at integrating all major business disciplines—finance, marketing, operations, and strategy—while simultaneously creating, financing, scaling, and renewing an enterprise under uncertainty. Unlike AI, which performs individual tasks, Founder-CEOs provide the critical judgment to weave these elements into coherent strategic decisions. This integrative capability, not just functional expertise, will become the scarce leadership advantage in the AI era, extending beyond entrepreneurs to all leaders facing complex challenges. It can increasingly assist with accounting, finance, marketing, operations, strategy, and business analysis. As AI makes expertise in individual business disciplines more accessible, one question becomes increasingly important: What leadership capability will become more valuable, not less? They integrate finance, marketing, operations, strategy, leadership, and organization while simultaneously creating, financing, scaling, and continually renewing an enterprise. ### Founder-CEO Capability is the ability to integrate business disciplines to discover opportunities, build enterprises, scale organizations, and continually renew them.",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "\"我们必须立即行动\"：诺贝尔奖得主与前谷歌CEO联合呼吁",
-      "link": "https://www.ndtv.com/artificial-intelligence/we-must-act-now-nobel-winners-ex-google-ceos-big-warning-on-ai-11768091",
-      "snippet": "4小时前发布。AI可能引发大规模就业替代，诺奖得主及前谷歌CEO呼吁立即采取行动应对风险。",
-      "raw_snippet": "4 hours ago — AI could trigger large scale job displacements and policy makers need to act urgently to mitigate the risks that artificial intelligence brings as it rapidly ...Read more",
+      "title": "2026年7月十大AI产品经理人才推荐",
+      "link": "https://www.toptal.com/product-managers/artificial-intelligence",
+      "snippet": "Toptal平台发布可聘用的Artificial Intelligence Product Managers名单，助力企业数字化转型。",
+      "raw_snippet": "# Hire Artificial Intelligence Product Managers. Toptal is a marketplace for top artificial intelligence (AI) product managers. Top companies and startups hire artificial intelligence product managers freelancers from Toptal for their most complex AI & ML projects. Hire a Top Artificial Intelligence Product Manager Now. No-Risk Trial, Pay Only If Satisfied. Clients rate *Toptal artificial intelligence product managers* *4.9* / 5.0 on average based on 1,106 reviews. Find and hire **Top Artificial Intelligence Product Managers** worldwide. For example, he led a project-to-product transformation that increased ARR by $1.5 million in less than a year, moved from a 1-scope project to 100 production-licensed partners with 100 million+ transactional usages and a million AMU, and increased the valuation from $10 million to $49 million+. AI Product ManagementAgile Product ManagementData Product ManagementPrincipal Product Managers. With over a decade of professional experience and a strong background in business, product management, data, and AI, Tobias is the go-to expert for AI innovation and implementation.",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
     },
     {
-      "title": "微软CEO警告AI技术窃取商业机密 - 2026年7月13日",
-      "link": "https://www.mediapost.com/publications/article/416477/ai-steals-secrets-microsoft-ceo-says.html",
-      "snippet": "微软首席执行官警告AI可能泄露核心商业机密，呼吁企业加强数据安全治理与AI使用规范。",
-      "raw_snippet": "Subscribe today to gain access to every *Research Intelligencer* article we publish as well as the exclusive daily newsletter, full access to *The MediaPost Cases*, first-look research and daily insights from Joe Mandese, Editor in Chief. If you're already a paid subscriber, please sign-in. Log in if you are already a member. When AI is asked to do the same task, it takes the brand’s internal secrets and teaches other agency reps to do that task -- often among the. Nadella’s argument -- \"The Reverse Information Paradox,\"  published in a post on. “In Arrow’s ‘Information Paradox,’ the seller risks giving away knowledge in order to sell. you want the model to perform, the more of that knowledge you have to feed it!”. The information becomes skewed and the seller learns more about the company and why it purchased the. For brands that wish to keep their trade secrets or campaign secrets, well, secret, the most important thing to note in Nadella’s post comes midway.",
+      "title": "微软CEO纳德拉警示AI隐藏成本",
+      "link": "https://www.ndtv.com/artificial-intelligence/microsoft-ceo-satya-nadella-highlights-the-hidden-cost-of-ai-usage-for-companies-11769273",
+      "snippet": "Satya Nadella就企业采用生成式AI提出警告，强调除直接支出外存在隐性运营与合规成本。",
+      "raw_snippet": "Microsoft CEO Satya Nadella's Sharp Warning for Companies Using AI. homeArtificial IntelligenceMicrosoft CEO Satya Nadella's Sharp Warning for Companies Using AI. ## Microsoft CEO Satya Nadella in a personal blog post pointed out that companies were actually paying for AI usage \"twice\". Image 21: Microsoft CEO Satya Nadella's Sharp Warning for Companies Using AI. *   Satya Nadella warns companies pay twice for AI: money and proprietary knowledge revealed. India-born Microsoft CEO Satya Nadella on his personal blog recently pointed out that companies are essentially paying for AI twice without realising it. \"You essentially pay for intelligence twice, once with money, and again with something even more valuable: the proprietary knowledge you must reveal to make that intelligence useful,\" he said adding that \"The better you want the model to perform, the more of that knowledge you have to feed it.\". \"In the AI age, the buyer risks giving away knowledge, just in order to use what they bought,\" he said.",
       "is_chinese": false,
       "source_type": "people",
       "index": 9
     },
     {
-      "title": "Interview #91 Johan Land, Chief Product Officer of Samsara",
-      "link": "https://open.spotify.com/episode/3yJDLreQ5oY85wUfA0Fc9U",
-      "snippet": "14 hours ago — Johan Land, Chief Product Officer at Samsara, breaks down why eve...",
-      "raw_snippet": "14 hours ago — Johan Land, Chief Product Officer at Samsara, breaks down why every major AI lab crowded into the easy 90% of knowledge work while ignoring the 40% of the ...Read more",
+      "title": "纳德拉警告企业\"为智能付费两次\"",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-satya-nadella-says-113114992.html",
+      "snippet": "Microsoft CEO指出AI部署可能导致Proprietary Knowledge（专有知识）流失，企业需警惕模型训练中的知识产权风险。",
+      "raw_snippet": "3. Best money market accounts. # Microsoft CEO Satya Nadella Says Businesses 'Pay for Intelligence Twice,' Warns AI Can Cost Companies Proprietary Knowledge. **Microsoft Corp.** CEO **Satya Nadella** on Sunday warned that enterprises risk giving away proprietary knowledge every time they use artificial intelligence, adding that companies should retain ownership of the learning generated from their interactions with AI models. \"You essentially pay for intelligence twice, once with money, and again with something even more valuable: the proprietary knowledge you must reveal to make that intelligence useful,\" he added. In June, the Microsoft CEO said the AI future dominated by a handful of models could concentrate economic value and weaken businesses' competitive advantages, calling instead for a broader AI ecosystem. **Realberry gives accredited investors direct access to private real estate opportunities** backed by a team with 35 years of experience, $3.4 billion in assets under management, and $481 million in cumulative distributions paid to investors as of Q4 2025, according to the company.",
       "is_chinese": false,
       "source_type": "people",
       "index": 10
     },
     {
-      "title": "Senior AI ML Cloud Developer - Myworkdayjobs.com",
-      "link": "https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/NEW-YORK-CITY/Senior-AI-Cloud-Developer_JR-260908",
-      "snippet": "8 hours ago — You Protiviti is looking for an AI Cloud Developer Senior Consulta...",
-      "raw_snippet": "8 hours ago — You Protiviti is looking for an AI Cloud Developer Senior Consultant to join our growing Artificial Intelligence team.",
+      "title": "Jon Cheney - CEO & Chief AI Officer, General Artificial ...",
+      "link": "https://www.sixtysecondpodcast.com/2298491/episodes/19493711-jon-cheney-ceo-chief-ai-officer-general-artificial-intelligence-proficiency-institute-genaipi",
+      "snippet": "12 hours ago — Jon Cheney, CEO and Chief AI Officer at GenAIPI, to discuss why A...",
+      "raw_snippet": "12 hours ago — Jon Cheney, CEO and Chief AI Officer at GenAIPI, to discuss why AI workshops and training sessions often fail to create lasting change inside organizations.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Head of Hardware Product Design - San Francisco - Plaud.ai | Built In San Francisco",
-      "link": "https://www.builtinsf.com/job/head-hardware-product-design-san-francisco/8673014",
-      "snippet": "Head of Hardware Product Design - San Francisco. ## Plaud.ai. Lead the design an...",
-      "raw_snippet": "Head of Hardware Product Design - San Francisco. ## Plaud.ai. Lead the design and development of AI-native hardware, building a world-class design team and defining new product categories like AI wearables and companion devices. Plaud is building the world's most trusted AI work companion for professionals to elevate productivity and performance through note-taking solutions, loved by over 1,500,000 users worldwide since 2023. With a mission to amplify human intelligence, Plaud is building the next-generation intelligence infrastructure and interfaces to capture, extract, and utilize what you say, hear, see, and think. Plaud Inc. is a Delaware-incorporated, San Francisco-based company pushing the boundary of human–AI intelligence through a hardware–software combination. Plaud is building the next generation intelligence infrastructure and interfaces to capture, extract, and utilize intelligence from what people say, hear, see, and think. As we aim to establish a **Hardware Product Design Center** in **San Francisco**, we are looking for a leader who aspires to define the next generation of AI-native hardware. **Define the Next Generation of AI Hardware**. You will lead the design of:.",
+      "title": "Artificial Intelligence Enabling Product Support",
+      "link": "https://www.waru.edu/acquipedia-article/artificial-intelligence-enabling-product-support",
+      "snippet": "An official website of the United States government. A **.gov** website belongs ...",
+      "raw_snippet": "An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. #1: Department AI Strategy (2018): “The ability of machines to perform tasks that normally require human intelligence. McCain National Defense Authorization Act for FY2019 – Sub B/Sect 238g: “The term artificial intelligence includes the following: (1) Any artificial system that performs tasks under varying and unpredictable circumstances without significant human oversight, or that can learn from experience and improve performance when exposed to data sets. Artificial Intelligence can be applied to any data set including a weapon system’s Product Support Strategy (PSS). Logisticians must partner with systems engineering early in the life cycle to design the program’s data analytics strategy, and tools such as machine learning and artificial intelligence can directly support the analytics strategy to include critical product support analyses such as the maintenance task analysis (MTA); Failure Reporting, Analysis, and Corrective Action System (FRACAS); Failure Mode, Effects, and Criticality Analysis (FMECA); and others.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Product Manager Artificial Intelligence jobs in New York, NY",
+      "link": "https://www.indeed.com/q-product-manager-artificial-intelligence-l-new-york,-ny-jobs.html",
+      "snippet": "783 Product Manager Artificial Intelligence jobs available in New York, NY on In...",
+      "raw_snippet": "783 Product Manager Artificial Intelligence jobs available in New York, NY on Indeed.com. Apply to Senior Product Manager, Product Manager, Senior Technical",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Applied AI: Product Strategy & Revenue Lead - Prime Intellect | Built In San Francisco",
+      "link": "https://www.builtinsf.com/job/applied-ai-product-strategy-revenue-lead/10103226",
+      "snippet": "Applied AI: Product Strategy & Revenue Lead. Own customer-to-product translation...",
+      "raw_snippet": "Applied AI: Product Strategy & Revenue Lead. Own customer-to-product translation and revenue for post-training AI infrastructure: qualify opportunities, define technical scope and proposals, run POCs, coordinate cross-functional work, shape pre-PMF product strategy, partner with Applied Research, and create category go-to-market narratives. **Applied AI Product Strategy & Revenue Lead******Own Your Intelligence****. Prime Intellect is building the open superintelligence stack: the infrastructure frontier AI labs build internally, made available to every ambitious AI team. It is refining the product, customer motion, and technical wedge together with Applied Research, Product, Engineering, and the customer. You will work directly with customers, the CEO, GTM leadership, Applied Research, and Engineering to translate ambiguous customer pain into a concrete product strategy, technical scope, commercial proposal, and path to revenue. You will work with frontier AI labs, fast-growing AI startups, and enterprise AI teams to understand what they are trying to build, where their current stack breaks, and how Prime Intellect can become the infrastructure layer underneath their post-training and agent workflows.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Best Remote Artificial Intelligence Product Manager Jobs in New York City, NY 2026 | Built In NYC",
+      "link": "https://www.builtinnyc.com/jobs/remote/product/artificial-intelligence",
+      "snippet": "# Top Remote Artificial Intelligence Product Manager Jobs in New York City, NY. ...",
+      "raw_snippet": "# Top Remote Artificial Intelligence Product Manager Jobs in New York City, NY. Lead the Auto Risk Classification product vision, manage backlog and roadmap, partner with cross-functional squads to deliver integrations with third-party vendors, data ingestion, and business-rules driven underwriting and risk capabilities. The Sr. Revenue Tools Product Manager will drive the vision, roadmap, and user experience for core Go-To-Market tools, lead user research, oversee feature execution, and ensure successful tool adoption and iterative improvements. Artificial Intelligence • Enterprise Web • Information Technology • Productivity • Sales • Software • Database. Lead the vision and strategy for Deliverability & Connectivity at Apollo.io by managing messaging infrastructure, ensuring reliable execution, and enhancing customer trust within the GTM stack. The Staff Product Manager, Conversion ML will shape product strategy for Liftoff's machine learning system, Cortex, develop new ideas, conduct experiments, and adapt roadmap based on data. Lead product strategy for infrastructure, reliability, and developer productivity platforms. ## Staff Product Manager.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Bosch Center for Artificial Intelligence (BCAI)",
+      "link": "https://www.bosch.com/research/bcai",
+      "snippet": "3. Bosch Center for Artificial Intelligence. ## This is the Bosch Center for Art...",
+      "raw_snippet": "3. Bosch Center for Artificial Intelligence. ## This is the Bosch Center for Artificial Intelligence (BCAI). The Bosch Center for Artificial Intelligence (BCAI) serves as Bosch’s center of excellence, dedicated to integrating cutting-edge AI technologies into the company's products and services to create solutions truly “Invented for life.” By leveraging Bosch's vast domain expertise and world-class AI methods, BCAI actively spearheads applied AI projects from initial concept to implementation, bridging the gap between fundamental research and real-world applications. Established in 2017, the BCAI drives the deployment of cutting-edge Industrial AI technologies across Bosch, creating solutions that are “Invented for life.” Operating from various Bosch Research locations globally, including the United States, China, India, Germany, and Israel, the BCAI conducts cutting-edge research using one of the world's largest datasets. Frank Hutter is a joint research lab established by the University of Freiburg and Bosch in order to strengthen joint research and information exchange in fundamentals of Machine Learning.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Akerman Intelligence - Akerman LLP",
+      "link": "https://www.akerman.com/en/akerman-intelligence.html",
+      "snippet": "# Akerman Intelligence. Akerman Intelligence is Akerman’s platform for AI strate...",
+      "raw_snippet": "# Akerman Intelligence. Akerman Intelligence is Akerman’s platform for AI strategy, research, and thought leadership. Through original analysis, client collaboration, and strategic partnerships, we help organizations navigate the legal, operational, and governance challenges of artificial intelligence. Analysis from Scott Meyers on emerging issues at the intersection of technology, business, and governance. This analysis examines the legal, governance, and operational implications for enterprises deploying AI at scale. ### What’s What with AI and the Law. As AI permeates our world, it brings endless questions about responsibility, ethics, and blame. Practice and sector-specific analysis of AI-related legal developments, compliance obligations, and risk management strategies. Illinois is on the cusp of enacting what may prove to be one of the most consequential pieces of artificial intelligence legislation in the country. The second installment in a five-part Law360 series on AI-driven securities and governance risk. The opening installment of a five‑part Law360 series examining AI‑driven securities and governance risk. AI-Driven Securities and Governance Risk.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Consumer Protection in the Age of Artificial Intelligence – Launch of UNCTAD’s Technical Note and Checklist | UN Trade and Development (UNCTAD)",
+      "link": "https://unctad.org/meeting/consumer-protection-age-artificial-intelligence-launch-unctads-technical-note-and-checklist",
+      "snippet": "UN Trade and Development (UNCTAD) - Home. #### We help developing countries bene...",
+      "raw_snippet": "UN Trade and Development (UNCTAD) - Home. #### We help developing countries benefit from the global economy more fairly and effectively, providing data and analysis, facilitating consensus-building and offering technical assistance on issues related to trade and development. #### We provide reliable and timely data and statistics to help countries better understand trade and development trends and design more effective economic, environmental and social policies. #### Our research and publications provide authoritative and evidence-based analysis on trade and development and policy recommendations to help countries tackle today’s biggest challenges. #### Our meetings and events convene governments, businesses, civil society organizations, academia and international organizations to discuss and build consensus on the most pressing trade and development issues. # Consumer Protection in the Age of Artificial Intelligence – Launch of UNCTAD’s Technical Note and Checklist. Join UNCTAD for the launch of the Technical Note on Artificial Intelligence and Consumer Protection, which explores the opportunities and challenges AI brings to consumers and regulators alike.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Artificial Intelligence-Enabled Medical Devices",
+      "link": "https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices",
+      "snippet": "The FDA encourages the development of innovative, safe, and effective medical de...",
+      "raw_snippet": "The FDA encourages the development of innovative, safe, and effective medical devices, including devices that incorporate artificial intelligence (AI). The AI-Enabled Medical Device List is a resource intended to identify AI-enabled medical devices that are authorized for marketing in the United States. This list can also provide transparency for healthcare providers and patients to clearly identify when medical devices use AI technologies. ## Contents of the AI-Enabled Medical Devices List:. ## AI-Enabled Medical Devices List. | 03/30/2026 | K254207 | AiORTA - Plan v2.0 | ViTAA Medical Solutions, Inc. | 03/27/2026 | K253649 | Spectral CT Verida Family | Philips Medical Systems Technologies , Ltd. | 03/27/2026 | K254161 | Automated Aortic Stenosis Software (AutoAS) | GE Medical Systems Ultrasound & Primary Care Diagnostics, LLC | Radiology | POK |. | 03/27/2026 | K253595 | EPIQ Series Diagnostic Ultrasound System, Affiniti Series Diagnostic Ultrasound System | Philips Ultrasound, LLC | Radiology | IYN |.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "As Artificial Intelligence Drives Health Innovations, UN Agencies Launch Joint Strategic Guidelines - Health Policy Watch",
+      "link": "https://healthpolicy-watch.news/artificial-intelligence-health",
+      "snippet": "From left to right: Dalila Hamou (WIPO), Dr Alain Labrique (WHO), and Bilel Jamo...",
+      "raw_snippet": "From left to right: Dalila Hamou (WIPO), Dr Alain Labrique (WHO), and Bilel Jamoussi (ITU) hold the newly launched joint strategic guidelines at the Artificial Intelligence for Good Global Summit in Geneva. *As artificial intelligence drives rapid health innovations, global guardrails, equitable data, and local capacity are needed to ensure equitable progress. New guidelines for the use of artificial intelligence lay out a roadmap for health innovators to navigate complex intellectual property, data governance, and regulatory pathways. The landmark framework, co-authored by experts from the World Health Organization (WHO), the International Telecommunication Union (ITU), and the World Intellectual Property Organization (WIPO), was presented at the “AI for Good” Global Summit in Geneva last week. “We can’t expect every country to suddenly find money in this current fiscal context that they’ve not had for the last 10 years,” said John Fairhurst, head of private sector engagement at the Global Fund to Fight AIDS, Tuberculosis and Malaria, during a panel discussion with Gavi the Vaccine Alliance, and Google.org at last week’s AI for Good summit in Geneva.",
       "is_chinese": false,
       "source_type": "people"
     }

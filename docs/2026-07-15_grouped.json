@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-15",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "私募股权一边投资AI一边对冲风险",
+          "link": "https://www.iflr.com/article/2gmnqjln2ohm5qdlomo74/corporate/private-equity-is-investing-in-ai-while-hedging-against-it",
+          "snippet": "随着AI改变收购标的性质，咨询顾问建议赞助商通过多元化策略平衡投资组合风险。",
+          "index": 1
+        },
+        {
+          "title": "GMEX Robotics签署意向书战略收购AI平台",
+          "link": "https://www.fidelity.com/news/article/mergers-and-acquisitions/202607140830PRIMZONEFULLFEED9761812",
+          "snippet": "该公司拟收购AI平台以构建Social World Models（社会世界模型），实现Human-Centric（以人为本）的大规模部署。",
+          "index": 2
+        },
+        {
+          "title": "投资人工智能：一个三体问题",
+          "link": "https://caia.org/newsletter/investing-in-artificial-intelligence-a-three-body-problem",
+          "snippet": "探讨AI投资面临的三大复杂变量——技术迭代、监管政策与商业变现之间的动态博弈与平衡难题。",
+          "index": 3
+        },
+        {
+          "title": "AI投资者狂热：中国DeepSeek追逐700亿美元估值",
+          "link": "https://www.scmp.com/tech/big-tech/article/3360626/ai-investor-mania-chinas-deepseek-chases-us70-billion-valuation-fresh-round",
+          "snippet": "中国前沿AI初创公司DeepSeek最新融资引发市场关注，估值目标反映全球资本对基础模型赛道的追捧热度。",
+          "index": 4
+        },
+        {
+          "title": "AI初创企业融资：供应链领导者须知",
+          "link": "https://www.traxtech.com/ai-in-supply-chain/ai-startup-funding-supply-chain-investment?hs_amp=true",
+          "snippet": "解析供应链管理者应关注的AI Startup Funding趋势，包括技术成熟度评估与供应商尽职调查关键要点。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "人工智能公司CEO数据库盘点",
+          "link": "https://golden.com/query/ceos-of-artificial-intelligence-ai-companies-X8GXX",
+          "snippet": "Golden平台收录8,729位AI公司首席执行官资料，涵盖Elon Musk等连续创业者及其企业治理数据。",
+          "index": 6
+        },
+        {
+          "title": "AI无法商品化的创始人CEO核心领导力",
+          "link": "https://www.forbes.com/sites/dileeprao/2026/07/14/the-1-founder-ceo-leadership-skill-ai-cant-commoditize",
+          "snippet": "分析在AI Commoditization趋势下，Founder-CEO不可替代的战略判断与组织文化建设能力。",
+          "index": 7
+        },
+        {
+          "title": "2026年7月十大AI产品经理人才推荐",
+          "link": "https://www.toptal.com/product-managers/artificial-intelligence",
+          "snippet": "Toptal平台发布可聘用的Artificial Intelligence Product Managers名单，助力企业数字化转型。",
+          "index": 8
+        },
+        {
+          "title": "微软CEO纳德拉警示AI隐藏成本",
+          "link": "https://www.ndtv.com/artificial-intelligence/microsoft-ceo-satya-nadella-highlights-the-hidden-cost-of-ai-usage-for-companies-11769273",
+          "snippet": "Satya Nadella就企业采用生成式AI提出警告，强调除直接支出外存在隐性运营与合规成本。",
+          "index": 9
+        },
+        {
+          "title": "纳德拉警告企业\"为智能付费两次\"",
+          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-satya-nadella-says-113114992.html",
+          "snippet": "Microsoft CEO指出AI部署可能导致Proprietary Knowledge（专有知识）流失，企业需警惕模型训练中的知识产权风险。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
