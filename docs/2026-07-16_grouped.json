@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-16",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "PYMNTS | DeepSeek Revenue Nears $500 Million as AI Startup Eyes IPO",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-revenue-nears-500-million-as-chinese-ai-startup-eyes-ipo",
+          "snippet": "Chinese artificial intelligence startup DeepSeek has reportedly built an annuali...",
+          "index": 1
+        },
+        {
+          "title": "Csquare IPO raises $1.05 billion as investors bet on AI boom",
+          "link": "https://wtvbam.com/2026/07/15/brookfield-backed-csquare-prices-ipo-at-21-per-share-bloomberg-news-reports",
+          "snippet": "Growing demand for AI computing infrastructure has boosted investor interest in data center operators, which are expanding capacity to meet ​demand for AI",
+          "index": 2
+        },
+        {
+          "title": "Chinese Artificial Intelligence (AI) pioneer DeepSeek has ...",
+          "link": "https://x.com/cozyduke_apt29/status/2077440500165116013",
+          "snippet": "It has begun talks with new backers about a fresh round targeting a pre-money valuation of at least 480 billion yuan ($71 billion), they said. Vineet's Image on",
+          "index": 3
+        },
+        {
+          "title": "Fintech Funding Surges 23% In H1 2026 As Investors ...",
+          "link": "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026",
+          "snippet": "# Fintech Funding Surges 23% In H1 2026 As Investors Concentrate Their Bets On A...",
+          "index": 4
+        },
+        {
+          "title": "Apple explores chip acquisitions to bolster AI server capabilities",
+          "link": "https://finance.yahoo.com/technology/ai/articles/apple-explores-chip-acquisitions-bolster-151741861.html",
+          "snippet": "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Co-Founder & CEO — AI-Driven Ecommerce Platform",
+          "link": "https://bebee.com/ph/jobs/co-founder-ceo-ai-driven-ecommerce-platform-futuresight-boston--talent-628159782000134956",
+          "snippet": "FutureSight is seeking a Co-Founder & CEO to lead Omnex, an AI-native operating ...",
+          "index": 6
+        },
+        {
+          "title": "SoftBank CEO: $5 Trillion a Year Needed to Meet AI Demand",
+          "link": "https://www.ien.com/artificial-intelligence/news/22970614/softbank-ceo-5-trillion-a-year-needed-to-meet-ai-demand",
+          "snippet": "Image 1: Mouser Electronics Logo. The Newest Products for Your Newest DesignsMou...",
+          "index": 7
+        },
+        {
+          "title": "Jobgether - Director of Applied AI Product",
+          "link": "https://jobs.lever.co/jobgether/296f4d0e-99ca-49bd-84c9-bd2781797bb2",
+          "snippet": "We may use artificial intelligence (AI) tools to support parts of the hiring pro...",
+          "index": 8
+        },
+        {
+          "title": "Head of Artificial Intelligence – AssetWatch - the Jungle",
+          "link": "https://www.welcometothejungle.com/en/companies/assetwatch/jobs/head-of-artificial-intelligence_us_cwpvib2p",
+          "snippet": "AssetWatch is looking for a Head of Artificial Intelligence!",
+          "index": 9
+        },
+        {
+          "title": "DeepMind CEO again pushes for a frontier AI standards body",
+          "link": "https://www.cio.com/article/4197497/deepmind-ceo-again-pushes-for-a-frontier-ai-standards-body.html",
+          "snippet": "Google DeepMind CEO Demis Hassabis on Tuesday reiterated his push for an AI indu...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
