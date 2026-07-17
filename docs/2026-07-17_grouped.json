@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-17",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Databricks is Raising a Strategic Round of Funding at ...",
+          "link": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation",
+          "snippet": "# Databricks is Raising a Strategic Round of Funding at a $188 Billion Valuation...",
+          "index": 1
+        },
+        {
+          "title": "China And AI Lead Asia's Startup Funding To Multiyear ...",
+          "link": "https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026",
+          "snippet": "Artificial intelligence • Regional • Seed funding • Startups • Venture. # China ...",
+          "index": 2
+        },
+        {
+          "title": "Databricks Set to Hit $188 Billion Valuation With New ...",
+          "link": "https://www.wsj.com/tech/ai/databricks-set-to-hit-188-billion-valuation-with-new-investment-from-coatue-9eda18d6",
+          "snippet": "It recently released a new software tool, called Unity AI Gateway, that allows companies to access AI models and track their spending on the technology.",
+          "index": 3
+        },
+        {
+          "title": "AI Startup Funding: What Investors Look for in 2026",
+          "link": "https://www.crv.com/content/ai-startup-funding",
+          "snippet": "# AI Startup Funding: What Investors Look for in 2026. The funding market in 202...",
+          "index": 4
+        },
+        {
+          "title": "Artificial Intelligence Adoption and Financial Performance ...",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6957498",
+          "snippet": "This study examines the relationship between Artificial Intelligence (AI) adoption and firm-level financial performance in emerging markets, with a particular",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Founding Product Lead / AI Marketing / NYC",
+          "link": "https://motionrecruitment.com/tech-jobs/new-york/direct-hire/founding-product-lead-ai-marketing-nyc/882775",
+          "snippet": "This company is building AI for marketing leaders, enabling brands to focus on s...",
+          "index": 6
+        },
+        {
+          "title": "What Takes PhDs Two Months, AI Is Doing In 2 Hours: Citadel Founder CEO Ken Griffin",
+          "link": "https://www.ndtv.com/artificial-intelligence/what-takes-phds-two-months-ai-is-doing-in-2-hours-citadel-founder-ceo-ken-griffin-11779313",
+          "snippet": "Image 21: What Takes PhDs Two Months, AI Is Doing In 2 Hours: Billionaire Invest...",
+          "index": 7
+        },
+        {
+          "title": "Robert Scoble on X: \"Good advice for business leaders. If you don't know who Kai-Fu is: he was the first to show me AI way back at Microsoft Research back in 2005. And has done many things since then like run Google China, and now is a famous investor in China.\" / X",
+          "link": "https://x.com/Scobleizer/status/2077942678558593403",
+          "snippet": "## Post. Good advice for business leaders. If you don't know who Kai-Fu is: he w...",
+          "index": 8
+        },
+        {
+          "title": "Build the Future of Generative AI",
+          "link": "https://www.amazon.jobs/content/en/artificial-intelligence-ai",
+          "snippet": "# Build AI with real-world impact. At Amazon, you’ll create intelligent solution...",
+          "index": 9
+        },
+        {
+          "title": "Product Director, Pattern & AI Driven Automation",
+          "link": "https://jobs.gsk.com/in/en/job/444861/Product-Director-Pattern-AI-Driven-Automation",
+          "snippet": "Apply for Product Director, Pattern & AI ... Build toward progressively adding i...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
