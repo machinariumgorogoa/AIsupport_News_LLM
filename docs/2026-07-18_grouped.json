@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-18",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "FUNDING Synonyms & Antonyms - 14 words",
+          "link": "https://www.thesaurus.com/browse/funding",
+          "snippet": "15 hours ago — Find 14 different ways to say FUNDING, along with antonyms, related words, and example sentences at Thesaurus.com.",
+          "index": 1
+        },
+        {
+          "title": "FUNDING definition in American English",
+          "link": "https://www.collinsdictionary.com/us/dictionary/english/funding",
+          "snippet": "Funding is money which a government or organization provides for a particular purpose. They hope for government funding for the program.Read more",
+          "index": 2
+        },
+        {
+          "title": "Thesaurus results for FUNDING",
+          "link": "https://www.merriam-webster.com/thesaurus/funding",
+          "snippet": "In 1963, the Hershey foundation was permitted to spend $50 million on _funding_ ...",
+          "index": 3
+        },
+        {
+          "title": "Funding - Definition, Meaning & Synonyms | Vocabulary.com",
+          "link": "https://www.vocabulary.com/dictionary/funding",
+          "snippet": "The foundation of the word *funding* is *fund,* which is actually related to the...",
+          "index": 4
+        },
+        {
+          "title": "Fund your business | U.S. Small Business Administration",
+          "link": "https://www.sba.gov/business-guide/plan-your-business/fund-your-business",
+          "snippet": "A **.gov** website belongs to an official government organization in the United ...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Artificial Intelligence, CEO Turnover, and Exploration Orientation in Firm Innovation",
+          "link": "https://pubsonline.informs.org/doi/10.1287/isre.2024.0970",
+          "snippet": "Perspect._ 33(2):31–50.[Crossref](https://pubsonline.informs.org/servlet/linkout...",
+          "index": 6
+        },
+        {
+          "title": "Michael Quoc - Founder & CEO",
+          "link": "https://product.ai/about/michael-quoc",
+          "snippet": "Michael Quoc is the founder and chief executive of Product.ai, a commerce intell...",
+          "index": 7
+        },
+        {
+          "title": "Andrew Ng - Official Website",
+          "link": "https://www.andrewng.org",
+          "snippet": "# Andrew Ng. Andrew Ng is the Founder ofDeepLearning.AI, Managing General Partne...",
+          "index": 8
+        },
+        {
+          "title": "Microsoft CEO Satya Nadella Says Businesses 'Pay for ...",
+          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-satya-nadella-says-113114992.html",
+          "snippet": "3. Best money market accounts. # Microsoft CEO Satya Nadella Says Businesses 'Pa...",
+          "index": 9
+        },
+        {
+          "title": "11 Best Freelance AI Developers for Hire in July 2026 | Toptal®",
+          "link": "https://www.toptal.com/developers/artificial-intelligence",
+          "snippet": "# Hire AI Developers. ## Hire the Top 3% of **Freelance AI Developers**. Hire AI...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
