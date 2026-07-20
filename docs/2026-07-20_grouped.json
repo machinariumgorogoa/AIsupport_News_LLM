@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-20",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "China's Moonshot Plans IPO in Six Months After AI ...",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
+          "snippet": "*   [Software Updates](https://www.bloomberg.com/professional/support/customer-s...",
+          "index": 1
+        },
+        {
+          "title": "AI Chip Startup Etched Eyes $20 Billion Valuation",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-chip-startup-etched-eyes-20-billion-valuation",
+          "snippet": "Artificial intelligence chip startup Etched is reportedly preparing to quadruple...",
+          "index": 2
+        },
+        {
+          "title": "xAI Stock | Valuation, Funding, Investors",
+          "link": "https://notice.co/c/x-ai",
+          "snippet": "xAI Stock | Valuation, Funding, Investors | Notice.co. ## xAI Stock Price. xAI s...",
+          "index": 3
+        },
+        {
+          "title": "Mergers and Acquisitions Firm | M&A Lawyers",
+          "link": "https://www.paulhastings.com/practice-areas/mergers-and-acquisitions",
+          "snippet": "Our leading global M&A practice, consisting of over 170 lawyers across 24 office...",
+          "index": 4
+        },
+        {
+          "title": "Commonsense reasoning and commonsense knowledge ...",
+          "link": "https://dl.acm.org/doi/10.1145/2701413",
+          "snippet": "by E Davis · 2015 · Cited by 803 — Artificial Intelligence (AI) focuses on enabling computer systems with the ability to perform tasks that previously only humans primarily performed.",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "What if the biggest opportunity in AI isn’t starting an AI ...",
+          "link": "https://www.tiktok.com/@steven/video/7664495581619948822",
+          "snippet": "How hiring the right person can create more leverage than learning every new too...",
+          "index": 6
+        },
+        {
+          "title": "Two questions every CEO should ask about AI",
+          "link": "https://chamath.substack.com/p/two-questions-every-ceo-should-ask",
+          "snippet": "### A summary of the interesting content that I consumed this past week…. This w...",
+          "index": 7
+        },
+        {
+          "title": "These AI-Native Companies Have Tiny Staffs and Fewer ...",
+          "link": "https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343",
+          "snippet": "Quick Summary · A new working paper found that AI-powered startups have about 25...",
+          "index": 8
+        },
+        {
+          "title": "Director of AI Product & Applied Intelligence - Remote",
+          "link": "https://www.jobleads.com/us/job/director-of-ai-product-applied-intelligence-remote--dallas--e0aa24ffff3fa8c7b4845f7ee1cc8414b",
+          "snippet": "Acceleration Partners seeks a Director of AI Product to own the technical approa...",
+          "index": 9
+        },
+        {
+          "title": "Product Manager - AI & Intelligent Manufacturing Systems",
+          "link": "https://www.employbl.com/jobs/principal-product-manager-ai-intelligent-Fictiv-1614433",
+          "snippet": "This role is ideal for a seasoned product leader with experience bringing AI-fir...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
