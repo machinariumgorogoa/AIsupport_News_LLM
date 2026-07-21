@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-21",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Artificial Intelligence, Markets, and the Difference Between ...",
+          "link": "https://www.brownadvisory.com/node/44426",
+          "snippet": "* Today’s most visible AI beneficiaries are infrastructure providers, but long-t...",
+          "index": 1
+        },
+        {
+          "title": "Databricks Reaches US$188B Valuation, Expands Enterprise AI",
+          "link": "https://mexicobusiness.news/cloudanddata/news/databricks-reaches-us188b-valuation-expands-enterprise-ai",
+          "snippet": "*Databricks has signed terms for a strategic funding round that values the compa...",
+          "index": 2
+        },
+        {
+          "title": "International Finance",
+          "link": "https://x.com/IntlFinanceMag/status/2079201550967140767",
+          "snippet": "Artificial intelligence is reigniting Wall Street's IPO market, but can investor demand keep pace? A wave of AI-driven listings is restoring confidence",
+          "index": 3
+        },
+        {
+          "title": "AI Stocks & IPOs - Investment Theme",
+          "link": "https://www.listingtrack.io/theme/ai",
+          "snippet": "Track AI-related public companies, IPO candidates, and planned listings. Monitor the artificial intelligence investment theme across markets.",
+          "index": 4
+        },
+        {
+          "title": "Databricks Valuation Surges Amid AI Investment",
+          "link": "https://illustrated-ai.com/databricks-valuation-surges-on-ai-fueled-investment",
+          "snippet": "## The Valuation Surge That Signals a New Era. When a company's valuation climbs...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Meta Hiring Former AWS Executive Fuels Cloud Ambitions",
+          "link": "https://ca.finance.yahoo.com/news/meta-hiring-former-aws-executive-161239598.html",
+          "snippet": "Meta Platforms (META, Financials), the technology corporation that owns Facebook...",
+          "index": 6
+        },
+        {
+          "title": "Chief Technology Officer (CTO), Artificial Intelligence (AI) ...",
+          "link": "https://www.dice.com/job-detail/c9909af2-c1ca-4f0e-afd6-fdbb12ae2488",
+          "snippet": "Chief Technology Officer (CTO), Artificial Intelligence (AI) Required, Work From...",
+          "index": 7
+        },
+        {
+          "title": "Chinese CEO leaves US to launch successful AI startup",
+          "link": "https://americanbazaaronline.com/2026/07/20/chinese-ceo-leaves-us-to-launch-successful-ai-startup-484864",
+          "snippet": "# Chinese CEO leaves US to launch successful AI startup despite ‘many opportunit...",
+          "index": 8
+        },
+        {
+          "title": "AI Product & Service Launches – 7/20/2026",
+          "link": "https://www.planadviser.com/ai-product-service-launches-7-20-2026",
+          "snippet": "D1g1t launches MCP servers for advisers; Smartria releases SmartArchive for comm...",
+          "index": 9
+        },
+        {
+          "title": "Prequel Solutions: AI Changes Hiring; How to Validate ...",
+          "link": "https://www.pghtech.org/podcasts/Prequel_AI",
+          "snippet": "A thoughtful three-step process can improve confidence, accelerate decisions and...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
