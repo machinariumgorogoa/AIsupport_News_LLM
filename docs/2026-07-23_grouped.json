@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-23",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI M&A in 2026: Who Is Acquiring Whom",
+          "link": "https://theaiinsider.tech/2026/07/22/ai-ma-in-2026-who-is-acquiring-whom",
+          "snippet": "# AI M&A in 2026: Who Is Acquiring Whom. Yet within that more cautious market, A...",
+          "index": 1
+        },
+        {
+          "title": "AI Investments - by George Serafeim - The Edge",
+          "link": "https://theedgeletter.substack.com/p/ai-investments",
+          "snippet": "Next semester at Harvard Business School, we will teach a new case on the AI inf...",
+          "index": 2
+        },
+        {
+          "title": "Moonshot AI IPO: Everything You Need to Know About ...",
+          "link": "https://www.investing.com/analysis/moonshot-ai-ipo-everything-you-need-to-know-about-moonshot-ai-200684381",
+          "snippet": "Moonshot AI is reportedly preparing for a Hong Kong IPO. Here is what investors ...",
+          "index": 3
+        },
+        {
+          "title": "Progress Software to Acquire Domo's AI and Data Platform ...",
+          "link": "https://investors.progress.com/news-releases/news-release-details/progress-software-acquire-domos-ai-and-data-platform-business",
+          "snippet": "12 hours ago — Progress Software to Acquire Domo's AI and Data Platform. Accelerate data, AI and analytics projects, manage costs and deliver enterprise growth. Progress",
+          "index": 4
+        },
+        {
+          "title": "BlackRock’s GIP, Microsoft-backed AI group buy Aligned Data Centers for $40B",
+          "link": "https://www.esgdive.com/news/blackrocks-gip-microsoft-backed-ai-group-buy-aligned-data-centers-for-40/825920",
+          "snippet": "Let ESG Dive's free newsletter keep you informed, straight from your inbox. - [x...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Tech Bros Acquiring Entire Company So They Can Appoint ...",
+          "link": "https://futurism.com/artificial-intelligence/tech-bros-acquiring-entire-company-ai-ceo",
+          "snippet": "The startup Skyfall AI says it plans to buy a small tech business and let an AI ...",
+          "index": 6
+        },
+        {
+          "title": "Co-Founder & CEO - AI Native Recruiting Firm at FutureSight",
+          "link": "https://wellfound.com/jobs/4496966-co-founder-ceo-ai-native-recruiting-firm",
+          "snippet": "Foundry is an AI-native recruiting firm built around a simple idea: use AI agent...",
+          "index": 7
+        },
+        {
+          "title": "Who Is Sam Altman? A Guide to the OpenAI CEO’s Career | Built In",
+          "link": "https://builtin.com/articles/sam-altman",
+          "snippet": "A Guide to the OpenAI CEO’s Career. From Stanford dropout and Y Combinator presi...",
+          "index": 8
+        },
+        {
+          "title": "This Startup Wants to Buy a Company Just to See What an AI CEO Does With It",
+          "link": "https://gizmodo.com/this-startup-wants-to-buy-a-company-just-to-see-what-an-ai-ceo-does-with-it-2000789416",
+          "snippet": "# This Startup Wants to Buy a Company Just to See What an AI CEO Does With It. T...",
+          "index": 9
+        },
+        {
+          "title": "Product & Enablement Leader, AI Productivity Tools - Remote",
+          "link": "https://builtin.com/job/product-enablement-leader-ai-productivity-tools-remote/10319467",
+          "snippet": "Optum is hiring for a Remote Product & Enablement Leader, AI Productivity Tools ...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
