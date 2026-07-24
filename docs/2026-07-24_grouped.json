@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-24",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Artificial Intelligence and the Future of Finance",
+          "link": "https://rpc.cfainstitute.org/sites/default/files/docs/research-reports/rpc_naqvi_ai-and-the-future-of-finance_online.pdf",
+          "snippet": "Artificial intelligence (AI) is redefining this logic. As analytical capability ...",
+          "index": 1
+        },
+        {
+          "title": "AI on the Horizon: July 23, 2026 Update",
+          "link": "https://www.signal49.ca/insights/ai-on-the-horizon-july-23-2026-update",
+          "snippet": "Canada’s quantum champion Xanadu debuted on public markets in the spring around ...",
+          "index": 2
+        },
+        {
+          "title": "Accelerate Your Startup's VC Fundraising with AI",
+          "link": "https://innovationlabs.harvard.edu/how-to/accelerate-your-startups-vc-fundraising-with-ai",
+          "snippet": "Why this matters: An investor may write 20 term sheets a year, while a founder m...",
+          "index": 3
+        },
+        {
+          "title": "AI chip startup Etched raises $300 million at $10.3 billion valuation",
+          "link": "https://finance.yahoo.com/technology/ai/articles/ai-chip-startup-etched-raises-154923494.html",
+          "snippet": "...\n\nReuters\n\n# AI chip startup Etched raises $300 million at $10.3 billion valu...",
+          "index": 4
+        },
+        {
+          "title": "Strategy& Deals Tech Strategy AI & Tech Value Creation ...",
+          "link": "https://www.builtinnyc.com/job/strategy-deals-tech-strategy-ai-tech-value-creation-manager/10345159",
+          "snippet": "As a Strategy& Deals Tech Strategy AI & Tech Value Creation Manager, you will provide strategic advice and support to clients in areas such as mergers and",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Nabla names new CEO as AI scribe looks to scale | Healthcare Dive",
+          "link": "https://www.healthcaredive.com/news/nabla-appoints-new-ceo-brian-manning/825972",
+          "snippet": "Let Healthcare Dive's free newsletter keep you informed, straight from your inbo...",
+          "index": 6
+        },
+        {
+          "title": "Artificial Intelligence (AI) - Vanguard Group, Inc. - Dallas, TX",
+          "link": "https://www.theladders.com/job/senior-manager-product-management-artificial-intelligence-ai-vanguard-group-inc-dallas-tx_87961304?source=company",
+          "snippet": "Vanguard Group, Inc. is hiring a Senior Manager, Product Management - Artificial...",
+          "index": 7
+        },
+        {
+          "title": "An AI Is About to Become a First-Time CEO",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-is-almost-first-time-ceo",
+          "snippet": "###### Featured. # An AI Is About to Become a First-Time CEO. Every major AI lab...",
+          "index": 8
+        },
+        {
+          "title": "Director of Artificial Intelligence - Opentrons - New York, NY",
+          "link": "https://www.theladders.com/job/director-of-artificial-intelligence-opentrons-new-york-ny_87967849",
+          "snippet": "Opentrons is hiring a Director of Artificial Intelligence, with an estimated sal...",
+          "index": 9
+        },
+        {
+          "title": "AI Builder - Remote - Myworkdayjobs.com",
+          "link": "https://onedigital.wd5.myworkdayjobs.com/en-US/OneDigital/job/Remote/AI-Builder---Remote_R9183-1",
+          "snippet": "We utilize advanced Artificial Intelligence [AI] technologies to enhance our rec...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
