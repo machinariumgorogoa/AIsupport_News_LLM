@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-27",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Medium",
+          "link": "https://medium.com/@jerrygrzegorzek/what-is-ais-impact-on-markets-e07391ce5fe7",
+          "snippet": "The integration of artificial intelligence across global financial markets repre...",
+          "index": 1
+        },
+        {
+          "title": "Buy 01.AI stock and other Pre-IPO shares on UpMarket",
+          "link": "https://www.upmarket.co/private-markets/pre-ipo/01-ai",
+          "snippet": "# 01.AI Stock and Valuation. ## 01.AI Valuation Estimate. ## Want to buy 01.AI s...",
+          "index": 2
+        },
+        {
+          "title": "Artificial Intelligence | Attorneys",
+          "link": "https://www.mintz.com/industries-practices/artificial-intelligence",
+          "snippet": "Artificial intelligence (AI) has rapidly evolved into a transformative force in ...",
+          "index": 3
+        },
+        {
+          "title": "Build Wealth That Wakes Up Before You Do - Matteo Turi",
+          "link": "https://matteoturi.substack.com/p/build-wealth-that-wakes-up-before",
+          "snippet": "This article forms part of The High Valuation Code series, exploring how artificial intelligence is reshaping enterprise value and why the next generation",
+          "index": 4
+        },
+        {
+          "title": "Summarising my current AI thesis – Part 2",
+          "link": "https://x.com/rjmontgomery/article/2081609841303572849",
+          "snippet": "Passive flows into index funds mean a significant portion of an investor's exposure is tied to six or seven AI-driven mega-caps. Rebalance away from broad index",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Black Lake CEO’s strategy to sell AI solutions to factories: turn to food couriers | South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers",
+          "snippet": "Zhou gets a closer look at a factory’s production workflow to understand potenti...",
+          "index": 6
+        },
+        {
+          "title": "Big Companies Are Starting to Hire Again, Defying ...",
+          "link": "https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99",
+          "snippet": "### Most Popular\n\n### Further Reading\n\n### EU Gives Google Binding Instructions ...",
+          "index": 7
+        },
+        {
+          "title": "Artificial intelligence is fueling the American economy right ...",
+          "link": "https://x.com/FareedZakaria/status/2081442159006187621",
+          "snippet": "Artificial intelligence is fueling the American economy right now. But so much o...",
+          "index": 8
+        },
+        {
+          "title": "Associate General Counsel, Product and Privacy",
+          "link": "https://www.goinhouse.com/jobs/565815349-associate-general-counsel-product-and-privacy-at-scale-ai",
+          "snippet": "17 hours ago — Deep interest in artificial intelligence, generative AI, and mach...",
+          "index": 9
+        },
+        {
+          "title": "Head of Hardware Product Design - San Francisco - Plaud.ai | Built In San Francisco",
+          "link": "https://www.builtinsf.com/job/head-hardware-product-design-san-francisco/8673014",
+          "snippet": "As we aim to establish a Hardware Product Design Center in San Francisco, we are...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
