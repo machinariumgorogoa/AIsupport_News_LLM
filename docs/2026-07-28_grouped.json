@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-28",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "When every M&A team deploys AI, what’s your competitive advantage? | RSM US",
+          "link": "https://rsmus.com/insights/services/merger-acquisition/when-every-ma-team-deploys-ai-whats-your-competitive-advantage.html",
+          "snippet": "# When every M&A team deploys AI, what’s your competitive advantage? Use AI to c...",
+          "index": 1
+        },
+        {
+          "title": "Managing COVID Vintage Assets",
+          "link": "https://www.alvarezandmarsal.com/thought-leadership/managing-covid-vintage-assets",
+          "snippet": "This included the $19.7 billion acquisition of Nuance Communications by Microsoft and Oracle's purchase of Cerner for $28.3 billion. The rise of AI is",
+          "index": 2
+        },
+        {
+          "title": "12 Questions Boards, Executives, and Investors Should Ask About AI Assets - Ocean Tomo",
+          "link": "https://oceantomo.com/insights/12-questions-boards-executives-and-investors-should-ask-about-ai-assets",
+          "snippet": "# 12 Questions Boards, Executives, and Investors Should Ask About AI Assets. Mal...",
+          "index": 3
+        },
+        {
+          "title": "73 Strings",
+          "link": "https://www.73strings.com/insights/blog",
+          "snippet": "Seamlessly Integrated Monitoring and Valuations for Multi-strategy Investors. Em...",
+          "index": 4
+        },
+        {
+          "title": "Consolidate your control environment post-merger",
+          "link": "https://www.workiva.com/resources/consolidate-your-control-environment-post-merger",
+          "snippet": "Welcome to the Workiva AI demo series, where we show you how AI built for high stakes work helps finance, risk, and sustainability teams move faster, decide",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "The hire strengthens the firm's capabilities in artificial ...",
+          "link": "https://x.com/svbizjournal/status/2081907676791918675",
+          "snippet": "The hire strengthens the firm's capabilities in artificial intelligence, softwar...",
+          "index": 6
+        },
+        {
+          "title": "AI Co-Founder / CEO at EWOR - United States Remote",
+          "link": "https://www.remoterocketship.com/us/company/ewor-3/jobs/ai-co-founder-ceo-washington-remote",
+          "snippet": "16 hours ago — Own, build, and run your startup in fields such as AI. • Embark o...",
+          "index": 7
+        },
+        {
+          "title": "AI Chief of Staff - Product.ai",
+          "link": "https://builtin.com/job/ai-chief-staff/10390616",
+          "snippet": "24 hours ago — Product.ai is hiring for a AI Chief of Staff in Metropolitan, CA,...",
+          "index": 8
+        },
+        {
+          "title": "OpenAI CEO Sam Altman claims artificial intelligence has ...",
+          "link": "https://www.tiktok.com/@abcnews/video/7667278953509358878",
+          "snippet": "Image 1: OpenAI CEO Sam Altman claims artificial intelligence has reached a long...",
+          "index": 9
+        },
+        {
+          "title": "OpenAI CEO Sam Altman claims AI singularity has arrived",
+          "link": "https://abcnews.com/Business/openai-ceo-sam-altman-claims-ai-singularity-arrived/story?id=135120342",
+          "snippet": "Altman spoke days after OpenAI's technology hacked another company on its own. O...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
