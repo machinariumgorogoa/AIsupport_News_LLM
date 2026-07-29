@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-29",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Reducing the Duration Between Acquisition and Value",
+          "link": "https://www.anaplan.com/blog/reducing-duration-between-acquisition-and-value",
+          "snippet": "Automating and enhancing financial consolidation with AI frees up finance teams from manual data work, allowing them to focus on higher-value strategic analysis",
+          "index": 1
+        },
+        {
+          "title": "AI in M&A: Emerging Due Diligence and Liability Considerations | Bricker Graydon Wyatt LLP - JDSupra",
+          "link": "https://www.jdsupra.com/legalnews/ai-in-m-a-emerging-due-diligence-and-3028772",
+          "snippet": "Artificial intelligence (AI) is rapidly transforming the way businesses operate....",
+          "index": 2
+        },
+        {
+          "title": "CG Life embraces next-gen era in merger with AI-native ...",
+          "link": "https://www.fiercepharma.com/marketing/cg-life-embraces-ai-era-merger-ai-native-agency-consideredai",
+          "snippet": "The deal, for which finanical terms have not been disclosed, signals an AI-forward shift for CG Life.",
+          "index": 3
+        },
+        {
+          "title": "3 Data points that are resetting expectations for AI, treasury, and payments - Tearsheet",
+          "link": "https://tearsheet.co/numbers-with-narrative/3-data-points-that-are-resetting-expectations-for-ai-treasury-and-payments",
+          "snippet": "You must be logged in the post a comment.\n\n Sort by Newest\n Oldest\n\nBusiness of ...",
+          "index": 4
+        },
+        {
+          "title": "Investment Opportunities in Artificial Intelligence (AI)",
+          "link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1165&context=treos_amcis2026",
+          "snippet": "We examine firms that control critical infrastructure layers of the AI ecosystem, including chip manufacturing, hyperscale cloud platforms, data management, and",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Corsearch Appoints Todd Morris As CEO To Expand AI ...",
+          "link": "https://pulse2.com/corsearch-appoints-todd-morris-as-ceo-to-expand-ai-powered-brand-protection-platform",
+          "snippet": "8 hours ago — Artificial intelligence is accelerating the speed at which busines...",
+          "index": 6
+        },
+        {
+          "title": "AI transformation is the CEO's job",
+          "link": "https://www.fastcompany.com/91579602/ai-transformation-is-the-ceos-job",
+          "snippet": "21 hours ago — AI readiness isn't about picking the right tools—it's about the C...",
+          "index": 7
+        },
+        {
+          "title": "Coursera backs co-founder Andrew Ng's new AI education ...",
+          "link": "https://www.reuters.com/technology/coursera-backs-co-founder-andrew-ngs-new-ai-education-firm-with-100-million-2026-07-28",
+          "snippet": "Coursera gets one-third stake in new firm\n   LearnVector expects to launch its f...",
+          "index": 8
+        },
+        {
+          "title": "🧨 AI Product Owner, Remote Job, July 2026",
+          "link": "https://dynamitejobs.com/company/apexit/remote-job/ai-product-owner",
+          "snippet": "improve business performance. The AI Product Owner develops and maintains the AI...",
+          "index": 9
+        },
+        {
+          "title": "LPL CEO Rich Steinmeier finally unveils AI-powered ...",
+          "link": "https://riabiz.com/a/2026/7/29/lpl-ceo-rich-steinmeier-finally-unveils-ai-powered-lpl-latitude-to-show-his-firms-solidly-in-the-artificial-intelligence-game-and-ready-to-counter-altruists-hazel-after-months-of-stock-price-depression",
+          "snippet": "6 hours ago — LPL Financial CEO Rich Steinmeier promised LPL has its eyes on art...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
