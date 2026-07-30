@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-30",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Traded: Venture Capital on X: \"Moonshot AI, a Beijing-based artificial intelligence startup, has closed a $3.5 billion funding round that boosted its valuation to $35 billion, significantly surpassing its original fundraising target of $1 billion to $2 billion. The raise follows the July 16 launch of its Kimi K3 model, a 2.8-trillion-parameter open-weight system that has attracted global attention for its competitive performance in coding and knowledge-work tasks. The company is reportedly seeking additional funding at a $50 billion pre-money valuation ahead of a planned Hong Kong IPO later this year. Moonshot’s rapid growth is underscored by an eightfold increase in valuation over just six months, while growing adoption of its models by U.S. technology firms has further strengthened investor confidence. FOUNDER: Yang Zhilin INVESTORS: Alibaba, Tencent, Meituan & HSG AMOUNT: $3,500,000,000 VALUATION: $35,000,000,000 HQ: Beijing, China #VentureCapital #MoonshotAI #YangZhilin #TradedVC\" / X",
+          "link": "https://x.com/TradedVC/status/2082512506321350692",
+          "snippet": "funding at a $50 billion pre-money valuation ahead of a planned Hong Kong IPO la...",
+          "index": 1
+        },
+        {
+          "title": "China’s Moonshot AI Passes Funding Goal to Hit $35 Billion Value",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+          "snippet": "The Beijing-based startup managed to secure far more than the $1 billion to $2 b...",
+          "index": 2
+        },
+        {
+          "title": "Eliyan’s $1 Billion Valuation Signals AI Networking Is the Next Battleground | Investing.com",
+          "link": "https://www.investing.com/analysis/eliyans-1-billion-valuation-signals-ai-networking-is-the-next-battleground-200684823",
+          "snippet": "The Santa Clara-based startup announced Wednesday that it raised $145 million in...",
+          "index": 3
+        },
+        {
+          "title": "When AI Changes A Deal: Rethinking Risk, Milestones, And Timing In Life Sciences M&A",
+          "link": "https://www.lifescienceleader.com/doc/when-ai-changes-a-deal-rethinking-risk-milestones-and-timing-in-life-sciences-m-a-0001",
+          "snippet": "processes are increasingly data-driven; and whether diligence and representation...",
+          "index": 4
+        },
+        {
+          "title": "Bloomberg to Acquire Canoe Intelligence for AI-Driven Data",
+          "link": "https://www.wealthmanagement.com/alternative-investments/bloomberg-acquires-canoe-intelligence-for-ai-data",
+          "snippet": "and a converged data infrastructure, with fund coverage and data normalized with...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI (Artificial Intelligence) Startups funded by Y Combinator (YC) in New York that are currently hiring 2026",
+          "link": "https://www.ycombinator.com/companies/industry/ai/new-york/hiring",
+          "snippet": "Yarn uses AI to help founders, salespeople, and marketers make product and sales...",
+          "index": 6
+        },
+        {
+          "title": "Box CEO Aaron Levie Says AI Is Creating New Hiring Opportunities, Not the 'Negative AI Jobs Outcome' Many Predicted",
+          "link": "https://finance.yahoo.com/technology/ai/articles/box-ceo-aaron-levie-says-173049822.html",
+          "snippet": "\"The negative AI jobs outcome just continues to not be happening as some predict...",
+          "index": 7
+        },
+        {
+          "title": "Microsoft CEO Warns That Companies Embracing AI Could Drive Themselves Out of Business",
+          "link": "https://futurism.com/artificial-intelligence/microsoft-ceo-warns-ai-business",
+          "snippet": "More on AI: Sam Altman Says Even the Power of AI Will Never Lead to a Shorter Wo...",
+          "index": 8
+        },
+        {
+          "title": "Manager - Artificial Intelligence Operations",
+          "link": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_US/job/Manager---Artificial-Intelligence-Operations_R1012933",
+          "snippet": "The Artificial Intelligence (AI) Operations Manager role will manage the design ...",
+          "index": 9
+        },
+        {
+          "title": "AI in Ecommerce: Real-World Examples for Brands",
+          "link": "https://www.salsify.com/blog/ai-artificial-intelligence-in-ecommerce-examples",
+          "snippet": "It's understandable if a mention of AI can bring either a heavy sigh or a sigh o...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
