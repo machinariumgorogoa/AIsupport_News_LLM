@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-02",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Combination of Artificial Intelligence with Mergers and ...",
+          "link": "https://www.researchgate.net/publication/369424210_Combination_of_Artificial_Intelligence_with_Mergers_and_Acquisitions",
+          "snippet": "This paper uses case study to describe how AI is used in mergers and acquisitions, and how AI can facilitate mergers and acquisitions to the next level.",
+          "index": 1
+        },
+        {
+          "title": "Artificial Intelligence applications in due diligence ...",
+          "link": "https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-3057.pdf",
+          "snippet": "of incorporating less information asymmetries and increasing the efficiency of p...",
+          "index": 2
+        },
+        {
+          "title": "How AI Is Shaping the Valuation of Private Companies",
+          "link": "https://www.eisneramper.com/insights/artificial-intelligence-insights/artificial-intelligence-and-private-company-valuations-0925",
+          "snippet": "Artificial Intelligence (AI) has rapidly become one of the leading factors in ho...",
+          "index": 3
+        },
+        {
+          "title": "AI in M&A: Transforming the Deal Landscape for Today’s Professionals",
+          "link": "https://dealroom.net/blog/ai-in-m-a",
+          "snippet": "The world of mergers and acquisitions (M&A) is in the midst of a significant tra...",
+          "index": 4
+        },
+        {
+          "title": "Artificial Intelligence and M&A: Navigating the New Deal Landscape | Katten Muchin Rosenman LLP",
+          "link": "https://katten.com/artificial-intelligence-ma-navigating-new-deal-landscape",
+          "snippet": "March 12, 2026\n\nArtificial intelligence (AI) is no longer a niche consideration ...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Artificial Intelligence, CEO Turnover, and Exploration ...",
+          "link": "https://pubsonline.informs.org/doi/10.1287/isre.2024.0970",
+          "snippet": "This study examines the role of artificial intelligence (AI) in facilitating cor...",
+          "index": 6
+        },
+        {
+          "title": "Sam Altman",
+          "link": "https://en.wikipedia.org/wiki/Sam_Altman",
+          "snippet": "Samuel Harris Altman (born April 22, 1985) is an American entrepreneur and inves...",
+          "index": 7
+        },
+        {
+          "title": "Artificial Intelligence - Egon Zehnder",
+          "link": "https://www.egonzehnder.com/industries/technology-communications/artificial-intelligence",
+          "snippet": "Artificial intelligence (AI) was once described by Elon Musk as “the best or wor...",
+          "index": 8
+        },
+        {
+          "title": "Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy",
+          "link": "https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html",
+          "snippet": "In 2024, Apple launched Apple Intelligence, which includes image generators, tex...",
+          "index": 9
+        },
+        {
+          "title": "11 Best Freelance AI Developers for Hire in July 2026 | Toptal®",
+          "link": "https://www.toptal.com/developers/artificial-intelligence",
+          "snippet": "For businesses that are integrating AI into their products, workflows, and custo...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
