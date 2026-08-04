@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-04",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SoftBank's AI funding plans to face reckoning at earnings",
+          "link": "https://www.reuters.com/business/media-telecom/softbanks-ai-funding-plans-face-reckoning-earnings-2026-08-04",
+          "snippet": "OpenAI is reported to be seeking an IPO valuation of $1 trillion, a jump from it...",
+          "index": 1
+        },
+        {
+          "title": "Can AI's sky-high valuations survive disclosure?",
+          "link": "https://www.thinkchina.sg/technology/can-ais-sky-high-valuations-survive-disclosure",
+          "snippet": "SpaceX, with xAI (now rebranded as SpaceXAI) folded in, listed on Nasdaq in June...",
+          "index": 2
+        },
+        {
+          "title": "SpaceX IPO, AI deals dominate startup exit values - Dallas ...",
+          "link": "https://www.bizjournals.com/dallas/news/2026/08/04/spacex-anthropic-openai-ipos-venture-capital.html",
+          "snippet": "Venture capital funding surges to $412.7 billion in H1, but SpaceX&#39;s IPO and mega-deals dominate gains for most startups. artificial intelligence IPOs this",
+          "index": 3
+        },
+        {
+          "title": "AI-Ready Data: Winning the 2026 Scaling Gap",
+          "link": "https://www.stobox.io/blog/business-intelligence-ai-ready-data-scaling-gap",
+          "snippet": "Acquirers have already repriced the market around it. AI is creating a new fault...",
+          "index": 4
+        },
+        {
+          "title": "Kore.ai IPO Timeline and Financing Details - Forge",
+          "link": "https://forgeglobal.com/koreai_ipo",
+          "snippet": "See All Top Forge Price Gainers\n\n### Artificial Intelligence (AI) [...] Market A...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI Product & Service Launches – 8/3/2026",
+          "link": "https://www.planadviser.com/ai-product-service-launches-8-3-2026",
+          "snippet": "Retirement Health Solutions, which is led by David Burns, Chris Phelps and Mark ...",
+          "index": 6
+        },
+        {
+          "title": "AI and Our Economic Future",
+          "link": "https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.20261505",
+          "snippet": "Artificial intelligence (AI) will likely be the most transformative technology o...",
+          "index": 7
+        },
+        {
+          "title": "How Startups Can Sell AI to Enterprises Before They Have a Big Brand",
+          "link": "https://therecursive.com/how-startups-can-sell-ai-to-enterprises-before-they-have-a-big-brand",
+          "snippet": "One of the common mistakes you, as an AI founder, can make is trying to outrun t...",
+          "index": 8
+        },
+        {
+          "title": "Hugging Face CEO says China is winning the AI race ...",
+          "link": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+          "snippet": "Key Points\n\n Hugging Face CEO Clément Delangue told CNBC on Monday that China is...",
+          "index": 9
+        },
+        {
+          "title": "AWS CEO Says AI Business Is 'Just Massive'",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-03/aws-ceo-says-ai-business-is-just-massive-video",
+          "snippet": "Amazon Web Services CEO Matt Garman says the potential artificial intelligence b...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
