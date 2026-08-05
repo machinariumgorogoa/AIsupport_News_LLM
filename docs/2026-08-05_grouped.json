@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-05",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Artificial Intelligence - Tucker Ellis LLP",
+          "link": "https://www.tuckerellis.com/artificial-intelligence",
+          "snippet": "AI in Transactions: Mergers and Acquisitions, Finance & Commercial Real Estate. ...",
+          "index": 1
+        },
+        {
+          "title": "AI Global Funding Statistics 2026: The Complete Data ...",
+          "link": "https://memeburn.com/ai-global-funding-statistics-2026",
+          "snippet": "The concentration is staggering: OpenAI and Anthropic alone accounted for $217 b...",
+          "index": 2
+        },
+        {
+          "title": "Obsidian Security raises funding at $1.1 billion valuation ...",
+          "link": "https://www.reuters.com/technology/obsidian-security-raises-funding-11-billion-valuation-ai-security-demand-2026-08-04",
+          "snippet": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for f...",
+          "index": 3
+        },
+        {
+          "title": "European AI Startups Grab Record 55% of VC Capital as H1 Funding Reaches $23B | News | voiceofalexandria.com",
+          "link": "https://www.voiceofalexandria.com/news/national_business_news/european-ai-startups-grab-record-55-of-vc-capital-as-h1-funding-reaches-23b/article_be123721-337c-5ab9-9ae5-f2fa7e4a2eda.html",
+          "snippet": "Methodology\n\nPlease note that all funding values are given in U.S. dollars unles...",
+          "index": 4
+        },
+        {
+          "title": "AI Acqui-Hires and Antitrust: When Is Hiring Talent a Merger?",
+          "link": "https://www.jdsupra.com/legalnews/ai-acqui-hires-and-antitrust-when-is-9569742",
+          "snippet": "Traditional merger analysis often begins with ownership: who bought whom, what a...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Co-Founder & CEO - AI Retail Planning Autopilot",
+          "link": "https://startup.jobs/co-founder-ceo-ai-retail-planning-autopilot-futuresight-8910035",
+          "snippet": "FutureSight is seeking a Co-Founder & CEO to lead Maestro, an AI-native inventor...",
+          "index": 6
+        },
+        {
+          "title": "Co-Founder, CEO – AI Retail Planning Autopilot",
+          "link": "https://www.remoterocketship.com/us/company/futuresight/jobs/co-founder-ceo-ai-retail-planning-autopilot-washington-remote",
+          "snippet": "FutureSight is a venture studio that co-founds and funds B2B AI ventures, buildi...",
+          "index": 7
+        },
+        {
+          "title": "The Best AI Recruiting Software for Tech Companies in 2026",
+          "link": "https://clutch.co/resources/ai-recruiting-software-tech-hiring",
+          "snippet": "Most companies prioritize fairness and objectivity during the hiring process. AI...",
+          "index": 8
+        },
+        {
+          "title": "Daniel Coleman named AI firm CEO - Birmingham ...",
+          "link": "https://www.bizjournals.com/birmingham/news/2026/08/05/daniel-coleman-named-ai-firm-ceo.html",
+          "snippet": "After a storied career in finance and later higher education, Daniel Coleman has...",
+          "index": 9
+        },
+        {
+          "title": "Artificial Intelligence jobs in Remote",
+          "link": "https://www.indeed.com/q-artificial-intelligence-l-remote-jobs.html",
+          "snippet": "Impact: help shape the future of AI technologies. [...] Qualifications:\n\n   Flue...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
