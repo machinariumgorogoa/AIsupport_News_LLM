@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-06",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Moonshot AI Targets $50 Billion Valuation in Final Pre-IPO ...",
+          "link": "https://www.alphamatch.ai/blog/moonshot-ai-50-billion-valuation-hong-kong-ipo-2026",
+          "snippet": "The dramatic increase in Moonshot AI's valuation tells a compelling story of inv...",
+          "index": 1
+        },
+        {
+          "title": "Abridge IPO Timeline and Financing Details - Forge",
+          "link": "https://forgeglobal.com/abridge_ipo",
+          "snippet": "## Abridge IPO news and media highlights\n\n### Independent IPO news coverage\n\nFie...",
+          "index": 2
+        },
+        {
+          "title": "New funding round puts AI agent providers back in spotlight",
+          "link": "https://www.joc.com/article/new-funding-round-puts-ai-agent-providers-back-in-spotlight-6265094",
+          "snippet": "## DHL delivers solid Q2 result on booming Express sector\n\nThe momentum generate...",
+          "index": 3
+        },
+        {
+          "title": "Your AI Strategy May Be Destroying Your Exit Value",
+          "link": "https://news.crunchbase.com/ai/strategies-enhancing-exit-value-acquisitions-sagie",
+          "snippet": "This is especially important for strategic acquirers that need to integrate the ...",
+          "index": 4
+        },
+        {
+          "title": "Alibaba-Backed AI Startup Vast Seeks Fresh Capital, Eyes ...",
+          "link": "https://www.wsj.com/tech/ai/alibaba-backed-ai-startup-vast-seeks-fresh-capital-eyes-ipo-f450ef1a",
+          "snippet": "Advertisement\n\nThis copy is for your personal, non-commercial use only. Distribu...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering",
+          "link": "https://finance.yahoo.com/technology/ai/articles/12-words-amazon-ceo-andy-133500271.html",
+          "snippet": "Oops, something went wrong\n\nSkip to navigation  Skip to right column \n\n# Yahoo F...",
+          "index": 6
+        },
+        {
+          "title": "Why Google Chief Scientist Jeff Dean Is Leaving To Launch An AI Startup With Indian-American Tech Veteran",
+          "link": "https://www.ndtv.com/artificial-intelligence/why-google-ai-chief-jeff-dean-left-after-27-years-to-launch-startup-with-sanjay-ghemawat-11872454",
+          "snippet": "Organised as a public benefit corporation, Discovery Loop aims to use artificial...",
+          "index": 7
+        },
+        {
+          "title": "Head of Artificial Intelligence Philadelphia, Pennsylvania",
+          "link": "https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-head-of-artificial-intelligence-philadelphia-pennsylvania",
+          "snippet": "This is an opportunity to take ownership of a critical product area within a mis...",
+          "index": 8
+        },
+        {
+          "title": "Governor Hochul Announces Empire AI Beta Fully Online as Federal Government Takes Inspiration From New York to Launch State and Regional AI Infrastructure Hubs",
+          "link": "https://www.governor.ny.gov/news/governor-hochul-announces-empire-ai-beta-fully-online-federal-government-takes-inspiration-new",
+          "snippet": "of Rochester, the Rochester Institute of Technology, and the Icahn School of Med...",
+          "index": 9
+        },
+        {
+          "title": "Bosch Center for Artificial Intelligence (BCAI)",
+          "link": "https://www.bosch.com/research/bcai",
+          "snippet": "The Bosch Center for Artificial Intelligence (BCAI) serves as Bosch’s center of ...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
