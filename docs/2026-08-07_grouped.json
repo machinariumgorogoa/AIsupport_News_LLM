@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-07",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "180 Billion Yuan Valuation AI Smartphone Giant Unveils Ambitious IPO Plans – Leading Tech Firm Targets Public Listing",
+          "link": "https://eu.36kr.com/en/p/3928819918780547",
+          "snippet": "In 2024, Honor planned to go public. It completed the shareholding reform, expan...",
+          "index": 1
+        },
+        {
+          "title": "Tech Sector: How AI and Cloud Computing Are Reshaping M&A",
+          "link": "https://www.benchmarkintl.com/insights/featured-content/tech-sector-how-ai-and-cloud-computing-are-reshaping-ma",
+          "snippet": "While AI is changing how businesses pursue deals, its growing adoption is transf...",
+          "index": 2
+        },
+        {
+          "title": "Altus Group Acquires Valos, An AI-powered Platform That Connects UK’s Valuers And Lenders In The Property Valuation Workflow",
+          "link": "https://www.altusgroup.com/press-releases/altus-group-acquires-valos-an-ai-powered-platform-that-connects-uks-valuers-and-lenders-in-the-property-valuation-workflow",
+          "snippet": "“Valos is a strong fit for Altus, expanding our capabilities in the valuation an...",
+          "index": 3
+        },
+        {
+          "title": "The Search for New Measures of Value in the AI Era | Nasdaq",
+          "link": "https://www.nasdaq.com/economic-institute/search-new-measures-value-ai-era",
+          "snippet": "For decades, the formula was simple: sell software to more people, grow revenue....",
+          "index": 4
+        },
+        {
+          "title": "M&A activity slows during July for UK investment sector",
+          "link": "https://www.marshberry.com/eu/blog/ma-activity-slows-during-july-for-uk-investment-sector",
+          "snippet": "Tavistock Investments announced the acquisition of advice technology and back-of...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Will companies ever be run by an AI CEO?",
+          "link": "https://theconversation.com/will-companies-ever-be-run-by-an-ai-ceo-236424",
+          "snippet": "For Altman, though, there is a problem: not with AI – you can already run a comp...",
+          "index": 6
+        },
+        {
+          "title": "Will companies ever be run by an AI CEO?",
+          "link": "https://uk.finance.yahoo.com/news/companies-ever-run-ai-ceo-102948255.html",
+          "snippet": "The idea of an AI CEO is an extreme form of the anthropomorphisation of LLM-base...",
+          "index": 7
+        },
+        {
+          "title": "Founding Research Engineer - Audio Intelligence at Uplift AI | Y Combinator",
+          "link": "https://www.ycombinator.com/companies/uplift-ai/jobs/B9rB6gt-founding-research-engineer-audio-intelligence",
+          "snippet": "Founder\n\nZaid Qureshi\n\nZaid Qureshi\n\nTwitter account\n\nFounder\n\nSimilar Jobs\n\nUpl...",
+          "index": 8
+        },
+        {
+          "title": "AI in Recruitment: Smart Staffing in 2026",
+          "link": "https://www.soaltech.com/artificial-intelligence-in-recruitment-how-smart-staffing-agencies-use-automation",
+          "snippet": "Firms that adopted skills-validation technology cut their bad-hire rate by 22% c...",
+          "index": 9
+        },
+        {
+          "title": "Medium",
+          "link": "https://medium.com/@msimoliunas/how-id-make-my-first-digital-product-using-ai-if-i-had-to-start-from-zero-today-a65bdda97438",
+          "snippet": "If I lost everything today—my audience, my followers, even my previous projects—...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
