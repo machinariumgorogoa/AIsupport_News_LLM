@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-08",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Southport Acquisition II files for $200M IPO targeting AI",
+          "link": "https://cryptobriefing.com/southport-acquisition-200m-ipo-ai",
+          "snippet": "13 hours ago — Southport Acquisition II filed for a $200M IPO targeting AI companies, following its predecessor's $230M raise in 2021 amid a wave of AI-focused.",
+          "index": 1
+        },
+        {
+          "title": "Danneskjold and Galt Acquisition: CPLMU IPO, SPAC",
+          "link": "https://www.renaissancecapital.com/Profile/CPLMU/Danneskjold-and-Galt-Acquisition/IPO",
+          "snippet": "10 hours ago — targeting fintech and AI. intend to concentrate our efforts on identifying businesses in the financial technology and artificial intelligence industry sectors.",
+          "index": 2
+        },
+        {
+          "title": "Analyst: AI-focused M&A deals are \"weakening\" the games investment landscape | GamesIndustry.biz",
+          "link": "https://www.gamesindustry.biz/analyst-ai-focused-ma-deals-are-weakening-the-games-investment-landscape",
+          "snippet": "The largest Q2 funding round was Veroplay's $215.6 million investment related to...",
+          "index": 3
+        },
+        {
+          "title": "AI dispute intelligence start-up Aavalynx raises £1.5m in pre-seed funding round - The Global Legal Post",
+          "link": "https://www.globallegalpost.com/news/ai-dispute-intelligence-start-up-aavalynx-raises-ps15m-in-pre-seed-funding-round-1601504695",
+          "snippet": "News Legaltech Artificial Intelligence Arbitration Litigation Funding Disputes A...",
+          "index": 4
+        },
+        {
+          "title": "South Dakota Workforce Development Competitive Funding for AI Adoption",
+          "link": "https://dlr.sd.gov/workforce_services/businesses/aifunding/workforce-business-ai-funding.aspx",
+          "snippet": "It is increasingly important for businesses to leverage Artificial Intelligence ...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Artificial Intelligence Co-Founder / Head of Product (100 ...",
+          "link": "https://eworgmbh.teamtailor.com/jobs/8188862-artificial-intelligence-co-founder-head-of-product-100-remote-m-f-d",
+          "snippet": "21 hours ago — We are looking to hire ambitious entrepreneurs to start and scale...",
+          "index": 6
+        },
+        {
+          "title": "DeepMind founder ascends to singular AI role at Google",
+          "link": "https://www.computerworld.com/article/4206724/deepmind-founder-ascends-to-singular-ai-role-at-google.html",
+          "snippet": "Demis Hassabis, the driving force behind Google DeepMind, is ascending to the ro...",
+          "index": 7
+        },
+        {
+          "title": "Co-Founder & CEO - AI Content Intelligence & Publishing ...",
+          "link": "https://remoteleaf.com/company/futuresight/co-founder-ceo-ai-content-intelligence-publishing-engine-united-states-18",
+          "snippet": "12 hours ago — Apply for Remote Co-Founder & CEO - AI Content Intelligence & Pub...",
+          "index": 8
+        },
+        {
+          "title": "Director, Data, Data Science and Artificial Intelligence",
+          "link": "https://www.careers.jnj.com/th-th/jobs/r-092330/director-data-data-science-and-artificial-intelligence-oncology-bladder-cancer",
+          "snippet": "9 hours ago — Johnson & Johnson Innovative Medicine is recruiting for a Director...",
+          "index": 9
+        },
+        {
+          "title": "Director, Product Management - Enterprise AI/ML at Capital One",
+          "link": "https://www.capitalonecareers.com/job/mclean/director-product-management-enterprise-ai-ml/1732/98906261376",
+          "snippet": "Capital One Financial is made up of several different entities. Please note that...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
