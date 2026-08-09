@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-09",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Moonshot AI Explained: Kimi K3, Valuation & IPO (2026)",
+          "link": "https://aiera.blog/moonshot-ai-explained-kimi-k3-valuation-ipo-2026",
+          "snippet": "## Moonshot AI Valuation, Funding, and the IPO Plan\n\nThe Kimi K3 launch did more...",
+          "index": 1
+        },
+        {
+          "title": "Bank Of America (BAC) Is A Key Underwriter On An AI Data Center IPO - Simply Wall St News",
+          "link": "https://simplywall.st/stocks/us/banks/nyse-bac/bank-of-america/news/bank-of-america-bac-is-a-key-underwriter-on-an-ai-data-cente",
+          "snippet": "The market may focus on the headline of another AI-related transaction. What can...",
+          "index": 2
+        },
+        {
+          "title": "Kore.ai IPO Timeline and Financing Details - Forge",
+          "link": "https://forgeglobal.com/koreai_ipo",
+          "snippet": "### Artificial Intelligence (AI)\n\n|  | Company | Forge Price | Market Activity |...",
+          "index": 3
+        },
+        {
+          "title": "AI Stock Market Impact 2026: How Artificial Intelligence Is Reshaping the Investment Landscape",
+          "link": "https://intellectia.ai/blog/ai-stock-market-impact-2026",
+          "snippet": "The investment implications are profound. Traditional valuation metrics alone ar...",
+          "index": 4
+        },
+        {
+          "title": "What the Anthropic IPO Could Mean for Shrimp Welfare and Other ...",
+          "link": "https://www.theinformation.com/articles/anthropic-ipo-mean-shrimp-welfare-obscure-causes",
+          "snippet": "The coming initial public offerings of AI giants Anthropic and OpenAI could spell a windfall for San Francisco real estate agents, private jet companies—and",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Artificial Intelligence Co-Founder / Head of Product (Remote)",
+          "link": "https://www.remotefront.com/remote-jobs/ewor-artificial-intelligence-co-founder-head-of-product-100-remote-m-f-d-iznj6",
+          "snippet": "11 hours ago — We are looking to hire ambitious entrepreneurs to start and scale...",
+          "index": 6
+        },
+        {
+          "title": "Miivo AI CEO discusses growth strategy & AI expansion – ICYMI | TSX-V:MIVO",
+          "link": "https://www.proactiveinvestors.com/companies/news/1096758/miivo-ai-ceo-discusses-growth-strategy-ai-expansion-icymi-1096758.html",
+          "snippet": "Miivo AI (TSX-V:MIVO) earlier this week provided an update on its commercial pro...",
+          "index": 7
+        },
+        {
+          "title": "Grindr CEO makes stunning AI reveal that changes the dating game",
+          "link": "https://finance.yahoo.com/technology/ai/articles/grindr-ceo-makes-stunning-ai-173300577.html",
+          "snippet": "TheStreet\n\n# Grindr CEO makes stunning AI reveal that changes the dating game\n\nP...",
+          "index": 8
+        },
+        {
+          "title": "Flexible Artificial Intelligence Jobs – Apply Today to Work From Home in Remote (August 8, 2026)",
+          "link": "https://www.indeed.com/q-artificial-intelligence-l-remote-jobs.html",
+          "snippet": "Let Employers Find YouUpload Your Resume\n\n This site is protected by reCAPTCHA a...",
+          "index": 9
+        },
+        {
+          "title": "Artificial Intelligence Engineer - beously | Built In Colorado",
+          "link": "https://www.builtincolorado.com/job/artificial-intelligence-engineer/10592367",
+          "snippet": "Company Photo Can't find your company?\n\nCreate a company profile.\n\nView All Jobs...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
