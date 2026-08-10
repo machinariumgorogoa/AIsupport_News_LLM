@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-10",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "MERGER AND ACQUISITION VALUATION",
+          "link": "https://inventario.ellaurel.gob.ec/browse/LuS2a5/6TW251/AndAcquisitionValuation.pdf",
+          "snippet": "13 hours ago — Valuation Practices. The rise of big data analytics, artificial intelligence, and machine learning has begun to transform merger and acquisition valuation.Read more",
+          "index": 1
+        },
+        {
+          "title": "Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine \"Funding Everyone and Anyone.\" Here's What That Means for AI Stocks. - The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/3747834/mark-cuban-compared-nvidia-to-a-dot-com-era-ipo-machine-funding-everyone-and-anyone-heres-what-that-means-for-ai-stocks",
+          "snippet": "Mark Cuban recently raised concerns about how the artificial intelligence (AI) b...",
+          "index": 2
+        },
+        {
+          "title": "Feel the Burn? What the AI Capital Scoreboard Actually Measures",
+          "link": "https://medium.com/@fahey_james/feel-the-burn-what-the-ai-capital-scoreboard-actually-measures-4d4ae0b1616f",
+          "snippet": "Capital raised and valuation are separate economic questions. A company that rai...",
+          "index": 3
+        },
+        {
+          "title": "Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine ...",
+          "link": "https://www.fool.com/investing/2026/08/09/mark-cuban-compared-nvidia-to-a-dot-com-era-ipo-ma",
+          "snippet": "Accessibility Menu\n\n▲ S&P 500 +---%|▲ Stock Advisor +---%Join The Motley Fool\n\nA...",
+          "index": 4
+        },
+        {
+          "title": "Mergers and Acquisitions Firm | M&A Lawyers | Paul Hastings LLP",
+          "link": "https://www.paulhastings.com/practice-areas/mergers-and-acquisitions",
+          "snippet": "Pactiv Evergreen – a leading manufacturer of fresh food and beverage packaging i...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Co-Founder & CEO – AI Freight & Supply Chain at FutureSight",
+          "link": "https://remoterocketship.com/company/futuresight/jobs/co-founder-ceo-ai-freight-supply-chain-united-states-remote",
+          "snippet": "Title: Co-Founder & CEO – AI Freight & Supply Chain at FutureSight\nVenture Capit...",
+          "index": 6
+        },
+        {
+          "title": "Co-Founder & CEO – AI Freight & Supply Chain at FutureSight",
+          "link": "https://www.remoterocketship.com/us/company/futuresight/jobs/co-founder-ceo-ai-freight-supply-chain-united-states-remote",
+          "snippet": "Title: Co-Founder & CEO – AI Freight & Supply Chain at FutureSight\nVenture Capit...",
+          "index": 7
+        },
+        {
+          "title": "FutureSight hiring Co-Founder & CEO - AI Reverse Logistics • Remote (Work from Home) | Himalayas",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-reverse-logistics",
+          "snippet": "# Co-Founder & CEO - AI Reverse Logistics. FutureSight is seeking an experienced...",
+          "index": 8
+        },
+        {
+          "title": "Co-Founder, CEO – AI Reverse Logistics at FutureSight",
+          "link": "https://www.remoterocketship.com/company/futuresight/jobs/co-founder-ceo-ai-reverse-logistics-united-states-remote",
+          "snippet": "Venture Capital • Artificial Intelligence • B2B. FutureSight is a venture studio...",
+          "index": 9
+        },
+        {
+          "title": "Co-Founder & CEO – AI Sourcing, Procurement at FutureSight",
+          "link": "https://remoterocketship.com/company/futuresight/jobs/co-founder-ceo-ai-sourcing-procurement-canada-remote",
+          "snippet": "Venture Capital • Artificial Intelligence • B2B. Based in Toronto, New York, and...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
