@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-11",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "The Biggest Consequence Of An AI IPO Isn’t The IPO Itself. It’s What Happens Afterward.",
+          "link": "https://news.crunchbase.com/public/ai-ipo-results-lp-liquidity-gershfeld-flint",
+          "snippet": "Stay up to date with recent funding rounds, acquisitions, and more with the Crun...",
+          "index": 1
+        },
+        {
+          "title": "Nvidia Confirms Huge AI Funding Deal. These Stocks Jump.",
+          "link": "https://investors.com/financial-stocks-jump-nvidia-ai-funding-deal",
+          "snippet": "##### Nvidia In Buy Zone, Leads 24 Newbies Onto Best Stock Lists\n ##### Stocks F...",
+          "index": 2
+        },
+        {
+          "title": "Artificial Intelligence: Moving up the Investment Value Chain",
+          "link": "https://www.ai-cio.com/news/artificial-intelligence-moving-up-the-investment-value-chain",
+          "snippet": "I soon realized that it was perhaps not a very intelligent question and that I w...",
+          "index": 3
+        },
+        {
+          "title": "Europe's IPO Backlog Almost Halves, but AI Could Refill It",
+          "link": "https://global.morningstar.com/en-eu/stocks/europes-ipo-backlog-almost-halves-ai-could-refill-it-2",
+          "snippet": "The future of the IPO pipeline may lie in artificial intelligence, with such firms representing a third of candidates. Europe has 72 AI IPO candidates",
+          "index": 4
+        },
+        {
+          "title": "US, Chinese AI Giants Kick Off IPO Rivalry",
+          "link": "https://www.chosun.com/english/market-money-en/2026/08/11/CU4TJ2T3QFATBATYGSK2CAYOEQ",
+          "snippet": "OpenAI, the operator of ChatGPT, followed suit by submitting a confidential IPO ...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI Product & Service Launches – 8/10/2026",
+          "link": "https://www.planadviser.com/ai-product-service-launches-8-10-2026",
+          "snippet": "Astraeus Wealth Tech Inc. launched an artificial-intelligence-powered platform d...",
+          "index": 6
+        },
+        {
+          "title": "Will companies ever be run by an AI CEO?",
+          "link": "https://www.businesstimes.com.sg/opinion-features/will-companies-ever-be-run-ai-ceo",
+          "snippet": "For Altman, though, there is a problem: not with AI – you can already run a comp...",
+          "index": 7
+        },
+        {
+          "title": "Get the Product Owner Credential. Build the Artificial ...",
+          "link": "https://www.tickettailor.com/events/professionalmasterclassseries/2349974",
+          "snippet": "Two days. Two certifications. One serious career upgrade. AI can draft stories, ...",
+          "index": 8
+        },
+        {
+          "title": "monday.com: AI Product ARR Doubles And Reaches 17 ...",
+          "link": "https://pulse2.com/monday-com-ai-product-arr-doubles-and-reaches-17-of-net-new-arr-as-500000-customers-jump-68",
+          "snippet": "“The early results reinforce our conviction. ARR from AI products doubled from Q...",
+          "index": 9
+        },
+        {
+          "title": "Five takeaways from Zuckerberg's AI manifesto",
+          "link": "https://www.detroitnews.com/story/business/2026/08/10/meta-ceo-zuckerberg-ai-manifesto-future/91249807007",
+          "snippet": "Over the past year or so, though, Meta has pivoted. It hired a new team of resea...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
