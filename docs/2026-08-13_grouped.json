@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-13",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Cognition AI Eyes $40 Billion Valuation From New Funding",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/cognition-ai-eyes-40-billion-valuation-from-new-funding",
+          "snippet": "By completing this form, you agree to receive marketing communications from PYMN...",
+          "index": 1
+        },
+        {
+          "title": "Build or Buy? Is It Time to Convert to Valuation Software in the Age of AI? - QuickRead | News for the Financial Consulting Professional",
+          "link": "https://quickreadbuzz.com/2026/08/12/bv-darrell-dorrell-build-or-buy-valuation-software",
+          "snippet": "Your decision today is not a simple build-versus-buy issue. It is how to combine...",
+          "index": 2
+        },
+        {
+          "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
+          "link": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
+          "snippet": "Artificial Intelligence\n\nAdvertisement\n\nSupported by\n\n# An A.I.-Focused Buyer of...",
+          "index": 3
+        },
+        {
+          "title": "Pitchbook: AI funding soars as megadeals take control | Delano News",
+          "link": "https://delano.lu/article/pitchbook-ai-funding-soars-as-megadeals-take-control",
+          "snippet": "Thursday August 13, 2026\n\nSpaceX’s $250bn acquisition of xAI accounted for 84% o...",
+          "index": 4
+        },
+        {
+          "title": "Notice of Funding Opportunity: American Innovation Hub: AI & Digital Skills for the Creative & Tech Economy - U.S. Embassy & Consulates in Indonesia",
+          "link": "https://id.usembassy.gov/notice-of-funding-opportunity-american-innovation-hub-ai-digital-skills-for-the-creative-tech-economy",
+          "snippet": "Indonesia is ASEAN’s largest economy and most populous nation, with a young, fas...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Salesforce to hire 2,000 for AI product sales says CEO",
+          "link": "https://www.cryptopolitan.com/salesforce-to-hire-2000-for-ai-product-sale",
+          "snippet": "Skip to content\n\n\n\nImage 1: Cryptopolitan\n\n\n\n products, doubling its initial hir...",
+          "index": 6
+        },
+        {
+          "title": "artificial intelligence (AI) | Startup E42 creates marketplace for companies to hire artificial intelligence workers - Telegraph India",
+          "link": "https://www.telegraphindia.com/business/startup-e42-creates-marketplace-for-companies-to-hire-artificial-intelligence-workers/cid/1866400",
+          "snippet": "Animesh Samuel, co-founder and CEO, E42, said at the launch of the platform, var...",
+          "index": 7
+        },
+        {
+          "title": "Hire Artificial Intelligence Product Managers | Thinkteks",
+          "link": "https://thinkteks.com/ai-product-manager",
+          "snippet": "# AI Product Manager. ## Hire an AI Product Manager – Top AI Product Talent Read...",
+          "index": 8
+        },
+        {
+          "title": "FutureSight hiring Co-Founder & CEO - AI RIA Compliance • Remote (Work from Home) | Himalayas",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-ria-compliance-400032005",
+          "snippet": "# Co-Founder & CEO - AI RIA Compliance. FutureSight is hiring an experienced and...",
+          "index": 9
+        },
+        {
+          "title": "Dan Siroker Net Worth - Co-Founder & CEO at Limitless AI",
+          "link": "https://techchilli.com/artificial-intelligence/dan-siroker-net-worth-co-founder-ceo-at-limitless-ai",
+          "snippet": "While the exact figure of Dan Siroker’s net worth remains undisclosed, his succe...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
