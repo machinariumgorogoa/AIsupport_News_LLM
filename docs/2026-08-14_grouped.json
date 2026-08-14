@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-14",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Thrive Holdings Raises $2B at $12B Valuation to Expand AI-Driven Business Acquisition Model",
+          "link": "https://theaiinsider.tech/2026/08/13/thrive-holdings-raises-2b-at-12b-valuation-to-expand-ai-driven-business-acquisition-model",
+          "snippet": "Thrive Holdings, a firm that acquires traditional businesses and integrates AI i...",
+          "index": 1
+        },
+        {
+          "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+          "link": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
+          "snippet": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over So...",
+          "index": 2
+        },
+        {
+          "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore | Artificial Intelligence",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore",
+          "snippet": "The problem compounds when teams duplicate work. Industry research, valuation mo...",
+          "index": 3
+        },
+        {
+          "title": "Anthropic Could Seek $2 Trillion Valuation in Record IPO - PYMNTS",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-could-seek-2-trillion-valuation-in-record-ipo",
+          "snippet": "PYMNTS.com home page\n\n###### Topics\n\n###### Featured\n\n###### Stay Current\n\n# Ant...",
+          "index": 4
+        },
+        {
+          "title": "AI Stocks & IPOs - Investment Theme",
+          "link": "https://www.listingtrack.io/theme/ai",
+          "snippet": "14 hours ago — Track AI-related public companies, IPO candidates, and planned listings. Monitor the artificial intelligence investment theme across markets.",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "FutureSight hiring Co-Founder & CEO - AI RIA Compliance • Remote (Work from Home) | Himalayas",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-ria-compliance-400032005",
+          "snippet": "# Co-Founder & CEO - AI RIA Compliance. FutureSight is hiring an experienced and...",
+          "index": 6
+        },
+        {
+          "title": "Hire William Tunstall-Pedoe | Booking Agent",
+          "link": "https://speakout.uk/speaker/william-tunstall-pedoe",
+          "snippet": "William Tunstall-Pedo is a leading figure in artificial intelligence and technol...",
+          "index": 7
+        },
+        {
+          "title": "FutureSight hiring Co-Founder & CEO - AI Reverse Logistics • Remote (Work from Home) | Himalayas",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-reverse-logistics",
+          "snippet": "# Co-Founder & CEO - AI Reverse Logistics. FutureSight is seeking an experienced...",
+          "index": 8
+        },
+        {
+          "title": "FutureSight hiring Co-Founder & CEO - AI WealthTech • Remote (Work from Home) | Himalayas",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-wealthtech-5556690189",
+          "snippet": "# Co-Founder & CEO - AI WealthTech. FutureSight is hiring an experienced and vis...",
+          "index": 9
+        },
+        {
+          "title": "Co-Founder & CEO – AI Freight & Supply Chain at FutureSight",
+          "link": "https://www.remoterocketship.com/us/company/futuresight/jobs/co-founder-ceo-ai-freight-supply-chain-united-states-remote",
+          "snippet": "Title: Co-Founder & CEO – AI Freight & Supply Chain at FutureSight\nVenture Capit...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
