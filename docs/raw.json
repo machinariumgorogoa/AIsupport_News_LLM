@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-16",
-  "count": 36,
+  "date": "2026-08-17",
+  "count": 32,
   "items": [
     {
       "title": "SpaceX pursues confidential IPO in March following xAI merger, aiming for a $1.75T valuation - Phoenix Strategy Group",
@@ -39,13 +39,21 @@
       "index": 4
     },
     {
+      "title": "China Artificial Intelligence Startup Zhipu AI Raised $140 Million in Latest Funding Round after Pre-Filing for IPO in 2025 April, Raised $1.5 Billion in Funding Since Founding, 2023 Valuation at $2.8 Billion, Investors Include Alibaba, Ant Group, Tencent, Meituan, Xiaomi, HongShan, Saudi Aramco & Prosperity7 Ventures, Founded in 2019 by Tsinghua University Professors Tang Jie & Li Juanzi, Key Controlling Shareholders are Founder Tang Jie & Chairman Liu Debing | Caproasia",
+      "link": "https://www.caproasia.com/2025/07/04/china-artificial-intelligence-startup-zhipu-ai-raised-140-million-in-latest-funding-round-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8",
+      "snippet": "### Natixis Strategists Survey 2026: 1) 91% Natixis Strategists Picked Artificia...",
+      "raw_snippet": "### Natixis Strategists Survey 2026: 1) 91% Natixis Strategists Picked Artificial Intelligence (AI) as Key Driver for Market Performance in 2026 2H, 2) 97% Picked... 91% Natixis Strategists Picked Artificial Intelligence (AI) as Key Driver for Market Performance in 2026 2H, 2) 97% Picked Inflation as Top Risk in 2026 2H, 3) 79% Warns of Energy Crisis in 2026 2H, 4) 82% Picked Oil Prices Have Peaked But 0% Forecast Oil Prices to Return to Early 2026 Prices, 5) Only 30% Picked Recession Risk in [...] ### Natixis Strategists Survey 2026: 1) 91% Natixis Strategists Picked Artificial Intelligence... 91% Natixis Strategists Picked Artificial Intelligence (AI) as Key Driver for Market Performance in 2026 2H, 2) 97% Picked Inflation as Top Risk in 2026 2H, 3) 79% Warns of Energy Crisis in 2026 2H, 4) 82% Picked Oil Prices Have Peaked But 0% Forecast Oil Prices to Return to Early 2026 Prices, 5) Only 30% Picked Recession Risk in 2026, 6) 88% Sees Opportunity in Deglobalization, 7) 70% Views [...] Computer Science Department, is an artificial intelligence company with the mission of teaching machines to think like humans. Our world-leading AI team has developed the cutting-edge large language and multimodal models and built the high-precision billion-scale knowledge graphs, the combination of which uniquely empowers us to create a powerful data- and knowledge-driven cognitive engine towards artificial general intelligence.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
       "title": "Elon Musk xAI Merger 2026: Complete $250B Deal Breakdown - Artificial Intelligence World",
       "link": "https://justoborn.com/elon-musk-xai-merger",
       "snippet": "The merger combines SpaceX’s Starlink satellite network, rocket reusability, and...",
       "raw_snippet": "The merger combines SpaceX’s Starlink satellite network, rocket reusability, and orbital infrastructure with xAI’s Grok chatbot, AI training clusters, and the X social platform. Musk called it the “most ambitious vertically integrated innovation engine on (and off) Earth”.\n\nWhy this matters now: In April 2026, SpaceX filed a confidential S-1 with the SEC. The target IPO valuation is now $1.75 trillion, making this the most anticipated public listing in history. [...] | Component | Valuation | Share Price / Ratio |\n --- \n| SpaceX (pre-merger) | ~$1.0 trillion | $526.59 per share |\n| xAI (merger valuation) | ~$250 billion | $75.46 per share |\n| xAI (Series E, Jan 2026) | $230 billion | Prior funding round |\n| Exchange Ratio | All-stock | 0.1433 SpaceX per xAI |\n| Combined Entity | ~$1.25 trillion | Largest merger ever |\n| IPO Target (Apr 2026) | $1.75 trillion | Confidential S-1 filed | [...] ### \n\nIn the February 2026 merger, xAI was valued at approximately $250 billion. That was a modest premium over its January 2026 Series E round, which valued the company at $230 billion.\n\n### \n\nSpaceX filed a confidential S-1 in April 2026. The IPO roadshow is expected the week of June 8, 2026, with a retail investor event planned for June 11. The target valuation is $1.75 trillion.\n\n###",
       "is_chinese": false,
-      "source_type": "funding",
-      "index": 5
+      "source_type": "funding"
     },
     {
       "title": "nFlux AI 2025 Company Profile: Valuation, Funding & Investors",
@@ -56,10 +64,10 @@
       "source_type": "funding"
     },
     {
-      "title": "China Artificial Intelligence Startup Zhipu AI Raised $140 Million in Latest Funding Round after Pre-Filing for IPO in 2025 April, Raised $1.5 Billion in Funding Since Founding, 2023 Valuation at $2.8 Billion, Investors Include Alibaba, Ant Group, Tencent, Meituan, Xiaomi, HongShan, Saudi Aramco & Prosperity7 Ventures, Founded in 2019 by Tsinghua University Professors Tang Jie & Li Juanzi, Key Controlling Shareholders are Founder Tang Jie & Chairman Liu Debing | Caproasia",
-      "link": "https://www.caproasia.com/2025/07/04/china-artificial-intelligence-startup-zhipu-ai-raised-140-million-in-latest-funding-round-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8",
-      "snippet": "Computer Science Department, is an artificial intelligence company with the miss...",
-      "raw_snippet": "Computer Science Department, is an artificial intelligence company with the mission of teaching machines to think like humans. Our world-leading AI team has developed the cutting-edge large language and multimodal models and built the high-precision billion-scale knowledge graphs, the combination of which uniquely empowers us to create a powerful data- and knowledge-driven cognitive engine towards artificial general intelligence. [...] Neros\n\n### United States Defense Drone Company Neros Raised $250 Million in Series C Funding at $2.5 Billion Valuation, Neros Founded in 2023 by Soren Monroe-Anderson...\n\n from France $12.4 Billion Hospitality Company Accor, Essendi Formed in 2017 as AccorInvest\") [...] Buys Shanghai Hotel (Mia Hotel) for $33 Million from Singapore-Based $80 Billion Investment Manager GLP\")",
+      "title": "Is Elon Musk trying to influence SpaceX’s valuation ahead of IPO",
+      "link": "https://americanbazaaronline.com/2026/02/03/is-elon-musk-trying-to-influence-spacexs-valuation-ahead-of-ipo-474432",
+      "snippet": "# Is Elon Musk trying to influence SpaceX’s valuation ahead of IPO. It looks lik...",
+      "raw_snippet": "# Is Elon Musk trying to influence SpaceX’s valuation ahead of IPO. It looks like Elon Musk is trying to make it seem that SpaceX is more valuable than it actually is. Musk’s rocket company SpaceX has acquired xAI, the artificial intelligence firm founded by himself three years ago, in a massive, and unconventional, deal that combines the two privately held firms into a company with an astounding $1.25 trillion reported valuation and plans for a historic IPO this year. The deal, described as unconventional due to both companies being privately held and founded by the same individual, signals Musk’s ambition to integrate his ventures in aerospace and artificial intelligence under one corporate umbrella. Analysts note that the consolidation could streamline operations, accelerate research, and allow Musk to leverage cross-disciplinary technologies, from AI‑driven space exploration systems to autonomous robotics and computational simulations for aerospace applications. **READ: Elon Musk reignites row over LinkedIn’s Hoffman’s Trump ‘martyr’ remark (**. While the precise terms of the acquisition have not been publicly disclosed, the strategic implications are significant: it aligns Musk’s AI initiatives with SpaceX’s long-term space ambitions, potentially creating synergies between AI software development and spacecraft engineering. Beyond the technical and financial aspects, the merger carries symbolic weight, highlighting Musk’s continued influence over two of the most transformative industries of the 21st century. By uniting xAI with SpaceX, Musk supposedly reinforces a vision of integrated technological ecosystems, in which AI and space exploration support and amplify each other. Musk cited the potential for space-based data centers, the energy-intensive computing facilities necessary to power AI services, as one of the most important benefits of the combination, even though the concept is still unproven and largely theoretical. For Elon Musk, the merger of SpaceX and xAI represents more than just a business transaction, it is a strategic statement about his vision for the future of technology. **READ: Elon Musk explores company merger as SpaceX IPO nears (**. By bringing his aerospace and AI ventures together, Musk positions himself at the intersection of two of the most transformative industries of the 21st century, signaling his intent to shape the direction of both sectors simultaneously. Elon Musk IPO Space-based data centers SpaceX xAI.",
       "is_chinese": false,
       "source_type": "funding"
     },
@@ -88,10 +96,10 @@
       "source_type": "funding"
     },
     {
-      "title": "Is Elon Musk trying to influence SpaceX’s valuation ahead of IPO",
-      "link": "https://americanbazaaronline.com/2026/02/03/is-elon-musk-trying-to-influence-spacexs-valuation-ahead-of-ipo-474432",
-      "snippet": "By bringing his aerospace and AI ventures together, Musk positions himself at th...",
-      "raw_snippet": "By bringing his aerospace and AI ventures together, Musk positions himself at the intersection of two of the most transformative industries of the 21st century, signaling his intent to shape the direction of both sectors simultaneously.\n\nThe combination reinforces his reputation as a bold, risk-taking innovator willing to pursue ambitious, unconventional strategies to achieve long-term goals. [...] Beyond the technical and financial aspects, the merger carries symbolic weight, highlighting Musk’s continued influence over two of the most transformative industries of the 21st century.\n\nBy uniting xAI with SpaceX, Musk supposedly reinforces a vision of integrated technological ecosystems, in which AI and space exploration support and amplify each other. [...] Regardless of immediate outcomes, the merger solidifies Musk’s brand as a visionary entrepreneur who continually pushes the boundaries of what is considered feasible, shaping both his legacy and the broader perception of technological possibility.\n\n Facebook\n Share on X\n LinkedIn\n WhatsApp\n Email\n Copy Link\n\nElon Musk IPO Space-based data centers SpaceX xAI\n\nVishnu Kaimal",
+      "title": "OpenAI IPO? Grok-SpaceX Merger? The AI IPO Race Heats Up - The AI Daily Brief: Artificial Intelligence News and Analysis - Podcast Episode - Podscan.fm",
+      "link": "https://podscan.fm/podcasts/the-ai-daily-brief-artificial-intelligence-news-and-analysis/episodes/openai-ipo-grok-spacex-merger-the-ai-ipo-race-heats-up",
+      "snippet": "Brought to you by:\n\nKPMG – Discover how AI is transforming possibility into real...",
+      "raw_snippet": "Brought to you by:\n\nKPMG – Discover how AI is transforming possibility into reality. Tune into the new KPMG 'You Can with AI' podcast and unlock insights that will inform smarter decisions inside your enterprise. Listen now and start shaping your future with every episode. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nRackspace AI Launchpad - Build, test and scale intelligent workloads faster - ⁠⁠ [...] The Agent Readiness Audit from Superintelligent - Go to ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠to request [...] Zencoder - From vibe coding to AI-first engineering - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nOptimizely Opal - The agent orchestration platform build for marketers - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nAssemblyAI - The best way to build Voice AI apps - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nSection - Build an AI workforce at scale - ⁠⁠⁠⁠⁠⁠⁠⁠\n\nLandfallIP - AI to Navigate the Patent Process -",
       "is_chinese": false,
       "source_type": "funding"
     },
@@ -112,10 +120,10 @@
       "source_type": "funding"
     },
     {
-      "title": "OpenAI IPO? Grok-SpaceX Merger? The AI IPO Race Heats Up - The AI Daily Brief: Artificial Intelligence News and Analysis - Podcast Episode - Podscan.fm",
-      "link": "https://podscan.fm/podcasts/the-ai-daily-brief-artificial-intelligence-news-and-analysis/episodes/openai-ipo-grok-spacex-merger-the-ai-ipo-race-heats-up",
-      "snippet": "Title: OpenAI IPO? Grok-SpaceX Merger? The AI IPO Race Heats Up - The AI Daily B...",
-      "raw_snippet": "Title: OpenAI IPO? Grok-SpaceX Merger? The AI IPO Race Heats Up - The AI Daily Brief: Artificial Intelligence News and Analysis - Podcast Episode - Podscan.fm\nBack to The AI Daily Brief: Artificial Intelligence News and Analysis. The AI IPO Race Heats Up. From The AI Daily Brief: Artificial Intelligence News and Analysis. The AI IPO Race Heats Up. From The AI Daily Brief: Artificial Intelligence News and Analysis. The AI IPO Race Heats Up. OpenAI IPO   SpaceX XAI merger   Apple QAI acquisition   Amazon OpenAI investment   Genie 3   Sora app churn   Perplexity Microsoft deal   Anthropic Pentagon dispute   Elon Musk consolidation   AI job layoffs. ### More Episodes from The AI Daily Brief: Artificial Intelligence News and Analysis. In the headlines: Google opens Genie 3 world models, OpenAI’s Sora app shows heavy churn, Perplexity signs a major Microsoft cloud deal, and Anthropic clashes with the Pentagon over military AI limits. The AI Daily Brief helps you understand the most important news and discussions in AI. The AI Daily Brief: Artificial Intelligence News and Analysis. #### The AI Daily Brief: Artificial Intelligence News and Analysis. Today on the AI Daily Brief, OpenAI IPO, SpaceX-XAI merger, a bunch of stories that help us understand the state of the AI race as we head into February. The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI. To get an ad-free version of the show, go to patreon.com slash AI Daily Brief, or you can subscribe on Apple Podcasts. It's going to ask you questions like, which AI models did you use this month? World models are, in some ways, a fundamentally different approach for getting to the next level of AI. You can find it on Times' website, and basically they got Darren Aronofsky to use AI to create a series that brings us back to the incredibly fraught and important year of 1776, but in a way that's an actual film rather than just a documentary of historians talking about it. Interestingly, Perplexity said that part of the rationale for the deal was the ability to access models from OpenAI, Anthropic, and XAI through Microsoft's Foundry platform. Speaking of Anthropic, our last story today is that Anthropic is going to war with the Pentagon over limits to their military AI deal. At an event earlier this month, he said the Pentagon would not, quote, employ AI models that won't allow you to fight wars.",
+      "title": "xAI Acquisition: SpaceX Buys Elon Musk's AI Company Ahead of IPO",
+      "link": "https://thetechmarketer.com/xai-acquisition-spacex-elon-musk-ipo",
+      "snippet": "Title: xAI Acquisition: SpaceX Buys Elon Musk's AI Company Ahead of IPO\nThe Tech...",
+      "raw_snippet": "Title: xAI Acquisition: SpaceX Buys Elon Musk's AI Company Ahead of IPO\nThe Tech MarketerThe Tech MarketerThe Tech Marketer. Reading: xAI Acquisition: SpaceX Acquires Elon Musk’s AI Startup Ahead of IPO. The Tech MarketerThe Tech Marketer. # xAI Acquisition: SpaceX Acquires Elon Musk’s AI Startup Ahead of IPO. Elon Musk SpaceX xAI acquisition announcement. Elon Musk confirms SpaceX acquisition of xAI. **Elon Musk confirms SpaceX has acquired xAI, merging artificial intelligence with space infrastructure ambitions.**. IntroductionWhat xAI and SpaceX AreWhat Just HappenedWhat Experts Are SayingWhat This Means for AI and SpaceHow This Compares to Other Tech MergersWhat Happens NextWhy This Merger MattersFAQSourcesOh hi there 👋It’s nice to meet you.Sign up to receive awesome content in your inbox, every week. xAI acquisition news surged across the tech world after Elon Musk confirmed that SpaceX has officially acquired his artificial intelligence startup, signaling a bold convergence of AI and aerospace strategy. ## What xAI and SpaceX Are. xAI was founded by Elon Musk in 2023 with the stated goal of building artificial intelligence systems focused on understanding reality and scientific truth. On February 2, 2026, Musk confirmed that SpaceX has acquired xAI, formally merging the AI company into SpaceX’s broader corporate structure. According to CNN and CNBC reporting, the acquisition positions xAI inside SpaceX ahead of a potential future IPO, streamlining Musk’s technology portfolio and reducing cross-company complexity. Technology analysts view the xAI acquisition as a significant shift in how artificial intelligence may be developed and deployed. ## What This Means for AI and Space. Industry attention now turns to whether SpaceX will formally pursue an IPO timeline and how xAI’s products will evolve under the SpaceX umbrella. The xAI acquisition by SpaceX marks a pivotal moment in Elon Musk’s technology strategy. By merging artificial intelligence directly into his space company, Musk is signaling that AI will be foundational to the next phase of aerospace innovation rather than a separate venture. Yes. Elon Musk confirmed that SpaceX has acquired xAI. xAI is now part of SpaceX’s corporate structure. To align AI development with SpaceX’s infrastructure and long-term strategy. **Is this related to a SpaceX IPO?**. * CNN: SpaceX acquires xAI, Musk confirms merger. * Yahoo Finance: Musk confirms SpaceX merger with xAI ahead of IPO.",
       "is_chinese": false,
       "source_type": "funding"
     },
@@ -152,151 +160,111 @@
       "source_type": "funding"
     },
     {
-      "title": "xAI Acquisition: SpaceX Buys Elon Musk's AI Company Ahead of IPO",
-      "link": "https://thetechmarketer.com/xai-acquisition-spacex-elon-musk-ipo",
-      "snippet": "If you’re looking for a mechanical keyboard that can give your desk a touch of r...",
-      "raw_snippet": "If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen for the bundle. The styling on this keyboard is thorough, with blocky retro legends on the rounded\n \n\n  Cats and dogs are missing meals after a popular smart feeder went down [...] )\n\nShare\n\nPrevious Article   Punxsutawney Phil Groundhog Day 2026 ceremony Groundhog Day 2026: What the Groundhog Said and What It Means for Winter\n\nNext Article   AI underwriting data analytics platform for insurance AI Underwriting Transformation: Future Underwriting Driven by Data and AI, Powered by Human Intelligence – Salesforce\n\nLeave a comment\n\n### Leave a Reply Cancel reply\n\n#### Latest News\n\n \n\n  Pixel 11 event live blog: Let’s watch Trevor Noah introduce Google’s new phones [...] The Tech MarketerThe Tech MarketerThe Tech Marketer\n\nReading: xAI Acquisition: SpaceX Acquires Elon Musk’s AI Startup Ahead of IPO\n\nNotification Show More\n\nFont ResizerAa\n\nThe Tech MarketerThe Tech Marketer\n\nFont ResizerAa\n\n Home\n Technology\n Entertainment\n Marketing\n Politics\n Visionary Vault\n\nHave an existing account? Sign In\n\nFollow US\n\n© The Tech Marketer. All Rights Reserved.\n\nArtificial IntelligenceTechnology\n\n# xAI Acquisition: SpaceX Acquires Elon Musk’s AI Startup Ahead of IPO\n\n)\n\nShare",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Product CEO / Venture Studio Director - Human Agency | Built In Chicago",
-      "link": "https://www.builtinchicago.org/job/product-ceo-venture-studio-director/8630451",
-      "snippet": "Who You Are\n\n Proven experience as a founder, CEO, or product leader who shipped...",
-      "raw_snippet": "Who You Are\n\n Proven experience as a founder, CEO, or product leader who shipped real products\n Sales DNA — you can get in a room and move people\n AI-native builder — you've built with AI, not just used it. Show us.\n Comfort with ambiguity at every level — from \"what should we build?\" to \"this thing is on fire\"\n Zero interest in process for process's sake. You build. You ship. You iterate.\n\nEqual Opportunity Commitment [...] What You'll Own\n\n Build and operate your own venture from zero to one within the Human Agency studio\n Set the framework and cadence for how ventures are evaluated, funded, and scaled across the studio\n Run weekly studio syncs — you are the point of accountability across all active ventures\n Sell. Whether it's selling the vision to partners, customers, or investors — you close.\n Deploy AI and agents as core infrastructure in everything you build — not as a feature, as the foundation [...] We partner with organizations of all sizes to explore, design, and implement AI strategies that are secure, scalable, and human-centered. We believe AI should amplify human potential, not replace it — and we build with that conviction in every engagement. From advisory and tooling to implementation and education, we meet clients where they are and help them integrate AI in ways that align with their mission and values. Our goal is to empower teams to work smarter, move faster, and unlock new",
+      "title": "Business Operations | Founder's Associate - Actively AI | Built In NYC",
+      "link": "https://www.builtinnyc.com/job/business-operations-founder-s-associate/9201306",
+      "snippet": "Our co-founders are former Stanford AI researchers, and the team comes from Harv...",
+      "raw_snippet": "Our co-founders are former Stanford AI researchers, and the team comes from Harvard, CMU, Berkeley, Brex, Scale AI, and Google. We've raised $68M from TCV, First Harmonic, Bain Capital Ventures, First Round Capital, and more.\n\nAbout The Role\n\nWe are looking for a generalist business operations hire to work directly with our founders on a number of tactical and strategic projects across the business. [...] Company Photo Can't find your company?\n\nCreate a company profile.\n\nView All Jobs\n\nJoin\n\nLog In\n\n Hire on Built In\n Post a Job\n\nActively AI   Jobs \n\nBusiness Operations | Founder's Associate\n\n## Actively AI\n\n# Business Operations | Founder's Associate\n\nReposted 6 Days Ago\n\nIn-Office\n\nNew York City, NY, USA\n\n140K-175K Annually\n\nJunior\n\nIn-Office\n\nNew York City, NY, USA\n\n140K-175K Annually\n\nJunior [...] Log In to apply   Sign up to apply\n\nApply Instructions\n\nBy clicking Apply Now you agree to share your profile information with the hiring company.\n\nBuilt In\n\nJoin\n\nLog In\n\n Tech Jobs\n Companies\n Articles\n Remote\n Salaries\n\nPost Job\n\nOops, something went wrong. Please try again.",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "Artificial Intelligence Co-Founder / Head of Product (100 % ...",
-      "link": "https://dailyremote.com/remote-job/artificial-intelligence-co-founder-head-of-product-100-remote-m-f-d-5465303",
-      "snippet": "You will own, build, and run your own startup in the field of Artificial Intelli...",
-      "raw_snippet": "You will own, build, and run your own startup in the field of Artificial Intelligence while receiving intensive coaching and support.",
+      "title": "AI Reduces Cost-Per-Hire Silver Medalists | Revo",
+      "link": "https://www.revo.ai/blog/hr/ai-reduces-cost-per-hire-silver-medalists",
+      "snippet": "AI technology gives you the tools to turn these near-hires into new employees. T...",
+      "raw_snippet": "AI technology gives you the tools to turn these near-hires into new employees. This approach saves money and fills roles faster. It is a smart way to build your",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "NashTech CEO John O'Brien on What it Takes to Become ...",
-      "link": "https://ctomagazine.com/ai-native-enterprise-john-obrien-ceo-nashtech",
-      "snippet": "AI in the Industry, In Conversation Q&A\n\n##### AI Governance and Growth in Finte...",
-      "raw_snippet": "AI in the Industry, In Conversation Q&A\n\n##### AI Governance and Growth in Fintech — Lessons from FIS’s CTO\n\nAI in the Industry, In Conversation Q&A\n\n##### AI Deregulation Is Reshaping How AI Is Built: Cris Kinross Explains Why\n\nAI in the Industry, In Conversation Q&A\n\n##### Leadership in AI Era: Olson on Building SaaS Teams That Last\n\nAI in the Industry, In Conversation Q&A\n\n##### AI in Hiring: Insights from Edge CEO Iffi Wahla\n\nAI in the Industry, In Conversation Q&A [...] For technology leaders, this changes the nature of the AI conversation. The challenge is no longer simply identifying what AI can do. It is determining where AI can create measurable business value and whether the organization has the foundations to scale it safely and sustainably. [...] ##### Thriving in Cybersecurity Landscape: In Conversation with Cybersecurity Expert Zoya Schaller\n\nIn Conversation Q&A\n\n##### In Conversation: Rachel Weston Rowell on Scaling Startups, Regulation, and Building Global Teams\n\nAI in the Industry, In Conversation Q&A\n\n##### The CTO’s Guide to AI Driven Innovation: Lessons from Pearl Lemon AI CEO Deepak Shukla\n\nAI in the Industry, In Conversation Q&A\n\n##### In Conversation: Andrew Lokenauth on the Role of AI in Transforming CTO Functions",
+      "title": "Anthropic CEO Dario Amodei Says AI Backlash Is ...",
+      "link": "https://www.techechelon.com/post/anthropic-ceo-dario-amodei-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+      "snippet": "Rivian's Autonomy+ system has outpaced GM's Super Cruise in highway performance ...",
+      "raw_snippet": "Rivian's Autonomy+ system has outpaced GM's Super Cruise in highway performance but still trails Tesla's FSD on city streets and point-to-point driving, according to a multi-hundred-mile comparative evaluation. Rivian says full point-to-point capability is expected before year's end.\n\nSara Montes de Oca · YESTERDAY\n\n№02· ARTIFICIAL INTELLIGENCE\n\n#### OpenAI Enterprise Revenue Surpasses Consumer Business as Annualized Run Rate Hits $40 Billion [...] OpenAI CFO Sarah Friar told investors Friday that the company's enterprise business now generates more revenue than its consumer ChatGPT products, with the annualized revenue run rate reaching $40 billion — ahead of the company's own internal forecasts.\n\nMarc Sabatini · 2 DAYS AGO\n\n№03· ARTIFICIAL INTELLIGENCE\n\n#### Apple Opens Houston Manufacturing Facility for AI Servers and Mac Mini Production [...] Jay Goldberg\n\nJay Goldberg is a staff writer at TechEchelon covering technology, markets, and policy. He files the breaking news and deal coverage that move the publication's core desks.\n\nMore from Jay →\n\n━━ KEEP READING\n\n### More from this desk\n\n№01· ARTIFICIAL INTELLIGENCE\n\n#### Rivian Autonomy+ Surpasses GM's Super Cruise but Still Trails Tesla FSD in Head-to-Head ADAS Test",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
     },
     {
-      "title": "AI Fundamentals Every Product Leader Should Master",
-      "link": "https://www.tpmnexus.pro/blog/ai-fundamentals-product-leaders",
-      "snippet": "You do need enough AI knowledge to understand what is possible, what is reliable...",
-      "raw_snippet": "You do need enough AI knowledge to understand what is possible, what is reliable, what is expensive, and where AI can create meaningful customer value.\n\nAfter working across SaaS, cloud, and AI initiatives, I have found that Product Leaders need a practical understanding of AI rather than deep theoretical knowledge.\n\nHere are the fundamentals I believe matter most.\n\n## 1. Understand What an LLM Actually Does\n\nLarge Language Models are at the center of many modern AI products. [...] What can the model reliably do?\n How much context can it handle?\n How accurate is the output?\n How quickly does it respond?\n What does each interaction cost?\n Where can it fail?\n\nThis knowledge helps Product Leaders make better decisions about model selection and product scope.\n\n## 2. Know the Difference Between AI, ML, Deep Learning, and LLMs\n\nThese terms are often used interchangeably.\n\nThey are not the same.\n\nThink about them as a hierarchy.\n\nArtificial Intelligence [...] Data privacy\n Access control\n Sensitive information\n Auditability\n Human oversight\n Compliance\n Model and vendor risk\n\nFor example, an AI assistant may technically be capable of retrieving information from multiple internal systems.\n\nThat does not mean every user should be allowed to see everything the assistant can access.\n\nThe product needs to respect existing permissions and business rules.\n\nAs AI becomes more autonomous, governance becomes part of the product experience.",
+      "title": "Artificial Intelligence · Digital Product Passport",
+      "link": "https://www.km-sc.de/en/artificial-intelligence",
+      "snippet": "We now see extensive investment in AI initiatives across all companies—whether a...",
+      "raw_snippet": "We now see extensive investment in AI initiatives across all companies—whether as a complement to digital transformation or as a standalone initiative.",
       "is_chinese": false,
       "source_type": "people",
       "index": 9
     },
     {
-      "title": "Flexible Artificial Intelligence Ai Director Remote Jobs – Apply Today to Work From Home (August 13, 2026)",
-      "link": "https://www.indeed.com/q-artificial-intelligence-ai-director-remote-jobs.html",
-      "snippet": "$170,000 - $190,000 a year  \n       AD&D insurance  \n       401(k)  \n       Paid...",
-      "raw_snippet": "$170,000 - $190,000 a year  \n       AD&D insurance  \n       401(k)  \n       Paid time off  \n       Vision insurance  \n       Dental insurance  \n       Disability insurance\n\n       We may use artificialintelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses… [...] Growth & Commercial Enablement\n       Identify AI-enabled revenue growth opportunities (pricing optimization, product differentiation, service models, installed base monetization).\n       Partner with commercial and product leaders to embed AI into customer-facing workflows.\n       Support development of AI-enabled products and digital service offerings. [...] Embed AI-enabled decision-making into operating rhythms (forecasting, pricing reviews, production planning, customer engagement).",
+      "title": "AI Backlash Is A Crisis Of Trust, Anthropic CEO Says",
+      "link": "https://www.mediapost.com/publications/article/417277/ai-backlash-is-a-crisis-of-trust-anthropic-ceo-sa.html?edition=143535",
+      "snippet": "artificial intelligence,\ncommentary,\nmedia\n\nNext story loading loading..\n\nadvert...",
+      "raw_snippet": "artificial intelligence,\ncommentary,\nmedia\n\nNext story loading loading..\n\nadvertisement\n\nMore from MediaDailyNews [...] The $1M Advertising Drain [...] The $1M Advertising Drain",
       "is_chinese": false,
       "source_type": "people",
       "index": 10
     },
     {
-      "title": "Chief Product Officer – AI-Driven Threat Intelligence",
-      "link": "https://himalayas.app/companies/icounter/jobs/chief-product-officer-ai-driven-threat-intelligence",
-      "snippet": "iCOUNTER is seeking an experienced Chief Product Officer to lead the vision, str...",
-      "raw_snippet": "iCOUNTER is seeking an experienced Chief Product Officer to lead the vision, strategy, and execution of our AI-native threat intelligence platform.",
+      "title": "Artificial Intelligence In Business Research Paper",
+      "link": "https://inventario.ellaurel.gob.ec/book-search/zI09h1/0TW010/artificial_intelligence_in-business-research-paper.pdf",
+      "snippet": "When you read Artificial Intelligence In Business Research Paper online, you’ll ...",
+      "raw_snippet": "When you read Artificial Intelligence In Business Research Paper online, you’ll notice that every page is designed for clarity and comfort. The layout is optimized for both mobile and desktop devices, so you can read seamlessly wherever you are — at home, at work, or on the go. Prefer offline reading? Simply download the PDF version and keep it in your collection to access anytime, even without an internet connection. [...] # Artificial Intelligence In Business Research Paper [...] Artificial Intelligence In Business Research Paper offers valuable content for a wide range of readers. It may serve as a practical reference for students, a thoughtful guide for professionals, or an enjoyable read for anyone seeking to learn something new. Whatever your reason for visiting, you’ll find this title easy to explore and rewarding to read.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Brokers Build Their AI Toolbox At Originator Connect 2026",
-      "link": "https://nationalmortgageprofessional.com/news/brokers-build-their-ai-toolbox-originator-connect-2026",
-      "snippet": "C-Suite Strategies\n\n Better Says It Fired Vishal Garg After He Moves To Oust Boa...",
-      "raw_snippet": "C-Suite Strategies\n\n Better Says It Fired Vishal Garg After He Moves To Oust Board\n\nFounder claims majority shareholder support; company blames him for its delayed 10-Q and raises possible securities-law concerns\n\nBetter Home & Finance Holding Company said Friday that it terminated founder Vishal Garg as CEO and accused him of delaying the company’s quarterly filing, sharply escalating a dispute over control of the mortgage lender one day after Garg demanded that five directors re... [...] \"AI is a tool that's going to help them go faster,\" said Chuck La Flair, branch manager senior loan officer at Clear Mortgage Capital, noting that he is seeing its impact day in and day out.\n\nThe industry is shifting away from basic chatbots and moving toward deploying autonomous AI. Bill Inman, CEO of Angel Twin, which combines AngelAI and Twin Protocol, explained that the era of prompt engineering is over. [...] To break through internal resistance, leaders must show their originators exactly how this technology operates to improve their daily lives.\n\nThe initial goal of AI is not replacing employees entirely, but rather shifting the focus to efficiency.\"It's really more, right now, how can I get my time back first? ... and then it's how can I economize and make money back,\" La Flair said.",
+      "title": "Director of Product Management, CS/AI - Flex | Built In NYC",
+      "link": "https://www.builtinnyc.com/job/director-product-management-cs-ai/9752116",
+      "snippet": "We’re hiring a Director of Product for AI & Agentic Customer Support to own the ...",
+      "raw_snippet": "We’re hiring a Director of Product for AI & Agentic Customer Support to own the strategy and outcomes for how Flex resolves customer issues -  automatically, intelligently, and at scale. Customer support at Flex is a multi-channel operation spanning AI voice, AI chat, live chat, email, and live human voice, serving bill payers managing payments, billing changes, onboarding and identity, account issues, and more. With hundreds of human agents and a rapidly growing bill payment base, the mission [...] equal opportunity workplace. [...] Built In Logo\nBuilt In Logo\nCompany Photo\nFlex Logo\n\n## Flex\n\n# Director of Product Management, CS/AI",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Senior Counsel, AI Product (Enterprise/API) @ OpenAI",
-      "link": "https://jobs.stripes.co/companies/openai/jobs/90052108-senior-counsel-ai-product-enterprise-api",
-      "snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that gener...",
-      "raw_snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum [...] Support strategic partnerships and distribution arrangements, including cloud platforms, resellers, and other third-party channels through which customers access OpenAI models.\n Partner with Commercial Legal, Privacy, Security, Safety, Product and Product Policy, and Go-to-Market teams on customer-facing commitments, product terms, launch readiness, and legal and regulatory requirements. [...] Serve as a strategic legal partner to teams developing ChatGPT’s business products, enterprise features, and API offerings.\n Advise on product design and launches involving enterprise administration, data governance, identity and access, connectors and integrations, agentic capabilities, and voice and multimodal experiences in the B2B space.\n Counsel teams on deploying frontier AI capabilities responsibly while balancing customer commitments, safety, security, and privacy.",
+      "title": "Parallel - Web Infrastructure for AI Agents",
+      "link": "https://parallel.ai",
+      "snippet": "Image 156: Notion\n\n> ”Parallel provided us with a big upgrade in speed and index...",
+      "raw_snippet": "Image 156: Notion\n\n> ”Parallel provided us with a big upgrade in speed and index coverage. Combined with a 5x improvement in cost efficiency, it was an easy decision to build our agents with them.”\n> \n> Vikas Velagapudi\n> \n> Founder, Convoke\n\nImage 157: Convoke\n\n> ”You cannot make mistakes in financial services. With Parallel, our banking customers run agents that complete complex KYB checks in minutes, not hours.”\n> \n> Maik Taro Wehmeyer\n> \n> Co-Founder & CEO, Taktile\n\nImage 158: Taktile [...] > “You cannot make mistakes in financial services. With Parallel, our banking customers run agents that complete complex KYB checks in minutes, not hours.”\n> \n> Maik Taro Wehmeyer, Co-Founder & CEO, Taktile [...] > “The best agentic search isn't just the fastest or the cheapest. It's net new information that language models don't already know. Parallel delivers that.”\n> \n> Sarah Sacks, AI Lead, Notion\n\n> “Parallel provided us with a big upgrade in speed and index coverage. Combined with a 5x improvement in cost efficiency, it was an easy decision to build our agents with them.”\n> \n> Vikas Velagapudi, Founder, Convoke",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "The AI in Business Podcast: [AI Futures]  Paolo Ardoino of Tether on Merger or Obsolescence - The Future for Humanity (Stewarding the Flame, Episode 3)",
-      "link": "https://podcast.emerj.com/paolo-ardoino-merger-or-obsolescence-the-future-for-humanity-stewarding-the-flame-episode-3",
-      "snippet": "1. All Episodes\n2. [AI Futures]  Paolo Ardoino of Tether on Merger or Obsolescen...",
-      "raw_snippet": "1. All Episodes\n2. [AI Futures]  Paolo Ardoino of Tether on Merger or Obsolescence - The Future for Humanity (Stewarding the Flame, Episode 3)\n\n## [[AI Futures]  Paolo Ardoino of Tether on Merger or Obsolescence - The Future for Humanity (Stewarding the Flame, Episode 3)](\n\n![   Artwork for [AI Futures]  Paolo Ardoino of Tether on Merger or Obsolescence - The Future for Humanity (Stewarding the Flame, Episode 3)](\n\nThe AI in Business Podcast [...] The AI in Business Podcast is for non-technical business leaders who need to find AI opportunities, align AI capabilities with strategy, and deliver ROI. Each week, Emerj Artificial Intelligence Research CEO Daniel Faggella interviews top AI executives from Fortune 500 firms and unicorn startups - to uncover trends, use-cases, and best practices for practical AI adoption. Subscribe to Emerj's weekly AI newsletter by downloading our \"Beginning with AI\" PDF guide here: [...] Preview Mode Links will not work in preview mode",
+      "title": "Ai Company Startup jobs in Remote",
+      "link": "https://www.indeed.com/q-ai-company-startup-l-remote-jobs.html",
+      "snippet": "AI-Native Workflow: Deep, everyday proficiency building software with advanced A...",
+      "raw_snippet": "AI-Native Workflow: Deep, everyday proficiency building software with advanced AI coding tools (such as Cursor, Copilot, or custom LLM extensions) to radically speed up delivery.\n   Strong Foundations: Comfort writing clean, high-performance code in languages like Python or Go, with a solid grasp of distributed backend systems. [...] anchor for our AI engineering efforts, establishing the patterns for how we build, evaluate, and scale autonomous capabilities. [...] Orchestrate LLM Workflows: Navigate and integrate various commercial and open-source large language models, selecting and optimizing the right models for specific agentic behaviors.\n   Accelerate with AI Tooling: Lead by example by extensively leveraging advanced AI coding tools to maximize velocity, while establishing best practices for AI-assisted engineering across the team.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "[Hiring] Principal AI Process Orchestrator @Creative Chaos",
-      "link": "https://remotive.com/remote/jobs/artificial-intelligence/principal-ai-process-orchestrator-5553614",
-      "snippet": "The Principal AI Process Orchestrator is a key role. This is the person who deci...",
-      "raw_snippet": "The Principal AI Process Orchestrator is a key role. This is the person who decides what work humans do and what work AI does, and then designs and ships the",
+      "title": "AI Product Design Patterns: 3x Feature Adoption",
+      "link": "https://reloadux.com/blog/ai-product-design-patterns-3x-feature-adoption",
+      "snippet": "one. Speed resolves neither. [...] Audit your AI product against all 5 trust pat...",
+      "raw_snippet": "one. Speed resolves neither. [...] Audit your AI product against all 5 trust patterns before your next sprint, then fix the lowest-effort, highest-impact gap first.\n Add editability to any AI feature shipping this quarter; users who can override AI outputs trust the system structurally, not just contextually.\n Design error states before your AI feature reaches QA; retrofitting error UX after launch costs more design time and more user trust than building it right the first time. [...] This is not a hypothetical. Open any AI writing tool, AI research assistant, or AI productivity app launched in the past 18 months. The prompt box is in the same place. The streaming response animation looks identical. The empty state copy reads like it was generated by the same model that powers the product. Users notice this, even if they cannot name it. They feel nothing when they open your product because it feels like everything else.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Ravindraa Thakre: A Global Profile in AI Strategy, Founder ...",
-      "link": "https://eynthrasolution.com/blog/ravindraa-thakre-a-global-profile-in-ai-strategy-founder-leadership-and-ecosystem-enablement",
-      "snippet": "Ravindraa Thakre — Founder of Eynthra Solutions, AI strategist, speaker & ecosys...",
-      "raw_snippet": "Ravindraa Thakre — Founder of Eynthra Solutions, AI strategist, speaker & ecosystem enabler building intelligent CRM systems for global business growth.",
+      "title": "Open Positions - Microsoft Research",
+      "link": "https://www.microsoft.com/en-us/research/careers/open-positions",
+      "snippet": "Research Area(s):\nArtificial intelligence\n\nThe Copilot and Agents Core Office of...",
+      "raw_snippet": "Research Area(s):\nArtificial intelligence\n\nThe Copilot and Agents Core Office of the CTO shapes intelligent experiences across Microsoft 365 by bridging research and engineering, building core agent capabilities, incubating emerging technologies, and helping product teams scale high-quality AI features.…\n\n### Senior Language Engineer\n\nPosted:\nJuly 30, 2026 \n\nLocation:\nMountain View, CA, US; Redmond, WA, US\n\nResearch Area(s):\nArtificial intelligence, Human language technologies [...] Research Area(s):\nArtificial intelligence\n\nMicrosoft Monetization is building the next generation of AI-powered advertising and commerce experiences across Search, Shopping, Copilot, and emerging agentic surfaces. We are seeking a Principal Applied Scientist and Technical Lead to drive the science…\n\nFollow us:\n\nShare this page: [...] Come build the core of Microsoft Copilot for enterprise with Microsoft Turing Team, where you’ll join a collaborative group of applied scientists and engineers pushing the frontier of large language models (LLMs) to improve the…\n\n### Principal Applied Scientist – Auction & Bidding\n\nPosted:\nJuly 28, 2026 \n\nLocation:\nMountain View, CA, US; Redmond, WA, US\n\nResearch Area(s):\nAlgorithms, Artificial intelligence",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "AI Product Enablement Manager Job Details",
-      "link": "https://careers.fcsamerica.com/agcountry/job/Omaha-AI-Product-Enablement-Manager-NE-68137-2210/1419815200",
-      "snippet": "Partner with product leaders and teams to incorporate AI-enabled approaches into...",
-      "raw_snippet": "Partner with product leaders and teams to incorporate AI-enabled approaches into product strategy, discovery, prioritization, roadmap planning, and solution",
+      "title": "Decision Intelligence Platform | project44",
+      "link": "https://www.project44.com",
+      "snippet": "Yard Management System (YMS)Open Yard Management System (YMS) submenu \n         ...",
+      "raw_snippet": "Yard Management System (YMS)Open Yard Management System (YMS) submenu \n           Appointment Management\n           Yard Management\n           Yard Automation\n\n       eCommerce LogisticsOpen eCommerce Logistics submenu \n           Last Mile Resolution\n           Last Mile Insights\n           Consumer Visibility\n           Predictive Delivery Dates\n\n   AI OrchestrationOpen AI Orchestration submenu ## AI Orchestration [...] Skip to ContentSkip to MenuSkip to Footer\n\nMost AI doesn’t deliver. Reliable AI does. Watch the AI Virtual Summit to learn how\n\nWatch on demand\n\nOpen Transportation Management System (TMS) submenu \n           Rating & Booking\n           Documents\n           Port Intel\n           Sailing Schedules\n           Freight Procurement Analytics [...] Image 271Image 272: Pernod Ricard > The introduction of MO, project44’s AI Supply Chain Assistant, is particularly exciting for us. With such rich data at our fingertips in Movement, MO promises to simplify how we access and utilize this information, enabling quick, smart decisions across our global routes. This tool is poised to revolutionize our ability to transform data into actionable insights, enhancing efficiency and effectiveness in our operations.\n> \n> Stewart Petrie\n>",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Director, Global Business Capability & Process Lead — AI- ...",
-      "link": "https://www.careersinaudit.com/jobs/director-global-business-capability-process-lead-ai-first-product-process-governance-servic-london/2927188875-2",
-      "snippet": "This leader will define the frameworks and standards that ensure AI-enabled capa...",
-      "raw_snippet": "This leader will define the frameworks and standards that ensure AI-enabled capabilities are developed responsibly, aligned to business strategy, and embedded",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "AI Happy Hour: Founder Institute x Founders Bay",
-      "link": "https://www.eventbrite.com/e/ai-happy-hour-founder-institute-x-founders-bay-tickets-1997841109539",
-      "snippet": "​You.com is the leading AI search infrastructure — built for developers. Our API...",
-      "raw_snippet": "​You.com is the leading AI search infrastructure — built for developers. Our APIs let you build intelligent agents and applications that use live, factual data",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "About",
-      "link": "https://romportl.com/about",
-      "snippet": "Jan Romportl – AI Strategist & Executive Advisor. Twenty-plus years in AI, from ...",
-      "raw_snippet": "Jan Romportl – AI Strategist & Executive Advisor. Twenty-plus years in AI, from a Ph.D. and the Future of Humanity Institute through O2 / PPF and founding",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "FigureFlow Product Design: AI Financial Intelligence Platform by Daniel Adeeri",
-      "link": "https://contra.com/p/Nb6beXbX-figure-flow-product-design-ai-financial-intelligence-platform",
-      "snippet": "Product design and marketing visuals for FigureFlow, an AI-powered financial int...",
-      "raw_snippet": "Product design and marketing visuals for FigureFlow, an AI-powered financial intelligence platform that turns complex data into clear, actionable insights.\n\n0\n\n1\n\nAug 14, 2025 - Oct 4, 2025\n\nFigureFlow\n\nBrand Designer\n\nProduct Designer\n\nWeb Designer\n\nAdobe After Effects\n\nAdobe Photoshop\n\nFigma\n\nArtificial Intelligence\n\nDaniel Adeeri\n\nDaniel Adeeri\n\nDesigning world-class products, brands and experiences [...] FigureFlow Brand Identity, Strategy & Guideline Project\nFigureFlow SAAS Website Design - Financial Intelligence platform\n\n### Join 50k+ companies and 1M+ independents\n\n### For independents\n\n### For companies\n\n### Use Cases\n\n### Resources\n\n### Challenges\n\n### Hire Freelancers\n\n### Company\n\n### Contact\n\n### For independents\n\n### For companies\n\n### Use Cases\n\n### Resources\n\n### Challenges\n\n### Hire Freelancers\n\n### Contact\n\n### Company\n\n© 2026 Contra.Work Inc [...] # FigureFlow Product Design: AI Financial Intelligence Platform\n\nDaniel Adeeri\n\nDaniel Adeeri\n\nVerified\n\nBrand Designer\n\nProduct Designer\n\nWeb Designer\n\nAdobe After Effects\n\nAdobe Photoshop\n\nFigma\n\nArtificial Intelligence\n\n## Overview\n\n## The challenge\n\n## The product approach\n\n# Product design\n\n## Onboarding\n\nFigureFlow onboarding screens\nFigureFlow onboarding screens\nFigureFlow onboarding screens\nFigureFlow onboarding screens\nFigureFlow onboarding screens\nFigureFlow onboarding screens",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "AI Growth Architect @ News Break",
-      "link": "https://careers.franciscopartners.com/companies/news-break-2/jobs/90081559-ai-growth-architect",
-      "snippet": "Rapidly prototype and test growth hypotheses across new AI products.",
-      "raw_snippet": "Rapidly prototype and test growth hypotheses across new AI products.",
+      "title": "Senior Product Analyst AI Enablement",
+      "link": "https://careers.hcahealthcare.com/jobs/18123046-senior-product-analyst-ai-enablement",
+      "snippet": "Senior Product Analyst – AI Enablement to help translate emerging AI capabilitie...",
+      "raw_snippet": "Senior Product Analyst – AI Enablement to help translate emerging AI capabilities into safe, scalable products and workflows that create measurable enterprise",
       "is_chinese": false,
       "source_type": "people"
     }
