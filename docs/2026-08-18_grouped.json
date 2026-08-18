@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-18",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX pursues confidential IPO in March following xAI merger, aiming for a $1.75T valuation - Phoenix Strategy Group",
+          "link": "https://www.phoenixstrategy.group/blog/spacex-confidential-ipo-following-xai-merger",
+          "snippet": "The company's proposed valuation follows its recent acquisition of xAI, Musk’s a...",
+          "index": 1
+        },
+        {
+          "title": "SpaceX xAI Merger Valued at $1.25 Trillion Ahead of Mega IPO - Inspirepreneur Magazine",
+          "link": "https://inspirepreneurmagazine.com/technology/spacex-xai-merger-1-25-trillion-mega-ipo",
+          "snippet": "Elon Musk’s SpaceX is set to merge with artificial intelligence startup xAI in a...",
+          "index": 2
+        },
+        {
+          "title": "The Business of AI: Understanding Funding Rounds and Valuation in Artificial Intelligence",
+          "link": "http://www.aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "Title: The Business of AI: Understanding Funding Rounds and Valuation in Artific...",
+          "index": 3
+        },
+        {
+          "title": "The Business of AI: Understanding Funding Rounds and Valuation in Artificial Intelligence",
+          "link": "https://aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "Title: The Business of AI: Understanding Funding Rounds and Valuation in Artific...",
+          "index": 4
+        },
+        {
+          "title": "China Artificial Intelligence Startup Zhipu AI Raised $140 Million in Latest Funding Round after Pre-Filing for IPO in 2025 April, Raised $1.5 Billion in Funding Since Founding, 2023 Valuation at $2.8 Billion, Investors Include Alibaba, Ant Group, Tencent, Meituan, Xiaomi, HongShan, Saudi Aramco & Prosperity7 Ventures, Founded in 2019 by Tsinghua University Professors Tang Jie & Li Juanzi, Key Controlling Shareholders are Founder Tang Jie & Chairman Liu Debing | Caproasia",
+          "link": "https://www.caproasia.com/2025/07/04/china-artificial-intelligence-startup-zhipu-ai-raised-140-million-in-latest-funding-round-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8",
+          "snippet": "### Natixis Strategists Survey 2026: 1) 91% Natixis Strategists Picked Artificia...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
+          "link": "https://www.forbes.com/lists/ai50",
+          "snippet": "entity worth $1.25 trillion; and Google paid $2.4 billion to hire AI coding star...",
+          "index": 6
+        },
+        {
+          "title": "4 wild AI predictions from a $39B tech founder | AI YouTube Summary | My First Million | Recall",
+          "link": "https://www.recall.it/summary/artificial-intelligence/4-wild-ai-predictions-from-a-dollar39b-tech-founder",
+          "snippet": "## Talent Acquisition and Hiring Standards [...] Steve Jobs is characterized as ...",
+          "index": 7
+        },
+        {
+          "title": "Sr. Recruiter - ML/AI & Product - Unity",
+          "link": "https://www.builtinseattle.com/job/sr-recruiter-ml-ai-product/10730658",
+          "snippet": "Full-cycle senior recruiter partnering with hiring managers to scope, source, ev...",
+          "index": 8
+        },
+        {
+          "title": "AI Product & Service Launches – 8/17/2026",
+          "link": "https://www.planadviser.com/ai-product-service-launches-8-17-2026",
+          "snippet": "Mili, an artificial-intelligence-powered platform for wealth management firms, p...",
+          "index": 9
+        },
+        {
+          "title": "Walmart's CEO Predicts AI Will Alter Every Job",
+          "link": "https://podcastrex.com/shows/harvard-business-review/walmarts-ceo-predicts-ai-will-alter-every-job",
+          "snippet": "Walmart CEO Doug McMillon predicts AI will change every job at the company, from...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
