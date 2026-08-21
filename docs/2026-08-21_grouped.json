@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-21",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Kore.ai IPO Timeline and Financing Details",
+          "link": "https://forgeglobal.com/koreai_ipo",
+          "snippet": "### Artificial Intelligence (AI)\n\n|  | Company | Forge Price | Market Activity |...",
+          "index": 1
+        },
+        {
+          "title": "You’re Already Funding the AI Bubble — and You’ll Pay for the Bust",
+          "link": "https://finance.yahoo.com/technology/ai/articles/already-funding-ai-bubble-ll-033114528.html",
+          "snippet": "returns, and create long-term wealth that isn't tied to the fortunes of just one...",
+          "index": 2
+        },
+        {
+          "title": "Global M&A trends: 6 notable Q2 2026 cases out of the US, EU, and UK - McDermott Will & Schulte",
+          "link": "https://www.mcdermottlaw.com/reports/antitrust-ma-snapshot/global-ma-trends-6-notable-cases-q2-2026",
+          "snippet": "The Federal Cartel Office (CMA) referred the deal to Phase 2 after Phase 1 conce...",
+          "index": 3
+        },
+        {
+          "title": "Poolside Strikes $6 Billion Licensing Deal with Nvidia & ...",
+          "link": "https://www.newcomer.co/p/sources-poolside-strikes-6-billion",
+          "snippet": "∙ Paid\n\nEXCLUSIVE TO NEWCOMER: Poolside AI, the artificial intelligence model-bu...",
+          "index": 4
+        },
+        {
+          "title": "Artificial Intelligence & Machine Learning Engineer, Vice ...",
+          "link": "https://www.builtinnyc.com/job/artificial-intelligence-machine-learning-engineer-vice-president-ai-labs/10768526",
+          "snippet": "Key Industries: Artificial intelligence, Fintech; Funding Landscape: $25.5 billion in venture capital funding in 2024 (Pitchbook); Notable Investors",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Artificial intelligence, firm growth, and product innovation",
+          "link": "https://ideas.repec.org/a/eee/jfinec/v151y2024ics0304405x2300185x.html",
+          "snippet": "AI-powered growth concentrates among larger firms and is associated with higher ...",
+          "index": 6
+        },
+        {
+          "title": "Certified Artificial Intelligence Product Management Program - ProductDive",
+          "link": "https://productdive.com/ai-product-management-program",
+          "snippet": "## Learn From Industry Leaders\n\nWorld-class instructors from companies that defi...",
+          "index": 7
+        },
+        {
+          "title": "Microsoft CEO Warns That Companies Embracing AI Could Drive Themselves Out of Business",
+          "link": "https://futurism.com/artificial-intelligence/microsoft-ceo-warns-ai-business",
+          "snippet": "More on AI: Sam Altman Says Even the Power of AI Will Never Lead to a Shorter Wo...",
+          "index": 8
+        },
+        {
+          "title": "Andrew Ng - Official Website",
+          "link": "https://www.andrewng.org",
+          "snippet": "AI Fund\n\nA venture studio that co-founds AI companies from the ground up, workin...",
+          "index": 9
+        },
+        {
+          "title": "VP, Product Management-AI Platform Experience",
+          "link": "https://careers.servicenow.com/jobs/744000144582044/vp-product-management-ai-platform-experience",
+          "snippet": "MBA or advanced degree in Computer Science, Engineering, Business, or a related ...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
