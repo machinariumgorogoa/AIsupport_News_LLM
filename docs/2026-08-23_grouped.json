@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-23",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic IPO Could Value Company at $2 Trillion, Investors ...",
+          "link": "https://evtv.online/en/ai/anthropic-ipo-could-value-company-at-2-trillion-investors-say",
+          "snippet": "A $2 trillion debut in October would represent roughly a 2.1x step up from that ...",
+          "index": 1
+        },
+        {
+          "title": "DataRobot IPO Timeline and Financing Details",
+          "link": "https://forgeglobal.com/datarobot_ipo",
+          "snippet": "See All Top Forge Price Gainers\n\n### Artificial Intelligence (AI) [...] FordDire...",
+          "index": 2
+        },
+        {
+          "title": "The Book 2026 | AB",
+          "link": "https://www.alliancebernstein.com/gb/en-gb/adviser/solutions/the-book-2026.html",
+          "snippet": "these strategies could look like, with a focus on healthcare. The industry could...",
+          "index": 3
+        },
+        {
+          "title": "14 Trillion, Is the Largest IPO in History Coming Again?",
+          "link": "https://eu.36kr.com/en/p/3951516246752648",
+          "snippet": "with a market value exceeding 100 billion yuan, making it the artificial intelli...",
+          "index": 4
+        },
+        {
+          "title": "Stripe Bought the AI Ledger - Business Analytics Review",
+          "link": "https://businessanalytics.substack.com/p/stripe-bought-the-ai-ledger",
+          "snippet": "Stripe finalized a deal to acquire OpenRouter, the AI model routing gateway, for...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI FUTURIST KEYNOTE SPEAKER: BOOK & HIRE ARTIFICIAL INTELLIGENCE EXPERT FOR EVENTS",
+          "link": "https://www.futuristsspeakers.com/ai-futurist-keynote-speaker-for-events-2",
+          "snippet": "Your company is developing an AI strategy\n Your industry is being disrupted by A...",
+          "index": 6
+        },
+        {
+          "title": "Artificial Intelligence",
+          "link": "https://www.businessinsider.com/category/artificial-intelligence",
+          "snippet": "### Mark Cuban says doctors should be teaching patients how to use AI to help wi...",
+          "index": 7
+        },
+        {
+          "title": "Principal Product Manager, AI Infrastructure and ...",
+          "link": "https://jobs.sapphireventures.com/companies/datarobot/jobs/90887896-principal-product-manager-ai-infrastructure-and-orchestration",
+          "snippet": "Use of Artificial Intelligence in Our Hiring Process DataRobot uses approved AI-...",
+          "index": 8
+        },
+        {
+          "title": "AI Product Owner | Norcross, GA, USA",
+          "link": "https://www.efinancialcareers.com/jobs-USA-GA-Norcross-AI_Product_Owner.id24672228",
+          "snippet": "Use AI tools throughout product discovery, planning, documentation, analysis, an...",
+          "index": 9
+        },
+        {
+          "title": "Head of Product, AI Business Intelligence at Rentable",
+          "link": "https://wellfound.com/jobs/4621114-head-of-product-ai-business-intelligence",
+          "snippet": "We're hiring a Head of Product, AI Business Intelligence to lead an AI-native BI...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
