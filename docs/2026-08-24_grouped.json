@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-24",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX pursues confidential IPO in March following xAI merger, aiming for a $1.75T valuation - Phoenix Strategy Group",
+          "link": "https://www.phoenixstrategy.group/blog/spacex-confidential-ipo-following-xai-merger",
+          "snippet": "The company's proposed valuation follows its recent acquisition of xAI, Musk’s a...",
+          "index": 1
+        },
+        {
+          "title": "SpaceX xAI Merger Valued at $1.25 Trillion Ahead of Mega IPO - Inspirepreneur Magazine",
+          "link": "https://inspirepreneurmagazine.com/technology/spacex-xai-merger-1-25-trillion-mega-ipo",
+          "snippet": "Elon Musk’s SpaceX is set to merge with artificial intelligence startup xAI in a...",
+          "index": 2
+        },
+        {
+          "title": "The Business of AI: Understanding Funding Rounds and Valuation in Artificial Intelligence",
+          "link": "http://www.aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "Title: The Business of AI: Understanding Funding Rounds and Valuation in Artific...",
+          "index": 3
+        },
+        {
+          "title": "The Business of AI: Understanding Funding Rounds and Valuation in Artificial Intelligence",
+          "link": "https://aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "Title: The Business of AI: Understanding Funding Rounds and Valuation in Artific...",
+          "index": 4
+        },
+        {
+          "title": "Elon Musk xAI Merger 2026: Complete $250B Deal Breakdown - Artificial Intelligence World",
+          "link": "https://justoborn.com/elon-musk-xai-merger",
+          "snippet": "The merger combines SpaceX’s Starlink satellite network, rocket reusability, and...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "The AI Question Every CEO Should Be Asking Instead of ‘Who Can We Cut?’",
+          "link": "https://www.inc.com/bill-fotsch/the-ai-question-every-ceo-should-be-asking-instead-of-who-can-we-cut/91394341",
+          "snippet": "#### Workplace \n       Hiring\n       HR\n       Benefits\n       Management\n\n   ##...",
+          "index": 6
+        },
+        {
+          "title": "Flexible Artificial Intelligence Food Remote Jobs",
+          "link": "https://www.indeed.com/q-artificial-intelligence-food-remote-jobs.html",
+          "snippet": "We may use artificial intelligence (AI) tools to support parts of the hiring pro...",
+          "index": 7
+        },
+        {
+          "title": "How to use AI to give yourself a head start at a new job",
+          "link": "https://www.fastcompany.com/91593095/how-to-use-ai-to-give-yourself-a-head-start-at-a-new-job",
+          "snippet": "Leadership+\n\n       #### Modern CEO\n       #### Hiring\n       #### AI at Work\n\n ...",
+          "index": 8
+        },
+        {
+          "title": "Product Owner Interview Questions for the Age of AI",
+          "link": "https://medium.com/10-min-briefing-on-startup-tech-news/product-owner-interview-questions-ai-stefan-wolpers-88db6aad934e",
+          "snippet": "and the quiet fact that AI is already reshaping product decisions in organizatio...",
+          "index": 9
+        },
+        {
+          "title": "Anand Birje Named CEO of Combined ...",
+          "link": "https://www.hitachids.com/blog/anand-birje-named-ceo-of-combined-hitachi-digital-services-and-globallogic-organization",
+          "snippet": "Santa Clara, Calif. and Dallas, Texas – August 23, 2026 – Hitachi Digital Servic...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
