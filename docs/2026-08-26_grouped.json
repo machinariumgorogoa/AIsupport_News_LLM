@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-26",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "General Intuition Eyes $6 Billion Valuation as Physical AI ...",
+          "link": "https://fnex.com/general-intuition-eyes-6-billion-valuation-as-physical-ai-investment-accelerates",
+          "snippet": "Skild AI raised $1.4 billion in January 2026 at a valuation above $14 billion. P...",
+          "index": 1
+        },
+        {
+          "title": "Moonshot AI: what the Chinese AI startup does and builds",
+          "link": "https://qz.com/what-is-moonshot-ai",
+          "snippet": "Moonshot AI raised funding quickly after its founding and reached a valuation of...",
+          "index": 2
+        },
+        {
+          "title": "AI: Banks scramble to lend $10B to Anthropic - Fintech Blueprint",
+          "link": "https://lex.substack.com/p/ai-wall-street-is-lending-10b-to",
+          "snippet": "US banking law generally prevents banks from conditioning credit on customers pu...",
+          "index": 3
+        },
+        {
+          "title": "Is AI a Bubble? | Focus",
+          "link": "https://www.focuspartners.com/resources/investing/is-ai-a-bubble",
+          "snippet": "2. If AI delivers everything its advocates promise, a diversified portfolio will...",
+          "index": 4
+        },
+        {
+          "title": "How CFOs Are Funding and Scaling AI Agents in 2026",
+          "link": "https://www.bcg.com/publications/2026/how-cfos-are-funding-scaling-ai-agents",
+          "snippet": "BCG provides the strategic decision-making capabilities and proactive portfolio ...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Google",
+          "link": "https://en.wikipedia.org/wiki/Google",
+          "snippet": "Google LLC (/ˈ ɡ uː.ɡ əl/ⓘ, _GOO-gəl_) is an American multinational technology c...",
+          "index": 6
+        },
+        {
+          "title": "OpenAI",
+          "link": "https://en.wikipedia.org/wiki/OpenAI",
+          "snippet": "In September 2025, OpenAI agreed to acquire the product testing startup Statsig ...",
+          "index": 7
+        },
+        {
+          "title": "Anthropic - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Anthropic",
+          "snippet": "24. ↑ Roth, Emma (March 14, 2023). \"Google-backed Anthropic launches Claude, an ...",
+          "index": 8
+        },
+        {
+          "title": "DeepSeek - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/DeepSeek",
+          "snippet": "Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd., d...",
+          "index": 9
+        },
+        {
+          "title": "AI",
+          "link": "https://www.businessinsider.com/artificial-intelligence",
+          "snippet": "Thomson Reuters launches its first AI model, Thomson-1, as it seeks to rely less...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
