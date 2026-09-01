@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-01",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "The Business of AI: Understanding Funding Rounds and Valuation in Artificial Intelligence",
+          "link": "https://aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "Title: The Business of AI: Understanding Funding Rounds and Valuation in Artific...",
+          "index": 1
+        },
+        {
+          "title": "The Business of AI: Understanding Funding Rounds and Valuation in Artificial Intelligence",
+          "link": "http://www.aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "Title: The Business of AI: Understanding Funding Rounds and Valuation in Artific...",
+          "index": 2
+        },
+        {
+          "title": "Semantix Stock Price, Funding, Valuation, Revenue & Financial Statements",
+          "link": "https://www.cbinsights.com/company/semantix1/financials",
+          "snippet": "4 Investors\n\nSemantix has 4 investors. Alpha Capital Acquisition Company investe...",
+          "index": 3
+        },
+        {
+          "title": "Savills Singapore | IPO and Merger & Acquisition Valuation",
+          "link": "https://234.v4.savills-vx.com/services/valuation-and-advisory/property-valuation/ipo-and-merger-and-acquisition-valuation.aspx",
+          "snippet": "Language\n\n  English\n  + English\n Site Search:\n My Account\n\n>  [Home\n Valuation &...",
+          "index": 4
+        },
+        {
+          "title": "China Artificial Intelligence Startup Zhipu AI Raised $140 Million in Latest Funding Round after Pre-Filing for IPO in 2025 April, Raised $1.5 Billion in Funding Since Founding, 2023 Valuation at $2.8 Billion, Investors Include Alibaba, Ant Group, Tencent, Meituan, Xiaomi, HongShan, Saudi Aramco & Prosperity7 Ventures, Founded in 2019 by Tsinghua University Professors Tang Jie & Li Juanzi, Key Controlling Shareholders are Founder Tang Jie & Chairman Liu Debing | Caproasia",
+          "link": "https://www.caproasia.com/2025/07/04/china-artificial-intelligence-startup-zhipu-ai-raised-140-million-in-latest-funding-round-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8",
+          "snippet": "China artificial intelligence startup Zhipu AI has raised $140 million in latest...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI/ML Senior Technical Director",
+          "link": "https://careers.gevernova.com/ai-ml-senior-technical-director/job/R5048642",
+          "snippet": "The Sr Director – Artificial Intelligence and Machine Learning Product Director ...",
+          "index": 6
+        },
+        {
+          "title": "Apple’s New CEO Inherits an AI Strategy Built on ... - PYMNTS",
+          "link": "https://www.pymnts.com/apple/2026/apples-new-ceo-inherits-an-ai-strategy-built-on-outsiders",
+          "snippet": "“10 out of 10” when it arrived, a bar that has effectively become Ternus’ openin...",
+          "index": 7
+        },
+        {
+          "title": "Director, Product Management (AI Platform)",
+          "link": "https://evolent.wd1.myworkdayjobs.com/external/job/work-at-home/director--product-management--ai-platform-_jr-916628",
+          "snippet": "The use of artificial intelligence tools during interviews is prohibited and mon...",
+          "index": 8
+        },
+        {
+          "title": "AI Product & Service Launches – 8/31/2026",
+          "link": "https://www.planadviser.com/ai-product-service-launches-8-31-2026",
+          "snippet": "Ai Global Solutions, a provider of artificial-intelligence-driven business solut...",
+          "index": 9
+        },
+        {
+          "title": "The Next Executive Phase of Human–AI Leadership",
+          "link": "https://cmr.berkeley.edu/2026/08/from-ai-assistant-to-executive-partner-the-next-executive-phase-of-human-ai-leadership",
+          "snippet": "- Technology & Digital Transformation\n    - Blockchain\n    - Digital Transformat...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
