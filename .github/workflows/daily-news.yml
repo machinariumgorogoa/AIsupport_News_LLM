@@ -82,11 +82,13 @@ jobs:
                       elif response.status_code == 429:
                           # 指数退避：第1次等2秒，第2次等4秒，第3次等8秒
                           wait_time = 2 ** (attempt + 1)
-                          print('    [WARN] 429限流，等待' + str(wait_time) + '秒后重试... (第' + str(attempt+1) + '次)')
+                          body_hint = response.text[:200].replace('\n', ' ')
+                          print('    [WARN] 429限流，等待' + str(wait_time) + '秒后重试... (第' + str(attempt+1) + '次) 响应: ' + body_hint)
                           time.sleep(wait_time)
                           continue  # 继续下一次重试
                       else:
-                          print('    [ERR] API失败: ' + str(response.status_code))
+                          body_hint = response.text[:200].replace('\n', ' ')
+                          print('    [ERR] API失败: ' + str(response.status_code) + ' 响应: ' + body_hint)
                           return None
                           
                   except Exception as e:
