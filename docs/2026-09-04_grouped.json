@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-04",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX pursues confidential IPO in March following xAI merger, aiming for a $1.75T valuation - Phoenix Strategy Group",
+          "link": "https://www.phoenixstrategy.group/blog/spacex-confidential-ipo-following-xai-merger",
+          "snippet": "The company's proposed valuation follows its recent acquisition of xAI, Musk’s a...",
+          "index": 1
+        },
+        {
+          "title": "SpaceX xAI Merger Valued at $1.25 Trillion Ahead of Mega IPO - Inspirepreneur Magazine",
+          "link": "https://inspirepreneurmagazine.com/technology/spacex-xai-merger-1-25-trillion-mega-ipo",
+          "snippet": "Elon Musk’s SpaceX is set to merge with artificial intelligence startup xAI in a...",
+          "index": 2
+        },
+        {
+          "title": "The Business of AI: Understanding Funding Rounds and Valuation in Artificial Intelligence",
+          "link": "http://www.aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "Title: The Business of AI: Understanding Funding Rounds and Valuation in Artific...",
+          "index": 3
+        },
+        {
+          "title": "The Business of AI: Understanding Funding Rounds and Valuation in Artificial Intelligence",
+          "link": "https://aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "Title: The Business of AI: Understanding Funding Rounds and Valuation in Artific...",
+          "index": 4
+        },
+        {
+          "title": "Elon Musk xAI Merger 2026: Complete $250B Deal Breakdown - Artificial Intelligence World",
+          "link": "https://justoborn.com/elon-musk-xai-merger",
+          "snippet": "The merger combines SpaceX’s Starlink satellite network, rocket reusability, and...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "FutureSight hiring Co-Founder & CEO - AI RIA Compliance • Remote (Work from Home) | Himalayas",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-ria-compliance-400032005",
+          "snippet": "# Co-Founder & CEO - AI RIA Compliance. FutureSight is hiring an experienced and...",
+          "index": 6
+        },
+        {
+          "title": "Hire William Tunstall-Pedoe | Booking Agent",
+          "link": "https://speakout.uk/speaker/william-tunstall-pedoe",
+          "snippet": "William Tunstall-Pedo is a leading figure in artificial intelligence and technol...",
+          "index": 7
+        },
+        {
+          "title": "FutureSight hiring Co-Founder & CEO - AI Reverse Logistics • Remote (Work from Home) | Himalayas",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-reverse-logistics",
+          "snippet": "# Co-Founder & CEO - AI Reverse Logistics. FutureSight is seeking an experienced...",
+          "index": 8
+        },
+        {
+          "title": "FutureSight hiring Co-Founder & CEO - AI WealthTech • Remote (Work from Home) | Himalayas",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-wealthtech-5556690189",
+          "snippet": "# Co-Founder & CEO - AI WealthTech. FutureSight is hiring an experienced and vis...",
+          "index": 9
+        },
+        {
+          "title": "Co-Founder & CEO – AI Freight & Supply Chain at FutureSight",
+          "link": "https://remoterocketship.com/company/futuresight/jobs/co-founder-ceo-ai-freight-supply-chain-united-states-remote",
+          "snippet": "Title: Co-Founder & CEO – AI Freight & Supply Chain at FutureSight\nVenture Capit...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
