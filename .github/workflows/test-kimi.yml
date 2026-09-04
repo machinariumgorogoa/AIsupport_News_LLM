@@ -30,7 +30,7 @@ jobs:
                       'Content-Type': 'application/json'
                   },
                   json={
-                      'model': 'kimi-k2.5',
+                      'model': 'kimi-k2.6',
                       'messages': [{'role': 'user', 'content': '你好，请回复"测试成功"四个字'}],
                       'temperature': 1,
                       'max_tokens': 500

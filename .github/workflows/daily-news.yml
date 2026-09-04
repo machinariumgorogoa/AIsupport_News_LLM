@@ -71,7 +71,7 @@ jobs:
                       response = requests.post(
                           'https://api.moonshot.cn/v1/chat/completions',
                           headers={'Authorization': 'Bearer ' + KIMI_API_KEY, 'Content-Type': 'application/json'},
-                          json={'model': 'kimi-k2.5', 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1, 'max_tokens': max_tokens},
+                          json={'model': 'kimi-k2.6', 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1, 'max_tokens': max_tokens},
                           timeout=300
                       )
                       
@@ -96,6 +96,16 @@ jobs:
               # 3次都失败了
               print('    [ERR] 重试3次后仍失败，放弃')
               return None
+
+          def notify_serverchan(title, desp):
+              try:
+                  if not SERVERCHAN_KEY:
+                      return
+                  url = 'https://sctapi.ftqq.com/' + SERVERCHAN_KEY + '.send'
+                  requests.post(url, data={'text': title, 'desp': desp}, timeout=15)
+                  print('  [OK] ServerChan 告警已发送')
+              except Exception as e:
+                  print('  [WARN] ServerChan 发送失败: ' + str(e))
 
           # Fallback提示词
           FALLBACK_DEDUP = '分析以下新闻，去除重复报道同一事件的条目，保留{target}条：\n{titles}\n返回序号，如1,3,5'
@@ -237,7 +247,14 @@ jobs:
                                   item['snippet'] = parts[1].replace(']', '').strip()[:100]
               else:
                   print('翻译失败，保留原文')
-          
+                  notify_serverchan('AI早报翻译失败', 'Kimi 翻译返回空，新闻将以英文原文发送。请检查 KIMI_API_KEY 与模型可用性（kimi-k2.5 已于 2026-08-31 下线）。')
+
+          # 检查是否仍有未翻译的英文条目（全失败或部分失败都告警）
+          still_en = [item for item in non_zh_items if not is_chinese(item.get('title', ''))]
+          if still_en:
+              print('  [WARN] 仍有 ' + str(len(still_en)) + ' 条未翻译为中文')
+              notify_serverchan('AI早报：' + str(len(still_en)) + ' 条新闻未翻译', '以下新闻仍以英文发送，请排查 Kimi API：\n' + '\n'.join([i['title'][:40] for i in still_en[:5]]))
+
           translated_items = deduped_items
           print('翻译完成: ' + str(len(translated_items)) + ' 条')
 

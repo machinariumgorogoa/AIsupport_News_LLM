@@ -54,7 +54,7 @@ jobs:
                           'Content-Type': 'application/json'
                       },
                       json={
-                          'model': 'kimi-k2.5',
+                          'model': 'kimi-k2.6',
                           'messages': [{'role': 'user', 'content': prompt}],
                           'temperature': 1,
                           'max_tokens': max_tokens

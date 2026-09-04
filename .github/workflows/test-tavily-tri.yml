@@ -35,7 +35,7 @@ jobs:
                           'Content-Type': 'application/json'
                       },
                       json={
-                          'model': 'kimi-k2.5',
+                          'model': 'kimi-k2.6',
                           'messages': [{
                               'role': 'user', 
                               'content': f'将以下英文AI新闻标题和摘要翻译成中文，保持专业术语准确性，直接返回翻译结果：\n\n{text}'
