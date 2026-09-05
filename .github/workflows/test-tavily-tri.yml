@@ -26,7 +26,7 @@ jobs:
           KIMI_CODE_API_KEY = os.environ['KIMI_CODE_API_KEY']
           os.makedirs('test', exist_ok=True)
 
-          def call_kimi_translate(text, max_tokens=500):
+          def call_kimi_translate(text, max_tokens=4000):
               try:
                   response = requests.post(
                       'https://api.kimi.com/coding/v1/chat/completions',
@@ -108,7 +108,7 @@ jobs:
           results3 = []
           for i, item in enumerate(results3_raw, 1):
               original = f"标题: {item['title']}\n摘要: {item.get('content', '')[:100]}"
-              translated = call_kimi_translate(original, max_tokens=500)
+              translated = call_kimi_translate(original, max_tokens=4000)
               
               # 解析翻译结果
               title_match = re.search(r'标题[：:]\s*(.+?)(?:\n|$)', translated)

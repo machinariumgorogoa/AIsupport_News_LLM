@@ -36,7 +36,7 @@ jobs:
               """简单检测是否包含中文字符"""
               return bool(re.search(r'[\u4e00-\u9fff]', text))
           
-          def translate_item(title, content, max_tokens=800):
+          def translate_item(title, content, max_tokens=4000):
               """调用Kimi翻译标题和摘要"""
               try:
                   prompt = f"""将以下AI新闻翻译成中文，保持专业术语准确（如IPO、融资、CTO等不翻译）：
