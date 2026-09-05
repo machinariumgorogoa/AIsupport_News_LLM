@@ -13,7 +13,7 @@ jobs:
       - name: Test Tavily + TechCrunch + Translation
         env:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+          KIMI_CODE_API_KEY: ${{ secrets.KIMI_CODE_API_KEY }}
         run: |
           pip install requests
           python << 'EOF'
@@ -23,19 +23,19 @@ jobs:
           import re
           
           TAVILY_API_KEY = os.environ['TAVILY_API_KEY']
-          KIMI_API_KEY = os.environ['KIMI_API_KEY']
+          KIMI_CODE_API_KEY = os.environ['KIMI_CODE_API_KEY']
           os.makedirs('test', exist_ok=True)
 
           def call_kimi_translate(text, max_tokens=500):
               try:
                   response = requests.post(
-                      'https://api.moonshot.cn/v1/chat/completions',
+                      'https://api.kimi.com/coding/v1/chat/completions',
                       headers={
-                          'Authorization': f'Bearer {KIMI_API_KEY}',
+                          'Authorization': f'Bearer {KIMI_CODE_API_KEY}',
                           'Content-Type': 'application/json'
                       },
                       json={
-                          'model': 'kimi-k2.6',
+                          'model': 'kimi-for-coding-highspeed',
                           'messages': [{
                               'role': 'user', 
                               'content': f'将以下英文AI新闻标题和摘要翻译成中文，保持专业术语准确性，直接返回翻译结果：\n\n{text}'

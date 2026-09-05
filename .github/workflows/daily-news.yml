@@ -27,7 +27,7 @@ jobs:
           FEISHU_WEBHOOK_2: ${{ secrets.FEISHU_NEWS_LLM_2 }}
           SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+          KIMI_CODE_API_KEY: ${{ secrets.KIMI_CODE_API_KEY }}
         run: |
           python << 'EOF'
           import os
@@ -40,7 +40,7 @@ jobs:
           FEISHU_WEBHOOK_2 = os.environ['FEISHU_WEBHOOK_2']
           SERVERCHAN_KEY = os.environ['SERVERCHAN_KEY']
           TAVILY_API_KEY = os.environ['TAVILY_API_KEY']
-          KIMI_API_KEY = os.environ['KIMI_API_KEY']
+          KIMI_CODE_API_KEY = os.environ['KIMI_CODE_API_KEY']
 
           date_str = (datetime.now() + timedelta(hours=8)).strftime('%Y-%m-%d')
           LOW_QUALITY_DOMAINS = ['instagram.com', 'facebook.com', 'linkedin.com', 'workable.com', 'threads.com']
@@ -69,9 +69,9 @@ jobs:
               for attempt in range(max_retries):
                   try:
                       response = requests.post(
-                          'https://api.moonshot.cn/v1/chat/completions',
-                          headers={'Authorization': 'Bearer ' + KIMI_API_KEY, 'Content-Type': 'application/json'},
-                          json={'model': 'kimi-k2.6', 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1, 'max_tokens': max_tokens},
+                          'https://api.kimi.com/coding/v1/chat/completions',
+                          headers={'Authorization': 'Bearer ' + KIMI_CODE_API_KEY, 'Content-Type': 'application/json'},
+                          json={'model': 'kimi-for-coding-highspeed', 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1, 'max_tokens': max_tokens},
                           timeout=300
                       )
                       
@@ -249,7 +249,7 @@ jobs:
                                   item['snippet'] = parts[1].replace(']', '').strip()[:100]
               else:
                   print('翻译失败，保留原文')
-                  notify_serverchan('AI早报翻译失败', 'Kimi 翻译返回空，新闻将以英文原文发送。请检查 KIMI_API_KEY 与模型可用性（kimi-k2.5 已于 2026-08-31 下线）。')
+                  notify_serverchan('AI早报翻译失败', 'Kimi 翻译返回空，新闻将以英文原文发送。请检查 KIMI_CODE_API_KEY（Kimi Code 控制台创建）与会员额度。')
 
           # 检查是否仍有未翻译的英文条目（全失败或部分失败都告警）
           still_en = [item for item in non_zh_items if not is_chinese(item.get('title', ''))]

@@ -12,7 +12,7 @@ jobs:
       
       - name: Test Kimi API
         env:
-          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+          KIMI_CODE_API_KEY: ${{ secrets.KIMI_CODE_API_KEY }}
         run: |
           pip install requests
           python << 'EOF'
@@ -20,17 +20,17 @@ jobs:
           import requests
           import json
 
-          key = os.environ['KIMI_API_KEY']
+          key = os.environ['KIMI_CODE_API_KEY']
           
           try:
               response = requests.post(
-                  'https://api.moonshot.cn/v1/chat/completions',
+                  'https://api.kimi.com/coding/v1/chat/completions',
                   headers={
                       'Authorization': f'Bearer {key}',
                       'Content-Type': 'application/json'
                   },
                   json={
-                      'model': 'kimi-k2.6',
+                      'model': 'kimi-for-coding-highspeed',
                       'messages': [{'role': 'user', 'content': '你好，请回复"测试成功"四个字'}],
                       'temperature': 1,
                       'max_tokens': 500

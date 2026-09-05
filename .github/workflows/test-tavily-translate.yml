@@ -13,7 +13,7 @@ jobs:
       - name: Test Dual Search + Translation
         env:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+          KIMI_CODE_API_KEY: ${{ secrets.KIMI_CODE_API_KEY }}
         run: |
           pip install requests
           python << 'EOF'
@@ -23,7 +23,7 @@ jobs:
           import re
           
           TAVILY_API_KEY = os.environ['TAVILY_API_KEY']
-          KIMI_API_KEY = os.environ['KIMI_API_KEY']
+          KIMI_CODE_API_KEY = os.environ['KIMI_CODE_API_KEY']
           os.makedirs('test', exist_ok=True)
           
           # 低质量域名过滤
@@ -48,13 +48,13 @@ jobs:
           摘要：[中文摘要]"""
                   
                   response = requests.post(
-                      'https://api.moonshot.cn/v1/chat/completions',
+                      'https://api.kimi.com/coding/v1/chat/completions',
                       headers={
-                          'Authorization': f'Bearer {KIMI_API_KEY}',
+                          'Authorization': f'Bearer {KIMI_CODE_API_KEY}',
                           'Content-Type': 'application/json'
                       },
                       json={
-                          'model': 'kimi-k2.6',
+                          'model': 'kimi-for-coding-highspeed',
                           'messages': [{'role': 'user', 'content': prompt}],
                           'temperature': 1,
                           'max_tokens': max_tokens
