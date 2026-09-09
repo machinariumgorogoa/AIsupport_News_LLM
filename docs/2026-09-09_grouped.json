@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-09",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX与xAI合并估值达1.25万亿美元，临近Mega IPO",
+          "link": "https://inspirepreneurmagazine.com/technology/spacex-xai-merger-1-25-trillion-mega-ipo",
+          "snippet": "SpaceX与xAI合并后估值达1.25万亿美元，正筹备Mega IPO，市场关注其未来融资规模与前景。",
+          "index": 1
+        },
+        {
+          "title": "SpaceX拟在xAI合并后3月启动保密IPO，目标估值1.75万亿美元",
+          "link": "https://www.phoenixstrategy.group/blog/spacex-confidential-ipo-following-xai-merger",
+          "snippet": "继合并xAI后，SpaceX计划3月进行保密IPO，目标估值1.75万亿美元，引发投资者热议。",
+          "index": 2
+        },
+        {
+          "title": "收购协议、合并协议与人工智能",
+          "link": "https://jdsupra.com/topics/acquisition-agreements/merger-agreements/artificial-intelligence",
+          "snippet": "JD Supra发布AI领域并购协议法律分析，涵盖收购与合并条款及合规要点。",
+          "index": 3
+        },
+        {
+          "title": "AI商业：理解人工智能融资轮与估值",
+          "link": "http://www.aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "文章解析AI企业融资轮次、估值方法及投资趋势，帮助读者把握行业动态与机会。",
+          "index": 4
+        },
+        {
+          "title": "AI商业：理解人工智能融资轮与估值",
+          "link": "https://aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "文章解析AI企业融资轮次、估值方法及投资趋势，帮助读者把握行业动态与机会。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "FutureSight招聘AI RIA合规联合创始人兼CEO（远程）",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-ria-compliance-400032005",
+          "snippet": "FutureSight远程招聘联合创始人兼CEO，负责AI驱动的RIA合规业务，推动自动化合规方案。",
+          "index": 6
+        },
+        {
+          "title": "聘请AI专家William Tunstall-Pedoe（演讲经纪）",
+          "link": "https://speakout.uk/speaker/william-tunstall-pedoe",
+          "snippet": "William Tunstall-Pedoe是人工智能领域知名人物，现可通过经纪人预约演讲或商业合作。",
+          "index": 7
+        },
+        {
+          "title": "FutureSight招聘AI逆向物流联合创始人兼CEO（远程）",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-reverse-logistics",
+          "snippet": "FutureSight远程招聘联合创始人兼CEO，专注AI逆向物流业务，推动供应链自动化升级。",
+          "index": 8
+        },
+        {
+          "title": "FutureSight招聘AI WealthTech联合创始人兼CEO（远程）",
+          "link": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-wealthtech-5556690189",
+          "snippet": "FutureSight远程招聘联合创始人兼CEO，负责AI驱动WealthTech业务，推动财富管理智能化。",
+          "index": 9
+        },
+        {
+          "title": "印度初创E42推出企业可雇用AI员工的市场平台",
+          "link": "https://www.telegraphindia.com/business/startup-e42-creates-marketplace-for-companies-to-hire-artificial-intelligence-workers/cid/1866400",
+          "snippet": "E42发布AI员工市场，企业可按需雇佣AI完成工作，CEO在发布会上介绍其商业模式。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
