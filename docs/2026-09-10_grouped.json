@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-10",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Finch完成战略合并以构建AI",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358323/0/en/finch-completes-strategic-merger-to-build-ai-commercialization-infrastructure-simultaneously-announces-close-of-pre-a-funding-round.html",
+          "snippet": "Finch宣布完成战略合并，并同步完成新一轮融资，用于加速AI研发与能力建设。",
+          "index": 1
+        },
+        {
+          "title": "OpenAI完成新一轮融资",
+          "link": "https://en.wikipedia.org/wiki/OpenAI",
+          "snippet": "OpenAI完成最新融资，投后估值进一步提升，持续巩固其在全球AI领域的领先地位。",
+          "index": 2
+        },
+        {
+          "title": "Anthropic完成G轮融资",
+          "link": "https://en.wikipedia.org/wiki/Anthropic",
+          "snippet": "Anthropic完成G轮融资，筹集300亿美元，公司估值大幅跃升，强化大模型研发竞争力。",
+          "index": 3
+        },
+        {
+          "title": "DeepSeek拟上海IPO，潜在估值750亿美元",
+          "link": "https://www.hokanews.com/2026/09/deepseek-eyes-shanghai-ipo-at-potential.html",
+          "snippet": "DeepSeek考虑在上海IPO，潜在估值达750亿美元，顺应中国企业上市与AI资本化浪潮。",
+          "index": 4
+        },
+        {
+          "title": "SpaceX与xAI合并解析：1.25万亿美元交易（2026）",
+          "link": "https://techjournal.org/spacex-xai-merger",
+          "snippet": "SpaceX与xAI合并主要为AI公司提供资金，支持其重型基础设施建设及前沿模型研发。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": []
+    }
+  ]
+}
