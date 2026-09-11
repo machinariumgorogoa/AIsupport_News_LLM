@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-11",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI商业：理解人工智能融资轮次与估值",
+          "link": "http://www.aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "[介绍AI企业融资轮次、估值方法及投资逻辑，帮助读者理解人工智能行业的资本运作、商业模式与成长趋势，提供参考。]",
+          "index": 1
+        },
+        {
+          "title": "SpaceX拟在IPO前与xAI洽谈合并",
+          "link": "https://inspirepreneurmagazine.com/world/america/spacex-xai-merger-talks-reuters-ipo",
+          "snippet": "[SpaceX据称正与马斯克旗下xAI洽谈合并，为计划中的首次公开募股（IPO）做准备，引发市场广泛关注。]",
+          "index": 2
+        },
+        {
+          "title": "nFlux AI 2026公司概况：估值、投资者与并购",
+          "link": "https://pitchbook.com/profiles/company/277527-79",
+          "snippet": "[PitchBook资料显示，nFlux AI最新交易为与KA的并购/收购，文章梳理其估值、投资方与交易动态。]",
+          "index": 3
+        },
+        {
+          "title": "Semantix股价、融资、估值、营收与财务报表",
+          "link": "https://www.cbinsights.com/company/semantix1/financials",
+          "snippet": "[汇总Semantix的股价表现、融资历程、估值水平、营收及财务数据，为投资者和技术厂商研究提供参考。]",
+          "index": 4
+        },
+        {
+          "title": "智谱AI完成1.4亿美元融资，累计融资15亿美元",
+          "link": "https://www.caproasia.com/2025/07/04/china-artificial-intelligence-startup-zhipu-ai-raised-140-million-in-latest-funding-round-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8",
+          "snippet": "[智谱AI预披露IPO后完成1.4亿美元融资，累计融资15亿美元，2023年估值28亿美元，投资方含阿里、腾讯、红杉、沙特阿美等。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "E42创建AI劳动力雇佣市场",
+          "link": "https://www.telegraphindia.com/business/startup-e42-creates-marketplace-for-companies-to-hire-artificial-intelligence-workers/cid/1866400",
+          "snippet": "[印度初创E42推出企业可雇佣AI“员工”的市场平台，公司CEO在发布会上介绍了业务模式与发展前景。]",
+          "index": 6
+        },
+        {
+          "title": "Revolut创始人拟推出AI驱动的风投基金",
+          "link": "https://tynmagazine.com/revolut-founder-set-to-launch-venture-capital-fund-powered-by-artificial-intelligence",
+          "snippet": "[Revolut创始人计划设立由人工智能驱动的风险投资基金，用于筛选项目、辅助投资决策，拓展金融科技投资布局。]",
+          "index": 7
+        },
+        {
+          "title": "自主AI公司创始人/CEO接受Formula Financiera采访",
+          "link": "https://www.algotive.ai/newsroom/archive/tag/autonomous-artificial-intelligence",
+          "snippet": "[自主AI公司创始人兼CEO接受采访，介绍了企业在自主人工智能领域的发展战略、市场展望与未来布局。]",
+          "index": 8
+        },
+        {
+          "title": "Salesforce CEO：将为AI产品销售招聘2000人",
+          "link": "https://www.cryptopolitan.com/salesforce-to-hire-2000-for-ai-product-sale",
+          "snippet": "[Salesforce首席执行官表示，公司将招聘约2000名员工，专注于AI产品的销售与推广，以加速企业AI业务增长。]",
+          "index": 9
+        },
+        {
+          "title": "NEAR将招聘人工智能工程师以推进AI路线图",
+          "link": "https://coindesk.com/business/2024/04/10/near-to-hire-artificial-intelligence-engineers-as-part-of-ai-roadmap",
+          "snippet": "[NEAR宣布招聘AI工程师，作为其AI路线图的一部分，旨在将人工智能技术融入区块链生态，提升产品与开发能力。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
