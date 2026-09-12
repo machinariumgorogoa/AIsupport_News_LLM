@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-12",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX与xAI合并估值达1.25万亿美元，备战Mega IPO",
+          "link": "https://inspirepreneurmagazine.com/technology/spacex-xai-merger-1-25-trillion-mega-ipo",
+          "snippet": "[埃隆·马斯克的SpaceX将与人工智能公司xAI合并，合并估值高达1.25万亿美元，并计划进行大规模IPO。]",
+          "index": 1
+        },
+        {
+          "title": "OpenAI IPO？Grok-SpaceX合并？AI IPO竞赛升温",
+          "link": "https://pod.wave.co/podcast/the-ai-daily-brief-formerly-the-ai-breakdown-artificial-intelligence-news-and-analysis/openai-ipo-grok-spacex-merger-the-ai-ipo-race-heats-up",
+          "snippet": "[AI IPO赛道升温，OpenAI、Grok与SpaceX合并传闻引发市场关注，相关融资规模或达200亿美元。]",
+          "index": 2
+        },
+        {
+          "title": "智谱AI完成1.4亿美元融资，IPO前估值28亿美元，阿里腾讯等参投",
+          "link": "https://www.caproasia.com/2025/07/04/china-artificial-intelligence-startup-zhipu-ai-raised-140-million-in-latest-funding-round-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8",
+          "snippet": "[中国AI初创智谱AI完成1.4亿美元融资，累计融资15亿美元，估值28亿美元，阿里、腾讯等为投资方，唐杰持股。]",
+          "index": 3
+        },
+        {
+          "title": "Semantix股价、融资与财务数据：Alation聚焦数据治理与AI",
+          "link": "https://www.cbinsights.com/company/semantix1/financials",
+          "snippet": "[Alation专注数据治理与人工智能，报告涵盖Semantix股价、融资、估值、收入及财务报表等核心指标。]",
+          "index": 4
+        },
+        {
+          "title": "nFlux AI 2026年公司概况：估值、投资者与收购动态",
+          "link": "https://pitchbook.com/profiles/company/277527-79",
+          "snippet": "[PitchBook资料显示，nFlux AI 2026年公司概况涵盖估值、主要投资者及潜在收购动态，并回顾其累计融资历程。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "El-Sayed回应人工智能相关问题",
+          "link": "https://www.c-span.org/clip/campaign-2026/el-sayed-responds-to-question-about-artificial-intelligence/5206170",
+          "snippet": "[C-SPAN视频中，El-Sayed就人工智能议题回答提问，节目页面同时提供相关书籍与网络资源链接。]",
+          "index": 6
+        }
+      ]
+    }
+  ]
+}
