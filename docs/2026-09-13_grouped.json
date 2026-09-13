@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-13",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX与xAI合并估值达1.25万亿美元，巨型IPO在即",
+          "link": "https://inspirepreneurmagazine.com/technology/spacex-xai-merger-1-25-trillion-mega-ipo",
+          "snippet": "马斯克旗下SpaceX将与人工智能公司xAI合并，合并估值达1.25万亿美元，为潜在巨型IPO铺路。",
+          "index": 1
+        },
+        {
+          "title": "OpenAI IPO？Grok与SpaceX合并？AI IPO竞赛升温",
+          "link": "https://pod.wave.co/podcast/the-ai-daily-brief-formerly-the-ai-breakdown-artificial-intelligence-news-and-analysis/openai-ipo-grok-spacex-merger-the-ai-ipo-race-heats-up",
+          "snippet": "OpenAI上市及Grok与SpaceX合并传闻频传，AI企业IPO竞赛持续升温，市场关注其融资与估值。",
+          "index": 2
+        },
+        {
+          "title": "智谱AI新一轮融资1.4亿美元，累计融资15亿美元",
+          "link": "https://www.caproasia.com/2025/07/04/china-artificial-intelligence-startup-zhipu-ai-raised-140-million-in-latest-funding-round-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8",
+          "snippet": "智谱AI于2025年4月预备案IPO后完成1.4亿美元新融资，累计15亿美元，2023年估值28亿美元，获阿里、腾讯等投资。",
+          "index": 3
+        },
+        {
+          "title": "印度太空数据公司Pixxel获新一轮融资",
+          "link": "https://www.cbinsights.com/company/semantix1/financials",
+          "snippet": "印度太空数据公司Pixxel宣布获得新一轮融资，原文未披露具体金额，将继续拓展卫星数据业务。",
+          "index": 4
+        },
+        {
+          "title": "nFlux AI 2026公司简介：估值、投资者与收购",
+          "link": "https://pitchbook.com/profiles/company/277527-79",
+          "snippet": "PitchBook发布的nFlux AI 2026公司简介涵盖其估值、投资者、收购动态及历年融资情况。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "FutureSight招聘联合创始人兼CEO，聚焦AI内容智能",
+          "link": "https://wellfound.com/jobs/4710026-co-founder-ceo-ai-content-intelligence-for-professional-services",
+          "snippet": "FutureSight招募联合创始人兼CEO，打造面向专业服务行业的AI内容智能平台，负责战略与商业化。",
+          "index": 6
+        },
+        {
+          "title": "BeBee招聘创始CTO/AI工程师，主导IRIS OS",
+          "link": "https://bebee.com/gb/jobs/founding-cto-ai-engineer-iris-os-london--t7xk-839419770",
+          "snippet": "BeBee招聘创始CTO/AI工程师，主导IRIS OS技术架构搭建与早期工程团队建设。",
+          "index": 7
+        },
+        {
+          "title": "Hims & Hers招聘AI产品经理",
+          "link": "https://www.welcometothejungle.com/en/companies/hims-hers/jobs/product-manager-artificial-intelligence_us_w3rzuwdn",
+          "snippet": "Hims & Hers招聘远程AI产品经理，年薪14–18万美元，要求3年以上相关经验。",
+          "index": 8
+        },
+        {
+          "title": "Anthropic CEO呼吁立即放缓AI发展",
+          "link": "https://www.politico.com/news/2026/09/12/anthropic-ceo-dario-amodei-seeks-immediate-slowdown-artificial-intelligence-01073519",
+          "snippet": "Anthropic首席执行官呼吁立即放缓AI发展步伐，报道涉及人工智能与Elon Musk等话题。",
+          "index": 9
+        },
+        {
+          "title": "Anthropic CEO：“必须放慢节奏”，呼吁AI减速",
+          "link": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
+          "snippet": "Anthropic首席执行官呼吁放慢AI发展节奏，引发业界对人工智能安全与监管的关注。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
