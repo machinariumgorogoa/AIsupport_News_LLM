@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-14",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic 选择纳斯达克上市，目标 10 月挂牌",
+          "link": "https://x.com/marketsday/status/2099336068151808426",
+          "snippet": "该公司估值高企，计划今年 10 月在纳斯达克完成上市。",
+          "index": 1
+        },
+        {
+          "title": "OpenAI 排除 2026 年 IPO 可能，Sam Altman 优先推进 AI 安全工作",
+          "link": "https://pulse2.com/openai-rules-out-2026-ipo-as-sam-altman-prioritizes-ai-safety-work",
+          "snippet": "Altman 表示 OpenAI 暂无上市压力，更聚焦 AI 安全研究。",
+          "index": 2
+        },
+        {
+          "title": "Jaggaer 完成对 Ivoflow 的收购，为制造商提供 AI 驱动的直接材料支出与价格情报",
+          "link": "https://uk.finance.yahoo.com/news/jaggaer-completes-acquisition-ivoflow-bringing-053000261.html",
+          "snippet": "Ivoflow 软件利用 AI 自动核查，提升制造商采购与定价效率。",
+          "index": 3
+        },
+        {
+          "title": "Kyndryl 完成对 Healthcare IT Leaders 的收购",
+          "link": "https://www.kyndryl.com/br/pt/about-us/news/2026/09/acquisition-healthcare-it-leaders-llc-completed",
+          "snippet": "此次收购将加速医疗行业 AI 主导的现代化转型。",
+          "index": 4
+        },
+        {
+          "title": "改进 K-12 STEM 学习的 AI 研究获得资金加码",
+          "link": "https://www.unc.edu/posts/2026/09/14/ai-research-to-improve-k-12-stem-learning-gets-funding-boost",
+          "snippet": "NSF 续签五年 2000 万美元资助，支持 AI 改进 K-12 STEM 学习。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "FutureSight 招募联合创始人兼 CEO，专注专业服务的 AI 内容智能",
+          "link": "https://employmenthero.com/en-ca/jobs/position/careerbeacon-demo-co-founder-ceo-ai-content-intelligence-for-professional-services-cpeqh",
+          "snippet": "FutureSight 正招募联合创始人兼 CEO，推动面向专业服务的 AI 内容智能。",
+          "index": 6
+        },
+        {
+          "title": "Salesforce CEO 办公室产品战略岗位",
+          "link": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Product-Strategy---Office-of-the-CEO_JR360049",
+          "snippet": "Salesforce 运用 AI 工具优化客户关系管理，该岗位聚焦产品战略制定。",
+          "index": 7
+        },
+        {
+          "title": "如何成为 AI 产品经理：技能、薪资与职业路径",
+          "link": "https://www.hirist.tech/blog/how-to-become-ai-product-manager-skills-salary-career",
+          "snippet": "需掌握隐私、偏见、安全、保障与 Responsible AI 等核心能力。",
+          "index": 8
+        },
+        {
+          "title": "尽管 Sam Altman、Elon Musk 等 AI 企业 CEO 曾意见一致……",
+          "link": "https://www.tiktok.com/@cnn/video/7685170804946160909",
+          "snippet": "这些 AI 领袖在某些议题上达成共识，但在监管与发展方向上仍有分歧。",
+          "index": 9
+        },
+        {
+          "title": "Anthropic CEO 呼吁放缓 AI 开发",
+          "link": "https://www.cbc.ca/player/play/video/9.7342650",
+          "snippet": "科技公司与专家担忧 AI 风险，将其视为一记“警示信号”。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
