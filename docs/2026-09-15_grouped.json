@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-15",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX与xAI合并估值达1.25万亿美元，Mega IPO前夕引发关注",
+          "link": "https://inspirepreneurmagazine.com/technology/spacex-xai-merger-1-25-trillion-mega-ipo",
+          "snippet": "据外媒报道，SpaceX与xAI合并在Mega IPO前估值达1.25万亿美元，引发资本市场广泛关注。",
+          "index": 1
+        },
+        {
+          "title": "SpaceX 750亿美元IPO及600亿美元收购Cursor，释放大举进军AI信号",
+          "link": "https://www.kucoin.com/news/flash/spacex-s-75b-ipo-and-60b-cursor-acquisition-signal-major-ai-push",
+          "snippet": "SpaceX拟以750亿美元IPO融资，并斥资600亿美元收购Cursor，显示其正加速向AI转型。",
+          "index": 2
+        },
+        {
+          "title": "Southport Acquisition II申请2亿美元IPO，目标瞄准AI领域",
+          "link": "https://cryptobriefing.com/southport-acquisition-200m-ipo-ai",
+          "snippet": "SPAC公司Southport Acquisition II已向SEC提交2亿美元IPO申请，目标瞄准AI领域并购机会。",
+          "index": 3
+        },
+        {
+          "title": "SpaceX拟在IPO前与xAI洽谈合并，整合航天与AI资产",
+          "link": "https://inspirepreneurmagazine.com/world/america/spacex-xai-merger-talks-reuters-ipo",
+          "snippet": "SpaceX在筹划IPO之际与xAI展开合并谈判，意在整合航天与AI资产以提升上市估值。",
+          "index": 4
+        },
+        {
+          "title": "AI的商业逻辑：解析人工智能融资轮次与估值方法",
+          "link": "http://www.aifirstpartners.com/blogs/ai-funding-valuation-business",
+          "snippet": "本文系统解析AI创业公司的种子轮到后期融资特点，以及估值方法与资本市场定价逻辑。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Fireflies将推新品并制定印度专属定价策略：CEO",
+          "link": "https://www.business-standard.com/technology/artificial-intelligence/fireflies-to-launch-new-products-plans-india-specific-pricing-ceo-126082500909_1.html",
+          "snippet": "AI会议助手Fireflies将发布新产品，并针对印度市场推出本地化定价策略，CEO表示。",
+          "index": 6
+        },
+        {
+          "title": "Revolut创始人拟推出AI驱动的风险投资基金",
+          "link": "https://tynmagazine.com/revolut-founder-set-to-launch-venture-capital-fund-powered-by-artificial-intelligence",
+          "snippet": "Revolut创始人拟设立一只由AI驱动的风险投资基金，用于筛选并投资全球科技创业企业。",
+          "index": 7
+        },
+        {
+          "title": "初创公司E42打造AI劳动力市场，供企业雇佣数字员工",
+          "link": "https://www.telegraphindia.com/business/startup-e42-creates-marketplace-for-companies-to-hire-artificial-intelligence-workers/cid/1866400",
+          "snippet": "印度初创公司E42打造AI员工雇佣市场，使企业可按需招聘数字员工并优化业务流程。",
+          "index": 8
+        },
+        {
+          "title": "Salesforce CEO：将为AI产品销售招聘2000人",
+          "link": "https://www.cryptopolitan.com/salesforce-to-hire-2000-for-ai-product-sale",
+          "snippet": "Salesforce CEO表示，公司将招聘约2000名销售人员，专门负责推广和销售其AI产品。",
+          "index": 9
+        },
+        {
+          "title": "NEAR将招聘AI工程师，推进AI路线图落地",
+          "link": "https://coindesk.com/business/2024/04/10/near-to-hire-artificial-intelligence-engineers-as-part-of-ai-roadmap",
+          "snippet": "区块链平台NEAR将招聘AI工程师，作为其AI路线图的一部分，推动链上智能应用生态建设。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
