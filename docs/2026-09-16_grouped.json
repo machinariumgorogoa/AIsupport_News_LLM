@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-16",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "SpaceX与xAI合并估值达1.25万亿美元，拟推进巨型IPO",
+          "link": "https://inspirepreneurmagazine.com/technology/spacex-xai-merger-1-25-trillion-mega-ipo",
+          "snippet": "马斯克旗下SpaceX与xAI合并，交易估值高达1.25万亿美元，计划借巨型IPO登陆资本市场。",
+          "index": 1
+        },
+        {
+          "title": "Southport Acquisition II申请2亿美元IPO，瞄准AI领域",
+          "link": "https://cryptobriefing.com/southport-acquisition-200m-ipo-ai",
+          "snippet": "Southport Acquisition II通过SPAC申请2亿美元IPO，专注并购人工智能领域的目标企业。",
+          "index": 2
+        },
+        {
+          "title": "SpaceX收购AI编程初创Cursor，交易达600亿美元，上市后估值突破2.7万亿美元",
+          "link": "https://theaiinsider.tech/2026/06/16/spacex-acquires-ai-coding-startup-cursor-for-60b-as-post-ipo-valuation-surges-past-2-7t",
+          "snippet": "SpaceX以600亿美元估值收购AI编程初创Cursor，上市后整体估值预计突破2.7万亿美元。",
+          "index": 3
+        },
+        {
+          "title": "Mistral AI与OpenAI：IPO时间表、估值及融资对比（2026）",
+          "link": "https://www.techstackipo.com/compare/mistral-ai-vs-openai",
+          "snippet": "对比Mistral AI与OpenAI的IPO计划、估值及融资规模，Mistral当前估值达350亿美元。",
+          "index": 4
+        },
+        {
+          "title": "英国金融基础设施公司OpenPayd宣布通过SPAC与Titan Acquisition Corp合并登陆纳斯达克",
+          "link": "https://www.caproasia.com/2026/06/02/uk-financial-infrastructure-company-openpayd-announced-nasdaq-spac-ipo-merger-with-titan-acquisition-corp-to-raise-276-million-at-1-1-billion-valuation-founded-in-2018-by-ozan-ozerk",
+          "snippet": "OpenPayd通过与Titan Acquisition Corp的SPAC合并登陆纳斯达克，募资2.76亿美元，估值11亿美元。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI正在改变生物科技公司的人才招聘竞争",
+          "link": "https://www.biospace.com/job-trends/ai-is-changing-the-talent-biotech-companies-compete-to-hire",
+          "snippet": "人工智能重塑生物科技企业人才竞争格局，各公司竞相招募具备AI技能的专业人才。",
+          "index": 6
+        },
+        {
+          "title": "当人工智能让每个人都成为软件开发者",
+          "link": "https://www.independentagent.com/vu_resource/when-artificial-intelligence-makes-everyone-a-software-developer-the-agencys-errors-omissions-exposures-change",
+          "snippet": "AI降低软件开发门槛，保险代理等非技术人员也能识别系统缺口并自主开发应用。",
+          "index": 7
+        },
+        {
+          "title": "Merge推出MergeIQ™：赋能智能应用的AI层",
+          "link": "https://www.merative.com/newsroom/merge-launches-mergeiq-ai-enterprise-imaging-platform",
+          "snippet": "Merge发布AI层MergeIQ，将人工智能能力深度整合至全线解决方案以提升智能化水平。",
+          "index": 8
+        },
+        {
+          "title": "Prophix CEO如何帮助CFO从“AI好奇”走向“AI自信”",
+          "link": "https://www.cfodive.com/news/prophix-ceo-approaches-curious-ai-confident-cfo/830457",
+          "snippet": "Prophix首席执行官分享方法论，引导财务高管从对AI好奇走向自信应用AI工具。",
+          "index": 9
+        },
+        {
+          "title": "Lectra发布Apogy：首款嵌入Agentic AI的解决方案",
+          "link": "https://www.lectra.com/sites/default/files/2026-09/Lectra%20unveils%20Apogy%20the%20first%20solution%20embedding%20agentic%20artificial%20intelligence%20to%20reinvent%20fashion%20product%20development%20%281%29%20%281%29.pdf",
+          "snippet": "Lectra推出Apogy方案，首次将Agentic AI嵌入产品开发全流程，重塑行业创新模式。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
