@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-18",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Southport Acquisition II 申请 2 亿美元 IPO，瞄准 AI 领域",
+          "link": "https://cryptobriefing.com/southport-acquisition-200m-ipo-ai",
+          "snippet": "此次 SPAC IPO 本质上是对管理团队的押注，而非针对具体 AI 资产。",
+          "index": 1
+        },
+        {
+          "title": "SpaceX 以 600 亿美元收购 AI 编程初创公司 Cursor，上市后估值突破 2.7 万亿美元",
+          "link": "https://theaiinsider.tech/2026/06/16/spacex-acquires-ai-coding-startup-cursor-for-60b-as-post-ipo-valuation-surges-past-2-7t",
+          "snippet": "这笔收购推动 SpaceX 上市后整体估值突破 2.7 万亿美元，并进一步布局 AI 编程赛道。",
+          "index": 2
+        },
+        {
+          "title": "Mistral AI 与 OpenAI：2026 年 IPO 时间表、估值与融资对比",
+          "link": "https://www.techstackipo.com/compare/mistral-ai-vs-openai",
+          "snippet": "该对比显示 Mistral AI 估值达 350 亿美元，OpenAI 在 IPO 时间线与估值规模上仍领先。",
+          "index": 3
+        },
+        {
+          "title": "SpaceX 在计划 IPO 前与 xAI 进行合并谈判",
+          "link": "https://inspirepreneurmagazine.com/world/america/spacex-xai-merger-talks-reuters-ipo",
+          "snippet": "近期私募市场对 SpaceX 估值约 8000 亿美元，其与 xAI 的合并谈判若达成，将为 IPO 铺平道路。",
+          "index": 4
+        },
+        {
+          "title": "OpenPayd 宣布与 Titan Acquisition Corp 的 SPAC 合并登陆纳斯达克，融资 2.76 亿美元，估值 11 亿美元",
+          "link": "https://www.caproasia.com/2026/06/02/uk-financial-infrastructure-company-openpayd-announced-nasdaq-spac-ipo-merger-with-titan-acquisition-corp-to-raise-276-million-at-1-1-billion-valuation-founded-in-2018-by-ozan-ozerk",
+          "snippet": "这家由 Ozan Ozerk 于 2018 年创立的英国金融基础设施公司将通过 SPAC 合并上市。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "利用 AI 驱动的 Amazon Connect 缩短优质候选人招聘时间",
+          "link": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent",
+          "snippet": "Amazon Connect 负责人 Kate 介绍，通过 AI 功能可显著缩短招聘周期并提升人才筛选效率。",
+          "index": 6
+        },
+        {
+          "title": "AI 时代，家族办公室真正需要招聘哪些角色？",
+          "link": "https://www.craincurrency.com/news/ccr-family-office-ai-hiring-governance-roles",
+          "snippet": "随着 AI 渗透，家族办公室应优先招聘数据科学家、技术专家与合规负责人等关键岗位，助力数字化转型。",
+          "index": 7
+        },
+        {
+          "title": "比尔·盖茨：我们现在对 AI 的选择至关重要",
+          "link": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+          "snippet": "盖茨认为应对 AI tokens 和机器人征税，以缓解自动化对就业与社会结构带来的长期冲击。",
+          "index": 8
+        },
+        {
+          "title": "国王与 AI：英国国王查尔斯会见人工智能领袖，安全问题引发热议",
+          "link": "https://apnews.com/article/britain-king-charles-ai-summit-0765bee1e338cf65846a046fb5825a4a",
+          "snippet": "Anthropic CEO Dario Amodei 此前曾警告 AI 安全风险，查尔斯国王此次会见多位行业领袖。",
+          "index": 9
+        },
+        {
+          "title": "为降低分娩死亡风险，肯尼亚产妇求助 AI 聊天机器人",
+          "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+          "snippet": "Jacaranda 最初雇佣护士逐一答疑，现通过 AI 聊天机器人扩大健康咨询覆盖，帮助更多产妇安全分娩。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
