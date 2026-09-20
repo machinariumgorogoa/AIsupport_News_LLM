@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-20",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "9650亿美元Anthropic、8520亿美元OpenAI——50余家AI估值排行",
+          "link": "https://valueaddvc.com/ai-valuations",
+          "snippet": "OpenAI完成1220亿美元融资，估值达8520亿美元；Anthropic估值达9650亿美元，榜单覆盖逾50家AI企业。",
+          "index": 1
+        },
+        {
+          "title": "AI融资追踪器——融资、收购与交易",
+          "link": "https://pricepertoken.com/news/funding",
+          "snippet": "该追踪器收录AI领域最新融资、并购与交易，例如Lyte完成1.65亿美元C轮融资，估值16亿美元。",
+          "index": 2
+        },
+        {
+          "title": "OpenAI——维基百科",
+          "link": "https://en.wikipedia.org/wiki/OpenAI",
+          "snippet": "词条介绍OpenAI及其AI编程代理，并提及2026年3月相关的重要进展或产品动态。",
+          "index": 3
+        },
+        {
+          "title": "AI巨额退出收窄风投赢家范围",
+          "link": "https://www.privatemarketsinsights.com/post/ai-mega-exits-narrow-venture-s-winners-to-a-handful-of-funds",
+          "snippet": "AI大规模退出事件令少数基金成为赢家；全球私有独角兽总价值约5.3万亿美元。",
+          "index": 4
+        },
+        {
+          "title": "Anthropic Names Accenture as Embedded AI Safety Evaluator",
+          "link": "https://easternherald.com/2026/09/20/anthropic-accenture-embedded-evaluator-safety-deal",
+          "snippet": "24 minutes ago - For outside observers, it makes ... planned November IPO. That context is hard to ignore. Anthropic is targeting a $2 trillion valuation at a moment when its safety commitments are under unusually sharp commercial",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Fireflies将推出新品并制定印度专属定价",
+          "link": "https://www.business-standard.com/technology/artificial-intelligence/fireflies-to-launch-new-products-plans-india-specific-pricing-ceo-126082500909_1.html",
+          "snippet": "Fireflies CEO表示将推出新产品并针对印度市场设定本地化价格，扩大AI服务覆盖。",
+          "index": 6
+        },
+        {
+          "title": "初创公司E42打造企业雇佣AI员工的市场",
+          "link": "https://www.telegraphindia.com/business/startup-e42-creates-marketplace-for-companies-to-hire-artificial-intelligence-workers/cid/1866400",
+          "snippet": "E42发布AI员工雇佣平台，使企业能够按需招募AI数字员工，提升运营效率。",
+          "index": 7
+        },
+        {
+          "title": "Revolut创始人拟推出AI驱动的风投基金",
+          "link": "https://tynmagazine.com/revolut-founder-set-to-launch-venture-capital-fund-powered-by-artificial-intelligence",
+          "snippet": "Revolut创始人将设立由人工智能赋能的风险投资基金，用于智能化筛选和投资初创企业。",
+          "index": 8
+        },
+        {
+          "title": "Salesforce将为AI产品销售招聘2000人",
+          "link": "https://www.cryptopolitan.com/salesforce-to-hire-2000-for-ai-product-sale",
+          "snippet": "Salesforce CEO宣布将新增2000名销售人员，专注推广AI产品，加速商业化进程。",
+          "index": 9
+        },
+        {
+          "title": "NEAR将招聘AI工程师推进AI路线图",
+          "link": "https://coindesk.com/business/2024/04/10/near-to-hire-artificial-intelligence-engineers-as-part-of-ai-roadmap",
+          "snippet": "NEAR Protocol计划招募人工智能工程师，落实其AI路线图，联合创始人Illia Polosukhin参与主导。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

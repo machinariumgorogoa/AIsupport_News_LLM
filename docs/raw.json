@@ -1,67 +1,108 @@
 {
-  "date": "2026-09-19",
-  "count": 25,
+  "date": "2026-09-20",
+  "count": 27,
   "items": [
     {
-      "title": "How can AI help buyers evaluate an acquisition opportunity faster?",
-      "link": "https://www.intralinks.com/guides/evaluate-acquisition-opportunity",
-      "snippet": "Artificial intelligence (AI) can accelerate this process by helping buyers find,...",
-      "raw_snippet": "Artificial intelligence (AI) can accelerate this process by helping buyers find, summarize and analyze relevant information faster. The objective should not be to delegate the investment decision to AI. Instead, buyers can use AI to reduce information-processing time so experienced professionals can focus on risk, valuation, strategic fit and the questions that require human judgment. [...] That combination allows buyers to investigate an opportunity without separating AI analysis from the diligence environment.\n\nSelf-service capabilities are important as well. Buyers should be able to access AI tools, review documents, manage diligence activity and track progress directly rather than relying on a representative to perform routine work. [...] ### VDRPro™\n\nExplore the unique features and capabilities of our virtual data room product.\n\n### DealCentre AI™\n\nLearn how our AI-powered platform streamlines your dealmaking process.\n\n### FundCentre™\n\nExplore our AI-enabled platform designed to keep you connected with integrated solutions.\n\n### DealServices™\n\nLearn how our redaction, translation and NDA services save time and resources.\n\n### DealVault™\n\nExplore our cloud-based deal archiving to manage valuable records.\n\n### InView™",
+      "title": "AI doomsday warnings unlikely to slow IPOs but questions linger",
+      "link": "https://japantoday.com/category/tech/ai-doomsday-warnings-unlikely-to-slow-ipos-but-questions-linger",
+      "snippet": "OpenAI is in talks with investors about raising a new round of funding with a va...",
+      "raw_snippet": "OpenAI is in talks with investors about raising a new round of funding with a valuation of at least $1.2 trillion before it goes public, while Anthropic might seek a $2 trillion valuation in an IPO that could happen as early as October, according to various reports.\n\nLeaders inside OpenAI have been concerned about investor skittishness, broad market uncertainty and SpaceX's underwhelming stock performance, according to media reports. [...] ### 'Ill-advised'\n\nHow Anthropic's IPO performs will also set the tone for OpenAI's debut next year.\n\nThe stakes extend well beyond the two companies themselves, with tech giants including Microsoft, Amazon, Google and Nvidia holding significant stakes in the AI labs.\n\nMore broadly, the U.S. economy is increasingly tied to the AI buildout, meaning the success or failure of these IPOs carries weight for the wider economy. [...] Altimeter Capital founder Brad Gerstner, who has shares in both OpenAI and Anthropic, downplayed the concerns this week, arguing that an IPO brings transparency for investors.\n\n\"Anthropic will IPO. The market knows how to price risk -- see SpaceX,\" Gerstner posted on X.\n\nElon Musk's SpaceX raised a record $85 billion in its June IPO, but its stock has lost around a quarter of its value since peaking at around $202 a share.\n\n\"There is huge appetite to invest in the AI leaders,\" Gerstner added.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "xAI 收购、估值、融资与投资方梳理",
-      "link": "https://multiples.vc/private-comps/xai",
-      "snippet": "Presight AI Holding PLC 提供数字化转型服务，相关页面汇总了 xAI 的收购、估值、融资及投资方信息。",
-      "raw_snippet": "Presight AI Holding PLC provides digital transformation services through big data analytics powered by artificial intelligence. It combines analytics, big data and AI expertise to serve every sector of every scale, to create business and societal value. The group’s world-class omni-analytics platform, TAQ, leverages big data and analytics to deliver cutting-edge Al technology, enabling forecasting and the anticipation of outcomes to support insight-driven, decision making that shapes policy and [...] primarily from digital text, Prometheus focuses on AI that learns from real-world experimentation and physical trial and error, aiming to optimize design, production, and performance in industrial settings. The company launched with $6.2 billion in initial funding and subsequently closed a $10 billion round at a valuation of approximately $38 billion, with participation from investors including JPMorgan Chase and BlackRock. Its team has grown to over 120 employees, drawing talent from OpenAI, [...] Ncino Inc is a provider of cloud-based software for financial institutions. Its software solution digitizes, automates, and streamlines inefficient and complex processes & workflows and utilizes data analytics & artificial intelligence that enables financial institutions to onboard new clients, make loans, and manage the entire loan life cycle, open deposits, and other accounts, and manage regulatory compliance. It also offers professional services, including configuration & implementation,",
+      "title": "9650亿美元Anthropic、8520亿美元OpenAI——50余家AI估值排行",
+      "link": "https://valueaddvc.com/ai-valuations",
+      "snippet": "OpenAI完成1220亿美元融资，估值达8520亿美元；Anthropic估值达9650亿美元，榜单覆盖逾50家AI企业。",
+      "raw_snippet": "OpenAI closed a $122 billion funding round at an $852 billion post-money valuation — the largest private funding round in history — and filed its IPO on June 8, 2026, one week after Anthropic, targeting approximately $1 trillion at listing. Its annualized revenue is roughly $25B (up from ~$20B at the end of 2025), driven by ChatGPT subscriptions, Codex, and enterprise API revenue — implying a ~34x revenue multiple at the latest round valuation. The surprise of 2026: OpenAI is no longer the [...] The AI IPO era is in full swing: Anthropic filed to go public on June 1 at a $965 billion valuation on roughly $47B in annualized revenue, and OpenAI followed exactly one week later — filing its IPO on June 8 at an $852B valuation, targeting ~$1 trillion at listing. A third mega-event: Elon Musk merged xAI into SpaceX in February 2026 at a combined $1.25 trillion valuation, creating the largest merger ever and setting up a blockbuster SpaceX IPO targeting up to $1.5T. Cerebras Systems (CBRS) [...] | Company | Valuation | ARR (est.) | Rev Multiple | Category |\n ---  --- \n| Anthropic | $965B (IPO filing) | ~$47B | ~21x | Foundation models / safety |\n| OpenAI | $852B (post-$122B round) | ~$25B | ~34x | Foundation models |\n| Databricks | $188B (Jul 2026 Coatue-led round) | ~$5.4B | ~35x | Data + AI platform |\n| xAI / SpaceX | ~$250B xAI portion ($1.25T combined, merger Feb 2026) | ~$1B | ~250x | Foundation models (merged with SpaceX) |",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "本周十大融资轮次：AI 大额融资盘点",
-      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal",
-      "snippet": "Arcee AI 以 1.5 亿美元位列第七（并列），专注基础 AI 领域的大额融资。",
-      "raw_snippet": "7. (tied) Arcee AI, $150M, foundational AI: Arcee AI, a developer of open-weight AI models, closed on $150 million in Series B funding at a valuation of more than $1 billion. Vista Equity Partners, Cambium Capital and Emergence Capital led the round for the San Francisco-based company. [...] 3. Ridgeline, $250M, investment management: Ridgeline, an AI-enabled investment management platform, picked up $250 million in a Series E funding round. The financing, led by founder and chairman Dave Duffield, set a $1.45 billion valuation for the Incline Village, Nevada-based company. [...] 1. Temporal Technologies, $550M, AI infrastructure: Temporal Technologies, developer of an open source platform for building and operating long-running AI agents and other enterprise systems, secured $550 million in Series E funding at a $12.55 billion valuation. Lightspeed, Wellington Management, Goldman Sachs Alternatives, and Tiger Global led the financing for the Bellevue, Washington-based company.",
+      "title": "AI融资追踪器——融资、收购与交易",
+      "link": "https://pricepertoken.com/news/funding",
+      "snippet": "该追踪器收录AI领域最新融资、并购与交易，例如Lyte完成1.65亿美元C轮融资，估值16亿美元。",
+      "raw_snippet": "2 events\n\n### Lyte\n\n Series C\n\n$165M·$1.6B valuation ·9/2/2026·Maverick Silicon\n\nCrunchbase News\n\n### HiddenLayer\n\n Series B\n\n$100M·9/2/2026·Booz Allen Hamilton, Delta-v Capital, Microsoft, Morgan Stanley, Ten Eleven Ventures\n\nTechCrunch AI\n\n## Sep 1\n\n4 events\n\n### AfterQuery\n\n Valuation\n\n$3.2B valuation ·9/1/2026\n\nTechCrunch AI\n\n### Félix\n\n Series C\n\n$200M·9/1/2026·Andreessen Horowitz, General Catalyst\n\nCrunchbase News\n\n### Empirik\n\n Seed\n\n$21M·9/1/2026·Sequoia Capital\n\nTechCrunch AI\n\n### AIR [...] ### AIR\n\n Fundraise\n\n$50M·9/1/2026\n\nTechCrunch AI\n\n## Aug 31\n\n2 events\n\n### Clipto\n\n Fundraise\n\n$15M·$250M valuation ·8/31/2026\n\nTechCrunch AI\n\n### MediaTek\n\n Fundraise\n\n$3.5B·8/31/2026·Nvidia\n\nTechCrunch AI\n\n## Aug 28\n\n1 event\n\n### Neocloud Lambda\n\n Compute Deal\n\n$1.0B·8/28/2026\n\nTechCrunch AI\n\n## Aug 27\n\n3 events\n\n### Socure\n\n Growth\n\n$156M·$5.2B valuation ·8/27/2026\n\nCrunchbase News\n\n### NVIDIA acquires HuggingFace\n\n Acquisition\n\n$13.0B·8/27/2026\n\nTechXplore TechXplore TechCrunch AI [...] Fundraise\n\n$200M·$3.0B valuation ·8/26/2026\n\nTechCrunch AI\n\n## Aug 25\n\n2 events\n\n### Stability AI\n\n Fundraise\n\n$76M·8/25/2026\n\nTechCrunch AI\n\n### Keenable\n\n Seed\n\n$26M·8/25/2026·Accel\n\nTechCrunch AI\n\n## Aug 20\n\n1 event\n\n### Tabs\n\n Valuation\n\n$400M valuation ·8/20/2026\n\nCrunchbase News\n\n## Aug 18\n\n1 event\n\n### OpenAI\n\n Compute Deal\n\n$105.0B·8/18/2026·Nvidia\n\nTechXplore\n\n## Aug 17\n\n3 events\n\n### Groq\n\n Fundraise\n\n$350M·$3.5B valuation ·8/17/2026\n\nTechCrunch AI",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "AI 初创公司 Manus 终止 Meta 交易后考虑赴港 IPO",
-      "link": "https://www.wsj.com/business/ai-startup-manus-seeks-to-raise-500-million-and-weighs-hong-kong-ipo-ef7d3ead",
-      "snippet": "人工智能初创企业 Manus 在解除与 Meta 的交易后，正在融资并探索香港上市。",
-      "raw_snippet": "Artificial intelligence startup Manus is raising money after it severed ties with Meta Platforms META -1.43%decrease; down pointing triangle and is exploring future fundraising options including a public share listing, according to people familiar with the matter.\n\nThe company is in talks with prospective investors including investment firms IDG Capital and Boyu Capital to raise some $500 million in a funding round that would value it at around $4 billion, the people said. [...] Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+      "title": "OpenAI Projects $278B Cash Burn: Record Round Runs Dry Before Revenue Catches Up",
+      "link": "https://www.techtimes.com/articles/327752/20260920/openai-projects-278b-cash-burn-record-round-runs-dry-before-revenue-catches.htm",
+      "snippet": "Anthropic, by contrast, is proceeding toward its own listing. The company, which...",
+      "raw_snippet": "Anthropic, by contrast, is proceeding toward its own listing. The company, which in May closed a $65 billion Series H funding round at a valuation of $965 billion, is now targeting a November 2026 IPO — with plans to raise approximately $100 billion at a valuation that may exceed $2 trillion, per reporting from the Wall Street Journal on September 19. Whatever price-to-revenue multiple public investors assign to Anthropic when it lists will become the primary benchmark against which OpenAI's [...] That fundraise appears to have already begun. Bloomberg reported on September 15 that investors had approached OpenAI about a new private round that would value the company at more than $1.2 trillion — a roughly 41% premium over its $852 billion March valuation. Forbes separately reported that OpenAI is itself seeking a valuation as high as $1.5 trillion in those discussions. The talks are investor-initiated, Bloomberg's source said — a detail that matters because it signals ongoing [...] Bloomberg reported that any new private capital could push OpenAI's IPO back by one to two quarters. CEO Sam Altman has already said the company will not go public in 2026; CFO Sarah Friar has told employees to expect a listing in 2027 at the earliest. A successful new round at $1.2 trillion or higher would reduce the immediate pressure to list but would also further increase the valuation at which OpenAI eventually needs to price its public offering — making the IPO math harder, not easier.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "OpenAI——维基百科",
+      "link": "https://en.wikipedia.org/wiki/OpenAI",
+      "snippet": "词条介绍OpenAI及其AI编程代理，并提及2026年3月相关的重要进展或产品动态。",
+      "raw_snippet": "(AI agent)\"), an AI coding agent. In March 2026, OpenAI closed a funding round with a post-money valuation of US$852 billion, making it one of the most valuable AI pure play companies in the world, rivalled only by Anthropic. [...] In February 2026, OpenAI raised $110 billion at a $730 billion valuation, led by Amazon \"Amazon (company)\") ($50 billion), SoftBank ($30 billion), and Nvidia ($30 billion), surpassing the prior round as the largest private technology fundraise in history. The round was extended to $120 billion in March 2026. In April 2026, the company announced that it closed a funding round of $122 billion in committed capital at a post-money valuation of $852 billion.\n\n## Business model [...] May 21, 2025 OpenAI announced the $6.5 billion acquisition of io \"Io (company)\"), an AI hardware start-up founded by former Apple designer Jony Ive in 2024.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "Anthropic 不顾 AI 安全警告推进 IPO",
-      "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-      "snippet": "尽管曾警告 AI 安全风险，Anthropic 仍谋求上市，预计收入将超 1000 亿美元。",
-      "raw_snippet": "The company is expected to generate more than $100 billion in annualized revenue this year, according to four people familiar with the matter. That’s up from $65 billion in annualized revenue as of July. Investors seeking to get a piece of the I.P.O. are using those soaring numbers to justify Anthropic’s staggering potential valuation of $2 trillion. [...] Supported by\n\n# Anthropic Moves Ahead With I.P.O. Plans Amid A.I. Safety Debate\n\nThe company is expected to generate $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.\n\nBy Lauren HirschSri MuppidiErin Griffith and Mike Isaac\n\nDario Amodei, Anthropic’s chief executive, roiled Wall Street and Silicon Valley recently when he called for more guardrails on the pace of artificial intelligence development. [...] But even as Dr. Amodei became embroiled in a contentious A.I safety debate, his company — which makes the Claude chatbot — continued to prepare for a blockbuster initial public offering that may shape up to be the biggest listing ever.",
+      "title": "Anthropic - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Anthropic",
+      "snippet": "privately held but reportedly plans an initial public offering in 2026. Valued a...",
+      "raw_snippet": "privately held but reportedly plans an initial public offering in 2026. Valued at US$965 billion in a May 2026 Series H funding round, Anthropic is one of the world's most valuable AI pure play companies, rivaled by OpenAI. [...] ## Funding [...] In October 2023, Google invested $500 million in Anthropic and committed to an additional $1.5 billion over time. In March 2025, Google agreed to invest another $1 billion in Anthropic. Anthropic raised $3.5 billion in a Series E funding round in March 2025, achieving a post-money valuation of $61.5 billion, led by Lightspeed Venture Partners with participation by several major investors. In September 2025, Anthropic completed a Series F funding round, raising $13 billion at a post-money",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Πώς η έκρηξη της AI αλλάζει τους κανόνες στο Venture Capital | in.gr",
+      "link": "https://www.in.gr/2026/09/20/economy/diethnis-oikonomia/pos-i-ekriksi-tis-ai-allazei-tous-kanones-sto-venture-capital",
+      "snippet": "9 hours ago - Η έκρηξη της τεχνητής νοημοσύνης, όμως, φαίνεται να οδηγεί αυτή τη δυναμική στα άκρα, δημιουργώντας εταιρείες με αποτιμήσεις που ξεπερνούν σε μέγεθος ολόκληρες γενιές τεχνολογικών IPOs, αναφέρουν οι Financial Times.",
+      "raw_snippet": "9 hours ago - Η έκρηξη της τεχνητής νοημοσύνης, όμως, φαίνεται να οδηγεί αυτή τη δυναμική στα άκρα, δημιουργώντας εταιρείες με αποτιμήσεις που ξεπερνούν σε μέγεθος ολόκληρες γενιές τεχνολογικών IPOs, αναφέρουν οι Financial Times.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "AI巨额退出收窄风投赢家范围",
+      "link": "https://www.privatemarketsinsights.com/post/ai-mega-exits-narrow-venture-s-winners-to-a-handful-of-funds",
+      "snippet": "AI大规模退出事件令少数基金成为赢家；全球私有独角兽总价值约5.3万亿美元。",
+      "raw_snippet": "## By The Numbers\n\n $5.3tn: value of private unicorns at their latest funding rounds, per PitchBook. Few have been willing to list at a lower price.\n 40: companies that joined the Crunchbase unicorn board in July, the highest monthly count in 4 years.\n 13: billion-dollar rounds in July, a record.\n $4.1tn: first-day value of every tech IPO from 1980 to 2025, per Jay Ritter. Anthropic, SpaceX and OpenAI alone could exceed $5tn.\n\n## The Other Side [...] Recent research shows the AI boom paying out to a very small group of companies and funds. Andreessen Horowitz, Founders Fund and Thrive Capital raised about $25bn in the first half of 2026. That equals almost a third of new money committed to US venture. Exits follow the same pattern. SpaceX and Cerebras account for almost 90% of proceeds from the venture-backed tech IPOs Crunchbase tracks. Allocators should decide how they will get access to top-tier managers before AI listing profits are [...] ## The Other Side\n\nThe strongest counter holds that gains will broaden. Waters sees room for start-ups building AI applications and the wider ecosystem. Andreessen Horowitz launched a Machine Age fund aimed at AI supply bottlenecks. Schneider Electric's venture arm describes power and industrial automation as a new investment cycle. Biotech investment held steady through the AI boom, per Crunchbase.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 4
     },
     {
-      "title": "2026 年顶级 AI 投资者与 VC 机构榜单",
-      "link": "https://www.openvc.app/investor-lists/ai-investors",
-      "snippet": "AI 吸金能力领先其他行业，文章盘点 2026 年最值得关注的 AI 投资人与风投机构。",
-      "raw_snippet": "AI is pulling in more capital than any other sector right now, according to Crunchbase. In 2025, nearly half of all global venture funding went into AI (up from roughly a third the year before). More than $200 billion has already flowed into AI across infrastructure, foundation models, and application-layer companies.\n\nAdditionally, a report from Goldman Sachs explains how AI companies’ capital spending may surpass $500 billion in 2026.\n\n### Investor Behavior and Expectations [...] AI Seed Funding\n\nSeed round investors want proof that your idea can resonate in the market. That means early adoption (users, pilots, or even strong LOIs) plus data infrastructure that scales as demand grows. Just as important is clarity on how you’ll turn technical innovation into a real business.\n\nAI Series A+ Funding [...] |  | Mer Angels  [Angel network](fund/Mer%20Angels) | Flag of France France | $100k to $500k | 3. Early Revenue 4. Scaling | Sometimes | We invest in blue economy startups that span a broad spectrum of sectors such as fintech, IoT, web3, SaaS, blockchain, AI, machine learning, AR/VR, biotech, robotics, clean energy, sustainable agriculture, edtech, healthtech, insurtech, proptech, quantum computing, nanotechnology, cybersecurity, e-commerce, mobile apps, cloud computing, 5G, wearables, gaming,",
+      "title": "Anthropic Names Accenture as Embedded AI Safety Evaluator",
+      "link": "https://easternherald.com/2026/09/20/anthropic-accenture-embedded-evaluator-safety-deal",
+      "snippet": "24 minutes ago - For outside observers, it makes ... planned November IPO. That context is hard to ignore. Anthropic is targeting a $2 trillion valuation at a moment when its safety commitments are under unusually sharp commercial",
+      "raw_snippet": "24 minutes ago - For outside observers, it makes ... planned November IPO. That context is hard to ignore. Anthropic is targeting a $2 trillion valuation at a moment when its safety commitments are under unusually sharp commercial",
       "is_chinese": false,
       "source_type": "funding",
       "index": 5
     },
     {
-      "title": "[PDF] Artificial Intelligence – PDF - Tucker Ellis LLP",
-      "link": "https://www.tuckerellis.com/artificial-intelligence/pdf",
-      "snippet": "Artificial Intelligence (AI) is changing how our clients do business: how they identify talent, generate content, price and underwrite risk, process claims,",
-      "raw_snippet": "Artificial Intelligence (AI) is changing how our clients do business: how they identify talent, generate content, price and underwrite risk, process claims,",
+      "title": "AI Funding & Investment Trends 2026 | Lofotr Investors",
+      "link": "https://lofotrinvestors.com/global-ai-technology-funding-analysis",
+      "snippet": "### Infrastructure\n\nTransport, utilities, digital infrastructure, and PPP projec...",
+      "raw_snippet": "### Infrastructure\n\nTransport, utilities, digital infrastructure, and PPP projects. Long-term capital for essential services.\n\n### Commercial Real Estate\n\nOffice, retail, industrial, and mixed-use developments. Structured debt and equity solutions.\n\n### Technology & AI\n\nDeep tech, AI/ML platforms, and enterprise software. Growth capital for scalable technology ventures.\n\n## How We Work\n\nOur streamlined process ensures rapid assessment and matching with appropriate capital sources: [...] Privacy Policy |\nTerms of Service |\nCompliance |\nDisclosures [...] ## For Funders\n\nAccess pre-vetted deal flow across multiple sectors. Our platform provides:\n\n## Resources & Guides\n\n### Funding Guides\n\n### Strategic Content\n\n## About Lofotr Investors\n\nLofotr Investors is headquartered in the UK with a global network spanning the GCC, ASEAN, North America, and Europe. Our team combines decades of project finance experience with technology-driven deal origination.\n\n© 2024-2025 Lofotr Investors. All rights reserved.",
       "is_chinese": false,
       "source_type": "funding"
+    },
+    {
+      "title": "The Information",
+      "link": "https://www.theinformation.com",
+      "snippet": "### Cookie List\n\nClear\n   - [x] checkbox label label \n\nApply Cancel\n\nConsent Leg...",
+      "raw_snippet": "### Cookie List\n\nClear\n   - [x] checkbox label label \n\nApply Cancel\n\nConsent Leg.Interest\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\nConfirm My Choices\n\nImage 23: Powered by Onetrust [...] Image 1\n\nRogo, Hebbia Revenue Rises as Claude Finance Threat LoomsSave 25% to unlock this story\n\nThe Information\n\n\n### AI Infrastructure\n\nStay ahead of the AI infrastructure wars. Ann Davis Vaughan covers how tech titans are disrupting the energy sector and becoming accidental industrial giants to compete on the AI model battlefield.\n\nImage 10: The Electric\n\nEvery Monday and Thursday\n### The Electric\n\nAn exclusive publication covering the nascent battery and electric vehicle revolutions. [...] ## Do Not Sell My Personal Information",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Fireflies将推出新品并制定印度专属定价",
+      "link": "https://www.business-standard.com/technology/artificial-intelligence/fireflies-to-launch-new-products-plans-india-specific-pricing-ceo-126082500909_1.html",
+      "snippet": "Fireflies CEO表示将推出新产品并针对印度市场设定本地化价格，扩大AI服务覆盖。",
+      "raw_snippet": "Title: Fireflies to launch new products, plans India-specific pricing: CEO | Artificial Intelligence News - Business Standard\nThursday, September 10, 2026 | 10:07 PM ISTहिंदी में पढें. Home / Technology / Artificial Intelligence / Fireflies to launch new products, plans India-specific pricing: CEO. # Fireflies to launch new products, plans India-specific pricing: CEO. ## Fireflies.ai plans a broader AI product suite, India-specific pricing and local-language support as it expands from meeting notes to automating routine work. Krish Ramineni, Cofounder & CEO, Fireflies. 3 min read Last Updated : Aug 26 2026 | 12:36 AMIST. #### Listen to This Article. Fireflies.ai, known for its AI-enabled meeting notetaker, is launching over a dozen new products within the next year to reduce clerical busywork and enhance human productivity. The company aims to transition from a single-tool solution into a comprehensive productivity platform, which will be supported by an India-specific pricing strategy to expand its reach, **Krish Ramineni**, cofounder and chief executive officer (CEO) of Fireflies, tells *Business Standard*’s *Aashish Aryan* in an interview. We are expanding Fireflies beyond notetaking into a broader product suite. There is always this vision of building an AI teammate, a sort of work assistant that follows you around and helps you with all the busywork and the data entry. We are continuing to build and launch several new products over the next few months. One of the products we are working on actively is having Fireflies go and take meetings on your behalf. So, let’s say it’s a customer survey or a question-and-answer meeting. We tend to have this issue in the industry where we try to overcompensate for the fear of missing out. **What are your plans for India, where there is no dearth of human resource supply, especially for mundane busywork?**. There is incredible talent across India, and not just in metro cities. We will continue to hire a lot more, especially as we try to build out a new product. We are actually coming up with a new pricing plan specifically for India. From a talent perspective, I am also looking at how we can set up opportunities like AI training institutes, so we can build more AI-ready talent, train them, and hire from that pool if needed. **Topics :** artifical intelligence workplace Automation.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
     },
     {
       "title": "FutureSight hiring Co-Founder & CEO - AI RIA Compliance • Remote (Work from Home) | Himalayas",
@@ -96,13 +137,13 @@
       "source_type": "people"
     },
     {
-      "title": "E42 打造企业雇佣 AI 员工的平台",
+      "title": "初创公司E42打造企业雇佣AI员工的市场",
       "link": "https://www.telegraphindia.com/business/startup-e42-creates-marketplace-for-companies-to-hire-artificial-intelligence-workers/cid/1866400",
-      "snippet": "E42 联合创始人兼 CEO Animesh Samuel 在发布会上称，公司将搭建供企业雇佣 AI 数字员工的市场。",
+      "snippet": "E42发布AI员工雇佣平台，使企业能够按需招募AI数字员工，提升运营效率。",
       "raw_snippet": "Animesh Samuel, co-founder and CEO, E42, said at the launch of the platform, various studies show by 2026 at least 50 per cent of the enterprise workforce will be AI workers, opening up a $800 billion industry business opportunity. [...] ### HDFC Bank CEO Sashidhar Jagdishan opts out of reappointment, to retire on October 26\n\n### OpenAI to cut off AI models for SpaceX-owned Cursor, escalating Musk feud\n\n### Temasek backs Singapore Airlines’ Air India bet, says turnaround will take years to complete\n\n### FSSAI proposes red front-of-pack warning labels for foods high in fat, sugar, salt\n\n### Argentina to reduce entry barriers for Indian pharma companies: Commerce ministry\n\n18u18-220726_05_TTAP [...] ## I am trying to return the money to 33,000 sports fans who were cheated at the Messi event\n\nIshaq Dar\n\n## Ishaq Dar warns of ‘consequences’ if Pakistan’s share of Indus waters is cut off\n\nRahul Gandhi\n\n## Slum residents near PM Modi’s home meet Rahul Gandhi, seek help against eviction notice\n\nRepresentational image\n\n## FSSAI halts sale of Everest, Laljee Godhoo hing powder over quality violations\n\nShashi Tharoor",
       "is_chinese": false,
       "source_type": "people",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Co-Founder & CEO - AI Content & Publishing Engine at FutureSight - Remote",
@@ -129,21 +170,13 @@
       "source_type": "people"
     },
     {
-      "title": "Revolut 创始人拟推出 AI 驱动风投基金",
+      "title": "Revolut创始人拟推出AI驱动的风投基金",
       "link": "https://tynmagazine.com/revolut-founder-set-to-launch-venture-capital-fund-powered-by-artificial-intelligence",
-      "snippet": "Revolut 创始人计划发起一只由人工智能驱动的风险投资基金，布局科技初创企业投资。",
+      "snippet": "Revolut创始人将设立由人工智能赋能的风险投资基金，用于智能化筛选和投资初创企业。",
       "raw_snippet": "* English Content Revolut founder set to launch venture capital fund powered by artificial intelligence. # Revolut founder set to launch venture capital fund powered by artificial intelligence. Revolut founder Nik Storonsky is set to launch his own venture capital fund, powered by artificial intelligence. The new venture — dubbed QuantumLight Capital — will be worth around $200 million, with funds supplied by Storonsky and other investors, Forbes reported on Tuesday. “We are built as a technology company by a team of tech unicorn founders, quant traders, AI scientists and engineers,” the QuantumLight website states. The fund will identify investment opportunities using a machine called Aleph as its “proprietary quantitative decision engine.”. According to Forbes, QuantumLight will be focused mainly on Series B and Series C rounds, based on software which eliminates “human judgement.” Storonsky argues that the model is designed to eliminate the clubby world of venture capital, where decisions are made through a crowd mentality. The neobank founder has spent the last year building a team of data scientists and engineers to browse LinkedIn, corporate filings and other public databases in order to identify fast-growing startups. He will also hire in a CEO to head up the fund, according to the Forbes report. The move comes at a time of global expansion for Revolut. In recent months it has acquired banking licenses in at least 10 European countries as it has touted adding new products to it roster, such as home loans and buy-now-pay-later. It has also tussled with UK regulators over anti-money laundering requirements for its crypto products. It is still on the Financial Conduct Authority’s so-called temporary register, alongside crypto custodian Copper and three other firms. The register is a stopgap measure the FCA created after missing an earlier deadline to green-light companies’ operations. Their fate remains uncertain, but without full registration they could in theory be forced to stop crypto-related activities in the UK. ##### Relative altcoin weakness masks early internal rotation. ##### Block Scholes crypto options data comes to Bloomberg terminal to ‘Build Bridge’ for financial institutions. ##### China’s solar energy set to overtake coal, but new coal rush threatens ‘historic’ shift.",
       "is_chinese": false,
       "source_type": "people",
-      "index": 7
-    },
-    {
-      "title": "Newsroom | Archive | Autonomous Artificial Intelligence",
-      "link": "https://www.algotive.ai/newsroom/archive/tag/autonomous-artificial-intelligence",
-      "snippet": "Title: Newsroom | Archive | Autonomous Artificial Intelligence\n# Newsroom | Arch...",
-      "raw_snippet": "Title: Newsroom | Archive | Autonomous Artificial Intelligence\n# Newsroom | Archive | Autonomous Artificial Intelligence. ## February 2022. ##### February 25, 2022 News. ### Formula Financiera: \"The technology developed by Algotive is a nationwide video surveillance system that makes a difference.\". In an interview with Formula Financiera, the founder and CEO of Algotive, Pablo Castillon, talks about the impact and benefits of his latest autonomous AI product for law enforcement. ## January 2022. ##### January 12, 2022 News. ### Telediario: “Algotive launched a product to identify a vehicle of interest and give it timely follow-up; it is an impressive platform.”. In an interview with Telediario, the founder and CEO of Algotive talks about vehicleDRX, the first autonomous AI platform for law enforcement. ## November 2021. ##### November 29, 2021 News. ### MasPorMas: \"vehicleDRX, a project that could become the platform for improving safety on the streets.”. In an interview with Eduardo Rosales, the founder and CEO of Algotive, Pablo Castillon talks about the positive impact of vehicleDRX on public safety in the country. ##### November 22, 2021 News. ### La Jornada: \"Artificial intelligence will track stolen vehicles.\". Julio Gutierrez interviews the founder and CEO of Algotive about launching his new autonomous AI platform for law enforcement. ##### November 16, 2021 News. ### Romo: \"vehicleDRX will allow us to follow any vehicle of interest autonomously.\". In an interview with the famous radio host, the founder and CEO of Algotive announced the first autonomous artificial intelligence application launch in México, vehicleDRX.",
-      "is_chinese": false,
-      "source_type": "people"
+      "index": 8
     },
     {
       "title": "Dan Siroker Net Worth - Co-Founder & CEO at Limitless AI",
@@ -162,30 +195,13 @@
       "source_type": "people"
     },
     {
-      "title": "Salesforce CEO 称将招聘 2000 人销售 AI 产品",
+      "title": "Salesforce将为AI产品销售招聘2000人",
       "link": "https://www.cryptopolitan.com/salesforce-to-hire-2000-for-ai-product-sale",
-      "snippet": "Salesforce 首席执行官表示，公司计划招聘约 2000 名销售人员，专门推广 AI 产品。",
+      "snippet": "Salesforce CEO宣布将新增2000名销售人员，专注推广AI产品，加速商业化进程。",
       "raw_snippet": "Skip to content\n\n\n\nImage 1: Cryptopolitan\n\n\n\n products, doubling its initial hiring plans as the company prepares to launch its next-generation AI agent software in February 2025.\n\nSalesforce plans to hire 2,000 new salespeople to focus on selling artificial intelligence (AI) products as the company planning to expand its AI offerings.\n\n### Salesforce to Hire 2,000 Salespeople for AI Expansion [...] CEO Marc Benioff made this announcement during a company event in San Francisco on Tuesday, saying that the demand for AI tools is so high that the company is increasing its hiring plans.\n\n_“We’re adding another couple of thousand salespeople to help sell these products,”_ Benioff said. “_We already had 9,000 referrals for the 2,000 positions we’ve opened. It’s amazing.”_ [...] This announcement makes a big increase from the initial plan. A month ago, Benioff mentioned that Salesforce would hire 1,000 new salespeople for AI roles. The company is now doubling the count as it prepares to release its new AI agent software in February 2025.\n\nSalesforce aims to make AI a key part of its product lineup, with AI tools to help sales teams, marketers, and customer service agents do their jobs more efficiently.",
       "is_chinese": false,
       "source_type": "people",
-      "index": 8
-    },
-    {
-      "title": "Fireflies 将推出新品并制定印度专属定价",
-      "link": "https://www.business-standard.com/technology/artificial-intelligence/fireflies-to-launch-new-products-plans-india-specific-pricing-ceo-126082500909_1.html",
-      "snippet": "以 AI 会议记录助手闻名的 Fireflies.ai 计划发布新产品，并针对印度市场推出本地化定价。",
-      "raw_snippet": "Fireflies.ai, known for its AI-enabled meeting notetaker, is launching over a dozen new products within the next year to reduce clerical busywork and enhance human productivity. The company aims to transition from a single-tool solution into a comprehensive productivity platform, which will be supported by an India-specific pricing strategy to expand its reach, Krish Ramineni, cofounder and chief executive officer (CEO) of Fireflies, tells Business Standard’s Aashish Aryan in an interview. [...] From a talent perspective, I am also looking at how we can set up opportunities like AI training institutes, so we can build more AI-ready talent, train them, and hire from that pool if needed.\n\nTopics : artifical intelligence workplace Automation [...] ## Fireflies.ai plans a broader AI product suite, India-specific pricing and local-language support as it expands from meeting notes to automating routine work\n\npremium\n\nKrish Ramineni, Cofounder & CEO, Fireflies\n\nAashish Aryan\n\n3 min read Last Updated : Aug 26 2026 | 12:36 AMIST\n\n#### Listen to This Article",
-      "is_chinese": false,
-      "source_type": "people",
       "index": 9
-    },
-    {
-      "title": "Remote Artificial Intelligence Jobs in Texas – Apply Now",
-      "link": "https://www.remoterocketship.com/state/texas/jobs/artificial-intelligence",
-      "snippet": "Remote Artificial Intelligence Jobs in Texas – Apply Now. Remote Artificial Inte...",
-      "raw_snippet": "Remote Artificial Intelligence Jobs in Texas – Apply Now. Remote Artificial Intelligence Jobs in Texas. Receive Emails For Remote Jobs. ai engineer jobsai research scientist jobsdata science jobs. Collaborate on AI training and assessing clinical appropriateness in a remote setting. 🤠 Texas – Remote : info Although this job is listed in Texas, this company may be open to hiring remote in other states. ### Co-Founder & CEO – AI for Public Sector Proposals. ### Co-Founder & CEO – AI WealthTech. ### Co-Founder & CEO – AI DentalTech. Co-Founder & CEO at FutureSight leading the launch of an AI-driven receptionist for dental clinics. ### Co-Founder & CEO – AI RIA Compliance. ### Co-Founder & CEO – AI Call Agent for Contractors. ### Co-Founder, CEO – AI Property Tech. Founding CEO leading the launch of an AI leasing solution for multifamily property management. ### Co-Founder, CEO – AI PE Due Diligence. Founding CEO role with FutureSight to lead an AI Data Organization Assistant venture. ### Co-Founder, CEO – AI Benefits, InsureTech. Head of AI leading AI strategy and developing intelligence solutions for ESG and sustainability at C-MORE. Enabling diverse human perspectives in AI development with flexible remote work opportunities. Engaging in various AI training tasks with flexible remote work opportunities. +658 More Artificial Intelligence Jobs Available! Top Companies Hiring Remote Artificial Intelligence in Texas. The average salary for remote artificial intelligence in Texas is **$154,631 per year**. Our advanced AI searches the internet for remote job openings and posts them on our website. How long does it take for companies to hire a remote artificial intelligence in Texas? What is the difference between Remote Rocketship and other job boards? On the other hand, Remote Rocketship scrapes the internet for jobs and doesn't accept payments from companies. She was having a hard time finding remote jobs, so I decided to build her a tool that would search the internet for her. Remote jobs Anywhere in the World. Remote data analyst jobsRemote customer support jobsRemote executive assistant jobsRemote marketing jobsRemote product designer jobsRemote product manager jobsRemote project manager jobsRemote recruiter jobsRemote sales jobsRemote software engineer jobs.",
-      "is_chinese": false,
-      "source_type": "people"
     },
     {
       "title": "Hire Artificial Intelligence Product Managers | Thinkteks",
@@ -196,10 +212,10 @@
       "source_type": "people"
     },
     {
-      "title": "NEAR 拟招聘人工智能工程师推进 AI 路线图",
+      "title": "NEAR将招聘AI工程师推进AI路线图",
       "link": "https://coindesk.com/business/2024/04/10/near-to-hire-artificial-intelligence-engineers-as-part-of-ai-roadmap",
-      "snippet": "NEAR 正按 AI 路线图扩充团队，计划招聘多名人工智能工程师，以加速生态智能化建设。",
-      "raw_snippet": "Title: NEAR to Hire Artificial-Intelligence Engineers as Part of AI Roadmap\n# NEAR to Hire Artificial-Intelligence Engineers as Part of AI Roadmap. ## The company will begin its AI initiative in the next 3-6 months according to a document reviewed by CoinDesk. Updated Apr 10, 2024, 2:52 p.m. Published Apr 10, 2024, 2:50 p.m. Illia Polosukhin, Co-Founder, NEAR Protocol (Stephen Lovekin/Shutterstock/CoinDesk). Illia Polosukhin, Co-Founder, NEAR Protocol (Stephen Lovekin/Shutterstock/CoinDesk). Layer-1, NEAR, will hire artificial-intelligence (AI) engineers as part of its 3-6 month roadmap to building user-owned AI. According to a deck reviewed by CoinDesk, the company is planning to hire AI engineers “soon,” and its product team is working to plan AI workstreams over a 3-6 month transition phase. This comes as the intersection between AI and blockchain continues to be a hot topic, with NEAR attempting to position itself at the forefront. Polosukhin was on a panel at Nivida’s conference titled \"Transforming AI\" last month, and saw its token NEAR double in price in anticipation of the event. The company is well seasoned in terms of AI expertise, Polosukhin is an artificial intelligence researcher and software engineer that co-built the ‘Transformer’ architecture. NEAR will use near.ai for surfacing AI information and will make an external announcement in May, according to the slide show. The layer-1 says it believes it is uniquely positioned to make AI open source, given its not-for-profit and decentralized nature. NEAR has been pushing its “chain abstraction,” narrative over the past few months, which aims to tackle the user experience in crypto by simplifying the hurdles that exist in a multichain environment. AI will help deliver NEAR’s core vision by accelerating development & ease of use, according to the deck viewed by CoinDesk. Most crypto privacy models weaken as blockchain data grows. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve. As banks retreat from trade finance amid Iran-linked risk fears, non-bank lenders and traders are increasingly turning to stablecoins for settlement, according to Haycen’s Luke Sully. * Some commodity traders in Europe are being “debanked” over concerns about counterparty risk tied to Iran-related flows, according to Haycen CEO Luke Sully. Donald Trump (Credit: Library of Congress on Unsplash/Modified by CoinDesk).",
+      "snippet": "NEAR Protocol计划招募人工智能工程师，落实其AI路线图，联合创始人Illia Polosukhin参与主导。",
+      "raw_snippet": "Make preferred on\n\nImage 5: Illia Polosukhin, Co-Founder, NEAR Protocol (Stephen Lovekin/Shutterstock/CoinDesk)\n\nIllia Polosukhin, Co-Founder, NEAR Protocol (Stephen Lovekin/Shutterstock/CoinDesk)\n\nLayer-1, NEAR, will hire artificial-intelligence (AI) engineers as part of its 3-6 month roadmap to building user-owned AI. [...] According to a deck reviewed by CoinDesk, the company is planning to hire AI engineers “soon,” and its product team is working to plan AI workstreams over a 3-6 month transition phase. The deck was presented earlier today via a virtual town hall meeting by NEAR co-founder Illia Polosukhin with NEAR core employees. [...] Image 9: Person wearing a skeleton mask, with a lifted finger to their mouth. (Max Bender/Unsplash) #### Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lostImage 10: SEC Chair Paul Atkins (Anna Moneymaker/Getty Images) #### Real stocks are finally coming on blockchain. Here’s how the SEC wants it to workImage 11: Nathan Allman sits on a panel at Consensus 2025 #### The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’,",
       "is_chinese": false,
       "source_type": "people",
       "index": 10
