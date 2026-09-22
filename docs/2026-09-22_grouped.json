@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-22",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Southport Acquisition II申请2亿美元IPO，目标瞄准AI领域",
+          "link": "https://cryptobriefing.com/southport-acquisition-200m-ipo-ai",
+          "snippet": "SPAC本质上是对管理团队的押注而非具体标的，该公司拟通过2亿美元IPO寻找AI并购标的。",
+          "index": 1
+        },
+        {
+          "title": "Mistral AI与OpenAI对比：IPO时间线、估值与融资2026]",
+          "link": "https://www.techstackipo.com/compare/mistral-ai-vs-openai",
+          "snippet": "文章对比Mistral AI与OpenAI的IPO进程、估值水平和融资规模，展望2026年上市前景。",
+          "index": 2
+        },
+        {
+          "title": "SpaceX计划在IPO前与xAI洽谈合并 - Inspirepreneur Magazine",
+          "link": "https://inspirepreneurmagazine.com/world/america/spacex-xai-merger-talks-reuters-ipo",
+          "snippet": "SpaceX在计划IPO前正与xAI洽谈合并，其在近期私募轮融资中的估值约为8000亿美元。",
+          "index": 3
+        },
+        {
+          "title": "SpaceX 2026年IPO：马斯克在xAI合并后瞄准1.5万亿美元估值",
+          "link": "https://newsvot.com/spacex-ipo-2026-musk-targets-historic-15-trillion-valuation-after-xai-merger",
+          "snippet": "马斯克计划推动SpaceX在2026年IPO，若与xAI合并成功，目标估值将达1.5万亿美元。",
+          "index": 4
+        },
+        {
+          "title": "Qualtrics IPO估值较SAP收购价近乎翻倍",
+          "link": "https://news.crunchbase.com/news/qualtrics-valuation-through-ipo-nearly-doubles-sap-acquisition-price",
+          "snippet": "Qualtrics通过IPO上市后的估值接近SAP此前收购报价的两倍，反映SaaS与体验管理市场重估。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "初创公司E42打造企业雇佣AI数字员工的市场平台 - 印度电讯报",
+          "link": "https://www.telegraphindia.com/business/startup-e42-creates-marketplace-for-companies-to-hire-artificial-intelligence-workers/cid/1866400",
+          "snippet": "E42联合创始人兼CEO Animesh Samuel在发布会上表示，企业可在新平台雇佣AI员工作为数字化劳动力。",
+          "index": 6
+        },
+        {
+          "title": "Fireflies将推出新产品并制定印度专属定价：CEO",
+          "link": "https://www.business-standard.com/technology/artificial-intelligence/fireflies-to-launch-new-products-plans-india-specific-pricing-ceo-126082500909_1.html",
+          "snippet": "CEO称Fireflies将推出新品并实行印度本地定价，同时在人才策略上探索支持本地增长的路径。",
+          "index": 7
+        },
+        {
+          "title": "Revolut创始人拟推出由AI驱动的风投基金 - TyN Magazine",
+          "link": "https://tynmagazine.com/revolut-founder-set-to-launch-venture-capital-fund-powered-by-artificial-intelligence",
+          "snippet": "Revolut创始人计划设立一只由AI技术驱动的新风险投资基金，以提升投资决策效率。",
+          "index": 8
+        },
+        {
+          "title": "Salesforce CEO称将招聘2000人专门销售AI产品",
+          "link": "https://www.cryptopolitan.com/salesforce-to-hire-2000-for-ai-product-sale",
+          "snippet": "Salesforce CEO表示公司将新增约2000名销售人员，专门负责AI产品的推广与市场拓展。",
+          "index": 9
+        },
+        {
+          "title": "NEAR将招聘AI工程师以推进AI路线图",
+          "link": "https://coindesk.com/business/2024/04/10/near-to-hire-artificial-intelligence-engineers-as-part-of-ai-roadmap",
+          "snippet": "NEAR联合创始人Illia Polosukhin表示，作为AI路线图的一部分，公司将招聘AI工程师。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
