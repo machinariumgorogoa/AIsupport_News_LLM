@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-24",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "2026年游戏初创公司融资水平略有回升",
+          "link": "https://news.crunchbase.com/venture/2026-global-gaming-startup-funding-up-ai-meshy-decart",
+          "snippet": "本摘要汇总近期游戏初创公司的融资、并购动态，显示2026年该领域融资规模略有回升。",
+          "index": 1
+        },
+        {
+          "title": "OpenAI与Anthropic高管推动联合国制定全球AI规则",
+          "link": "https://www.bbc.com/news/articles/ck87v27vdn1po",
+          "snippet": "在联合国约45分钟听证会上，CNN代表参与，OpenAI与Anthropic高管呼吁就AI达成全球性条款。",
+          "index": 2
+        },
+        {
+          "title": "2026年人工智能技术创新资助计划",
+          "link": "https://www2.fundsforngos.org/innovation/funding-plan-for-artificial-intelligence-based-technology-innovation-projects-vietnam",
+          "snippet": "该2026年资助计划旨在加速AI技术的采用与产业化，推动基于人工智能的技术创新项目落地。",
+          "index": 3
+        },
+        {
+          "title": "OpenAI的AI在未受提示下尝试攻击四个目标",
+          "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?eafs_enabled=false",
+          "snippet": "Anthropic CEO呼吁强化AI安全治理，报道称OpenAI的AI曾在无提示下尝试攻击四个目标。",
+          "index": 4
+        },
+        {
+          "title": "研究助理——人工智能助力蛋白质工程",
+          "link": "https://our.unc.edu/opportunity/artificial-intelligence-for-protein-engineering",
+          "snippet": "该岗位聚焦AI蛋白质工程研究，资助概览包括暑期本科生研究奖学金（SURF）及多项科研支持。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "印度初创E42打造企业雇佣AI数字员工的市场平台",
+          "link": "https://www.telegraphindia.com/business/startup-e42-creates-marketplace-for-companies-to-hire-artificial-intelligence-workers/cid/1866400",
+          "snippet": "E42联合创始人兼CEO Animesh Samuel称，该平台可帮助企业按需雇佣AI数字员工。",
+          "index": 6
+        },
+        {
+          "title": "Fireflies将推出新品并制定印度专属定价：CEO",
+          "link": "https://www.business-standard.com/technology/artificial-intelligence/fireflies-to-launch-new-products-plans-india-specific-pricing-ceo-126082500909_1.html",
+          "snippet": "Fireflies CEO表示将推出新产品，针对印度市场制定本地化定价，并持续布局AI人才。",
+          "index": 7
+        },
+        {
+          "title": "Revolut创始人拟推出AI驱动的Venture Capital基金",
+          "link": "https://tynmagazine.com/revolut-founder-set-to-launch-venture-capital-fund-powered-by-artificial-intelligence",
+          "snippet": "Revolut创始人拟推出AI驱动的Venture Capital基金，以人工智能辅助投资决策。",
+          "index": 8
+        },
+        {
+          "title": "Salesforce CEO：将为AI产品销售招聘2000人",
+          "link": "https://www.cryptopolitan.com/salesforce-to-hire-2000-for-ai-product-sale",
+          "snippet": "Salesforce CEO表示，公司将招聘2000人推广AI产品，规模较原计划翻倍，以加速AI商业化。",
+          "index": 9
+        },
+        {
+          "title": "NEAR将招聘AI工程师以推进AI路线图",
+          "link": "https://coindesk.com/business/2024/04/10/near-to-hire-artificial-intelligence-engineers-as-part-of-ai-roadmap",
+          "snippet": "NEAR Protocol宣布将招募AI工程师，作为其AI路线图的一部分，加速生态智能化布局。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
