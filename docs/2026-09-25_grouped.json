@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-25",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "73 Strings收购Callisto，加速投资布局",
+          "link": "https://www.businesswire.com/news/home/20260924152014/en/73-Strings-Acquires-Callisto-Accelerating-Investment-Into-Agentic-AI-For-Private-Markets",
+          "snippet": "AI估值技术公司73 Strings收购Callisto，加速产品研发与行业投资。",
+          "index": 1
+        },
+        {
+          "title": "Akamai与Anthropic签署116亿美元云协议，授予最高5%股权",
+          "link": "https://www.channelnewsasia.com/business/akamai-signs-116-billion-cloud-deal-anthropic-grants-warrant-up-5-stake-6409301",
+          "snippet": "尽管AI能耗等担忧加剧，Akamai仍与Anthropic达成大规模云计算合作。",
+          "index": 2
+        },
+        {
+          "title": "AI税务平台Numeral完成1亿美元C轮融资",
+          "link": "https://finance.yahoo.com/technology/ai/articles/ai-tax-platform-numeral-raises-091841577.html?fr=sycsrp_catchall",
+          "snippet": "AI间接税务合规平台Numeral获1亿美元融资，用于市场扩张与产品创新。",
+          "index": 3
+        },
+        {
+          "title": "德国初创公司Neura Robotics拟融资12亿美元",
+          "link": "https://www.akm.ru/eng/news/german-startup-neura-robotics-intends-to-raise-1-2-billion-in-a-funding-round",
+          "snippet": "Neura与多家资本雄厚的机器人企业竞争，计划大规模融资扩展业务。",
+          "index": 4
+        },
+        {
+          "title": "Ema AI功能、定价与架构解析",
+          "link": "https://www.layer3labs.io/guides/ema-ai-explained",
+          "snippet": "Ema AI利用生成式AI自动化企业HR、IT和财务工作流，提升运营效率。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI初创公司招聘：时薪40-66美元（2026年9月急聘）",
+          "link": "https://www.ziprecruiter.com/Jobs/Ai-Startup",
+          "snippet": "该职位要求全职投入，参与构建和运营早期AI创业项目。",
+          "index": 6
+        },
+        {
+          "title": "OpenAI",
+          "link": "https://jobs.a16z.com/company/openai",
+          "snippet": "Andreessen Horowitz - a16z招聘 | 页面列示OpenAI团队信息，包括联合创始人兼CEO Sam Altman等核心成员。",
+          "index": 7
+        },
+        {
+          "title": "2026年商业中的人工智能：采用、就业与成本（斯坦福AI指数）",
+          "link": "https://pitchavatar.com/ai-in-business-statistics",
+          "snippet": "斯坦福HAI每年发布AI指数，分析企业AI采用率、就业影响及成本变化。",
+          "index": 8
+        },
+        {
+          "title": "为企业引入AI？别忘了法律基础",
+          "link": "https://www.jdsupra.com/legalnews/adding-ai-to-your-business-don-t-forget-3466684",
+          "snippet": "企业部署AI时应审查供应商条款，明确责任边界，做好披露与合规管理。",
+          "index": 9
+        },
+        {
+          "title": "Actively联合创始人办公室主任",
+          "link": "https://jobs.alkeon.com/companies/actively-2/jobs/94665805-chief-of-staff-to-co-founder",
+          "snippet": "Alkeon Capital招聘板 | Actively AI为该岗位提供薪酬估算，招聘协助创始团队的运营高管。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
