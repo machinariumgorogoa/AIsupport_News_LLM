@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-26",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "OpenAI推出AI编程智能体Codex",
+          "link": "https://en.wikipedia.org/wiki/OpenAI",
+          "snippet": "OpenAI发布AI编程智能体Codex，可自动编写与调试代码，并计划于2026年3月完成新一轮融资。",
+          "index": 1
+        },
+        {
+          "title": "2026年AI基础设施投资预计将达7690亿美元",
+          "link": "https://www.firstpost.com/business/ai-infrastructure-investment-set-to-surge-to-769-billion-in-2026-as-safety-concerns-mount-14048359.html/amp",
+          "snippet": "尽管AI安全担忧加剧，主要科技公司和投资者仍加码数据中心、芯片等基础设施投入。",
+          "index": 2
+        },
+        {
+          "title": "什么是AI？人工智能解析",
+          "link": "https://aws.amazon.com/what-is/artificial-intelligence",
+          "snippet": "人工智能是一种变革性技术，能够模拟人类智能进行学习、推理和决策，并广泛应用于各行各业。",
+          "index": 3
+        },
+        {
+          "title": "Paytm最新动态：Accel为印度募资5.5亿美元",
+          "link": "https://economictimes.indiatimes.com/tech/paytm",
+          "snippet": "风投Accel为印度市场募资5.5亿美元，将持续聚焦早期阶段初创企业的投资布局。",
+          "index": 4
+        },
+        {
+          "title": "5亿美元",
+          "link": "https://aws.amazon.com/certification/certified-ai-practitioner",
+          "snippet": "风投Accel为印度市场募资5.5亿美元，将持续聚焦早期阶段初创企业的投资布局。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "MeloTech远程招聘AI与产品创始人助理",
+          "link": "https://jobgether.com/offer/6ab63214865119c687eded94-founders-associate---ai-product",
+          "snippet": "MeloTech招聘远程创始人助理，聚焦AI与产品方向，协助推动人工智能产品战略落地。",
+          "index": 6
+        },
+        {
+          "title": "DEUNA招聘AI产品负责人",
+          "link": "https://jobs.lever.co/deuna/ec4f69ac-f28e-496e-b925-45d21c53e467",
+          "snippet": "DEUNA设立AI产品负责人岗位，将利用人工智能工具支持产品开发，推进智能化商业解决方案。",
+          "index": 7
+        },
+        {
+          "title": "Uplers为初创企业提供AI与人工筛选人才",
+          "link": "https://thesiliconreview.com/2026/09/uplers-ai-recruiter-screened-talent-for-startups",
+          "snippet": "Uplers以核心原则设计招聘流程，结合AI技术与招聘官筛选，为初创公司匹配高质量人才。",
+          "index": 8
+        },
+        {
+          "title": "Current AI在法国远程招聘产品负责人",
+          "link": "https://www.remoterocketship.com/company/current-ai-org/jobs/head-of-product-france-remote",
+          "snippet": "Current AI招募远程产品负责人，这家全球性非营利组织致力于推动负责任的人工智能发展。",
+          "index": 9
+        },
+        {
+          "title": "Airbnb CEO称AI帮助解决长期难题",
+          "link": "https://finance.yahoo.com/technology/ai/articles/airbnb-ceo-says-ai-helped-163009992.html",
+          "snippet": "Airbnb首席执行官Brian Chesky表示，他借助人工智能技术解决了公司长期存在的一个棘手问题。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
