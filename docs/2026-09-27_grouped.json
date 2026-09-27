@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-27",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic's IPO is a $300 billion test for Amazon",
+          "link": "https://finance.yahoo.com/technology/ai/articles/anthropics-ipo-300-billion-test-014700775.html",
+          "snippet": "That carrying value already reflects Anthropic's $965 billion valuation from its...",
+          "index": 1
+        },
+        {
+          "title": "Nscale Raises $3.36 Billion In Pre-IPO Convertible Financing Led By Third Point",
+          "link": "https://pulse2.com/nscale-raises-3-36-billion-in-pre-ipo-convertible-financing",
+          "snippet": "The deal provides Nscale with additional capital as it pursues large-scale AI in...",
+          "index": 2
+        },
+        {
+          "title": "Tiny-Vedas: RISC-V Infrastructure for AI Accelerator Design",
+          "link": "https://engrxiv.org/preprint/view/8328",
+          "snippet": "ASIC-based Artificial Intelligence (AI) accelerators have drawn intense interest and funding in recent years, yet their reduction to practice remained elusive.",
+          "index": 3
+        },
+        {
+          "title": "Parallel - Web Infrastructure for AI Agents",
+          "link": "https://parallel.ai",
+          "snippet": "Example query: Find the latest funding rounds for AI infrastructure startups\n An...",
+          "index": 4
+        },
+        {
+          "title": "Context Analytics - CA",
+          "link": "https://www.contextanalytics-ai.com",
+          "snippet": "### From Signal to Action: How Unstructured Data Is Reshaping Alternative Data i...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "ASI TECH INC. Announces Expansion of Artificial Intelligence Services and Robotics Development Roadmap",
+          "link": "https://www.newsfilecorp.com/release/316193/ASI-TECH-INC.-Announces-Expansion-of-Artificial-Intelligence-Services-and-Robotics-Development-Roadmap",
+          "snippet": "Alexander Prince is the Founder and Chief Executive Officer of ASI TECH INC. and...",
+          "index": 6
+        },
+        {
+          "title": "Founder's Associate - Product at Clera",
+          "link": "https://startup.jobs/founders-associate-product-clera-10207454",
+          "snippet": "Clera harnesses the power of artificial intelligence to match high-growth startu...",
+          "index": 7
+        },
+        {
+          "title": "Director of Brand & Comms (New York) - Reindeer AI | Built In NYC",
+          "link": "https://www.builtinnyc.com/job/director-brand-comms-new-york/11200231",
+          "snippet": "Team & Function Building\n\nHire and grow the brand and comms function as we scale...",
+          "index": 8
+        },
+        {
+          "title": "Product Owner - AI - Microstrategy",
+          "link": "https://builtin.com/job/product-owner-ai/11369738",
+          "snippet": "Product Owner - AI · Own the product vision, roadmap, and backlog for AI-driven ...",
+          "index": 9
+        },
+        {
+          "title": "Artificial Intelligence",
+          "link": "https://www.ucsc-extension.edu/series/artificial-intelligence",
+          "snippet": "5. AI Workshops [...] Sri Srinivasa\n\nProgram Management Leader, Tesla\n\nThomas Po...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
