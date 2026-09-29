@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-29",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI住房租赁独角兽EliseAI估值达40亿美元（Fortune）",
+          "link": "https://fortune.com/2026/09/29/elise-ai-4-billion-valuation-funding-round-housing-unicorn-andreessen-bessemer",
+          "snippet": "人工智能公司EliseAI完成新一轮融资，估值40亿美元，a16z与Bessemer领投，用于自动化住房租赁运营。",
+          "index": 1
+        },
+        {
+          "title": "Anthropic招股书向投资者推销AI并警告其可能威胁人类（Ctech）",
+          "link": "https://www.calcalistech.com/ctechnews/article/k04of9s71",
+          "snippet": "AI公司Anthropic在IPO文件中既强调AI机遇，也警示通用人工智能可能对人类构成风险。",
+          "index": 2
+        },
+        {
+          "title": "Databricks IPO时间表与融资细节（Forge）",
+          "link": "https://forgeglobal.com/databricks_ipo",
+          "snippet": "数据与AI平台Databricks估值达1880亿美元，持续领跑企业AI市场，IPO进程受关注。",
+          "index": 3
+        },
+        {
+          "title": "AI智能体初创Instinct融资10亿美元，估值达100亿美元（Bloomberg）",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-28/ai-agent-startup-instinct-raises-1-billion-at-10-billion-value",
+          "snippet": "智能体（AI Agent）公司Instinct完成10亿美元融资，估值100亿美元，推动自主AI助手发展。",
+          "index": 4
+        },
+        {
+          "title": "AMD拟以80亿美元收购李飞飞创办的AI初创公司",
+          "link": "https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd?syn-25a6b1a6=1",
+          "snippet": "报道称AMD计划以约80亿美元收购李飞飞联合创办的空间智能AI公司World Labs。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Dario Amodei：We Must Pace the Frontier（我们必须掌控前沿节奏）",
+          "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+          "snippet": "Anthropic CEO Dario Amodei撰文指出，AI带来风险，社会需以合适节奏推进前沿技术发展。",
+          "index": 6
+        },
+        {
+          "title": "Meta成立面向企业的AI产品平台（2026-09-29）",
+          "link": "https://www.mediapost.com/publications/article/418358/meta-forms-business-facing-ai-product-platform.html",
+          "snippet": "Meta正搭建面向企业客户的AI产品平台，寄望通过多样化AI产品组合赢得AI竞赛。",
+          "index": 7
+        },
+        {
+          "title": "Zuckerberg、Amodei与Brockman将出席白宫AI会议（POLITICO）",
+          "link": "https://www.politico.com/news/2026/09/28/zuckerberg-amodei-to-attend-ai-white-house-meeting-01095324",
+          "snippet": "Meta、Anthropic与OpenAI高管将齐聚白宫，就AI政策与监管议题与政府官员会谈。",
+          "index": 8
+        },
+        {
+          "title": "Plaud.ai招聘旧金山硬件产品设计负责人（Built In San Francisco）",
+          "link": "https://www.builtinsf.com/job/head-hardware-product-design-san-francisco/8673014",
+          "snippet": "AI硬件公司Plaud.ai在旧金山设立硬件产品设计中心，招募产品负责人。",
+          "index": 9
+        },
+        {
+          "title": "雪城大学推出AI科学本科与研究生项目（工程学院）",
+          "link": "https://ecs.syracuse.edu/stories/ai-science-undergraduate-and-graduate-programs-launch",
+          "snippet": "雪城大学工学院新增AI科学学位项目，以满足雇主对AI人才的快速增长需求。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
