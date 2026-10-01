@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-01",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Valar、Atreides与Sequoia领投AI初创公司Flow Engineering，估值达7.5亿美元",
+          "link": "https://hyper.ai/en/stories/1531fa60609908b599317670c350b810",
+          "snippet": "成立三年的AI初创公司Flow Engineering获多家知名风投加持，估值达7.5亿美元。",
+          "index": 1
+        },
+        {
+          "title": "OpenAI考虑以超1.2万亿美元估值进行Pre-IPO轮融资",
+          "link": "https://stockanalysis.com/private/openai",
+          "snippet": "OpenAI筹划Pre-IPO融资，估值或突破1.2万亿美元，进一步巩固其生成式AI领先地位。",
+          "index": 2
+        },
+        {
+          "title": "xAI股价、估值及投资者动态一览",
+          "link": "https://notice.co/c/x-ai",
+          "snippet": "马斯克旗下xAI的估值、融资历程与主要投资者持续受到资本市场关注。",
+          "index": 3
+        },
+        {
+          "title": "ElevenLabs估值翻倍至220亿美元，AI语音Agent需求激增",
+          "link": "https://www.reuters.com/legal/transactional/elevenlabs-valuation-doubles-22-billion-surging-ai-voice-agent-demand-2026-09-30",
+          "snippet": "AI语音初创公司ElevenLabs获融资，估值升至220亿美元，反映企业语音Agent需求强劲。",
+          "index": 4
+        },
+        {
+          "title": "AI语音初创公司ElevenLabs估值翻倍至220亿美元",
+          "link": "https://www.ft.com/content/08a71b38-d98c-472a-9576-e40ae2cfdf19?syn-25a6b1a6=1",
+          "snippet": "受生成式AI语音助手需求推动，ElevenLabs估值一年内翻倍，达到约220亿美元。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Verizon CEO预测18个月内实现AGI，十年将迎百年科技进步",
+          "link": "https://fortune.com/2026/09/30/this-revolution-is-happening-in-years-not-decades-verizon-ceo-dan-schulman-sees-agi-within-18-months-and-a-century-of-progress-in-a-decade",
+          "snippet": "Dan Schulman认为通用人工智能AGI将在18个月内出现，未来十年科技进步堪比一个世纪。",
+          "index": 6
+        },
+        {
+          "title": "5亿美元",
+          "link": "https://www.npr.org/2026/10/01/nx-s1-5973243/ai-faa-air-traffic-control-software",
+          "snippet": "成立三年的AI初创公司Flow Engineering获多家知名风投加持，估值达7.5亿美元。",
+          "index": 7
+        },
+        {
+          "title": "CEO回应科技高管承诺“自我监管”AI产品",
+          "link": "https://www.cnn.com/2026/09/30/business/video/exiger-ceo-reacts-to-tech-execs-pledging-to-self-police-ai-companies-lead-jake-tapper",
+          "snippet": "针对科技领袖承诺自律监管AI产品，企业CEO发表看法，强调治理与责任的重要性。",
+          "index": 8
+        },
+        {
+          "title": "管理400亿美元企业的AI转型经验",
+          "link": "https://www.mindtheproduct.com/lessons-from-managing-ai-transformation-in-a-40-billion-contract-portfolio",
+          "snippet": "文章分享了在400亿美元规模企业中推动AI转型的产品思维、最佳实践与组织协同经验。",
+          "index": 9
+        },
+        {
+          "title": "生成式AI在科学论文写作中的应用与挑战",
+          "link": "https://blog.scielo.org/en/2026/09/30/artificial-intelligence-in-the-writing-of-scientific-articles-guidelines-for-ethical-and-responsible-use",
+          "snippet": "生成式AI正改变学术写作，提高效率的同时也带来伦理、原创性与学术诚信等挑战。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
