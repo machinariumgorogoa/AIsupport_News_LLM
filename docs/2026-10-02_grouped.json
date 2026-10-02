@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-02",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Value Add VC",
+          "link": "https://valueaddvc.com",
+          "snippet": "初创与VC情报平台 | 4亿美元以上Mega-Rounds悄然回归 | VC情报平台显示，4亿美元以上Mega-Rounds正悄然回归，数字医疗等赛道大型融资回暖迹象明显。",
+          "index": 1
+        },
+        {
+          "title": "AI Funding Tracker征稿：AI、科技、初创与融资客座文章",
+          "link": "https://aifundingtracker.com/write-for-us-guest-post-ai-tech-business",
+          "snippet": "AI初创融资与VC | 该平台诚邀AI、科技、初创与融资领域投稿，聚焦AI初创融资及VC动态，提供行业洞察、趋势分析与投资观察。",
+          "index": 2
+        },
+        {
+          "title": "Reuters Legal",
+          "link": "https://x.com/ReutersLegal/status/2105948442321150278",
+          "snippet": "“AI人工智能”、键盘与机器人背后的法律议题 | 路透社法律栏目聚焦AI相关法律议题，探讨人工智能监管、责任与合规风险，关注技术发展的全球挑战与趋势。",
+          "index": 3
+        },
+        {
+          "title": "2026年顶级AI投资者与VC机构",
+          "link": "https://www.openvc.app/investor-lists/ai-investors",
+          "snippet": "覆盖收入、规模化、成长至Pre-IPO阶段 | 盘点2026年最适合初创企业的顶级AI投资者与VC机构，覆盖收入、规模化、成长及Pre-IPO各阶段。",
+          "index": 4
+        },
+        {
+          "title": "Anthony Chidi Nzomiwu：批判性评估",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7547960",
+          "snippet": "研究发现：AI在信息领域带来可量化优势 | 该评估指出AI在信息处理等方面带来可量化优势，同时提醒需关注其局限、偏见、伦理风险、实施条件与现实约束。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "ServiceNow CEO Bill McDermott：18个月内，AI将让企业重新开始创造就业",
+          "link": "https://www.lefigaro.fr/en/business/servicenow-ceo-bill-mcdermott-within-18-months-ai-will-allow-companies-to-start-creating-jobs-again-20261002",
+          "snippet": "ServiceNow CEO认为加速AI采用是企业增长前提，预计18个月内AI将帮助企业重新创造就业岗位。",
+          "index": 6
+        },
+        {
+          "title": "OpenAI招聘：消费垂直领域产品设计师",
+          "link": "https://openai.com/careers/product-designer-consumer-verticals-san-francisco",
+          "snippet": "OpenAI专注AI研究与部署 | OpenAI招聘消费垂直领域产品设计师，持续推动AI研究、部署及面向消费场景的落地应用，提升用户体验。",
+          "index": 7
+        },
+        {
+          "title": "商业专家：AI素养将像基础文字处理一样重要",
+          "link": "https://www.foxnews.com/video/6406069413112",
+          "snippet": "Fox News视频 | Retail Prophet CEO指出，AI素养将成为职场基本技能，与掌握基础文字处理能力同等重要。",
+          "index": 8
+        },
+        {
+          "title": "使用Amazon Quick为AI构建的应用提供实时、受治理的数据",
+          "link": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick",
+          "snippet": "AWS人工智能 | 借助Amazon Quick，企业可在AI构建的应用中提供实时、受治理的数据服务，覆盖初创到企业场景。",
+          "index": 9
+        },
+        {
+          "title": "Gong——营收AI OS",
+          "link": "https://www.gong.io",
+          "snippet": "LinkedIn：Gong已为我们节省6700小时通话处理时间 | 作为营收AI OS，Gong通过AI分析通话帮助销售团队节省大量时间，提升销售效率与业绩，并支持数据驱动决策。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
