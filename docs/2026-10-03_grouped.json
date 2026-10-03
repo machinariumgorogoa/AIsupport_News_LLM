@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-03",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "本周十大融资轮：几乎全与AI相关",
+          "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct",
+          "snippet": "其中旧金山AI助手公司Instinct获10亿美元融资，继续领跑生成式AI投资热潮。",
+          "index": 1
+        },
+        {
+          "title": "Q.ai的收购、估值、融资及投资者",
+          "link": "https://multiples.vc/private-comps/q-ai",
+          "snippet": "文章梳理Q.ai等公司的并购估值与融资情况，并提及云金融软件商Ncino Inc。",
+          "index": 2
+        },
+        {
+          "title": "AI主题SPAC Southport Acquisition II定价2亿美元IPO",
+          "link": "https://dealroom.co/news/158748-ai-focused-spac-southport-acquisition-ii-prices-200m-ipo",
+          "snippet": "这只明确围绕AI的SPAC以2亿美元定价IPO，显示AI仍是并购市场的热门叙事。",
+          "index": 3
+        },
+        {
+          "title": "机器人AI开发商FieldAI据称融资7亿美元",
+          "link": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding",
+          "snippet": "知情人士透露，机器人AI公司FieldAI本轮融资规模可能达到约7亿美元。",
+          "index": 4
+        },
+        {
+          "title": "Anthropic IPO文件列明政府行动风险",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ipo-filing-outlines-government-action-risks-for-commercial-ecosystem",
+          "snippet": "彭博报道称Anthropic瞄准上市，其IPO文件详细披露政府监管与行动可能带来的风险。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "产品辨别力对企业长期成功至关重要",
+          "link": "https://www.accountancyireland.ie/2026/10/02/product-discernment-is-vital-for-long-term-business-success/content.html",
+          "snippet": "当AI让验证想法成本骤降，产品人更需依靠敏锐判断筛选真正有价值的方向。",
+          "index": 6
+        },
+        {
+          "title": "Letter AI招聘创始产品营销经理",
+          "link": "https://www.builtinchicago.org/job/founding-product-marketing-manager/9185594",
+          "snippet": "该岗位负责从0到1搭建产品营销体系，深入理解AI产品并推动市场增长。",
+          "index": 7
+        },
+        {
+          "title": "No Priors：前沿模型架构的未来——Fractile CEO访谈",
+          "link": "https://podscripts.co/podcasts/no-priors-artificial-intelligence-technology-startups/the-future-of-frontier-model-architectures-with-walter-goodwin-fractile-founder-and-ceo",
+          "snippet": "Fractile创始人兼CEO Walter Goodwin分享全栈AI芯片与未来前沿模型架构的愿景。",
+          "index": 8
+        },
+        {
+          "title": "Safely You招聘AI与智能平台首席产品经理",
+          "link": "https://jobs.foundationcapital.com/companies/safely-you/jobs/95600001-lead-product-manager-ai-intelligence-platform",
+          "snippet": "该职位负责AI与智能平台产品战略，平台源自CEO George N于2015年的博士研究。",
+          "index": 9
+        },
+        {
+          "title": "CONCÉ创始人Meghan Houle谈AI招聘平台",
+          "link": "https://pulse2.com/conce-profile-meghan-houle-interview",
+          "snippet": "CONCÉ是AI驱动的招聘智能平台，旨在通过AI提升人才筛选与招聘决策效率。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
