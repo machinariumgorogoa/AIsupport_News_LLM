@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-04",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Value Add VC｜创业与VC情报平台：4亿美元以上mega-rounds悄然回归",
+          "link": "https://valueaddvc.com",
+          "snippet": "该平台数据显示，4亿美元以上的 mega-rounds 正低调回归，数字健康等赛道融资活跃度回升。",
+          "index": 1
+        },
+        {
+          "title": "人工智能：AI IPO热潮内幕｜OpenAI一周后提交文件",
+          "link": "https://www.smh.com.au/money/investing/billions-in-losses-no-dividends-inside-the-ai-ipo-frenzy-20261004-p612eq.html",
+          "snippet": "OpenAI在报道一周后递交IPO文件，其估值与上市预期令AI企业IPO frenzy持续升温。",
+          "index": 2
+        },
+        {
+          "title": "AI交易frenzy助推香港募资创夏季新高",
+          "link": "https://www.chinadailyasia.com/article/640506",
+          "snippet": "AI项目密集融资带动香港市场募资额刷新夏季纪录，pipeline仍庞大，含多只重磅新股。",
+          "index": 3
+        },
+        {
+          "title": "AI金钱机器：55% AI公司投资来自其他AI公司",
+          "link": "https://247wallst.com/investing/2026/10/03/the-ai-money-machine-55-of-investment-in-ai-companies-comes-from-other-ai-companies",
+          "snippet": "研究显示AI企业互投占比过半，且AI-to-AI融资常与销售额挂钩，形成行业资金循环。",
+          "index": 4
+        },
+        {
+          "title": "AI基础设施商Firmus Technologies拟澳洲IPO并寻求Nasdaq双重上市",
+          "link": "https://www.afr.com/companies/infrastructure/firmus-spruiks-future-nasdaq-listing-prepares-for-44b-australian-ipo-20261004-p612ad",
+          "snippet": "Firmus Technologies计划进行437亿美元澳洲IPO，并考虑同步在Nasdaq挂牌，拓展全球资本。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Sam Altman出庭：或将决定OpenAI未来的关键诉讼",
+          "link": "https://abc7news.com/live-updates/elon-musk-sam-altman-live-updates-open-ai-ceo-testifies-in-trial-that-could-determine-ai%27s-future/19080697/entry/19087759?userab=kfsn_content_recs-582%2Avariant_a_control_kfsn-2512%2Ckabc_content_recs-577%2Avariant_c_trending-2482%2Cwls_content_recs-584%2Avariant_a_control_wls-2516%2Cwtvd_content_recs-585%2Avariant_a_control_wtvd-2518%2Cktrk_content_recs-587%2Avariant_b_trending_ktrk-2523%2Cwpvi_content_recs-586%2Avariant_a_control_wpvi-2520%2Cotv_web_content_rec-539%2Avariant_c_trending-2268%2Cotv_web_topic-580%2Avariant_b_topic_redesign-2509%2Cfollow_abcnews_otv_on_google-654%2Avariant_a_control-3493%2Cotv_search_page_design_unification-546%2Avariant_b_search_redesign-2300%2Cotv_web_live-581%2Avariant_a_live-2510%2Cfollow_otv_on_google-683%2Avariant_c_share_plus_google_button-3662%2Cabcn_popular_reads_exp_followup-648%2Avariant_c_autotagswpopularity-3458%2Cotv_mobile_web_content_recs-639%2Avariant_a_control-3429%2Ckgo_content_recs-583%2Avariant_b_trending_kgo-2515%2Cotvlink_abcnnav-576%2Avariant_a_control-2478",
+          "snippet": "微软CEO Satya Nadella与OpenAI联合创始人将作证，此案结果或重塑OpenAI治理与未来。",
+          "index": 6
+        },
+        {
+          "title": "企业AI Agent：案例、成本与首个试点｜Shambix",
+          "link": "https://www.shambix.com/ai-agents-for-business-guide",
+          "snippet": "Shambix介绍企业AI Agent案例与预算，从简单WordPress工具到流程自动化，帮助企业启动首个pilot。",
+          "index": 7
+        },
+        {
+          "title": "Greg Lui是谁？CEO被控向中国走私3亿美元AI技术",
+          "link": "https://www.newsweek.com/who-is-greg-lui-ceo-accused-smuggling-300-million-ai-servers-china-12521684",
+          "snippet": "Newsweek报道该CEO涉嫌非法向中国输送价值3亿美元AI技术，其进入科技行业前的经历亦受关注。",
+          "index": 8
+        },
+        {
+          "title": "特朗普任命国家情报总监Jay Clayton为AI czar：WSJ",
+          "link": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+          "snippet": "在AI行业领袖会晤白宫数日后，特朗普提名Jay Clayton统筹AI政策，推动国家战略与技术监管协调。",
+          "index": 9
+        },
+        {
+          "title": "Parallel：面向AI Agent的Web基础设施",
+          "link": "https://parallel.ai",
+          "snippet": "Parallel为AI Agent提供专用Web基础设施，示例查询可检索AI基础设施领域的最新funding rounds。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
