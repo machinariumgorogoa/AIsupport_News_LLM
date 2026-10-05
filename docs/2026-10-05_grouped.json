@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-05",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Crunchbase数据：2026年Q3创纪录的十亿美元级AI融资轮次",
+          "link": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data",
+          "snippet": "Crunchbase数据显示，2026年Q3全球AI竞赛升温，十亿美元级融资轮次创历史新高，金额以美元计。",
+          "index": 1
+        },
+        {
+          "title": "Agent基础设施栈：六家公司合计价值超590亿美元",
+          "link": "https://medium.com/@vatsvedang/the-infrastructure-behind-ai-agents-7c57460a0ac0",
+          "snippet": "这六家Agent基础设施企业合计价值超590亿美元，彰显AI Agent赛道热度与生态重要性。",
+          "index": 2
+        },
+        {
+          "title": "从SpaceXAI到SpaceXSI：马斯克超级智能转向解读",
+          "link": "https://www.indmoney.com/blog/us-stocks/spacexai-to-spacexsi-musk-superintelligence",
+          "snippet": "马斯克拟将SpaceXAI改为SpaceXSI，标志其向Superintelligence的战略转型。",
+          "index": 3
+        },
+        {
+          "title": "立即申请：100万美元资助AI教育科技初创联盟——ICTworks",
+          "link": "https://www.ictworks.org/1-million-for-ai-edutech-coalitions",
+          "snippet": "ICTworks提供100万美元资助AI EduTech初创联盟，覆盖学术研究、农业科技及人工智能等领域。",
+          "index": 4
+        },
+        {
+          "title": "施耐德电气拟226亿美元全现金收购PTC——WSJ",
+          "link": "https://www.wsj.com/business/deals/schneider-electric-to-buy-software-maker-ptc-for-22-6-billion-7a23a60c",
+          "snippet": "法国施耐德电气将全现金收购PTC，交易金额约226亿美元，强化工业软件与AI能力。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "特朗普成立Super Intelligence Force，Jay Clayton任AI czar",
+          "link": "https://siliconangle.com/2026/10/04/trump-launches-super-intelligence-force-with-jay-clayton-as-ai-czar",
+          "snippet": "特朗普成立Super Intelligence Force，Jay Clayton任AI czar，聚焦机器人与AI发展。",
+          "index": 6
+        },
+        {
+          "title": "纳德拉的下一幕：微软CEO能否在AI领域复制云战略奇迹？",
+          "link": "https://www.techbuzz.ai/articles/nadella-s-next-act-can-microsoft-s-ceo-repeat-his-cloud-magic-in-ai",
+          "snippet": "文章探讨纳德拉能否复制云战略奇迹，引领微软在AI、企业软件与云计算领域再创佳绩。",
+          "index": 7
+        },
+        {
+          "title": "人工智能",
+          "link": "https://www.deloitte.com/na/en/what-we-do/capabilities/ai.html?icid=top_ai",
+          "snippet": "德勤（Deloitte） | 德勤人工智能业务介绍，Deloitte指德勤全球网络中的一个或多个成员机构。",
+          "index": 8
+        },
+        {
+          "title": "Mercury CEO谈写作原则与AI使用：写作是主要沟通方式",
+          "link": "https://medium.com/@hunterwalk/mercurys-ceo-on-their-principles-of-writing-and-ai-usage-ef67e3ae208f",
+          "snippet": "Mercury CEO阐述公司写作原则与AI使用准则，强调写作是团队沟通的核心方式。",
+          "index": 9
+        },
+        {
+          "title": "面向工作与工程的Open Intelligence——MindsHub",
+          "link": "https://mindshub.ai",
+          "snippet": "MindsHub推出面向工作与工程的Open Intelligence方案，支持表格处理与大规模数据测试。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
