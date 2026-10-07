@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-07",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "北美初创企业融资Q3下滑，AI巨头瞄准公开市场",
+          "link": "https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data",
+          "snippet": "第三季度退出市场涌现多起大型并购交易，同时北美初创企业融资显著下滑，人工智能巨头正积极瞄准公开市场机会。",
+          "index": 1
+        },
+        {
+          "title": "Modulate融资2500万美元继续开发语音AI技术",
+          "link": "https://www.pymnts.com/tag/funding",
+          "snippet": "Modulate公司完成2500万美元融资，将持续投入人工智能技术研发，优化其语音交互与内容审核解决方案。",
+          "index": 2
+        },
+        {
+          "title": "全球IPO与股权市场募资超1万亿美元，AI担忧隐现",
+          "link": "https://www.wsj.com/finance/investing/companies-raise-more-than-1-trillion-in-equity-markets-but-ai-bond-yields-sour-mood-b34359a9",
+          "snippet": "全球股权市场募资规模突破1万亿美元，企业IPO活动活跃，但人工智能监管与市场风险引发投资者担忧。",
+          "index": 3
+        },
+        {
+          "title": "与行业先驱探讨风险投资流动性的复苏",
+          "link": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/inside-the-revival-of-venture-capital-liquidity-with-an-industry",
+          "snippet": "行业先驱汉斯·斯维登斯与高盛探讨风险投资流动性复苏，认为当前市场环境由多重交叉因素共同驱动。",
+          "index": 4
+        },
+        {
+          "title": "人工智能作为知识产权的商业价值",
+          "link": "https://oceantomo.com/insights/the-business-case-for-ai-as-intellectual-property-eight-questions-on-recognition-protection-valuation-and-monetization",
+          "snippet": "人工智能并购交易显示，拥有AI知识产权的企业获得高溢价估值，凸显AI专利与数据资产的战略商业价值。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "谷歌收购Spirit Airlines数据计划遇阻",
+          "link": "https://www.businessinsider.com/category/artificial-intelligence",
+          "snippet": "谷歌竞购Spirit Airlines数据资产遭遇挫折，该交易引发市场对AI数据获取与航空业数据价值的关注。",
+          "index": 6
+        },
+        {
+          "title": "马斯克等科技领袖联名致信引发AI监管讨论",
+          "link": "https://news.crunchbase.com/sections/ai?pages=10",
+          "snippet": "公开信签署者包括特斯拉与SpaceX首席执行官埃隆·马斯克，信件呼吁关注人工智能发展风险与监管问题。",
+          "index": 7
+        },
+        {
+          "title": "都柏林城市大学将联合主导1.2亿欧元国家数据与AI研究中心",
+          "link": "https://www.dcu.ie/graduatestudies/news/2026/jul/dcu-co-lead-new-eu120-million-national-research-centre-data-and-ai",
+          "snippet": "都柏林城市大学将联合主导新建1.2亿欧元国家数据与人工智能研究中心，推动数据科学与AI技术创新发展。",
+          "index": 8
+        },
+        {
+          "title": "人工智能、能源消耗与发展中经济体的就业增长",
+          "link": "https://www.bruegel.org/comment/artificial-intelligence-and-energy-consumption",
+          "snippet": "研究探讨人工智能对能源消耗的影响，以及AI技术如何在发展中经济体中重塑就业结构并推动经济增长。",
+          "index": 9
+        },
+        {
+          "title": "D/RIFT：以声音揭示人工智能的环境影响",
+          "link": "https://uni-freiburg.de/veranstaltungskalender/2026-10-07-d-rift-sounding-the-environmental-impact-of-artificial-intelligence",
+          "snippet": "弗莱堡大学项目融合声学乐器、电子音景与数字技术，探索并呈现人工智能对生态环境的深层影响。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
