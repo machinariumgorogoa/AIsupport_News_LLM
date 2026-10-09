@@ -1,302 +1,262 @@
 {
-  "date": "2026-10-08",
-  "count": 36,
+  "date": "2026-10-09",
+  "count": 31,
   "items": [
     {
-      "title": "Should I Sell My AI Startup or Raise Another Round? | FE International",
-      "link": "https://www.feinternational.com/blog/should-i-sell-my-ai-startup-or-raise-another-round",
-      "snippet": "### Why is my funding valuation higher than what acquirers offer?\n\nBecause the t...",
-      "raw_snippet": "### Why is my funding valuation higher than what acquirers offer?\n\nBecause the two are priced on different logic. A round buys a minority stake and a claim on a wide range of future outcomes, with preferences and rights attached to protect the investor. An acquisition buys the whole company in cash, with the buyer taking execution risk. The gap is structural rather than evidence that acquirers are undervaluing you, and our note on what multiple a SaaS business sells for explains the mechanics. [...] ### The Questions That Actually Decide It\n\nStrip out the valuation comparison and a handful of questions do most of the work. None has a general answer.\n\nWould more capital change the outcome, or only extend it? If there is a specific thing the business could do with money that it cannot do without it, and that thing plausibly changes what the company is worth, raising has a clear case. If the capital would mostly fund more of what is already happening, the case is weaker. [...] A funding round prices a minority stake in new shares, puts capital into the company rather than into your hands, and leaves execution risk with you. A sale prices the whole company, settles in cash or buyer stock, and transfers that risk to the buyer. The headline numbers are therefore not comparable, and the decision turns on questions that have nothing to do with either: whether more capital would change what the business becomes, what your own cap table does to proceeds at realistic prices,",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Breakingviews：40亿美元neocloud IPO摇摇欲坠，刺破AI泡沫？",
-      "link": "https://www.reuters.com/commentary/breakingviews/shaky-4-bln-neocloud-ipo-pricks-ai-bubble-2026-10-08",
-      "snippet": "路透社Breakingviews称，这家新云公司40亿美元IPO表现不稳，令市场对AI泡沫的忧虑升温。",
-      "raw_snippet": "MELBOURNE, Oct 8 (Reuters Breakingviews) - A quirky new metric appears to have failed to help Nvidia (NVDA.O) - and Blackstone (BX.N) - backed neocloud Firmus Technologies persuade investors to bestow it with the A$44 billion ($31 billion) IPO valuation it was pushing for. ​The Australia-based data centre developer on Wednesday slashed the price for buying into its stock market debut by 25% and is ‌now scrambling to keep the deal alive, per the Australian Financial Review. It's another prick of [...] and Meta. Those new contracts stand behind ⁠attempts to secure a price tag triple that set in its last private funding round in August. [...] Deployed properly, the metric could find favour with sectors ranging from upstart mining firms to biotech companies. Trouble is, it's easy to manipulate.",
+      "title": "AI使用激增，私募市场估值实践承压",
+      "link": "https://www.investmentnews.com/alternatives/private-market-valuation-practices-under-pressure-as-ai-use-surges/268551",
+      "snippet": "AI进入估值流程，传统私募估值方法面临变革压力。",
+      "raw_snippet": "## AI enters the valuation workflow\n\nArtificial intelligence is moving from conversation to practice but the governance frameworks required to manage it responsibly are not keeping up.\n\nSeventy-seven percent of survey participants reported beginning to use or increasing their use of AI in the past year, up sharply from 35% in 2025. Among AI users, the most frequently cited tools are Microsoft Copilot at 73%, ChatGPT at 40%, and Claude at 29%. [...] The applications are primarily efficiency-focused. AI tools are being used to draft valuation memos and materials by 58% of AI users, for quality review by 40%, and for document intake and data extraction by 40%. Replacing professional judgment is not yet on the table - the survey describes the prevailing posture as digital-driven and human-led. [...] The governance gap, however, is significant. While 42% of fund groups have a formal policy for acceptable AI use, 39% report having no formal AI governance or specific control practices in place. Among those using AI in valuation, only 10% have established vendor due diligence processes for the tools they are deploying, and just 7% have implemented output logging or audit trails.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "Shaky $4 bln neocloud IPO pricks AI bubble | Reuters",
-      "link": "https://www.breakingviews.com/columns/breaking-view/shaky-4-bln-neocloud-ipo-pricks-ai-bubble-2026-10-08",
-      "snippet": "neocloud Firmus Technologies persuade investors to bestow it with the A$44 billion ($31 billion) IPO valuation it was pushing for. of the AI bubble.",
-      "raw_snippet": "neocloud Firmus Technologies persuade investors to bestow it with the A$44 billion ($31 billion) IPO valuation it was pushing for. of the AI bubble.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Nous Research确认估值达15亿美元，为企业用户推出AI agents",
-      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
-      "snippet": "本轮融资由Robot Ventures领投，Nous Research估值升至15亿美元，并发布面向企业用户的AI agents。",
-      "raw_snippet": "The round was led by Robot Ventures, with participation from other backers including Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, where Donald Trump Jr. is a partner. The new financing brings the three-year-old startup’s total funding to $158 million.\n\nPopular among developers and individuals, the open-source Hermes agent has been cloned more than 24 million times, driving roughly 2.5% of global AI token usage, according to the startup’s estimates. [...] The capital will fund Nous Research’s push into the enterprise sector with “Hermes for Businesses,” allowing companies to deploy customized AI agents that can handle multi-step workflows while keeping their data private and secure.\n\nNous was at roughly $36 million in annualized revenue by mid-September 2026 and expects to pass $100 million before the end of 2026, The WSJ reported. [...] Nous Research, the startup developing the open-source Hermes agent, has raised a $90 million Series B at a $1.5 billion valuation, The Wall Street Journal reported on Wednesday, confirming TechCrunch’s earlier reporting.",
+      "title": "AI IPO失败令市场恐惧先于FOMO",
+      "link": "https://www.breakingviews.com/columns/considered-view/failed-ai-ipo-puts-fear-before-fomo-2026-10-09",
+      "snippet": "一家公司目标估值440亿澳元后放弃IPO，AI投资热度降温。",
+      "raw_snippet": "ditched its IPO after aiming for a A$44 billion ($31 billion) valuation - triple that set in an August funding round … at more than $5 billion raised, AI-",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "AI Acquisition is rated \"Excellent\" with 4.6 / 5 on Trustpilot",
-      "link": "https://www.trustpilot.com/review/www.aiacquisition.com",
-      "snippet": "Reviewers mention positive feedback about customer service, highlighting fast, p...",
-      "raw_snippet": "Reviewers mention positive feedback about customer service, highlighting fast, personal support and helpful... See more\n\n## Artificial intelligence\n\nReviewers highlight positive aspects of artificial intelligence, expressing immense satisfaction with the... See more\n\n### Reviews shaping this summary\n\nImage 5\n\nJennifer Abraham Jan 27, 2026\n\nImage 6: Rated 4 out of 5 stars\n\nMerged\n\nI didn't give 5 stars because it's been a long experience, but I am appreciating the new set up and guidance. [...] We make people’s success inevitable, their businesses profitable, and their income unlimited, on their terms, with AI. Join thousands of entrepreneurs who leverage our AI technology to build successful AI powered businesses without the guesswork.\n\n  \n\n## Contact info\n\n   United States\n\n   www.aiacquisition.com\n\n4.6\n\n### Excellent\n\nImage 11: TrustScore 4.5 out of 5\n387 reviews\n\n5-star\n\n4-star\n\n3-star\n\n2-star\n\n1-star\n\n  \n\nHow is the TrustScore calculated?\n\nAsks customers to review [...] Sep 4, 2026\n\nImage 60: Rated 5 out of 5 stars",
+      "title": "Breakingviews - Failed AI IPO puts fear before FOMO | Reuters",
+      "link": "https://www.reuters.com/commentary/breakingviews/failed-ai-ipo-puts-fear-before-fomo-2026-10-09",
+      "snippet": "MELBOURNE, Oct 9 (Reuters Breakingviews) - Fear of missing out can be a powerful...",
+      "raw_snippet": "MELBOURNE, Oct 9 (Reuters Breakingviews) - Fear of missing out can be a powerful emotion. Firmus Technologies, though, appears to have taken it too far. On Friday the Nvidia (NVDA.O) - and ​Blackstone (BX.N) - backed neocloud firm ditched its IPO after aiming for a A$44 billion ($31 billion) valuation - triple that set in ‌an August funding round and 23 times higher than its worth a year earlier. That and a slew of other worries had potential shareholders in the data center developer switching [...] Editing by Una Galani; Production by Aditya Srivastav [...] ⁠was essentially toast.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Association between adoption of Artificial Intelligence and ...",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7577103",
-      "snippet": "The study examines if the financial performance of companies benefits from the addition of artificial intelligence (AI), in four world regions and eight",
-      "raw_snippet": "The study examines if the financial performance of companies benefits from the addition of artificial intelligence (AI), in four world regions and eight",
+      "title": "The Top AI Investors & VC Firms for Startups in 2026",
+      "link": "https://www.openvc.app/investor-lists/ai-investors",
+      "snippet": "Revenue4. Scaling5. Growth6. Pre-IPO+4 | Always | We invest in early-stage deept...",
+      "raw_snippet": "Revenue4. Scaling5. Growth6. Pre-IPO+4 | Always | We invest in early-stage deeptech across artificial intelligence (AI), machine learning (ML), advanced computing, quantum technologies, defense tech, robotics, autonomous systems, climate tech, clean energy, enterprise SaaS, automation, cloud infrastructure, cybersecurity, bioinformatics, and computational healthcare. We back technical founders building transformational technologies at major market inflection points. | MLVN Ventures helps [...] ### Market Growth and Investment Patterns\n\nAI is pulling in more capital than any other sector right now, according to Crunchbase. In 2025, nearly half of all global venture funding went into AI (up from roughly a third the year before). More than $200 billion has already flowed into AI across infrastructure, foundation models, and application-layer companies.\n\nAdditionally, a report from Goldman Sachs explains how AI companies’ capital spending may surpass $500 billion in 2026. [...] AI Seed Funding\n\nSeed round investors want proof that your idea can resonate in the market. That means early adoption (users, pilots, or even strong LOIs) plus data infrastructure that scales as demand grows. Just as important is clarity on how you’ll turn technical innovation into a real business.\n\nAI Series A+ Funding",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "超越节省工时：为agentic automation构建商业案例",
-      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation",
-      "snippet": "说服质疑的CFO需设定“停止规则”，以量化收益证明agentic automation的商业价值。",
-      "raw_snippet": "The one thing that wins over a skeptical CFO is a stop rule: stage the investment with explicit break-even targets and predefined points to stop funding agents that underperform. Connect each domain to a key performance indicator (KPI) leadership already tracks, whether cost-to-serve, cycle time, Net Promoter Score, or compliance exposure. And treat governance as a way to move faster: bounded autonomy, oversight where risk is high, and auditability by design let you widen agent autonomy as the [...] To keep the math consistent, size every value pool the same way and net the costs, as summarized in the following table. [...] The condition that governs all four is value realization: every benefit needs a defined mechanism that converts an operational improvement into economic value, plus an accountable owner. For released labor, that means reducing spend or redirecting capacity to a named, measurable outcome.",
+      "title": "Activism, Edge and Finding Underappreciated AI Winners | Brown Advisory",
+      "link": "https://www.brownadvisory.com/node/44861",
+      "snippet": "Gross Margin: A company's revenue less its cost of goods sold, generally express...",
+      "raw_snippet": "Gross Margin: A company's revenue less its cost of goods sold, generally expressed as a percentage of revenue.  \nHBM (High-Bandwidth Memory): A type of high-performance computer memory designed to provide significantly greater data-transfer speeds than conventional memory and commonly used in advanced computing and artificial intelligence applications.  \nLBO (Leveraged Buyout): The acquisition of a company using a significant amount of borrowed capital to finance the transaction. [...] M&A (Mergers and Acquisitions): Transactions involving the combination of companies or assets through mergers, acquisitions or related corporate transactions.  \nNAND: A type of non-volatile flash memory that retains stored data without power and is commonly used in solid-state drives and other data-storage devices. [...] P/E Multiple (Price-to-Earnings Multiple): A valuation measure calculated by dividing a company's share price by its earnings per share. It is commonly used to compare a company's valuation with its historical valuation or that of other companies.  \nPIPE (Private Investment in Public Equity): A transaction in which private investors purchase securities issued by a publicly traded company, generally through a privately negotiated transaction.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "两年、57页、未合并：亚马逊、Anthropic与巴西申报难题",
+      "link": "https://laweconcenter.org/resources/two-years-57-pages-no-merger-amazon-anthropic-and-brazils-filing-problem",
+      "snippet": "AI合作浪潮下，科技巨头并购因反垄断申报陷入僵局。",
+      "raw_snippet": "The wave of artificial intelligence (AI) partnerships and “acqui-hires”—deals to acquire a company’s talent—has reached Brazil. The tribunal of Brazil’s Administrative Council for Economic Defense (CADE) decided its first batch of such cases involving large technology firms and AI startups in May. A second round followed in September with Amazon/Anthropic—the would-be merger that turned out not to be one. [...] Answering that question took a two-year investigation and a 57-page tribunal decision. Both followed the logic of the current rules, but the exercise illustrates the costs and uncertainty those rules impose just to establish whether a deal belongs before CADE. For AI companies, finding out whether a deal requires merger review can itself become a lengthy, costly ordeal.\n\nRead the full piece here.\n\n  \n Back  \n to Top\n\nRelated Publications\n\n## Related Publications\n\nAntitrust [...] The first round focused on people. CADE treated Microsoft/Inflection and Google/Character.AI as “reverse acqui-hires.” These arrangements combine a nonexclusive license to a startup’s technology, the hiring of a substantial portion of its team, and a large payment whose allocation between the two outsiders cannot easily discern. The tribunal recognized that such deals may qualify as a “concentration act”—Brazil’s legal term for a merger for antitrust purposes—under the broad language of Article",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "TA Manager - AI, Research and Innovation - GE Vernova | Built In Colorado",
-      "link": "https://www.builtincolorado.com/job/ta-manager-ai-research-and-innovation/11563473",
-      "snippet": "Number of Tech Workers: 260,000; 8.5% of overall workforce (2024 CompTIA survey)...",
-      "raw_snippet": "Number of Tech Workers: 260,000; 8.5% of overall workforce (2024 CompTIA survey)\n Major Tech Employers: Lockheed Martin, Century Link, Comcast, BAE Systems, Level 3\n Key Industries: Software, artificial intelligence, aerospace, e-commerce, fintech, healthtech\n Funding Landscape: $4.9 billion in VC funding in 2024 (Pitchbook)\n Notable Investors: Access Venture Partners, Ridgeline Ventures, Techstars, Blackhorn Ventures [...] Top Skills: AgileAIAPIsBusiness IntelligenceData VisualizationLooker\n\nApplied Systems\n\n## Consultant\n\n4 Minutes Ago\n\nRemote or Hybrid\n\n160K-180K Annually\n\nMid level\n\n160K-180K Annually\n\nMid level\n\nArtificial Intelligence • Cloud • Payments • Software • Business Intelligence • Generative AI • Automation [...] Defines and executes strategy for benefits products, leading roadmaps, prioritization, release planning, market research, and customer adoption. Partners with engineering, UX, sales, service, customers, and leadership to deliver workflow automation, integrations, AI-driven solutions, and data-informed product improvements. Develops requirements, user stories, business cases, and design specifications while mentoring junior product team members.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Maase: The Math And The Valuation Don't Add Up To Me (NASDAQ:MAAS) | Seeking Alpha",
-      "link": "https://seekingalpha.com/article/4952714-maase-the-math-and-the-valuation-dont-add-up-to-me",
-      "snippet": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Maase: The Math And The...",
-      "raw_snippet": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Maase: The Math And The Valuation Don't Add Up To Me\n\n## Summary\n\nAI Hand Analyzing Financial Data Graphs for Business Strategy \n\nJ Studios/DigitalVision via Getty Images\n\nAI Hand Analyzing Financial Data Graphs for Business Strategy\n\nJ Studios/DigitalVision via Getty Images [...] who may not be licensed or certified by any institute or regulatory body. [...] Analyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Parallel - Web Infrastructure for AI Agents",
-      "link": "https://parallel.ai",
-      "snippet": "Example query: Find the latest funding rounds for AI infrastructure startups\n An...",
-      "raw_snippet": "Example query: Find the latest funding rounds for AI infrastructure startups\n Answer with fresh facts, inside your product\n\n  Give your assistant, copilot, or coding agent current, cited answers fast enough for a chat thread: live docs, real-world context, breaking news. Your users get the answer that's relevant today, not at training time.\n\n  Example query: What changed in the EU AI Act this month?\n Automate research on any account, market, or thesis at scale [...] #### Responses\n\nCited, synthesized answers from the live web in seconds, built for synchronous interactions.Searching\n\n1\n\n2\n\n3\n\n4\n\nMost-cited papers on retrieval-augmented generation\n\n#### Search\n\nThe highest-accuracy web search for your AI. Fresh, fast, and affordable grounding in one call.Extracting\n\nURLs\n\n#### Extract\n\nGet full or excerpted contents from the public web, including PDFs, JS-heavy pages, and government sitesCompanies building web agents\n\nID\n\nCompany\n\nProduct releases\n\nFunding [...] Funding\n\n1\n\nparallel.ai\n\n2\n\nacme.com\n\n3\n\nglobex.com\n\n4\n\nscape.net\n\n#### FindAll\n\nBuild structured datasets with real-time enrichment. Describe what you want, get a live list.\n\nTaskMonitorResponsesFindAll\n\nSearchExtract\n\nParallel Web Index\n\nIndex by Parallel\n\nFortuneThe AtlanticPitchBookTracxnPR NewswireRocketReachZoomInfoExponential ViewThe GeneralistNot BoringSourcesFortuneThe AtlanticPitchBookTracxnPR NewswireRocketReachZoomInfoExponential ViewThe GeneralistNot BoringSources",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Harvey Contract Intelligence：AI合同审查与洞察",
-      "link": "https://www.harvey.ai/platform/contract-intelligence",
-      "snippet": "Harvey以155亿美元估值融资5.5亿美元，借助AI Contract Intelligence帮助法务团队提升效率。",
-      "raw_snippet": "We Raised $550M at a $15.5B Valuation to Help Legal Teams Own Their IntelligenceLearn moreWe Raised $550M at a $15.5B Valuation to Help Legal Teams Own Their IntelligenceLearn more\n\nWe Raised $550M at a $15.5B Valuation to Help Legal Teams Own Their IntelligenceLearn more→\n\n### Overview→\n\nA unified view of how Harvey's products work together to support your entire practice.### Agents→\n\nPurpose built agents execute complex legal work end to end.### Vault→ [...] Securely store, organize, and bulk-analyze legal documents.### Knowledge→\n\nResearch complex legal, regulatory, and tax questions across domains.### Spaces→\n\nWork with legal teams across organizations in secure, shared spaces.\n\n### Command Center→\n\nAnalytics, benchmarking, and agentic insights to lead their organization’s AI transformation### Contract Intelligence→\n\nSurface insights, strengthen negotiations, and accelerate reviews.### Horizon Scanning→ [...] Harvey auto-reviewed 10 contracts for you since your last visit.\n\n0\n\nReady to review\n\n0\n\nAssigned to you\n\n0\n\nFolders connected\n\nMy reviews (17)All (6)\n\nSearchManage folders\n\nReviewed doc\n\nStatus\n\nHarvey summary\n\nLast updated\n\nAssignee\n\nStarlight Holdings MSA.docx\n\nStarlight Holdings\n\nIn progress\n\nDrafting edits…\n\nJust now\n\nHarvey\n\nStarlight Holdings MSA.docx\n\nStarlight Holdings\n\nReady for review\n\n641\n\nJust now\n\nLLauren Oh\n\nQuantum Solutions Contract.docx\n\nAcme Corporation\n\nIn progress",
+      "title": "AI日报：重要趋势解读",
+      "link": "https://podcasts.apple.com/us/podcast/the-most-important-trends-showing-up-in-new-ai-products/id1680633614?i=1000793953673",
+      "snippet": "ChatGPT新智能UI、Claude Haiku 5.5及GrokBot等新品动态引关注。",
+      "raw_snippet": "ChatGPT’s new intelligent UI, Claude Haiku 5.5, and GrokBot’s embrace of rival models reveal where AI is heading: better interfaces, cheaper intelligence, and more choice. NLW breaks down the announcements and why competition is increasingly about the experience built around the models. In the headlines: Hermes creator Nous Research reaches a $1.5 billion valuation, massive chip financing deals draw scrutiny, and Anthropic expands access to Mythos.\n\nBrought to you by: [...] Brought to you by:\n\nKPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nGranola - The AI notepad for people in back-to-back meetings. Try it free ⁠⁠⁠⁠⁠granola.ai/brief⁠⁠⁠⁠⁠\n\nHarbor - Invest in the AI ecosystem. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ [...] Section - Section turns AI investment into workforce transformation and ROI - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nBlitzy - Want to accelerate enterprise software development velocity by 5x? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
       "is_chinese": false,
       "source_type": "funding",
       "index": 4
     },
     {
-      "title": "JST Healthcare Solutions: smarter symptom assessment powered by LUMI - LUMI",
-      "link": "https://lumi-supercomputer.eu/jst-healthcare-solutions",
-      "snippet": "JST Healthcare Solutions, a health tech company founded in 2020, leverages LUMI ...",
-      "raw_snippet": "JST Healthcare Solutions, a health tech company founded in 2020, leverages LUMI AI Factory’s services, including the LUMI supercomputer, to develop AI-assisted symptom assessment tools for both telephone services and other digital channels. The company’s MDR Class IIa-certified Smart Symptom Check software is widely used by healthcare professionals and patients to support care needs assessments and the collection of preliminary information. [...] # JST Healthcare Solutions: smarter symptom assessment powered by LUMI\n\nImage: Adobe Stock\n\nImage: Adobe Stock\n\nThe development of health technology in Finland is currently being driven in particular by a shortage of healthcare personnel, an aging population, and rapidly advancing artificial intelligence (AI) technology. New digital methods, tools, and AI-assisted solutions are constantly being developed to identify and address individual care needs. [...] EuroHPC Joint Undertaking\nThe acquisition of the EuroHPC supercomputer is funded jointly by the EuroHPC Joint undertaking, through the European Union's Connecting Europe Facility and the Horizon 2020 research and innovation programme, as well as the Participating States FI, BE, CH, CZ, DK, EE, IS, NL, NO, PL, SE.\nLeverage from the EU 2014-2020\nEuropean Union, European Regional Development Fund\nRegional Council of Kainuu\nEuroCC\n\nNewsletter\n\nOrder our newsletter and stay updated!\n\nFollow us",
+      "title": "Startup Funding Espresso – How to Diligence an AI Startup - Investor Connect",
+      "link": "https://investorconnect.org/startup-funding-espresso-how-to-diligence-an-ai-startup",
+      "snippet": "How to Diligence an AI Startup Hello, this is Hall T. Martin with the Startup Fu...",
+      "raw_snippet": "How to Diligence an AI Startup Hello, this is Hall T. Martin with the Startup Funding Espresso — your daily shot of startup funding and investing. Artificial intelligence companies bring new challenges to the diligence process. Here are the key steps to diligence an AI startup: Does the AI startup have a clearly defined market that needs the product? How competitive is the startup over other providers? How well does the product fit the customer’s needs? Does the company have a clear growth [...] Copyright (c) 2026, Hall Martin and investorconnect.org. All rights reserved.\n\nDisclaimer:  \n Hall T Martin is the director of Investor Connect, which is a 501(c)(3) nonprofit dedicated to the education of investors for early-stage funding. All opinions expressed by Hall and podcast guests are solely their own opinions and do not reflect the opinion of Investor Connect. This podcast is for informational purposes only and should not be relied upon for the basis of investment decisions. [...] something today. \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ For more episodes from Investor Connect, please visit the site at:  Check out our other podcasts here:  For Investors check out:  For Startups check out:  For eGuides check out:  For upcoming Events, check out  For Feedback please contact info@tencapital.group Please follow, share, and leave a review. Music courtesy of Bensound.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Financial Assistance Notice of Funding Opportunity Part 1",
+      "link": "https://science.osti.gov/-/media/grants/pdf/foas/2027/DE-FOA-0003673.pdf",
+      "snippet": "AI for Adversarial Robustness and Resilience o 20-B: Data Provenance and Integri...",
+      "raw_snippet": "AI for Adversarial Robustness and Resilience o 20-B: Data Provenance and Integrity Verification o 20-C: Real-Time Attack Detection and Mitigation for AI Models • 21. Artificial Intelligence in Fluid Flow for Energy Components and Technologies o 21-A: Physics-Informed AI for Complex Flow Modeling o 21-B: AI-Driven Design and Control for Performance and Durability Version 4.1 Page 13 of 40 Notice of Funding Opportunity, Part 1 Many Federal agencies have a vested interest in the success of [...] and Technology • 7. Discovering Quantum Algorithms with AI o 7-A: Application-aware Error Correction o 7-B: Computational Tools for Fault Tolerant Quantum Computational Science o 7-C: Hybrid Quantum-Classical Optimization Algorithms o 7-D: Quantum Algorithms for Nonlinear Plasma Physics o 7-E: Quantum Advantage for Nuclear and Hadronic Systems • 8. Realizing Quantum Systems for Discovery o 8-A: AI for Quantum Systems Design o 8-B: AI for Control of Quantum System o 8-C: AI for Quantum Imaging [...] for Quantum Imaging and Sensing o 8-D: AI for Quantum Computing and Networking • 9. Recentering Microelectronics in America o 9-B: Materials and Architectures for Non-von Neuman Computing Devices o 9-C: AI-Driven Architecture Design o 9-D: 3D non-volatile compute-in-memory technology o 9-E: Physics-Based Circuit Design, Simulation, and Emulation o 9-F: Microelectronics in Harsh Environments o 9-G: Plasma-Enabled Microelectronics Manufacturing o 9-H: Power Electronics and Communication Networks",
       "is_chinese": false,
       "source_type": "funding",
       "index": 5
     },
     {
-      "title": "More Than Medicine Funding Opportunity – U Research",
-      "link": "https://www.research.utah.edu/funding-2/more-than-medicine-funding-opportunity",
-      "snippet": "September 22, 2026\n\nNine interdisciplinary University of Utah research teams hav...",
-      "raw_snippet": "September 22, 2026\n\nNine interdisciplinary University of Utah research teams have been selected for 1U4U Seed Grant funding, tackling challenges ranging from suicide prevention and pediatric mental health to artificial intelligence, depression and…\n\nRead More\n\nFunding\n\n### Four U Research opportunities to support faculty research in 2026–27\n\nAugust 20, 2026 [...] Skip to content\n\nMain Menu [...] Subscribe Now Submit Article",
+      "title": "Starbucks responds to Chipotle merger report",
+      "link": "https://www.nbcnews.com/business/consumer/starbucks-responds-chipotle-merger-report-rcna602388",
+      "snippet": "### FOR SUBSCRIBERS‘I just want to hold him’: USS Lincoln sailor to meet his 10-...",
+      "raw_snippet": "### FOR SUBSCRIBERS‘I just want to hold him’: USS Lincoln sailor to meet his 10-month-old son as ship docks\n\n### FOR SUBSCRIBERSSenate candidates run on raising Social Security taxes for higher incomes to prevent benefit cuts\n\n### FOR SUBSCRIBERSRussian operation that used ChatGPT tricked schools, a politician and media, OpenAI says\n\n### FOR SUBSCRIBERSTrump administration’s deal with Nevada fuels data center fight in governor’s race [...] A tie-up between the two companies would mean a massive shakeup in the restaurant industry, which is grappling with consumers changing their spending and eating habits.\n\nBefore the report emerged, sending shares of Chipotle higher by 6.2%, the company had a total market value of about $39 billion. For comparison, Starbucks’ market value stands at more than $105 billion.\n\nChipotle did not return a request for comment on Thursday afternoon. [...] ### FOR SUBSCRIBERSSenate candidates run on raising Social Security taxes for higher incomes to prevent benefit cuts\n\n### FOR SUBSCRIBERSRussian operation that used ChatGPT tricked schools, a politician and media, OpenAI says\n\n### FOR SUBSCRIBERSTrump administration’s deal with Nevada fuels data center fight in governor’s race\n\n### FOR SUBSCRIBERSLatino voters reject Trump’s immigration policies — and detail the personal impact",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "ACF Policy on AI Activation Toolkit | The Administration for Children and Families",
-      "link": "https://acf.gov/policy-guidance/IM-AI-Activation-Toolkit-Policy-20241113",
-      "snippet": "basis for ongoing monitoring and accountability for AI systems. This policy furt...",
-      "raw_snippet": "basis for ongoing monitoring and accountability for AI systems. This policy further aligns with OMB Memorandum on Driving Efficient Acquisition of AI in Government (M-25-22), which is grounded in safeguarding taxpayer dollars by tracking AI performance and managing risk and requires the agencies to make a determination if a system is likely to host high-impact AI use cases. [...] The ACF Artificial Intelligence (AI) Activation Toolkit is a resource designed for teams considering the use of AI to address a specific problem. Like all technology, implementing AI takes investment of time, budget, process change and risk. The ACF AI Activation Toolkit establishes a process for ensuring deployment of AI is done thoughtfully, with careful consideration of how to achieve the intended value of a system through risk avoidance and mitigation measures. [...] The Office of Management & Budget’s (OMB) Memorandum on Accelerating Federal Use of AI through Innovation, Governance, and Public Trust (M-25-21) stipulates that agencies must deploy trustworthy AI, ensuring rapid AI innovation is not achieved at the expense of the American people or any violations of their trust. Teams considering deployment of high-impact AI, whose output1 serves as principal basis for decisions or actions that have a legal, material, binding, or similarly significant effect",
+      "title": "Revolut favors US primary listing for potential IPO, CEO says | Reuters",
+      "link": "https://www.reuters.com/business/finance/revolut-ceo-wants-us-primary-listing-if-it-goes-public-bloomberg-news-reports-2026-10-08",
+      "snippet": "Our Standards: The Thomson Reuters Trust Principles. [...] Sign up here.\n\nRevolu...",
+      "raw_snippet": "Our Standards: The Thomson Reuters Trust Principles. [...] Sign up here.\n\nRevolut received ​preliminary approval for a national banking licence in the United States in September, after getting licences in Britain and France earlier ​this year.\n\nThe bank has risen to become Europe's ​most valuable startup, having grown rapidly since it was launched ‌just ⁠over a decade ago as a fintech promising cheaper forex fees. Valued at $115 billion privately, Revolut is now worth more than Britain's Barclays (BARC.L) and ​France's Societe Generale (SOGN.PA). [...] The ​company's top ⁠boss had previously told French newspaper Les Echos the bank was looking into ​a dual stock market listing in ​New ⁠York and London.\n\nAny eventual listing is still likely to be at least a year away, with past ⁠media ​reports citing 2028, and subject ​to market conditions.\n\nAdds CEO comment from Bloomberg report, background throughout\n\nReporting by Sri Hari N S in Bengaluru; ​Additional reporting by Akshaya V; Editing by Anil D'Silva",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Machine Learning and Neuro-Artificial Intelligence Specialist",
-      "link": "https://careers.yale.edu/us/en/job/YUCYUHUS138764WDEXTERNALENUS/Machine-Learning-and-Neuro-Artificial-Intelligence-Specialist",
-      "snippet": "The Department of Neurosurgery is seeking an experienced AI/ML professional and a knowledgeable AI enthusiast to help the ARIA team develop, use, and evaluate",
-      "raw_snippet": "The Department of Neurosurgery is seeking an experienced AI/ML professional and a knowledgeable AI enthusiast to help the ARIA team develop, use, and evaluate",
+      "title": "Regional Artificial Intelligence Initiative  - Canada.ca",
+      "link": "https://www.canada.ca/en/atlantic-canada-opportunities/services/regional-artificial-intelligence-initiative.html",
+      "snippet": "Artificial intelligence (AI) is a powerful tool that has the potential to transf...",
+      "raw_snippet": "Artificial intelligence (AI) is a powerful tool that has the potential to transform the economy across all industries in Canada. Responsible development of AI holds tremendous economic potential in terms of commercialization, innovation, productivity and competitiveness, and has the potential to generate a range of social and environmental benefits for Canadians.\n\nRAII\n\n## On social media\n\n## Program update [...] The Regional Artificial Intelligence Initiative (RAII) will provide support through two streams:\n\nAI productization and commercialization will help AI start-ups and growing firms scale up and address common challenges on their journey from lab prototypes to real-world applications, including securing growth capital, hiring the right people, managing data, and navigating regulatory frameworks. [...] Adoption of AI applications across critical sectors will address the AI adoption lag among Canadian businesses and help enhance productivity, growth and competitiveness. Support will focus on addressing challenges faced by SMEs, such as skills gaps, AI integration complexities, and compliance with regulatory and industry standards.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Parliaments and Artificial Intelligence: Governing AI in the Public Interest | United Nations Development Programme",
-      "link": "https://www.undp.org/publications/parliaments-and-artificial-intelligence-governing-ai-public-interest",
-      "snippet": "or deepens existing inequalities, [...] The speed and scale of AI development ar...",
-      "raw_snippet": "or deepens existing inequalities, [...] The speed and scale of AI development are testing the capacity of all governance institutions. Yet parliaments occupy a unique position in this landscape. As the elected representatives of the people, they hold the mandate to legislate, hold governments accountable, and to ensure that the voices and values of citizens are reflected in the rules that govern society. How parliaments respond to AI, in part, can help shape whether this technology serves the public interest or deepens existing [...] Who we are\n What we do\n Our impact\n Get involved\n\nicon-language\n\n## Parliaments and Artificial Intelligence: Governing AI in the Public Interest\n\nENGLISH\n\npdf (0.3MB)\n\nDownload\n\n## Parliaments and Artificial Intelligence: Governing AI in the Public Interest\n\n###### October 7, 2026",
+      "title": "Bunzl announces acquisition of Blueleaf Care - Bunzl",
+      "link": "https://www.bunzl.com/newsroom/bunzl-announces-acquisition-of-blueleaf-care",
+      "snippet": "Blueleaf is a leading distributor of care and nursing home products, including c...",
+      "raw_snippet": "Blueleaf is a leading distributor of care and nursing home products, including consumables, cleaning solutions, continence care, equipment, furniture and PPE, supplied primarily to care homes. The business is highly complementary to our existing business and generated revenue of £58m in 2025.\n\nCommenting on today’s announcement, Frank van Zanten, Chief Executive Officer of Bunzl, said: [...] “I am delighted to welcome the Blueleaf team to Bunzl. Blueleaf is a high-quality business that further strengthens our position in the attractive UK care home market. The combination of the two businesses will broaden our customer proposition and provide opportunities to leverage our scale and capabilities. We look forward to supporting the business in its next phase of growth.”\n\nEnquiries: [...] Skip to Main Content\n Skip to Footer\n\nBunzl logo\n\nOther websites   S\n\n# Bunzl announces acquisition of Blueleaf Care\n\nBack to the newsroom\n\n08 Oct 2026\n\nBunzl plc\n\n## Bunzl announces acquisition of Blueleaf Care\n\n Bunzl plc, the specialist international distribution and services Group, today announces the acquisition of 100% of Blueleaf Care (“Blueleaf”) in the UK.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "AI Acceleration Program - AI at UNC",
-      "link": "https://ai.unc.edu/ai-acceleration-program",
-      "snippet": "# AI Acceleration Program\n\nThe AI Acceleration Program funds high-impact project...",
-      "raw_snippet": "# AI Acceleration Program\n\nThe AI Acceleration Program funds high-impact projects that apply artificial intelligence to advance Carolina’s missions of teaching, research, service and operations. The program supports faculty and staff in turning promising ideas into working solutions that deliver measurable value for the university and the people of North Carolina.\n\n## Request for proposals\n\nApplication Deadline: Oct. 16, 2026 [...] An AI-enabled system that enhances live artistic performances by adjusting to audience reactions and/or participation.\n\n### Track 3: Operations\n\nProjects that improve university services and operations through AI.\n\n#### Example Projects\n\n Virtual assistants that handle routine inquiries\n\n Tools that automate repetitive administrative processes\n\n Dashboards or analytics solutions that improve operational decisions\n\n### Evaluation Criteria [...] Proposals will be evaluated using the following criteria. Consistent with the program’s goals, impact and scalability receive the greatest weight.\n\n Impact (30%): The significance of the expected outcomes and the strength of the case that the project will benefit its intended users.\n\n Measurement Plan (20%): The quality of the proposed metrics and the credibility of the plan for assessing results during the project period.",
+      "title": "Finance & Grants (CA Dept of Education)",
+      "link": "https://www.cde.ca.gov/fg/fo",
+      "snippet": "Finance & Grants\n       \n           Finance & Grants Home\n           Accounting\n...",
+      "raw_snippet": "Finance & Grants\n       \n           Finance & Grants Home\n           Accounting\n                          Definitions, Instructions, & Procedures\n               Indirect Cost Rates (ICR)\n               Standardized Account Code Structure (SACS) [...] Request for Applications\n   Finance & Grants Other Topics\n   Res-26: SSPDBG\n   Request for Applications\n   Res-23: Proposition 28: Arts and Music in Schools\n   Res-26: Title I, Part A\n\nMore Trending Items\n\nRecently Posted in Funding [...] Funding Tools & Materials  \nFind forms, tools and guidance for preparing applications for funds. These tools and materials are available to make applying for funds as easy as possible.\n\nTrending in Funding\n\n   Funding(this page)\n   Res-26: CCSPP\n   Funding Forms\n   CCAP Grant 26-27 RFA\n   CCAP: Dual Enrollment Opportunities Grant Errata 1",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "AI - Crunchbase News：马斯克等签署AI公开信",
-      "link": "https://news.crunchbase.com/sections/ai?pages=43",
-      "snippet": "一封涉及AI的公开信签署者包括特斯拉、SpaceX CEO Elon Musk等人，具体内容需查看原文。",
-      "raw_snippet": "Signatories of the letter included Tesla and SpaceX CEO Elon Musk, Apple co-founder Steve Wozniak and entrepreneur and former presidential candidate Andrew Yang.\n\n### What is generative AI? [...] Artificial general intelligence (AGI): This is a still-hypothetical future AI system that possesses general human-like intelligence, including the ability to understand, learn and apply knowledge in a broad range of tasks, similar to the versatility of human intelligence — and considered by many to be the holy grail of AI. [...] Adept AI, a machine-learning startup that aims to use AI to help users complete repetitive digital tasks.\n Skydio, a drone startup that uses AI.",
+      "title": "Mills administration allocates funding to keep PCHC afloat",
+      "link": "https://www.wabi.tv/2026/10/08/mills-administration-allocates-funding-keep-pchc-afloat",
+      "snippet": "Community Health Center, Inc. [...] models. With this investment, PCHC is no lon...",
+      "raw_snippet": "Community Health Center, Inc. [...] models. With this investment, PCHC is no longer pursuing an imminent Chapter 11 filing. That is a significant step forward. But the next 12 months will be critical, and we have a great deal of work ahead to put PCHC on solid financial ground. [...] DHHS, providing regular updates, and being fully accountable for how these funds are used.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "DOE Awards $1.9 Billion in SPARK Funding for Grid Modernization Projects | Washington Energy Report",
+      "link": "https://www.troutmanenergyreport.com/2026/10/doe-awards-1-9-billion-in-spark-funding-for-grid-modernization-projects",
+      "snippet": "will add more than 23 gigawatts of transmission capacity by rebuilding or recond...",
+      "raw_snippet": "will add more than 23 gigawatts of transmission capacity by rebuilding or reconductoring over 1,500 miles of existing transmission lines and by deploying Grid-Enhancing Technologies across nearly 21,000 miles of existing transmission. [...] Skip to content\n\nSearch\n\n# Washington Energy Report\n\n# DOE Awards $1.9 Billion in SPARK Funding for Grid Modernization Projects\n\nBy Adam Webster on\n\nPosted in Transmission [...] DOE’s Office of Electricity administers the SPARK program as part of its Grid Resilience and Innovation Partnerships (“GRIP”) program, which Congress funded through the Infrastructure Investment and Jobs Act. The SPARK and GRIP programs prioritize upgrading existing transmission infrastructure through upgrades such as reconductoring, advanced monitoring, and other grid modernization technologies, rather than building new transmission lines. According to DOE, the selected projects will add more",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Funding | UCLA Graduate Programs",
+      "link": "https://grad.ucla.edu/funding",
+      "snippet": "Add funding awards to your favorites list\n Get notified of upcoming deadlines an...",
+      "raw_snippet": "Add funding awards to your favorites list\n Get notified of upcoming deadlines and events\n Receive personalized recommendations for funding awards\n\nSign In\n\nSkip to content\n\n Recommendations\n Notifications\n My Favorites\n Settings\n Sign Out\n\n Go.Grad\n Favorites, recommendations, and notifications are only available for UCLA Graduate Students at this time.\n Sign Out\n\nFunding\n\n#### We're Sorry\n\nYou've signed in with a UCLA undergraduate student account. [...] Sign in features are only available for UCLA graduate students at this time.\n\nConnect with us and learn about our services on the Graduate Education Portal.\n\n# UCLA Graduate Programs\n\nA tree is at the foreground of a campus walkway\n\nSave timesearching for funding [...] UCLA Graduate Division\n\nSAVE TIME SEARCHING FOR FUNDING\n\n Recommendations\n Notifications\n My Favorites\n Settings\n Sign Out\n\n Go.Grad\n Favorites, recommendations, and notifications are only available for UCLA Graduate Students at this time.\n Sign Out\n\nSign In\n\nWhy Sign In?\n\nAccess features exclusively for UCLA students and staff.\n\nAs a student, you can:",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "A Victory for Survivors: Federal Court Blocks Unlawful Restrictions on Funding – Washington State Coalition Against Domestic Violence & Sexual Assault",
+      "link": "https://wscadv.org/news/a-victory-for-survivors-federal-court-blocks-unlawful-restrictions-on-funding",
+      "snippet": "Your internet activity can be tracked. If you think someone is monitoring this d...",
+      "raw_snippet": "Your internet activity can be tracked. If you think someone is monitoring this device, please review these technology safety tips or call 1-800-799-7233.\n\nWashington State Coalition Against Domestic Violence & Sexual Assault\n\nWashington State Coalition Against Domestic Violence & Sexual Assault\n\n# A Victory for Survivors: Federal Court Blocks Unlawful Restrictions on Funding\n\nA Victory for Survivors: Federal Court Protects Funding for Critical Services [...] ### Get Help\n\nTo talk to someone 24/7, call the National Domestic Violence Hotline: 1-800-799-7233\n\nTTY: 1-800-787-3224 / Videophone: 1-855-812-1001\n\nTechnology Safety\n\n### Footer Menu\n\n### More from WSCADV\n\n### Follow [...] The Washington State Coalition Against Domestic Violence and Sexual Assault was proud to join this lawsuit, alongside coalitions and service providers across the country, because we believe every survivor should be able to get help when they need it.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "AI是你最新员工，请像管理员工一样管理它",
+      "link": "https://www.cio.com/article/4232583/ai-is-your-newest-hire-manage-it-like-one.html",
+      "snippet": "CIO建议赋予AI必要工具与上下文，像团队协作般管理AI。",
+      "raw_snippet": "### 5. Teamwork [...] Give AI the necessary tools and context to assess itself. Otherwise, the agent will be blind to its actual impact and require too much course-correction. [...] invoking it and infer topics of interest.",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "Crunchbase News初创档案：创始人的目标不应只是……",
-      "link": "https://news.crunchbase.com/sections/startups",
-      "snippet": "文章指出，初创公司创始人不应只追求短期指标，而应聚焦长期价值与可持续增长。",
-      "raw_snippet": "October 2, 2026\n\nFor startup founders, the goal shouldn’t be assembling a cap table filled with whoever was willing to invest, but rather intentionally constructed...\n\n[![Illustration of a tidal wave - Blank - Quarterly Reports [Dom Guzman]](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)]( \"Nautical And Marine Startups See Stepped-Up Funding\")\n\nArtificial intelligence • Robotics • Startups • Transportation & Logistics • Venture [...] Read More\n\n[![Illustration of a hand depositing a coin in a bot. AI funding [Dom Guzman]](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)]( \"There Was Never An Easy AI Era, And Investors Are Raising The Bar\")\n\nArtificial intelligence • IPO • Startups • Venture\n\n## There Was Never An Easy AI Era, And Investors Are Raising The Bar\n\nGuest Author\n\nOctober 7, 2026 [...] October 7, 2026\n\nAs AI IPOs bring greater scrutiny, argues guest author Maor Farid, founder and CEO of Leo AI, investors will increasingly prioritize customer...\n\nIllustration of an AI brain being built in a lab - North America\n\nIPO • M&A • Quarterly and annual reports • Regional • Seed funding • Startups • Venture\n\n## North America’s Startup Funding Falls In Q3 As AI Giants Eye The Public Markets\n\nJoanna Glasner\n\nOctober 7, 2026",
+      "title": "英伟达CEO黄仁勋：想成功就要做好吃苦准备",
+      "link": "https://fortune.com/2026/10/08/nvidia-ceo-jensen-huang-suffering-as-part-of-success-fear-of-failure-billionaire-tech-leader",
+      "snippet": "155亿美元AI法律科技公司创始人谈及创业艰辛与成功之道。",
+      "raw_snippet": "Winston Weinberg, cofounder and CEO of $15.5 billion AI legal startup Harvey echoed that sentiment on an episode of Fortune’s Term Sheet podcast earlier this year.\n\n“I think it’s really hard to figure this out without failing. You just have to fail a million times,” he said.\n\nFor Weinberg, learning from those failures requires putting ego aside and taking an honest look at what went wrong—and what worked. [...] Nvidia’s rise from an idea hatched over a booth at Denny’s to the world’s most valuable company is one of the defining business stories of the AI boom. But according to CEO Jensen Huang, whose net worth now sits at $196 billion, there’s a less glamorous ingredient behind that success: suffering.\n\nRecommended Video [...] # 1\n\nTexas businessman gets 13 years in federal prison as feds seize his Lamborghinis, Ferraris, Firebird, and dozens more cars to pay back fraud victims\n\n# 2\n\nMove over DINKs: SPLITs are the new financial power couple—they have two incomes, no kids yet and no joint bank account\n\n# 3\n\nBillionaires have left the U.K. and taken $160 billion to the likes of Monaco, Switzerland, and the UAE—that's more than those who stayed are worth\n\nSuccessCareers",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "Crunchbase News初创档案：创始人的目标不应只是……",
-      "link": "https://news.crunchbase.com/startups",
-      "snippet": "文章指出，初创公司创始人不应只追求短期指标，而应聚焦长期价值与可持续增长。",
-      "raw_snippet": "October 2, 2026\n\nFor startup founders, the goal shouldn’t be assembling a cap table filled with whoever was willing to invest, but rather intentionally constructed...\n\n[![Illustration of a tidal wave - Blank - Quarterly Reports [Dom Guzman]](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)]( \"Nautical And Marine Startups See Stepped-Up Funding\")\n\nArtificial intelligence • Robotics • Startups • Transportation & Logistics • Venture [...] Read More\n\n[![Illustration of a hand depositing a coin in a bot. AI funding [Dom Guzman]](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)]( \"There Was Never An Easy AI Era, And Investors Are Raising The Bar\")\n\nArtificial intelligence • IPO • Startups • Venture\n\n## There Was Never An Easy AI Era, And Investors Are Raising The Bar\n\nGuest Author\n\nOctober 7, 2026 [...] October 7, 2026\n\nAs AI IPOs bring greater scrutiny, argues guest author Maor Farid, founder and CEO of Leo AI, investors will increasingly prioritize customer...\n\nIllustration of an AI brain being built in a lab - North America\n\nIPO • M&A • Quarterly and annual reports • Regional • Seed funding • Startups • Venture\n\n## North America’s Startup Funding Falls In Q3 As AI Giants Eye The Public Markets\n\nJoanna Glasner\n\nOctober 7, 2026",
+      "title": "Product Delivery Manager - AI Foundations - JPMorgan Chase",
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210798322",
+      "snippet": "Your work will directly influence how AI capabilities are operationalized across...",
+      "raw_snippet": "Your work will directly influence how AI capabilities are operationalized across the firm, helping teams move faster and smarter while maintaining the highest",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "AI可助CFO在不增员情况下扩展财务团队",
+      "link": "https://www.cfodive.com/news/ai-expand-finance-without-headcount-expansion-prophix-ceo-says/832555",
+      "snippet": "工作量上升、人手增长放缓之际，Prophix CEO谈AI赋能财务。",
+      "raw_snippet": "As workloads rise and headcount growth slows, Prophix CEO Alok Ajmera expects AI to give finance teams more capacity — but trust remains a hurdle.",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
     },
     {
-      "title": "CoinGecko：AI/USD价格走势、市值与新闻",
-      "link": "https://www.coingecko.com/ru/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B/artificial-intelligence/usd",
-      "snippet": "CoinGecko数据显示，名为Artificial Intelligence的代币创下历史新高，并提供AI/USD行情、市值及最新动态。",
-      "raw_snippet": "Artificial Intelligence (AI) достигла исторического максимума 0,00008087$ и исторического минимума 0,0 12 599$. В настоящее время она торгуется 99,95% ниже максимального и 6,61 млн% выше минимального курса.\n\n### Что такое полностью разбавленная стоимость Artificial Intelligence (AI)? [...] Полностью разбавленная стоимость (FDV) Artificial Intelligence (AI) равняется 39 590,96$. Это статистическое представление максимальной рыночной капитализации с учетом того, что максимальное количество токенов AI в обращении сегодня — 1,00 триллион. На достижение FDV может уйти много лет — это зависит от графика выпуска токенов AI.\n\n### Как ведет себя цена Artificial Intelligence по сравнению с другими похожими токенами? [...] Сегодня цена Artificial Intelligence (AI) — 0,0 7 3959$. Объем торгов за 24 часа — 15,79$. Цена увеличилась на 0,03% за последние 24 часа и снизилась на -2,21% за последние 7 дней. Данные о рыночной капитализации Artificial Intelligence недоступны, так как у нас нет информации о количестве токенов AI в обращении. \n\n Не удалось загрузить форму заявки. Пожалуйста, повторите попытку позже. \n\nImage 98Image 99\n\nПортфель\n\nImage 100\n\nImage 101",
+      "title": "Indeed前CEO为何离开科技界为劳动者发声",
+      "link": "https://www.forbes.com/sites/courtney-connley-hampton/2026/10/08/this-tech-ceo-helped-people-get-jobs-he-quit-to-fight-for-workers-in-the-ai-era",
+      "snippet": "前CEO Chris Hyams担忧AI对劳动力市场与就业者权益的影响。",
+      "raw_snippet": "Former Indeed CEO Chris Hyams worried artificial intelligence would magnify existing job inequities. So he pivoted to a career of teaching and issue",
       "is_chinese": false,
       "source_type": "people",
       "index": 9
     },
     {
-      "title": "Outthink工业风险：Decision Intelligence如何预防运营损失",
-      "link": "https://www.ssonetwork.com/intelligent-automation/webinars/outthink-industrial-risk-with-decision-intelligence",
-      "snippet": "Lumicent结合连续运营数据与高级分析，通过Decision Intelligence帮助企业预防运营损失。",
-      "raw_snippet": "Lumicent combines continuous operational data, advanced analytics, Physical AI, and agentic workflows to reveal emerging risk, prioritize what matters most, and drive action before exposure becomes downtime, damage, or loss. Before founding Lumicent, Andy served as Vice President of Technology at a leading agricultural manufacturing company and led enterprise-wide digital transformation as Director of Business Transformation at a major softwood lumber organization. [...] Speakers\n\nAndy Pruett  Andy Pruett  \n Co-Founder and CEO  \n Lumicent\n\nAndy Pruett is the founder and CEO of Lumicent, the company bringing Decision Intelligence to Physical Operations. [...] Reduce unplanned downtime by up to 50% and manual inspections by up to 90% through continuous monitoring\n Direct scarce maintenance and capital resources toward the risks with the greatest consequence to production continuity and supply reliability\n Turn real-world asset data into prioritized operational and financial risk intelligence\n Use Physical AI to identify meaningful changes in complex operating environments",
+      "title": "Senior Product Manager: AI Data Strategy & Governance | Schwab Jobs",
+      "link": "https://www.schwabjobs.com/job/austin/senior-product-manager-ai-data-strategy-and-governance/33727/101700192640",
+      "snippet": "10+ years of experience in data, analytics, artificial intelligence, technology,...",
+      "raw_snippet": "10+ years of experience in data, analytics, artificial intelligence, technology, governance, product management, or related leadership disciplines.\n 5+ years of experience leading enterprise-scale initiatives involving data, AI, governance, technology transformation, or product delivery.\n Strong understanding of artificial intelligence, generative AI, machine learning concepts, and unstructured data along with the associated data requirements that enable successful AI outcomes. [...] Working at the intersection of AI, data management, governance, technology, and business strategy, you will collaborate across business, technology, risk, compliance, privacy, and data teams to drive enterprise-wide outcomes. [...] Schwab Data’s AI Strategy & Governance organization is accelerating responsible AI adoption across the enterprise by helping teams move from experimentation to scalable, reusable AI capabilities. As a Product Manager supporting AI Data Strategy, Product & Governance, you will play a critical role in shaping and advancing Schwab’s AI maturity through the development of data strategies, governance frameworks, certification processes, and AI-enabling products and capabilities. Working at the",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Definition of PRODUCT",
+      "link": "https://www.merriam-webster.com/dictionary/product",
+      "snippet": "See All\n\nImage 17: Play Quordle: Guess all four words in a limited number of tri...",
+      "raw_snippet": "See All\n\nImage 17: Play Quordle: Guess all four words in a limited number of tries. Each of your guesses must be a real 5-letter word. Quordle Can you solve 4 words at once?Play\n\nImage 18: Play Blossom: Solve today's spelling word game by finding as many words as you can using just 7 letters. Longer words score more points. Blossom Pick the best words!Play [...] The company's newest _product_ is selling well.  The sap used to make maple syrup is a natural _product_.  This book is the _product_ of many years of hard work.  The _finished product_ was a beautiful vase. \n\nRecent Examples on the Web\n\nExamples are automatically compiled from online sources to show current usage.Read More Opinions expressed in the examples do not represent those of Merriam-Webster or its editors. Send us feedback. [...] Get Word of the Day daily email!\n\n## Popular in Grammar & Usage\n\nSee More\n\n### Do You Need a New Language Peeve?\n\n### The Exceptions of '-s' and '-es' Plurals\n\n### Merriam-Webster’s Great Big List of Words You Love to Hate\n\n### Is it 'nerve-racking' or 'nerve-wracking'?\n\n### What's the difference between 'fascism' and 'socialism'?\n\nSee More\n\n## Popular in Wordplay\n\nSee More\n\n### The Real Origin of 'Supercalifragilistic'\n\n### 9 Words That Sound Like Insults But Aren't",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Manager, Product Management - AI/ML & Data Platforms at Capital One",
+      "link": "https://www.capitalonecareers.com/job/mclean/manager-product-management-ai-ml-and-data-platforms/1732/101722345920",
+      "snippet": "Capital One Financial is made up of several different entities. Please note that...",
+      "raw_snippet": "Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).\n\nHiring Process\n\nStories\n\nBenefits\n\nCareer Journey\n\n## How We Hire\n\nWe take finding great coworkers pretty seriously.\n\nIllustration of Man using laptop then excitedly pumping both arms [...] Basic Qualifications:\n\n Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date: \n  + A Bachelor's or Master’s Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, Computer Engineering, Software Engineering, Mechanical Engineering, Information Systems or a related quantitative field), Business or Marketing\n\nOR [...] Product Management at Capital One is a booming, vibrant craft that requires reimagining the status quo, finding value creation opportunities, and driving innovative and sustainable customer experiences through technology. We believe our portfolio of businesses and investments in growth and transformation will result in a company with the scale, brand, capabilities, talent, and values to succeed as the digital revolution transforms our society and our industry.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Director of Product, AI Growth at 1Password",
+      "link": "https://startup.jobs/director-of-product-ai-growth-onepassword-10358315",
+      "snippet": "$238,000 – $357,000 per year TLDR Shape AI opportunities through design customer...",
+      "raw_snippet": "$238,000 – $357,000 per year TLDR Shape AI opportunities through design customer deployments, technology partnerships, and developer adoption.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "ServiceNow Store高级产品库存",
+      "link": "https://store.servicenow.com/store/app/9c9ca3ee1b246a50a85b16db234bcbe3",
+      "snippet": "合作伙伴构建应用商店下载：涉及AI应用分发与库存管理功能。",
+      "raw_snippet": "Partner Built Store Downloads - AI: [...] Apps distributed by ServiceNow partners on the Store with generative AI or agentic AI features (\"AI Features\") may consume Assists as specified by the ServiceNow partner. Assists consumed by AI Features are deducted against the total number of Assists available to Customer (at the account level) at the time of execution of a given AI Feature. ServiceNow does not determine the number of Assists consumed by AI Features so Customers should carefully review and understand the number of Assists [...] number of Assists consumed by AI Features before utilizing a partner application.",
       "is_chinese": false,
       "source_type": "people",
       "index": 10
     },
     {
-      "title": "Artificial Liquid Intelligence Price: ALI/USD Live Price Chart, Market Cap & News Today | CoinGecko",
-      "link": "https://www.coingecko.com/en/coins/artificial-liquid-intelligence/usd",
-      "snippet": "Artificial Intelligence (AI) 0.51% Select\n\nLaunchpad 0.51% Select\n\n SWORDINU Sta...",
-      "raw_snippet": "Artificial Intelligence (AI) 0.51% Select\n\nLaunchpad 0.51% Select\n\n SWORDINU Stats \n\n Rank \n\n884\n\n Price \n\n$0.02\n\n 24h% \n\n916.45% \n\n Market Cap \n\n$19,862,715\n\n 24h Trading Volume \n\n$32,635,512\n\n Last 7 Days \n\nImage 34\n\n Move \n\n Select \n\n ESC \n\n Close \n\nPortfolios\n\n Add to New Portfolio \n\nImage 35\n\n Track \n\nImage 36\n\n on the go \n\n Get real-time updates via push notifications on the app. \n\nImage 37\n\nOpen App\n\n1.   Cryptocurrencies\n2.    Artificial Liquid Intelligence Price \n\nImage 38: ALI logo [...] Github\n\n API ID \n\n alethea-artificial-liq... \n\n Chains \n\nEthereum Ecosystem\n\n 4 more \n\nSolana EcosystemBase EcosystemPolygon EcosystemCronos Ecosystem\n\n Categories \n\nArtificial Intelligence (AI)\n\n 10 more \n\nNFTMetaverseMulticoin Capital PortfolioAI AgentsAlameda Research PortfolioDeFiance Capital PortfolioYZi Labs (Prev. Binance Labs) PortfolioAirdropped Tokens by NFT ProjectsGovernanceBase NativeSuggest a Category\n\n## ALI Historical Price\n\n| 24h Range | $0.001169 – $0.001241 | [...] Show More\n\n### Related Coins You May Like\n\nImage 101 Moonbirds $0.05901 6.2% Image 102Image 103 Doodles $0.001598 5.2% Image 104Image 105 Milady Cult Coin $0.0001237 5.4% Image 106Image 107 Captain Kuma $0.002069 4.1% Image 108Image 109 mfercoin $0.0006658 2.9% Image 110\n\n Want your token featured here? \n\nPromote it now\n\n### Trending Coins",
+      "title": "Murder-for-hire scheme leads to two arrests in Manitowoc ...",
+      "link": "https://www.wbay.com/2026/10/08/murder-for-hire-scheme-leads-two-arrests-manitowoc-county",
+      "snippet": "Larry Wallen and Christina Seguin were arrested in a suspected murder-for-hire p...",
+      "raw_snippet": "Larry Wallen and Christina Seguin were arrested in a suspected murder-for-hire plot in Manitowoc County.(WBAY).",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Outthink Industrial Risk: How Decision Intelligence Prevents Operational Loss",
-      "link": "https://www.ssonetwork.com/intelligent-automation/webinars/outthink-industrial-risk-with-decision-intelligence-lumicent",
-      "snippet": "Title: Outthink Industrial Risk: How Decision Intelligence Prevents Operational ...",
-      "raw_snippet": "Title: Outthink Industrial Risk: How Decision Intelligence Prevents Operational Loss\n## How Physical AI, continuous asset data, and agentic workflows turn emerging risk into prioritized action. Learn how continuous asset data, advanced analytics, physical AI, and agentic workflows can change real-world conditions into decision-ready risk intelligence. Industrial organizations generate enormous volumes of asset, maintenance, inspection, and operational data. The problem is no longer a lack of data. It is the intelligence gap between detecting a physical signal and understanding its consequence, priority, and required action. Join Andy Pruett, Founder and CEO of Lumicent, and Joe Blow, VP of Supply Chain at USA Rare Earth, for the introduction of **Lumicent Decision Intelligence for Physical Operations.**. The session will show how Lumicent combines continuous asset data, advanced analytics, Physical AI, and agentic workflows to turn changing real-world conditions into decision-ready risk intelligence. Attendees will see how Lumicent's Asset Risk Management capabilities deliver measurable value today through 24/7 monitoring of critical equipment and single points of failure – helping organizations reduce unplanned downtime by up to 50%, reduce manual inspections by up to 90%, and direct scarce resources toward the risks with the greatest potential consequence. Lumicent's **FM Approved Class II Asset Condition Monitoring System** also provides continuous, defensible evidence of resilience for executives, boards, FM risk engineers, insurers, and underwriters. Attendees will learn how to:. * Turn real-world asset data into prioritized operational and financial risk intelligence. * Connect emerging asset conditions to business consequence and enterprise exposure. * Use agentic workflows to accelerate and coordinate action across teams and systems. Andy Pruett is the founder and CEO of Lumicent, the company bringing Decision Intelligence to Physical Operations. Lumicent combines continuous operational data, advanced analytics, Physical AI, and agentic workflows to reveal emerging risk, prioritize what matters most, and drive action before exposure becomes downtime, damage, or loss. ### From Visibility to Action: How Finance Risk Intelligence is Transforming Modern Finance Operations. Learn how continuous asset data, advanced analytics, physical AI, and agentic workflows can change r... Sign up now and get FREE access to our extensive library of reports, infographics, whitepapers, webinars and online events from the world’s foremost thought leaders.",
+      "title": "Program: Product Design Minor - USC Catalogue",
+      "link": "https://catalogue.usc.edu/preview_program.php?catoid=8&poid=10352",
+      "snippet": "A minor in Product Design offers USC students a deep understanding of the design...",
+      "raw_snippet": "A minor in Product Design offers USC students a deep understanding of the design process leading to the creation of consumer goods and services,",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "AGENTIC AI: FROM INTELLIGENCE TO ACTION | Eventopia",
-      "link": "https://eventopia.in/event/agentic-ai-from-intelligence-to-action-2026-10-08-g6w",
-      "snippet": "All participants get physical certificates. [...] Entry\n\n₹300\n\n#agentic ai, ai a...",
-      "raw_snippet": "All participants get physical certificates. [...] Entry\n\n₹300\n\n#agentic ai, ai agents, generative ai, artificial intelligence, machine learning, multi-agent systems, ai automation, autonomous ai, ai technology, hands-on workshop, technology workshop, zephoria 2k26\n\nAGENTIC AI: FROM INTELLIGENCE TO ACTION poster₹300\n\nStarts\n\nThu, 8 Oct\n\nEntry\n\n₹300\n\nVenue\n\nVTHT Campus, Chennai, Tamil Nadu\n\nEligibility\n\nCollege students\n\n01\n\n## About this event\n\n₹300\n\nCertificates\n\nWinners receive physical certificates. [...] Eventopia\n\nHost an event\n\nAGENTIC AI: FROM INTELLIGENCE TO ACTION— left to apply\n\nApply now\n\nHome/Browse/AGENTIC AI: FROM INTELLIGENCE TO ACTION\n\nTechnicalChennaiTamil NaduWorkshop Applications open\n\n# AGENTIC AI: FROM INTELLIGENCE TO ACTION\n\nDate\n\nOctober 8, 2026\n\nWhere\n\nVTHT Campus, Chennai, Tamil Nadu\n\nMode\n\noffline\n\nEntry\n\n₹300",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "HS Artificial Intelligence Theme (HSAIT) Today: Live Price Chart - Investing.com UK",
-      "link": "https://uk.investing.com/indices/hs-artificial-intelligence-theme",
-      "snippet": "| Name | Last | Chg. % | Vol. |  |\n ---  --- \n| Wirecard | 0.0126 | -98.16% | 63...",
-      "raw_snippet": "| Name | Last | Chg. % | Vol. |  |\n ---  --- \n| Wirecard | 0.0126 | -98.16% | 637.00 |  |\n| GAM Holding | 0.0708 | -83.05% | 20.26K |  |\n| Barco | 7.025 | -69.31% | 126.00 |  |\n| Citycon | 2.96 | -60.11% | 181.00 |  |\n| Aryzta?cid=1230331) | 39.10 | -53.12% | 4.22K |  |\n| Stellantis NV | 4.16 | -49.21% | 14.92M |  |\n| SIG Group | 13.06 | -46.91% | 39.94K |  |\n\n## Trending Stocks [...] | Name | Last | Prev. | High | Low | Chg. % | Vol. | Time | Price |  |\n ---  ---  ---  ---  --- |\n| 0020  SenseTime Group Inc Class B | 1.21 | 1.21 | 1.23 | 1.20 | -0.82% | 73.3M | 1.21-0.82% | 08:59:59 |\n| 9660  Horizon Robotics | 4.00 | 4.04 | 4.04 | 3.89 | -0.99% | 52.06M | 4.00-0.99% | 08:59:59 |\n| 2228  XtalPi Holdings Ltd | 7.30 | 7.30 | 8.10 | 7.16 | -12.04% | 50.94M | 7.30-12.04% | 08:59:59 | [...] ## Trending Stocks\n\n| Name | Last | Chg. % | Vol. |  |\n ---  --- \n| Rolls-Royce Holdings | 1,420.00 | -1.27% | 4.30M |  |\n| Mercantile Ports & Logistics | 2.590 | -2.63% | 37.97M |  |\n| Barclays | 432.65 | -3.28% | 37.91M |  |\n| BAE Systems | 1,838.00 | -0.92% | 3.55M |  |\n| Asos | 451.5 | -0.55% | 591.01K |  |",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Upcoming Artificial Intelligence Conferences in Thailand 2026-2027",
-      "link": "https://www.allconferencealert.com/thailand/artificial-intelligence",
-      "snippet": "Pattaya, Thailand  |\n World Summit on Responsible Ai, Finance & Sustainable Busi...",
-      "raw_snippet": "Pattaya, Thailand  |\n World Summit on Responsible Ai, Finance & Sustainable Business Futures (WSRAFSBF)\n\n  Pattaya, Thailand  |  –\n International Forum on Behavioral Analytics, Ai-driven Marketing & Leadership in Entrepreneurship (IFBAADMLE)\n\n  Phuket, Thailand  |  –\n International Conference on Artificial Intelligence and Applications (ICAIA)\n\n  Bangkok, Thailand  |  –\n International Conference on Robotics, Machine Learning and Artificial Intelligence (ICRMLAI) [...] ## Upcoming Artificial Intelligence Conferences in Thailand 2026-2027\n\nAll   Nov 2026   Dec 2026   Jan 2027   Feb 2027   Mar 2027   Apr 2027   May 2027   Jun 2027   Jul 2027   Aug 2027   Sep 2027\n\nLogin Required\n\nYou need to log in to save this event.\n\nSuccess!\n\nGoto Preferences Events\n\nShare this Event\n\nSpread the word — share this event with others!\n\nLoading events…\n\n International Conference on Artificial Intelligence and Soft Computing (ICAISC) [...] Bangkok, Thailand  |  –\n World Conference on Genomics, Bioinformatics & Digital Health Innovation (WCGBDHI)\n\n  Bangkok, Thailand  |  –\n International Conference on Environmental AI, Policy & Sustainable Futures (ICEAPSF)\n\n  Bangkok, Thailand  |  –\n Global Conference on Sustainable Small Business, Ethical Ai & Digital Transformation (GCSSBEADT)\n\n  Bangkok, Thailand  |  –\n International Conference on Ai-powered Consumer Insights, Marketing Strategy & Entrepreneurial Leadership (ICAPCIMSEL)",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Upcoming Artificial Intelligence Conferences in Mexico 2026-2027",
-      "link": "https://www.allconferencealert.com/mexico/artificial-intelligence",
-      "snippet": "## Upcoming Artificial Intelligence Conferences in Mexico 2026-2027\n\nAll   Nov 2...",
-      "raw_snippet": "## Upcoming Artificial Intelligence Conferences in Mexico 2026-2027\n\nAll   Nov 2026   Dec 2026   Jan 2027   Feb 2027   Mar 2027   Apr 2027   May 2027   Jun 2027   Jul 2027   Aug 2027   Sep 2027\n\nLogin Required\n\nYou need to log in to save this event.\n\nSuccess!\n\nGoto Preferences Events\n\nShare this Event\n\nSpread the word — share this event with others!\n\nLoading events…\n\n International Conference on Computational Science and Computational Intelligence (ICCSCI) [...] Intelligence sector in Mexico. [...] Join  All Conference Alert  today and get free conference alerts of your choice.  Subscribe  today!",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Upcoming Artificial Intelligence Conferences in Canada 2026-2027",
-      "link": "https://www.allconferencealert.com/canada/artificial-intelligence",
-      "snippet": "## Upcoming Artificial Intelligence Conferences in Canada 2026-2027\n\nAll   Nov 2...",
-      "raw_snippet": "## Upcoming Artificial Intelligence Conferences in Canada 2026-2027\n\nAll   Nov 2026   Dec 2026   Jan 2027   Feb 2027   Mar 2027   Apr 2027   May 2027   Jun 2027   Jul 2027   Aug 2027   Sep 2027\n\nLogin Required\n\nYou need to log in to save this event.\n\nSuccess!\n\nGoto Preferences Events\n\nShare this Event\n\nSpread the word — share this event with others!\n\nLoading events…\n\n International Conference on Computational Science and Computational Intelligence (ICCSCI) [...] Vancouver, Canada  |  –\n Global Summit on Leadership Futures: AI, Sustainability & Humanity (GSLFAISH)\n\n  Ottawa, Canada  |\n International Conference on Generative AI and Business Leadership (ICGAIBL)\n\n  Montreal, Canada  |\n International Conference on Genome Editing and CRISPR Technologies (ICGECT)\n\n  Hamilton, Canada  |  –\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  Hamilton, Canada  |  –\n Most Popular Events [...] Intelligence sector in Canada.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Upcoming Artificial Intelligence Conferences in Toronto 2026-2027",
-      "link": "https://www.allconferencealert.com/toronto/artificial-intelligence-conference.html",
-      "snippet": "Title: Upcoming Artificial Intelligence Conferences in Toronto 2026-2027\n# Artif...",
-      "raw_snippet": "Title: Upcoming Artificial Intelligence Conferences in Toronto 2026-2027\n# Artificial Intelligence Conference in Toronto 2026-2027. Join  **All Conference Alert**  today and get free alerts for. upcoming Artificial Intelligence conferences in. ## Upcoming Artificial Intelligence Conferences in Toronto 2026-2027. You need to log in to save this event. Spread the word — share this event with others! #### Business and Economics. #### Mathematics and statistics. #### Engineering and Technology. #### Physical and life sciences. #### Social Sciences and Humanities. #### Interdisciplinary. #### Law. #### Agriculture. #### Sports Science. #### Medical And Health Science. ### Choose Country. #### Asia. #### Europe. #### Oceania. #### North America. The leading global platform for academics, researchers, and professionals to discover and register. for, and promote conferences worldwide. #### Quick Links. #### Browse. #### Get in Touch. ## Country.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Upcoming Artificial Intelligence Conferences in Kenya 2026-2027",
-      "link": "https://www.allconferencealert.com/kenya/artificial-intelligence",
-      "snippet": "Mombasa, Kenya\n|\n\n26 Nov 2026\n\nNairobi, Kenya\n|\n\n01 Dec 2026\n\nMalindi, Kenya\n|\n\n...",
-      "raw_snippet": "Mombasa, Kenya\n|\n\n26 Nov 2026\n\nNairobi, Kenya\n|\n\n01 Dec 2026\n\nMalindi, Kenya\n|\n\n12 Dec 2026\n–\n\n13 Dec 2026\n\nNairobi, Kenya\n|\n\n15 Dec 2026\n\nKisumu, Kenya\n|\n\n19 Dec 2026\n–\n\n20 Dec 2026\n\nNairobi, Kenya\n|\n\n10 Jun 2027\n–\n\n11 Jun 2027\n\nNairobi, Kenya\n|\n\n10 Jan 2027\n–\n\n11 Jan 2027\n\nMombasa, Kenya\n|\n\n26 Jan 2027\n–\n\n27 Jan 2027\n\nMombasa, Kenya\n|\n\n26 Jan 2027\n–\n\n27 Jan 2027\n\nMombasa, Kenya\n|\n\n26 Jan 2027\n–\n\n27 Jan 2027\n\nNairobi, Kenya\n|\n\n10 Jul 2027\n–\n\n11 Jul 2027\n\nMombasa, Kenya\n|\n\n26 Jan 2027\n– [...] 26 Jan 2027\n–\n\n27 Jan 2027\n\nNairobi, Kenya\n|\n\n10 Jul 2027\n–\n\n11 Jul 2027\n\nNairobi, Kenya\n|\n\n10 Feb 2027\n–\n\n11 Feb 2027\n\nNairobi, Kenya\n|\n\n10 Feb 2027\n–\n\n11 Feb 2027\n\nNairobi, Kenya\n|\n\n10 Feb 2027\n–\n\n11 Feb 2027\n\nNairobi, Kenya\n|\n\n10 Feb 2027\n–\n\n11 Feb 2027\n\nNairobi, Kenya\n|\n\n10 Feb 2027\n–\n\n11 Feb 2027\n\nNairobi, Kenya\n|\n\n10 Feb 2027\n–\n\n11 Feb 2027\n\nNairobi, Kenya\n|\n\n10 Feb 2027\n–\n\n11 Feb 2027\n\nNairobi, Kenya\n|\n\n10 Feb 2027\n–\n\n11 Feb 2027\n\nNairobi, Kenya\n|\n\n10 Feb 2027\n–\n\n11 Feb 2027 [...] ## Upcoming Artificial Intelligence Conferences in Kenya 2026-2027\n\nYou need to log in to save this event.\n\nGoto Preferences Events\n\nSpread the word — share this event with others!\n\nLoading events…\n\nNairobi, Kenya\n|\n\n07 Oct 2026\n\nNairobi, Kenya\n|\n\n10 Oct 2026\n–\n\n11 Oct 2026\n\nNairobi, Kenya\n|\n\n09 Nov 2026\n\nNairobi, Kenya\n|\n\n10 Nov 2026\n–\n\n11 Nov 2026\n\nNairobi, Kenya\n|\n\n10 Nov 2026\n–\n\n11 Nov 2026\n\nNairobi, Kenya\n|\n\n11 Nov 2026\n\nNairobi, Kenya\n|\n\n10 Jun 2027\n–\n\n11 Jun 2027\n\nMombasa, Kenya\n|",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Upcoming Artificial Intelligence Conferences in Bangkok 2026",
-      "link": "https://www.allconferencealert.com/bangkok/artificial-intelligence-conference.html",
-      "snippet": "Title: Upcoming Artificial Intelligence Conferences in Bangkok 2026\n# Artificial...",
-      "raw_snippet": "Title: Upcoming Artificial Intelligence Conferences in Bangkok 2026\n# Artificial Intelligence Conference in Bangkok 2026. Join  **All Conference Alert**  today and get free alerts for. upcoming Artificial Intelligence conferences in. ## Upcoming Artificial Intelligence Conferences in Bangkok 2026. You need to log in to save this event. Spread the word — share this event with others! #### Business and Economics. #### Mathematics and statistics. #### Engineering and Technology. #### Physical and life sciences. #### Social Sciences and Humanities. #### Interdisciplinary. #### Law. #### Agriculture. #### Sports Science. #### Medical And Health Science. ### Choose Country. #### Asia. #### Europe. #### Oceania. #### North America. The leading global platform for academics, researchers, and professionals to discover and register. for, and promote conferences worldwide. #### Quick Links. #### Browse. #### Get in Touch. ## Country.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Upcoming Artificial Intelligence Conferences in Switzerland 2026-2027",
-      "link": "https://www.allconferencealert.com/switzerland/artificial-intelligence",
-      "snippet": "## Upcoming Artificial Intelligence Conferences in Switzerland 2026-2027\n\nYou ne...",
-      "raw_snippet": "## Upcoming Artificial Intelligence Conferences in Switzerland 2026-2027\n\nYou need to log in to save this event.\n\nGoto Preferences Events\n\nSpread the word — share this event with others!\n\nLoading events…\n\nGeneva, Switzerland\n|\n\n07 Oct 2026\n\nGeneva, Switzerland\n|\n\n14 Oct 2026\n\nZurich, Switzerland\n|\n\n16 Oct 2026\n–\n\n17 Oct 2026\n\nZurich, Switzerland\n|\n\n16 Jun 2027\n–\n\n17 Jun 2027\n\nLausanne, Switzerland\n|\n\n19 Oct 2026\n\nZurich, Switzerland\n|\n\n16 Jul 2027\n–\n\n17 Jul 2027\n\nLausanne, Switzerland\n| [...] Join  All Conference Alert  today and get free\nconference alerts\nof your choice.\nSubscribe\ntoday! [...] 24 Oct 2026\n\nZurich, Switzerland\n|\n\n16 Nov 2026\n–\n\n17 Nov 2026\n\nGeneva, Switzerland\n|\n\n28 Nov 2026\n\nZurich, Switzerland\n|\n\n29 Nov 2026\n\nZurich, Switzerland\n|\n\n16 Jul 2027\n–\n\n17 Jul 2027\n\nGeneva, Switzerland\n|\n\n04 Dec 2026\n–\n\n05 Dec 2026\n\nZurich, Switzerland\n|\n\n16 Jul 2027\n–\n\n17 Jul 2027\n\nGeneva, Switzerland\n|\n\n04 Dec 2026\n–\n\n05 Dec 2026\n\nGeneva, Switzerland\n|\n\n04 Dec 2026\n–\n\n05 Dec 2026\n\nGeneva, Switzerland\n|\n\n04 Dec 2026\n–\n\n05 Dec 2026\n\nGeneva, Switzerland\n|\n\n04 Dec 2026\n–\n\n05 Dec 2026",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Upcoming Artificial Intelligence Conferences in Switzerland 2026-2027",
-      "link": "https://www.allconferencealert.com/switzerland/artificial-intelligence-conference.html",
-      "snippet": "Title: Upcoming Artificial Intelligence Conferences in Switzerland 2026-2027\n# A...",
-      "raw_snippet": "Title: Upcoming Artificial Intelligence Conferences in Switzerland 2026-2027\n# Artificial Intelligence Conferences in Switzerland 2026-2027. Switzerland is rapidly emerging as a premier global destination for. **Artificial Intelligence** innovation and collaboration. In 2026-2027, the country will host a wide range. of conferences bringing together international researchers, industry pioneers, and academic professionals. to explore the latest breakthroughs and real-world applications in Artificial Intelligence. ## 2026-2027 Artificial Intelligence Conferences in Switzerland – Overview. **Artificial Intelligence** conferences are scheduled across Switzerland. For professionals aiming to maximize networking opportunities and knowledge exchange,. Artificial Intelligence sector in Switzerland. ## Why Attend a Artificial Intelligence Conference in Switzerland? academic collaboration, and professional growth. professional, academic, or student, these 2026-2027 Artificial Intelligence conferences provide. dynamic academic and cultural environment that makes Switzerland a leading. destination for international conferences and professional development. Attending a Artificial Intelligence Conference in Switzerland offers valuable opportunities for networking, paper presentations, workshops, panel discussions, and keynote sessions led by renowned speakers. Participants will gain insights into emerging developments, best practices, and future directions in **Artificial Intelligence**, while also experiencing the academic, cultural, and professional environment of **Switzerland**. Whether you are a student, researcher, professor, or industry professional, these **conferences in Switzerland** during 2026-2027 support learning, career growth, and international exposure in the field of Artificial Intelligence. ## Upcoming Artificial Intelligence Conferences in Switzerland 2026-2027. #### Which city in Switzerland hosts the most Artificial Intelligence conferences? Based on our 2026-2027 data, **Geneva** is the leading hub for. **Artificial Intelligence** events in **Switzerland**, followed by. #### What is the best time of year to attend a Artificial Intelligence conference in Switzerland? The peak season for **Artificial Intelligence** conferences in. #### How can I get an invitation letter for a Artificial Intelligence conference in Switzerland? #### How can I submit a research paper for a Artificial Intelligence conference in Switzerland? Most **Artificial Intelligence** events in **Switzerland** are currently. #### What are the top venues for Artificial Intelligence conferences in Switzerland? In **Switzerland**, most **Artificial Intelligence** gatherings are held. #### Are these Artificial Intelligence conferences in Switzerland open to international participants? Yes, the **161** conferences listed for 2026-2027 are international. #### North America. The leading global platform for academics, researchers, and professionals to discover and register.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Full article: The role of artificial intelligence in combating food fraud: a systematic literature review",
-      "link": "https://www.tandfonline.com/doi/full/10.1080/10408398.2026.2654710",
-      "snippet": "Title: Full article: The role of artificial intelligence in combating food fraud...",
-      "raw_snippet": "Title: Full article: The role of artificial intelligence in combating food fraud: a systematic literature review\n4.   Critical Reviews in Food Science and Nutrition. 7.   The role of artificial intelligence in c .... # The role of artificial intelligence in combating food fraud: a systematic literature review. *   View PDF (open in a new window)PDF (open in a new window)View EPUB (open in a new window)EPUB (open in a new window). This study presents a systematic literature review evaluating the current state of artificial intelligence (AI) applications in combating food fraud. The aim was to examine the types of fraud detected by AI, the food products involved, the specific AI techniques used, and the performance evaluation metrics utilized. Most of the included studies focused on the detection of adulteration and mislabeling, particularly origin and quality mislabeling, with spices, herbs, meat and dairy being the most frequently investigated food product categories. Machine Learning (ML) and Deep Learning (DL) were the primary approaches utilized, ML was the most dominant, with Support Vector Machines (SVMs) and Convolutional Neural Networks (CNNs) emerging as the most frequently applied algorithms. Regarding the data types, spectral and imaging data were predominantly used, and most models were developed using supervised approaches. The findings underscore the importance of AI applied in food fraud detection and the need to explore underrepresented fraud types and food categories. Food Fraud is defined as “the deliberate and intentional substitution, addition, tampering, or misrepresentation of food, food ingredients, or food packaging; or false or misleading statements made about a product for economic gain”(Spink & Moyer Citation 2011). This systematic literature review evaluates the application of AI for the detection of food fraud. Aligned with the research questions, the study identifies investigated food commodities and fraud types, analyzes the input data modalities and algorithms employed and assesses performance metrics and data availability. The process includes the identification of research questions, the development of a search strategy through the selection of search terms and databases, the establishment of inclusion and exclusion criteria, the evaluation of the study quality, and finally, data extraction. *   RQ-1: Which food products and adulterants were investigated in the context of AI-based fraud detection?",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "D/RIFT: Sounding the Environmental Impact of Artificial Intelligence – Universität Freiburg",
-      "link": "https://uni-freiburg.de/veranstaltungskalender/2026-10-07-d-rift-sounding-the-environmental-impact-of-artificial-intelligence",
-      "snippet": "Combining acoustic instruments, electronic soundscapes, digital processing, and ...",
-      "raw_snippet": "Combining acoustic instruments, electronic soundscapes, digital processing, and generative AI, the work sonically reflects the extraction, energy consumption, and material infrastructures that sustain contemporary digital technologies. Evolving musical patterns suggest unstable flows of data, resources, and technological production, while the tension between human performance and machine-generated sound mirrors the contradictions of AI-driven creativity. [...] Suche\n\nConcert – Art Matters: Art, AI, Sustainability\n\nOkt 07\n\n# D/RIFT: Sounding the Environmental Impact of Artificial Intelligence\n\nWann\n\n07.10.2026, 20:00 - 22:00\n\nWo\n\nHumboldtsaal\n\nKategorie\n\nFür die Öffentlichkeit (z. B. Samstagsuni) [...] Things We Made  \n  for string quartet and electronics\n Fragments  \n  for string quartet and electronics\n Spanning after Helen Frankenthaler’s Spanning (1971)  \n  for string quartet\n Strahlen Sehen after Sigmar Polke’s Strahlen Sehen (2006-2007)  \n  for piano quintet and electronics\n\nAnsprechpartner\n\nMichael Vollstädt\n\nE-Mail\n\nmichael.vollstaedt@frias.uni-freiburg.de\n\nAnmeldung / Info\n\nZum Kalender hinzufügen",
+      "title": "Add triage inbox for tasks added to Client portal view",
+      "link": "https://forum.asana.com/t/add-triage-inbox-for-tasks-added-to-client-portal-view/1158034",
+      "snippet": "Linear does a great job at this with its Triage and Triage Intelligence features...",
+      "raw_snippet": "Linear does a great job at this with its Triage and Triage Intelligence features that receive incoming requests via Slack, email, web forms, product feedback",
       "is_chinese": false,
       "source_type": "people"
     }

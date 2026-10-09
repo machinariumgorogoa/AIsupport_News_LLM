@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-09",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI使用激增，私募市场估值实践承压",
+          "link": "https://www.investmentnews.com/alternatives/private-market-valuation-practices-under-pressure-as-ai-use-surges/268551",
+          "snippet": "AI进入估值流程，传统私募估值方法面临变革压力。",
+          "index": 1
+        },
+        {
+          "title": "AI IPO失败令市场恐惧先于FOMO",
+          "link": "https://www.breakingviews.com/columns/considered-view/failed-ai-ipo-puts-fear-before-fomo-2026-10-09",
+          "snippet": "一家公司目标估值440亿澳元后放弃IPO，AI投资热度降温。",
+          "index": 2
+        },
+        {
+          "title": "两年、57页、未合并：亚马逊、Anthropic与巴西申报难题",
+          "link": "https://laweconcenter.org/resources/two-years-57-pages-no-merger-amazon-anthropic-and-brazils-filing-problem",
+          "snippet": "AI合作浪潮下，科技巨头并购因反垄断申报陷入僵局。",
+          "index": 3
+        },
+        {
+          "title": "AI日报：重要趋势解读",
+          "link": "https://podcasts.apple.com/us/podcast/the-most-important-trends-showing-up-in-new-ai-products/id1680633614?i=1000793953673",
+          "snippet": "ChatGPT新智能UI、Claude Haiku 5.5及GrokBot等新品动态引关注。",
+          "index": 4
+        },
+        {
+          "title": "Financial Assistance Notice of Funding Opportunity Part 1",
+          "link": "https://science.osti.gov/-/media/grants/pdf/foas/2027/DE-FOA-0003673.pdf",
+          "snippet": "AI for Adversarial Robustness and Resilience o 20-B: Data Provenance and Integri...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI是你最新员工，请像管理员工一样管理它",
+          "link": "https://www.cio.com/article/4232583/ai-is-your-newest-hire-manage-it-like-one.html",
+          "snippet": "CIO建议赋予AI必要工具与上下文，像团队协作般管理AI。",
+          "index": 6
+        },
+        {
+          "title": "英伟达CEO黄仁勋：想成功就要做好吃苦准备",
+          "link": "https://fortune.com/2026/10/08/nvidia-ceo-jensen-huang-suffering-as-part-of-success-fear-of-failure-billionaire-tech-leader",
+          "snippet": "155亿美元AI法律科技公司创始人谈及创业艰辛与成功之道。",
+          "index": 7
+        },
+        {
+          "title": "AI可助CFO在不增员情况下扩展财务团队",
+          "link": "https://www.cfodive.com/news/ai-expand-finance-without-headcount-expansion-prophix-ceo-says/832555",
+          "snippet": "工作量上升、人手增长放缓之际，Prophix CEO谈AI赋能财务。",
+          "index": 8
+        },
+        {
+          "title": "Indeed前CEO为何离开科技界为劳动者发声",
+          "link": "https://www.forbes.com/sites/courtney-connley-hampton/2026/10/08/this-tech-ceo-helped-people-get-jobs-he-quit-to-fight-for-workers-in-the-ai-era",
+          "snippet": "前CEO Chris Hyams担忧AI对劳动力市场与就业者权益的影响。",
+          "index": 9
+        },
+        {
+          "title": "ServiceNow Store高级产品库存",
+          "link": "https://store.servicenow.com/store/app/9c9ca3ee1b246a50a85b16db234bcbe3",
+          "snippet": "合作伙伴构建应用商店下载：涉及AI应用分发与库存管理功能。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
