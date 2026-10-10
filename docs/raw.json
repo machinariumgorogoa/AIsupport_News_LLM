@@ -1,262 +1,246 @@
 {
-  "date": "2026-10-09",
-  "count": 31,
+  "date": "2026-10-10",
+  "count": 29,
   "items": [
     {
-      "title": "AI使用激增，私募市场估值实践承压",
-      "link": "https://www.investmentnews.com/alternatives/private-market-valuation-practices-under-pressure-as-ai-use-surges/268551",
-      "snippet": "AI进入估值流程，传统私募估值方法面临变革压力。",
-      "raw_snippet": "## AI enters the valuation workflow\n\nArtificial intelligence is moving from conversation to practice but the governance frameworks required to manage it responsibly are not keeping up.\n\nSeventy-seven percent of survey participants reported beginning to use or increasing their use of AI in the past year, up sharply from 35% in 2025. Among AI users, the most frequently cited tools are Microsoft Copilot at 73%, ChatGPT at 40%, and Claude at 29%. [...] The applications are primarily efficiency-focused. AI tools are being used to draft valuation memos and materials by 58% of AI users, for quality review by 40%, and for document intake and data extraction by 40%. Replacing professional judgment is not yet on the table - the survey describes the prevailing posture as digital-driven and human-led. [...] The governance gap, however, is significant. While 42% of fund groups have a formal policy for acceptable AI use, 39% report having no formal AI governance or specific control practices in place. Among those using AI in valuation, only 10% have established vendor due diligence processes for the tools they are deploying, and just 7% have implemented output logging or audit trails.",
+      "title": "本周十大融资轮：AI与能源领跑繁忙的大额融资阵容",
+      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe",
+      "snippet": "本周十大融资轮中，AI与能源领域主导大额交易，TypeSafe AI获8.7亿美元，专注基础AI模型研发。",
+      "raw_snippet": "2. TypeSafe AI, $870M, foundational AI: TypeSafe AI, developer of Jev, a recently launched AI model with a large and growing early following, raised $870 million in new funding with Andreessen Horowitz as the largest investor, according to a Bloomberg report. Sequoia Capital also participated in the round, which reportedly set a $7.5 billion valuation for San Francisco-based TypeSafe. [...] 5. (tied) Vinci, $250M, AI for engineering: Vinci, developer of an AI computational platform for hardware engineers to design products, closed on $250 million in Series B funding at a $1.5 billion valuation. Advent, Temasek and Xora led the round for the Palo Alto, California-based company. [...] 8. (tied) Arena, $200M, AI evaluation: Arena, provider of a platform for evaluating AI models, pulled in $200 million in Series B funding and said it has exceeded a $100 million annual revenue run rate. Lightspeed Venture Partners and Khosla Ventures led the round, which set a $3.1 billion valuation for the company.\n\n## Methodology",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "AI IPO失败令市场恐惧先于FOMO",
-      "link": "https://www.breakingviews.com/columns/considered-view/failed-ai-ipo-puts-fear-before-fomo-2026-10-09",
-      "snippet": "一家公司目标估值440亿澳元后放弃IPO，AI投资热度降温。",
-      "raw_snippet": "ditched its IPO after aiming for a A$44 billion ($31 billion) valuation - triple that set in an August funding round … at more than $5 billion raised, AI-",
+      "title": "OpenAI引领全球AI收购热潮：195起经核实的AI并购曝光，单笔最高估值达110亿美元",
+      "link": "https://eu.36kr.com/en/p/4018587694420103",
+      "snippet": "资金充裕的AI初创公司借并购扩展产品线，OpenAI主导，195起经核实交易单笔估值达110亿美元。",
+      "raw_snippet": "Well-funded startups expand their product lines and customer reach through M&A, while small companies accelerate their commercialization with the help of large platforms. At the same time, the low price disclosure rate and the remaining uncertainty about integration difficulty, as well as the challenge of digesting acquisitions and forming synergy, also bring challenges to the acquisition strategy.\n\nSource: Crunchbase, Zhidx [...] 4. OpenAI acquired US computational photography startup Glass Imaging for 300 million US dollars (about 2.01 billion yuan). The company applies AI to camera hardware using customized AI technology to improve imaging quality. [...] 2. Cyera, an Israeli AI security platform vendor, acquired identity security startup Oasis Security for 1 billion US dollars (about 6.7 billion yuan).\n\n3. Anthropic acquired AI pharmaceutical vendor Coefficient Bio for 400 million US dollars (about 2.68 billion yuan). The latter builds an AI platform to automate drug R&D pipelines, target discovery and clinical regulatory planning.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "Breakingviews - Failed AI IPO puts fear before FOMO | Reuters",
-      "link": "https://www.reuters.com/commentary/breakingviews/failed-ai-ipo-puts-fear-before-fomo-2026-10-09",
-      "snippet": "MELBOURNE, Oct 9 (Reuters Breakingviews) - Fear of missing out can be a powerful...",
-      "raw_snippet": "MELBOURNE, Oct 9 (Reuters Breakingviews) - Fear of missing out can be a powerful emotion. Firmus Technologies, though, appears to have taken it too far. On Friday the Nvidia (NVDA.O) - and ​Blackstone (BX.N) - backed neocloud firm ditched its IPO after aiming for a A$44 billion ($31 billion) valuation - triple that set in ‌an August funding round and 23 times higher than its worth a year earlier. That and a slew of other worries had potential shareholders in the data center developer switching [...] Editing by Una Galani; Production by Aditya Srivastav [...] ⁠was essentially toast.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "The Top AI Investors & VC Firms for Startups in 2026",
-      "link": "https://www.openvc.app/investor-lists/ai-investors",
-      "snippet": "Revenue4. Scaling5. Growth6. Pre-IPO+4 | Always | We invest in early-stage deept...",
-      "raw_snippet": "Revenue4. Scaling5. Growth6. Pre-IPO+4 | Always | We invest in early-stage deeptech across artificial intelligence (AI), machine learning (ML), advanced computing, quantum technologies, defense tech, robotics, autonomous systems, climate tech, clean energy, enterprise SaaS, automation, cloud infrastructure, cybersecurity, bioinformatics, and computational healthcare. We back technical founders building transformational technologies at major market inflection points. | MLVN Ventures helps [...] ### Market Growth and Investment Patterns\n\nAI is pulling in more capital than any other sector right now, according to Crunchbase. In 2025, nearly half of all global venture funding went into AI (up from roughly a third the year before). More than $200 billion has already flowed into AI across infrastructure, foundation models, and application-layer companies.\n\nAdditionally, a report from Goldman Sachs explains how AI companies’ capital spending may surpass $500 billion in 2026. [...] AI Seed Funding\n\nSeed round investors want proof that your idea can resonate in the market. That means early adoption (users, pilots, or even strong LOIs) plus data infrastructure that scales as demand grows. Just as important is clarity on how you’ll turn technical innovation into a real business.\n\nAI Series A+ Funding",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Activism, Edge and Finding Underappreciated AI Winners | Brown Advisory",
-      "link": "https://www.brownadvisory.com/node/44861",
-      "snippet": "Gross Margin: A company's revenue less its cost of goods sold, generally express...",
-      "raw_snippet": "Gross Margin: A company's revenue less its cost of goods sold, generally expressed as a percentage of revenue.  \nHBM (High-Bandwidth Memory): A type of high-performance computer memory designed to provide significantly greater data-transfer speeds than conventional memory and commonly used in advanced computing and artificial intelligence applications.  \nLBO (Leveraged Buyout): The acquisition of a company using a significant amount of borrowed capital to finance the transaction. [...] M&A (Mergers and Acquisitions): Transactions involving the combination of companies or assets through mergers, acquisitions or related corporate transactions.  \nNAND: A type of non-volatile flash memory that retains stored data without power and is commonly used in solid-state drives and other data-storage devices. [...] P/E Multiple (Price-to-Earnings Multiple): A valuation measure calculated by dividing a company's share price by its earnings per share. It is commonly used to compare a company's valuation with its historical valuation or that of other companies.  \nPIPE (Private Investment in Public Equity): A transaction in which private investors purchase securities issued by a publicly traded company, generally through a privately negotiated transaction.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "两年、57页、未合并：亚马逊、Anthropic与巴西申报难题",
-      "link": "https://laweconcenter.org/resources/two-years-57-pages-no-merger-amazon-anthropic-and-brazils-filing-problem",
-      "snippet": "AI合作浪潮下，科技巨头并购因反垄断申报陷入僵局。",
-      "raw_snippet": "The wave of artificial intelligence (AI) partnerships and “acqui-hires”—deals to acquire a company’s talent—has reached Brazil. The tribunal of Brazil’s Administrative Council for Economic Defense (CADE) decided its first batch of such cases involving large technology firms and AI startups in May. A second round followed in September with Amazon/Anthropic—the would-be merger that turned out not to be one. [...] Answering that question took a two-year investigation and a 57-page tribunal decision. Both followed the logic of the current rules, but the exercise illustrates the costs and uncertainty those rules impose just to establish whether a deal belongs before CADE. For AI companies, finding out whether a deal requires merger review can itself become a lengthy, costly ordeal.\n\nRead the full piece here.\n\n  \n Back  \n to Top\n\nRelated Publications\n\n## Related Publications\n\nAntitrust [...] The first round focused on people. CADE treated Microsoft/Inflection and Google/Character.AI as “reverse acqui-hires.” These arrangements combine a nonexclusive license to a startup’s technology, the hiring of a substantial portion of its team, and a large payment whose allocation between the two outsiders cannot easily discern. The tribunal recognized that such deals may qualify as a “concentration act”—Brazil’s legal term for a merger for antitrust purposes—under the broad language of Article",
+      "title": "AI应用激增，私募市场估值实践承压（InvestmentNews）",
+      "link": "https://www.investmentnews.com/alternatives/private-market-valuation-practices-under-pressure-as-ai-use-surges/268551",
+      "snippet": "随着人工智能进入估值工作流程，私募市场传统估值方式面临压力，行业亟需调整方法论、合规与审计标准。",
+      "raw_snippet": "## AI enters the valuation workflow\n\nArtificial intelligence is moving from conversation to practice but the governance frameworks required to manage it responsibly are not keeping up.\n\nSeventy-seven percent of survey participants reported beginning to use or increasing their use of AI in the past year, up sharply from 35% in 2025. Among AI users, the most frequently cited tools are Microsoft Copilot at 73%, ChatGPT at 40%, and Claude at 29%. [...] The applications are primarily efficiency-focused. AI tools are being used to draft valuation memos and materials by 58% of AI users, for quality review by 40%, and for document intake and data extraction by 40%. Replacing professional judgment is not yet on the table - the survey describes the prevailing posture as digital-driven and human-led. [...] The governance gap, however, is significant. While 42% of fund groups have a formal policy for acceptable AI use, 39% report having no formal AI governance or specific control practices in place. Among those using AI in valuation, only 10% have established vendor due diligence processes for the tools they are deploying, and just 7% have implemented output logging or audit trails.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "AI日报：重要趋势解读",
-      "link": "https://podcasts.apple.com/us/podcast/the-most-important-trends-showing-up-in-new-ai-products/id1680633614?i=1000793953673",
-      "snippet": "ChatGPT新智能UI、Claude Haiku 5.5及GrokBot等新品动态引关注。",
-      "raw_snippet": "ChatGPT’s new intelligent UI, Claude Haiku 5.5, and GrokBot’s embrace of rival models reveal where AI is heading: better interfaces, cheaper intelligence, and more choice. NLW breaks down the announcements and why competition is increasingly about the experience built around the models. In the headlines: Hermes creator Nous Research reaches a $1.5 billion valuation, massive chip financing deals draw scrutiny, and Anthropic expands access to Mythos.\n\nBrought to you by: [...] Brought to you by:\n\nKPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nGranola - The AI notepad for people in back-to-back meetings. Try it free ⁠⁠⁠⁠⁠granola.ai/brief⁠⁠⁠⁠⁠\n\nHarbor - Invest in the AI ecosystem. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ [...] Section - Section turns AI investment into workforce transformation and ROI - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nBlitzy - Want to accelerate enterprise software development velocity by 5x? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+      "title": "AI估值担忧升温，英伟达支持企业取消IPO",
+      "link": "https://www.reutersconnect.com/item/uncaptioned-nvidia-backed-firm-scraps-ipo-amid-ai-valuation-concerns/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0ODg1MS1WSURFTw",
+      "snippet": "一家人工智能基础设施公司因近期估值担忧取消IPO，反映出市场对AI企业高估值的审慎态度加剧。",
+      "raw_snippet": "The artificial intelligence infrastructure firm blamed recent market volatility and said an initial public offering was no longer in the best interests of",
       "is_chinese": false,
       "source_type": "funding",
       "index": 4
     },
     {
-      "title": "Startup Funding Espresso – How to Diligence an AI Startup - Investor Connect",
-      "link": "https://investorconnect.org/startup-funding-espresso-how-to-diligence-an-ai-startup",
-      "snippet": "How to Diligence an AI Startup Hello, this is Hall T. Martin with the Startup Fu...",
-      "raw_snippet": "How to Diligence an AI Startup Hello, this is Hall T. Martin with the Startup Funding Espresso — your daily shot of startup funding and investing. Artificial intelligence companies bring new challenges to the diligence process. Here are the key steps to diligence an AI startup: Does the AI startup have a clearly defined market that needs the product? How competitive is the startup over other providers? How well does the product fit the customer’s needs? Does the company have a clear growth [...] Copyright (c) 2026, Hall Martin and investorconnect.org. All rights reserved.\n\nDisclaimer:  \n Hall T Martin is the director of Investor Connect, which is a 501(c)(3) nonprofit dedicated to the education of investors for early-stage funding. All opinions expressed by Hall and podcast guests are solely their own opinions and do not reflect the opinion of Investor Connect. This podcast is for informational purposes only and should not be relied upon for the basis of investment decisions. [...] something today. \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ For more episodes from Investor Connect, please visit the site at:  Check out our other podcasts here:  For Investors check out:  For Startups check out:  For eGuides check out:  For upcoming Events, check out  For Feedback please contact info@tencapital.group Please follow, share, and leave a review. Music courtesy of Bensound.",
+      "title": "AI valuation fears derail Firmus IPO - Taipei Times",
+      "link": "https://www.taipeitimes.com/News/biz/archives/2026/10/10/2003865700",
+      "snippet": "-fueled rush for capital sent share sales to a record, defying a bruising sellof...",
+      "raw_snippet": "-fueled rush for capital sent share sales to a record, defying a bruising selloff in the city’s stocks. Initial public offerings (IPOs), placements and block trades raised US$47.5 billion in July to last month, the biggest haul ever for the period, data compiled by Bloomberg showed. That pushed fundraising this year above US$92 billion and within reach of the US$112.5 billion record set in 2021. AI has been at the heart of Hong Kong’s deal revival, but this summer brought a new level of [...] SILICON ISLAND: When asked about geopolitical tensions, Lisa Su said that ‘Taiwan is absolutely critical to the semiconductor supply chain, and very, very critical for AMD’ Advanced Micro Devices Inc (AMD) CEO Lisa Su (蘇姿丰) yesterday said the company plans to “substantially” increase manufacturing capacity next year through its Taiwanese supply chain, particularly with Taiwan Semiconductor Manufacturing Co (TSMC, 台積電), as surging demand for artificial intelligence (AI)-related processors [...] a new level of intensity. Chinese companies raised ever-larger sums",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Financial Assistance Notice of Funding Opportunity Part 1",
-      "link": "https://science.osti.gov/-/media/grants/pdf/foas/2027/DE-FOA-0003673.pdf",
-      "snippet": "AI for Adversarial Robustness and Resilience o 20-B: Data Provenance and Integri...",
-      "raw_snippet": "AI for Adversarial Robustness and Resilience o 20-B: Data Provenance and Integrity Verification o 20-C: Real-Time Attack Detection and Mitigation for AI Models • 21. Artificial Intelligence in Fluid Flow for Energy Components and Technologies o 21-A: Physics-Informed AI for Complex Flow Modeling o 21-B: AI-Driven Design and Control for Performance and Durability Version 4.1 Page 13 of 40 Notice of Funding Opportunity, Part 1 Many Federal agencies have a vested interest in the success of [...] and Technology • 7. Discovering Quantum Algorithms with AI o 7-A: Application-aware Error Correction o 7-B: Computational Tools for Fault Tolerant Quantum Computational Science o 7-C: Hybrid Quantum-Classical Optimization Algorithms o 7-D: Quantum Algorithms for Nonlinear Plasma Physics o 7-E: Quantum Advantage for Nuclear and Hadronic Systems • 8. Realizing Quantum Systems for Discovery o 8-A: AI for Quantum Systems Design o 8-B: AI for Control of Quantum System o 8-C: AI for Quantum Imaging [...] for Quantum Imaging and Sensing o 8-D: AI for Quantum Computing and Networking • 9. Recentering Microelectronics in America o 9-B: Materials and Architectures for Non-von Neuman Computing Devices o 9-C: AI-Driven Architecture Design o 9-D: 3D non-volatile compute-in-memory technology o 9-E: Physics-Based Circuit Design, Simulation, and Emulation o 9-F: Microelectronics in Harsh Environments o 9-G: Plasma-Enabled Microelectronics Manufacturing o 9-H: Power Electronics and Communication Networks",
+      "title": "Artificial Intelligence in Finance: From Prediction to ...",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7586640",
+      "snippet": "Abstract. Artificial intelligence (AI) expands financial prediction and information processing, but technical gains do not necessarily improve allocation.",
+      "raw_snippet": "Abstract. Artificial intelligence (AI) expands financial prediction and information processing, but technical gains do not necessarily improve allocation.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Mergers and Acquisition Tax, Senior Manager - PwC | Built In NYC",
+      "link": "https://www.builtinnyc.com/job/mergers-and-acquisition-tax-senior-manager/11606285",
+      "snippet": "Number of Tech Workers: 549,200; 6% of overall workforce (2024 CompTIA survey)\n ...",
+      "raw_snippet": "Number of Tech Workers: 549,200; 6% of overall workforce (2024 CompTIA survey)\n Major Tech Employers: Capgemini, Bloomberg, IBM, Spotify\n Key Industries: Artificial intelligence, Fintech\n Funding Landscape: $25.5 billion in venture capital funding in 2024 (Pitchbook)\n Notable Investors: Greycroft, Thrive Capital, Union Square Ventures, FirstMark Capital, Tiger Global Management, Tribeca Venture Partners, Insight Partners, Two Sigma Ventures [...] As the undisputed financial capital of the world, New York City is an epicenter of startup funding activity. The city has a thriving fintech scene and is a major player in verticals ranging from AI to biotech, cybersecurity and digital media. It also has universities like NYU, Columbia and Cornell Tech attracting students and researchers from across the globe, providing the ecosystem with a constant influx of world-class talent. And its East Coast location and three international airports make [...] The summary above was generated by AI",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Equity Market Trends: Q3 2026 Valuations & Capital Markets Update | Valuation Research Corp.",
+      "link": "https://www.valuationresearch.com/insights/equity-market-trends-q3-2026-valuations-capital-markets-update",
+      "snippet": "Asset-Light Scalability. Software, digital platforms, and intellectual-property-...",
+      "raw_snippet": "Asset-Light Scalability. Software, digital platforms, and intellectual-property-intensive businesses can scale revenue significantly faster than overhead costs, creating substantial operating leverage.\n Technology, Automation, and AI. Advances in automation, data analytics, and artificial intelligence continue to improve productivity and operational efficiency, helping offset inflationary and labor-related cost pressures. [...] The central question for equity investors and valuation professionals is whether current profitability levels can be sustained over the longer term to justify multiples. Optimists argue that continued advances in AI and automation will permanently enhance productivity and corporate earnings power. More cautious observers note that periods of peak profitability have historically attracted increased competition and, over time, resulted in lower returns on incremental capital. As mega-cap [...] Despite the recent pullback, Information Technology remains among the strongest-performing sectors over longer periods, advancing nearly 35% since March 2026 and more than 75% since September 2025. The sector continues to benefit from ongoing investment in artificial intelligence, digital infrastructure, and technology-enabled productivity initiatives.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "消息人士称印度Jio Platforms IPO目标估值1060亿美元",
+      "link": "https://www.reuters.com/world/india/indias-jio-platforms-targets-nearly-106-billion-valuation-ipo-sources-say-2026-10-09",
+      "snippet": "穆克什·安巴尼之子阿卡什·安巴尼执掌的Jio运营电信等多元业务，拟以1060亿美元估值上市。",
+      "raw_snippet": "Jio, led by Mukesh Ambani's son ​Akash Ambani, operates Reliance's telecom and digital businesses, spanning mobile services, fixed broadband, ​cloud, entertainment, ⁠enterprise technology and AI offerings.\n\nThe company plans to use up to 275 billion rupees of the net proceeds to repay or prepay borrowings of its telecom subsidiary, Reliance Jio Infocomm. [...] Our Standards: The Thomson Reuters Trust Principles. [...] Oct 9 (Reuters) - Indian billionaire Mukesh Ambani's Jio Platforms is targeting a valuation of 10.3 trillion rupees ($106 billion) in what would be the country's biggest listing, four bankers on the deal said ​on Friday.\n\nJio Platforms, which counts Meta (META.O) and Google among its major foreign investors, is set ​to price its shares at 1,065 to 1,119 rupees apiece, the sources told Reuters.\n\nSign up here.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 5
     },
     {
-      "title": "Starbucks responds to Chipotle merger report",
-      "link": "https://www.nbcnews.com/business/consumer/starbucks-responds-chipotle-merger-report-rcna602388",
-      "snippet": "### FOR SUBSCRIBERS‘I just want to hold him’: USS Lincoln sailor to meet his 10-...",
-      "raw_snippet": "### FOR SUBSCRIBERS‘I just want to hold him’: USS Lincoln sailor to meet his 10-month-old son as ship docks\n\n### FOR SUBSCRIBERSSenate candidates run on raising Social Security taxes for higher incomes to prevent benefit cuts\n\n### FOR SUBSCRIBERSRussian operation that used ChatGPT tricked schools, a politician and media, OpenAI says\n\n### FOR SUBSCRIBERSTrump administration’s deal with Nevada fuels data center fight in governor’s race [...] A tie-up between the two companies would mean a massive shakeup in the restaurant industry, which is grappling with consumers changing their spending and eating habits.\n\nBefore the report emerged, sending shares of Chipotle higher by 6.2%, the company had a total market value of about $39 billion. For comparison, Starbucks’ market value stands at more than $105 billion.\n\nChipotle did not return a request for comment on Thursday afternoon. [...] ### FOR SUBSCRIBERSSenate candidates run on raising Social Security taxes for higher incomes to prevent benefit cuts\n\n### FOR SUBSCRIBERSRussian operation that used ChatGPT tricked schools, a politician and media, OpenAI says\n\n### FOR SUBSCRIBERSTrump administration’s deal with Nevada fuels data center fight in governor’s race\n\n### FOR SUBSCRIBERSLatino voters reject Trump’s immigration policies — and detail the personal impact",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Revolut favors US primary listing for potential IPO, CEO says | Reuters",
-      "link": "https://www.reuters.com/business/finance/revolut-ceo-wants-us-primary-listing-if-it-goes-public-bloomberg-news-reports-2026-10-08",
-      "snippet": "Our Standards: The Thomson Reuters Trust Principles. [...] Sign up here.\n\nRevolu...",
-      "raw_snippet": "Our Standards: The Thomson Reuters Trust Principles. [...] Sign up here.\n\nRevolut received ​preliminary approval for a national banking licence in the United States in September, after getting licences in Britain and France earlier ​this year.\n\nThe bank has risen to become Europe's ​most valuable startup, having grown rapidly since it was launched ‌just ⁠over a decade ago as a fintech promising cheaper forex fees. Valued at $115 billion privately, Revolut is now worth more than Britain's Barclays (BARC.L) and ​France's Societe Generale (SOGN.PA). [...] The ​company's top ⁠boss had previously told French newspaper Les Echos the bank was looking into ​a dual stock market listing in ​New ⁠York and London.\n\nAny eventual listing is still likely to be at least a year away, with past ⁠media ​reports citing 2028, and subject ​to market conditions.\n\nAdds CEO comment from Bloomberg report, background throughout\n\nReporting by Sri Hari N S in Bengaluru; ​Additional reporting by Akshaya V; Editing by Anil D'Silva",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Regional Artificial Intelligence Initiative  - Canada.ca",
-      "link": "https://www.canada.ca/en/atlantic-canada-opportunities/services/regional-artificial-intelligence-initiative.html",
-      "snippet": "Artificial intelligence (AI) is a powerful tool that has the potential to transf...",
-      "raw_snippet": "Artificial intelligence (AI) is a powerful tool that has the potential to transform the economy across all industries in Canada. Responsible development of AI holds tremendous economic potential in terms of commercialization, innovation, productivity and competitiveness, and has the potential to generate a range of social and environmental benefits for Canadians.\n\nRAII\n\n## On social media\n\n## Program update [...] The Regional Artificial Intelligence Initiative (RAII) will provide support through two streams:\n\nAI productization and commercialization will help AI start-ups and growing firms scale up and address common challenges on their journey from lab prototypes to real-world applications, including securing growth capital, hiring the right people, managing data, and navigating regulatory frameworks. [...] Adoption of AI applications across critical sectors will address the AI adoption lag among Canadian businesses and help enhance productivity, growth and competitiveness. Support will focus on addressing challenges faced by SMEs, such as skills gaps, AI integration complexities, and compliance with regulatory and industry standards.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Bunzl announces acquisition of Blueleaf Care - Bunzl",
-      "link": "https://www.bunzl.com/newsroom/bunzl-announces-acquisition-of-blueleaf-care",
-      "snippet": "Blueleaf is a leading distributor of care and nursing home products, including c...",
-      "raw_snippet": "Blueleaf is a leading distributor of care and nursing home products, including consumables, cleaning solutions, continence care, equipment, furniture and PPE, supplied primarily to care homes. The business is highly complementary to our existing business and generated revenue of £58m in 2025.\n\nCommenting on today’s announcement, Frank van Zanten, Chief Executive Officer of Bunzl, said: [...] “I am delighted to welcome the Blueleaf team to Bunzl. Blueleaf is a high-quality business that further strengthens our position in the attractive UK care home market. The combination of the two businesses will broaden our customer proposition and provide opportunities to leverage our scale and capabilities. We look forward to supporting the business in its next phase of growth.”\n\nEnquiries: [...] Skip to Main Content\n Skip to Footer\n\nBunzl logo\n\nOther websites   S\n\n# Bunzl announces acquisition of Blueleaf Care\n\nBack to the newsroom\n\n08 Oct 2026\n\nBunzl plc\n\n## Bunzl announces acquisition of Blueleaf Care\n\n Bunzl plc, the specialist international distribution and services Group, today announces the acquisition of 100% of Blueleaf Care (“Blueleaf”) in the UK.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Finance & Grants (CA Dept of Education)",
-      "link": "https://www.cde.ca.gov/fg/fo",
-      "snippet": "Finance & Grants\n       \n           Finance & Grants Home\n           Accounting\n...",
-      "raw_snippet": "Finance & Grants\n       \n           Finance & Grants Home\n           Accounting\n                          Definitions, Instructions, & Procedures\n               Indirect Cost Rates (ICR)\n               Standardized Account Code Structure (SACS) [...] Request for Applications\n   Finance & Grants Other Topics\n   Res-26: SSPDBG\n   Request for Applications\n   Res-23: Proposition 28: Arts and Music in Schools\n   Res-26: Title I, Part A\n\nMore Trending Items\n\nRecently Posted in Funding [...] Funding Tools & Materials  \nFind forms, tools and guidance for preparing applications for funds. These tools and materials are available to make applying for funds as easy as possible.\n\nTrending in Funding\n\n   Funding(this page)\n   Res-26: CCSPP\n   Funding Forms\n   CCAP Grant 26-27 RFA\n   CCAP: Dual Enrollment Opportunities Grant Errata 1",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
       "title": "Mills administration allocates funding to keep PCHC afloat",
-      "link": "https://www.wabi.tv/2026/10/08/mills-administration-allocates-funding-keep-pchc-afloat",
-      "snippet": "Community Health Center, Inc. [...] models. With this investment, PCHC is no lon...",
-      "raw_snippet": "Community Health Center, Inc. [...] models. With this investment, PCHC is no longer pursuing an imminent Chapter 11 filing. That is a significant step forward. But the next 12 months will be critical, and we have a great deal of work ahead to put PCHC on solid financial ground. [...] DHHS, providing regular updates, and being fully accountable for how these funds are used.",
+      "link": "https://www.wabi.tv/video/2026/10/08/mills-administration-allocates-funding-keep-pchc-afloat",
+      "snippet": "Gray AI Policy. Mills administration allocates funding to keep PCHC afloat ... Click here to learn more about our approach to artificial intelligence. A",
+      "raw_snippet": "Gray AI Policy. Mills administration allocates funding to keep PCHC afloat ... Click here to learn more about our approach to artificial intelligence. A",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "DOE Awards $1.9 Billion in SPARK Funding for Grid Modernization Projects | Washington Energy Report",
-      "link": "https://www.troutmanenergyreport.com/2026/10/doe-awards-1-9-billion-in-spark-funding-for-grid-modernization-projects",
-      "snippet": "will add more than 23 gigawatts of transmission capacity by rebuilding or recond...",
-      "raw_snippet": "will add more than 23 gigawatts of transmission capacity by rebuilding or reconductoring over 1,500 miles of existing transmission lines and by deploying Grid-Enhancing Technologies across nearly 21,000 miles of existing transmission. [...] Skip to content\n\nSearch\n\n# Washington Energy Report\n\n# DOE Awards $1.9 Billion in SPARK Funding for Grid Modernization Projects\n\nBy Adam Webster on\n\nPosted in Transmission [...] DOE’s Office of Electricity administers the SPARK program as part of its Grid Resilience and Innovation Partnerships (“GRIP”) program, which Congress funded through the Infrastructure Investment and Jobs Act. The SPARK and GRIP programs prioritize upgrading existing transmission infrastructure through upgrades such as reconductoring, advanced monitoring, and other grid modernization technologies, rather than building new transmission lines. According to DOE, the selected projects will add more",
+      "title": "Brian Niccol may be able to make a Starbucks-Chipotle merger work",
+      "link": "https://finance.yahoo.com/video/brian-niccol-may-be-able-to-make-a-starbucks-chipotle-merger-work-142413961.html",
+      "snippet": "2. Day losers\n      3. Highest open interest\n      4. Highest implied volatility...",
+      "raw_snippet": "2. Day losers\n      3. Highest open interest\n      4. Highest implied volatility\n   5. Sectors \n      1. Technology\n      2. Financial services\n      3. Consumer cyclical\n      4. Communication services\n      5. Healthcare\n      6. Industrials\n      7. Consumer defensive\n      8. Energy\n      9. Basic materials\n      10. Real estate\n      11. Utilities\n   6. Treasury bonds\n   7. Futures\n   8. Currencies\n   9. World indices\n   10. ETFs\n   11. Mutual funds\n4. 1. Earnings\n   2. IPOs [...] 2. IPOs\n   3. Stock splits\n   4. Economic events\n5. 1. Screeners \n      1. Stocks\n      2. Most shorted\n      3. Most active penny stocks\n      4. Analyst strong buy\n   2. Stock comparison \n      1. NVDA vs INTC\n      2. NVDA vs AMD\n      3. GOOG vs AMZN\n      4. AAPL vs MSFT\n      5. TSLA vs RIVN\n   3. Currency converter\n   4. Advanced charts\n6. Community\n7. Personal Finance\n   1. My Money   BETA\n   2. Credit cards \n      1. Compare Credit Cards\n      2. Best 0% APR cards [...] Oops, something went wrong\n\nSkip to navigation  Skip to right column \n\n# Yahoo Finance\n\nSign in",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Funding | UCLA Graduate Programs",
-      "link": "https://grad.ucla.edu/funding",
-      "snippet": "Add funding awards to your favorites list\n Get notified of upcoming deadlines an...",
-      "raw_snippet": "Add funding awards to your favorites list\n Get notified of upcoming deadlines and events\n Receive personalized recommendations for funding awards\n\nSign In\n\nSkip to content\n\n Recommendations\n Notifications\n My Favorites\n Settings\n Sign Out\n\n Go.Grad\n Favorites, recommendations, and notifications are only available for UCLA Graduate Students at this time.\n Sign Out\n\nFunding\n\n#### We're Sorry\n\nYou've signed in with a UCLA undergraduate student account. [...] Sign in features are only available for UCLA graduate students at this time.\n\nConnect with us and learn about our services on the Graduate Education Portal.\n\n# UCLA Graduate Programs\n\nA tree is at the foreground of a campus walkway\n\nSave timesearching for funding [...] UCLA Graduate Division\n\nSAVE TIME SEARCHING FOR FUNDING\n\n Recommendations\n Notifications\n My Favorites\n Settings\n Sign Out\n\n Go.Grad\n Favorites, recommendations, and notifications are only available for UCLA Graduate Students at this time.\n Sign Out\n\nSign In\n\nWhy Sign In?\n\nAccess features exclusively for UCLA students and staff.\n\nAs a student, you can:",
+      "title": "Funding Opportunities | Department of Energy",
+      "link": "https://www.energy.gov/cmei/vehicles/funding-opportunities",
+      "snippet": "opportunities as well. [...] research and development, stimulate innovation in t...",
+      "raw_snippet": "opportunities as well. [...] research and development, stimulate innovation in the private sector, and improve the return on investment from federally funded research. [...] Potential funding opportunity applicants can learn more about the EERE funding application process at How Do I Apply for CMEI Funding? Additionally, applicants can review the TTO Information Session Series from 2023-2024, which provides recorded videos explaining TTO’s competitive funding opportunity process.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "A Victory for Survivors: Federal Court Blocks Unlawful Restrictions on Funding – Washington State Coalition Against Domestic Violence & Sexual Assault",
-      "link": "https://wscadv.org/news/a-victory-for-survivors-federal-court-blocks-unlawful-restrictions-on-funding",
-      "snippet": "Your internet activity can be tracked. If you think someone is monitoring this d...",
-      "raw_snippet": "Your internet activity can be tracked. If you think someone is monitoring this device, please review these technology safety tips or call 1-800-799-7233.\n\nWashington State Coalition Against Domestic Violence & Sexual Assault\n\nWashington State Coalition Against Domestic Violence & Sexual Assault\n\n# A Victory for Survivors: Federal Court Blocks Unlawful Restrictions on Funding\n\nA Victory for Survivors: Federal Court Protects Funding for Critical Services [...] ### Get Help\n\nTo talk to someone 24/7, call the National Domestic Violence Hotline: 1-800-799-7233\n\nTTY: 1-800-787-3224 / Videophone: 1-855-812-1001\n\nTechnology Safety\n\n### Footer Menu\n\n### More from WSCADV\n\n### Follow [...] The Washington State Coalition Against Domestic Violence and Sexual Assault was proud to join this lawsuit, alongside coalitions and service providers across the country, because we believe every survivor should be able to get help when they need it.",
+      "title": "Bridging Acquisition and Operations: SSC interns gain mission perspective at Vandenberg > Space Systems Command > Newsroom",
+      "link": "https://www.ssc.spaceforce.mil/Newsroom/Article/4623268/bridging-acquisition-and-operations-ssc-interns-gain-mission-perspective-at-van",
+      "snippet": "“Seeing the operational environment changed how I think about acquisition planni...",
+      "raw_snippet": "“Seeing the operational environment changed how I think about acquisition planning,” said Dylan Tang, SSC Financial Management Cost Planning PAQ intern. “A requirement, funding decision or schedule change may look isolated on paper, but it can affect facilities, personnel, safety and mission execution across the installation.” [...] For the interns, seeing those systems in operation provided context that cannot be fully replicated through policy documents, acquisition schedules, or financial spreadsheets.  \n  \n“The assignment helped me see the operational story behind the numbers,” said Maxwell Estes, SSC Financial Management Cost Planning PAQ intern. “Funding decisions influence maintenance capacity, infrastructure readiness and the ability of mission partners to respond when requirements change.” [...] Interns participating in Space Systems Command’s PALACE Acquire program assemble outside the Western Range Operations Control Center at Vandenberg Space Force Base, Calif. June 23, 2026. PALACE Acquire is a developmental training program managed by the Department of the Air Force and supporting both the U.S. Air Force and U.S. Space Force. The program helps space acquisition personnel better understand how early decisions involving requirements, funding, facilities, maintenance, and product",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "AI是你最新员工，请像管理员工一样管理它",
-      "link": "https://www.cio.com/article/4232583/ai-is-your-newest-hire-manage-it-like-one.html",
-      "snippet": "CIO建议赋予AI必要工具与上下文，像团队协作般管理AI。",
-      "raw_snippet": "### 5. Teamwork [...] Give AI the necessary tools and context to assess itself. Otherwise, the agent will be blind to its actual impact and require too much course-correction. [...] invoking it and infer topics of interest.",
+      "title": "Louisiana drops to 10th in film production as funding challenges hurt industry",
+      "link": "https://www.kplctv.com/video/2026/10/08/louisiana-drops-10th-film-production-funding-challenges-hurt-industry",
+      "snippet": "Updated: 13 hours ago\n\nNational Pastry Conference draws 400 chefs to Charlotte\n\n...",
+      "raw_snippet": "Updated: 13 hours ago\n\nNational Pastry Conference draws 400 chefs to Charlotte\n\nShared Video\n\n#### Juvenile leads officers on multi-county stolen car chase before crashing in Charlotte, police say\n\nUpdated: 13 hours ago\n\nThe chase began around 11 p.m. Tuesday, Oct. 6, on Park Street in Belmont before continuing onto I-85.\n\nShared Video\n\n#### Leslie Chapman live at 7 Friday with Principal Chris Gibson\n\nUpdated: 9 hours ago\n\nLeslie Chapman live at 7 Friday with Principal Chris Gibson [...] Skip to content\n\n# Louisiana drops to 10th in film production as funding challenges hurt industry\n\nUpdated: 17 hours ago\n\nAdd Us On GoogleAdd as a preferred source on Google\n\nShared Video\n\n#### Richlands residents face rising utility bills tied to generator debt\n\nUpdated: 13 hours ago\n\nRising utility bills are leading some families in the Town of Richlands to choose between paying the bill or buying groceries.\n\nShared Video\n\n#### National Pastry Conference draws 400 chefs to Charlotte [...] Shared Video\n\n#### Leslie Chapman live at 6:30 with Pastor Al Schmitz at the Salem Heusler UCC booth Friday\n\nUpdated: 9 hours ago\n\nLeslie Chapman live at 6:30 with Pastor Al Schmitz at the Salem Heusler UCC booth Friday\n\nShared Video\n\n#### Day 5 of 105th WSNC Fall Festival underway, only two days left\n\nUpdated: 9 hours ago\n\nDay 5 of 105th WSNC Fall Festival underway, only two days left",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Bladen County leaders set joint meeting on school resource officer funding",
+      "link": "https://www.wect.com/video/2026/10/09/bladen-county-leaders-set-joint-meeting-school-resource-officer-funding",
+      "snippet": "News\n\n#### Hilton Bluffs original subdivision approval revoked by New Hanover Co...",
+      "raw_snippet": "News\n\n#### Hilton Bluffs original subdivision approval revoked by New Hanover County\n\nUpdated: 3 hours ago\n\nNew Hanover County has revoked the conditional approval for the proposed Hilton Bluffs subdivision.\n\nNews\n\n#### Vehicle crashes into Carolina Beach coffee shop\n\nUpdated: 3 hours ago\n\nA vehicle crashed into a coffee shop in Carolina Beach Friday afternoon, according to authorities.\n\nNews\n\n#### Dr. Chris Barnes, NHCS Superintendent, talks about the $320 million school bond referendum [...] The New Hanover County Endowment has awarded the town of Carolina Beach $3.5 million to develop a coastal park and event stage.\n\nNews\n\n#### As Hurricane Isaias churns in the Gulf, NC braces for spillover\n\nUpdated: 2 hours ago\n\nHurricane Isaias is not expected to make landfall in North Carolina, but Gov. Josh Stein and state emergency management officials are still urging residents to prepare for localized effects this weekend as the storm moves through the Gulf Coast.\n\nNews [...] Skip to content\n\n# Bladen County leaders set joint meeting on school resource officer funding\n\nPublished: Oct. 9, 2026 at 4:24 PM EDT|Updated: 3 hours ago\n\nAdd Us On GoogleAdd as a preferred source on Google\n\nThe Bladen County Board of Education will hold a special joint meeting with the Bladen County Board of Commissioners this Monday, October 12, at 7 p.m.\n\nNews\n\n#### WECT NEWS NOW: Carolina Beach official details plans for new boardwalk park\n\nUpdated: 4 hours ago",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Laredo veterans community center moves forward with ...",
+      "link": "https://www.kgns.tv/2026/10/09/laredo-veterans-community-center-moves-forward-with-federal-funding",
+      "snippet": "A $1 million federal investment would help build a community center for veterans, military members and their families. According to U.S. Rep. Henry Cuellar, the",
+      "raw_snippet": "A $1 million federal investment would help build a community center for veterans, military members and their families. According to U.S. Rep. Henry Cuellar, the",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "特朗普同日叫停微软绿卡项目并为CEO授勋",
+      "link": "https://finance.yahoo.com/video/trump-suspended-microsofts-green-card-program--awarded-its-ceo-all-in-the-same-day-135045455.html",
+      "snippet": "特朗普在同一天暂停微软一项绿卡相关计划，并向其CEO纳德拉颁发总统自由勋章，引发科技界广泛关注。",
+      "raw_snippet": "You even just look at like take take these tech companies that are, you know, regardless of any criticisms of them, uh criticisms of them, excuse me, they are pushing technology to its furthest points. You want the smartest possible people you can find to be working on that. If that if that exists not here but elsewhere, of course you're going to hire whoever around the world you can find who is the best at what they can do. And would that not be what you want in Silicon Valley to have the [...] 02:30  Speaker A\n\nAnd the and the administration obviously has been a huge supporter of the AI industry wants the build out. Um, so it's interesting that you have again this sort of two sides of that same coin. So we'll see what ends up, you know, if this ends up sticking, if it ends up getting expanded to other companies as well.\n\n02:51  Speaker C\n\nI mean you you'll see this this sort of confusion with people like Elon Musk, right?\n\n02:55  Speaker B\n\nYeah.\n\n02:55  Speaker C [...] Valley to have the smartest people regardless",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "英伟达CEO黄仁勋：想成功就要做好吃苦准备",
-      "link": "https://fortune.com/2026/10/08/nvidia-ceo-jensen-huang-suffering-as-part-of-success-fear-of-failure-billionaire-tech-leader",
-      "snippet": "155亿美元AI法律科技公司创始人谈及创业艰辛与成功之道。",
-      "raw_snippet": "Winston Weinberg, cofounder and CEO of $15.5 billion AI legal startup Harvey echoed that sentiment on an episode of Fortune’s Term Sheet podcast earlier this year.\n\n“I think it’s really hard to figure this out without failing. You just have to fail a million times,” he said.\n\nFor Weinberg, learning from those failures requires putting ego aside and taking an honest look at what went wrong—and what worked. [...] Nvidia’s rise from an idea hatched over a booth at Denny’s to the world’s most valuable company is one of the defining business stories of the AI boom. But according to CEO Jensen Huang, whose net worth now sits at $196 billion, there’s a less glamorous ingredient behind that success: suffering.\n\nRecommended Video [...] # 1\n\nTexas businessman gets 13 years in federal prison as feds seize his Lamborghinis, Ferraris, Firebird, and dozens more cars to pay back fraud victims\n\n# 2\n\nMove over DINKs: SPLITs are the new financial power couple—they have two incomes, no kids yet and no joint bank account\n\n# 3\n\nBillionaires have left the U.K. and taken $160 billion to the likes of Monaco, Switzerland, and the UAE—that's more than those who stayed are worth\n\nSuccessCareers",
+      "title": "马斯克因星链印度上线延迟加大对安巴尼抨击",
+      "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay",
+      "snippet": "马斯克就Starlink印度上线延误加大对安巴尼的批评，双方围绕卫星通信市场准入与频谱分配争执升级。",
+      "raw_snippet": "Aisha Malik\n\n   \n### Cal AI’s 19-year-old founder just raised $10M for his new AI startup\n\n       Julie Bort\n\n   \n### Google releases a new local-first Granola competitor\n\n       Ivan Mehta\n\n   \n### Anthropic is giving startups a free year of Claude Team and $1,000 in credits\n\n       Russell Brandom\n\n   \n### At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI\n\n       Dominic-Madori Davis\n\n   \n### Federal judge calls Flock ‘indiscriminate mass surveillance’ [...] ### Topics\n\nLatest\n\nAI\n\nAmazon\n\nApps\n\nBiotech & Health\n\nClimate\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\n### More from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio [...] OpenAI\n   Hugging Face\n   Flock\n   Startup Battlefield\n   Disrupt 2026\n   Tech Layoffs\n   ChatGPT\n\n© 2026 TechCrunch Media LLC.\n\nImage 7\n\nSome areas of this page may shift around if you resize the browser window. Be sure to check heading and document order.",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "Product Delivery Manager - AI Foundations - JPMorgan Chase",
-      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210798322",
-      "snippet": "Your work will directly influence how AI capabilities are operationalized across...",
-      "raw_snippet": "Your work will directly influence how AI capabilities are operationalized across the firm, helping teams move faster and smarter while maintaining the highest",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "AI可助CFO在不增员情况下扩展财务团队",
-      "link": "https://www.cfodive.com/news/ai-expand-finance-without-headcount-expansion-prophix-ceo-says/832555",
-      "snippet": "工作量上升、人手增长放缓之际，Prophix CEO谈AI赋能财务。",
-      "raw_snippet": "As workloads rise and headcount growth slows, Prophix CEO Alok Ajmera expects AI to give finance teams more capacity — but trust remains a hurdle.",
+      "title": "AI, Spiritual Deception and Christ's Return | Cornerstone University",
+      "link": "https://www.cornerstone.edu/ai-spiritual-deception-and-christs-return",
+      "snippet": "A pioneering AI researcher and former IBM Master Inventor with 50 patents, inclu...",
+      "raw_snippet": "A pioneering AI researcher and former IBM Master Inventor with 50 patents, including four in multimodal AI, Ng is founder and CEO of Devarim Design. Her international reputation gives her credibility among AI researchers, including those who reject her Christian faith.\n\nDuring a Community Chapel focused on Cornerstone’s 2026-27 theme, Jesus Is Coming Again!, she challenged students to consider whether they would remain faithful to Christ even if the world demanded otherwise, profoundly asking: [...] Like Esther, she believes God prepared her for this moment: to confront the elevation of AI into an object of worship and stand for Biblical truth in an industry she describes as chaotic.\n\n“I now can take a stand for him in AI at this very, very chaotic time.”\n\n### Will Christ Find You Ready?\n\nNg pointed to wars, lawlessness, spiritual deception and advancing technology as signs she believes reflect Jesus’ warnings in Matthew 24-25. Yet no one knows when Christ will return. [...] Hear more from Joanna Ng on the dangers of AI-generated truth in Wisdom Conversations and Big Tech’s manipulation of truth, AI as a spiritual adviser and Biblical wisdom in the Wisdom & Influence podcast.\n\n### Experience the Cornerstone Advantage™\n\nLearn from accomplished Christian leaders like Joanna Ng, gaining professional expertise and Biblical wisdom to excel in your career and stand for Jesus Christ.",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
     },
     {
-      "title": "Indeed前CEO为何离开科技界为劳动者发声",
-      "link": "https://www.forbes.com/sites/courtney-connley-hampton/2026/10/08/this-tech-ceo-helped-people-get-jobs-he-quit-to-fight-for-workers-in-the-ai-era",
-      "snippet": "前CEO Chris Hyams担忧AI对劳动力市场与就业者权益的影响。",
-      "raw_snippet": "Former Indeed CEO Chris Hyams worried artificial intelligence would magnify existing job inequities. So he pivoted to a career of teaching and issue",
+      "title": "1Password招聘AI增长产品总监（Accel职位板）",
+      "link": "https://jobs.accel.com/companies/1password/jobs/96471898-director-of-product-ai-growth",
+      "snippet": "密码管理公司1Password运用人工智能与机器学习技术，现招聘AI增长产品总监以推动智能功能发展。",
+      "raw_snippet": "1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See here for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing this form. For additional information see our Candidate Privacy Notice.\n\nApply now [...] yourself, find your people and share the things you love. [...] Reporting to the Senior Director of Product, the Director of Product, AI Growth grows 1Password's new business in artificial intelligence. In this role, you own driving growth for our AI opportunities by identifying which customers we target, which outcomes we win on, and proving it with design customers. You scale growth through our go-to-market organization and through partnerships with the agent ecosystem and channel partners.\n\nHow we’re using AI today",
       "is_chinese": false,
       "source_type": "people",
       "index": 9
     },
     {
-      "title": "Senior Product Manager: AI Data Strategy & Governance | Schwab Jobs",
-      "link": "https://www.schwabjobs.com/job/austin/senior-product-manager-ai-data-strategy-and-governance/33727/101700192640",
-      "snippet": "10+ years of experience in data, analytics, artificial intelligence, technology,...",
-      "raw_snippet": "10+ years of experience in data, analytics, artificial intelligence, technology, governance, product management, or related leadership disciplines.\n 5+ years of experience leading enterprise-scale initiatives involving data, AI, governance, technology transformation, or product delivery.\n Strong understanding of artificial intelligence, generative AI, machine learning concepts, and unstructured data along with the associated data requirements that enable successful AI outcomes. [...] Working at the intersection of AI, data management, governance, technology, and business strategy, you will collaborate across business, technology, risk, compliance, privacy, and data teams to drive enterprise-wide outcomes. [...] Schwab Data’s AI Strategy & Governance organization is accelerating responsible AI adoption across the enterprise by helping teams move from experimentation to scalable, reusable AI capabilities. As a Product Manager supporting AI Data Strategy, Product & Governance, you will play a critical role in shaping and advancing Schwab’s AI maturity through the development of data strategies, governance frameworks, certification processes, and AI-enabling products and capabilities. Working at the",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Definition of PRODUCT",
-      "link": "https://www.merriam-webster.com/dictionary/product",
-      "snippet": "See All\n\nImage 17: Play Quordle: Guess all four words in a limited number of tri...",
-      "raw_snippet": "See All\n\nImage 17: Play Quordle: Guess all four words in a limited number of tries. Each of your guesses must be a real 5-letter word. Quordle Can you solve 4 words at once?Play\n\nImage 18: Play Blossom: Solve today's spelling word game by finding as many words as you can using just 7 letters. Longer words score more points. Blossom Pick the best words!Play [...] The company's newest _product_ is selling well.  The sap used to make maple syrup is a natural _product_.  This book is the _product_ of many years of hard work.  The _finished product_ was a beautiful vase. \n\nRecent Examples on the Web\n\nExamples are automatically compiled from online sources to show current usage.Read More Opinions expressed in the examples do not represent those of Merriam-Webster or its editors. Send us feedback. [...] Get Word of the Day daily email!\n\n## Popular in Grammar & Usage\n\nSee More\n\n### Do You Need a New Language Peeve?\n\n### The Exceptions of '-s' and '-es' Plurals\n\n### Merriam-Webster’s Great Big List of Words You Love to Hate\n\n### Is it 'nerve-racking' or 'nerve-wracking'?\n\n### What's the difference between 'fascism' and 'socialism'?\n\nSee More\n\n## Popular in Wordplay\n\nSee More\n\n### The Real Origin of 'Supercalifragilistic'\n\n### 9 Words That Sound Like Insults But Aren't",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Manager, Product Management - AI/ML & Data Platforms at Capital One",
-      "link": "https://www.capitalonecareers.com/job/mclean/manager-product-management-ai-ml-and-data-platforms/1732/101722345920",
-      "snippet": "Capital One Financial is made up of several different entities. Please note that...",
-      "raw_snippet": "Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).\n\nHiring Process\n\nStories\n\nBenefits\n\nCareer Journey\n\n## How We Hire\n\nWe take finding great coworkers pretty seriously.\n\nIllustration of Man using laptop then excitedly pumping both arms [...] Basic Qualifications:\n\n Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date: \n  + A Bachelor's or Master’s Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, Computer Engineering, Software Engineering, Mechanical Engineering, Information Systems or a related quantitative field), Business or Marketing\n\nOR [...] Product Management at Capital One is a booming, vibrant craft that requires reimagining the status quo, finding value creation opportunities, and driving innovative and sustainable customer experiences through technology. We believe our portfolio of businesses and investments in growth and transformation will result in a company with the scale, brand, capabilities, talent, and values to succeed as the digital revolution transforms our society and our industry.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Director of Product, AI Growth at 1Password",
-      "link": "https://startup.jobs/director-of-product-ai-growth-onepassword-10358315",
-      "snippet": "$238,000 – $357,000 per year TLDR Shape AI opportunities through design customer...",
-      "raw_snippet": "$238,000 – $357,000 per year TLDR Shape AI opportunities through design customer deployments, technology partnerships, and developer adoption.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "ServiceNow Store高级产品库存",
-      "link": "https://store.servicenow.com/store/app/9c9ca3ee1b246a50a85b16db234bcbe3",
-      "snippet": "合作伙伴构建应用商店下载：涉及AI应用分发与库存管理功能。",
-      "raw_snippet": "Partner Built Store Downloads - AI: [...] Apps distributed by ServiceNow partners on the Store with generative AI or agentic AI features (\"AI Features\") may consume Assists as specified by the ServiceNow partner. Assists consumed by AI Features are deducted against the total number of Assists available to Customer (at the account level) at the time of execution of a given AI Feature. ServiceNow does not determine the number of Assists consumed by AI Features so Customers should carefully review and understand the number of Assists [...] number of Assists consumed by AI Features before utilizing a partner application.",
+      "title": "MSR AI兴趣小组启动活动（管理、灵性与宗教分会）",
+      "link": "https://msr.aom.org/msrthrivecommunity/discussion/msr-ai-artificial-intelligence-interest-group-launch-event-following",
+      "snippet": "管理、灵性与宗教分会举办AI兴趣小组启动活动，探讨人工智能与宗教、灵性及管理实践交叉影响的未来趋势。",
+      "raw_snippet": "Global Message Icon\nManagement, Spirituality & Religion logo. This will take you to the homepage\nManagement, Spirituality & Religion logo. This will take you to the homepage\n\n# Management, Spirituality, and Religion MSR\n\nSign up for Learn with AOM: Methods Training Series\n\n## MSR - AI (Artificial Intelligence) Interest Group launch event Following\n\n#### 1.  MSR - AI (Artificial Intelligence) Interest Group launch event Following\n\nHello MSR Members, [...] #### 🌿 𝗜𝗻𝗮𝘂𝗴𝘂𝗿𝗮𝗹 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗼𝗳 𝗠𝗦𝗥-𝗜𝗻𝗱𝗶𝗮 𝗖𝗵𝗮𝗽𝘁𝗲𝗿🌿\n\nSoumya Dutta's profile image\n\n#### MSR - Yogic Sciences Interest Group launch event\n\nAnil Maheshwari's profile image\n\n### Follow MSR on Social Media\n\n|  |  |  |\n --- \n| LinkedIn Icon | Facebook Icon | YouTube Icon |\n\nLinkedIn Icon\nFacebook Icon\nYouTube Icon\n\nInformation\n\nAOM Community\n\nAbout AOM\n\nCareer Services\n\nContact AOM\n\nJoin AOM\n\nContact Info\n\n 100 Summit Lake Drive, Suite 110,  \nValhalla, NY 10595, USA\n\n +1 (914) 326-1800\n\nFAQ Support [...] FAQ Support\n\nFollow AOM\n\nStay connected for latest updates and events from the Academy of Management community\n\n              \n\n[](\n\nThe Academy of Management is the preeminent professional association for management and organization scholars with members from around the world.\n\nAOM.ORG | Community Code of Conduct | Privacy Policy | Terms of Use \n\n2026 Academy of Management\n\nGlobal message icon\n\n#### Community Tags",
       "is_chinese": false,
       "source_type": "people",
       "index": 10
     },
     {
-      "title": "Murder-for-hire scheme leads to two arrests in Manitowoc ...",
-      "link": "https://www.wbay.com/2026/10/08/murder-for-hire-scheme-leads-two-arrests-manitowoc-county",
-      "snippet": "Larry Wallen and Christina Seguin were arrested in a suspected murder-for-hire p...",
-      "raw_snippet": "Larry Wallen and Christina Seguin were arrested in a suspected murder-for-hire plot in Manitowoc County.(WBAY).",
+      "title": "Director, Responsible AI | Schwab Jobs",
+      "link": "https://www.schwabjobs.com/job/san-francisco/director-responsible-ai/33727/101745192336",
+      "snippet": "Schwab’s AI Strategy & Transformation team, known as AI.x, is the central hub fo...",
+      "raw_snippet": "Schwab’s AI Strategy & Transformation team, known as AI.x, is the central hub for Artificial Intelligence at Schwab. We are an integrated product, engineering, research, risk, and enablement team focused on advancing AI responsibly across the enterprise. We help shape the enterprise vision for AI, invest in the most promising opportunities, accelerate delivery across the company, and build the core platform that powers AI at scale. [...] Preferred Qualifications [...] Experience translating applied AI, Responsible AI, AI safety, human-centered AI, sociotechnical systems, or model evaluation research into practical standards, controls, guidance, or product development practices.\n Proven ability to influence senior leaders and build alignment across technology, product, legal, risk, compliance, privacy, cybersecurity, internal audit, and research teams.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Program: Product Design Minor - USC Catalogue",
-      "link": "https://catalogue.usc.edu/preview_program.php?catoid=8&poid=10352",
-      "snippet": "A minor in Product Design offers USC students a deep understanding of the design...",
-      "raw_snippet": "A minor in Product Design offers USC students a deep understanding of the design process leading to the creation of consumer goods and services,",
+      "title": "Add Products",
+      "link": "https://sellercentral.amazon.com/productsearch",
+      "snippet": "No information is available for this page.",
+      "raw_snippet": "No information is available for this page.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Add triage inbox for tasks added to Client portal view",
-      "link": "https://forum.asana.com/t/add-triage-inbox-for-tasks-added-to-client-portal-view/1158034",
-      "snippet": "Linear does a great job at this with its Triage and Triage Intelligence features...",
-      "raw_snippet": "Linear does a great job at this with its Triage and Triage Intelligence features that receive incoming requests via Slack, email, web forms, product feedback",
+      "title": "Looking for dev or founder hangouts - Use cases and examples - OpenAI Developer Community",
+      "link": "https://community.openai.com/t/looking-for-dev-or-founder-hangouts/1404775",
+      "snippet": "Powered by Discourse, best viewed with JavaScript enabled [...] | Creating a Pla...",
+      "raw_snippet": "Powered by Discourse, best viewed with JavaScript enabled [...] | Creating a Platform for Integrating Multiple GPT Chats for Startup Development  Community chatgpt ,  tools ,  integration | 3 | 1340 | February 21, 2024 | [...] # Looking for dev or founder hangouts\n\nHey guys!\n\nDoes anyone know of any casual dev or founder hangouts on Zoom or X Spaces where we can chat, share knowledge, and swap stories?\n\nI’m building a startup solo and really miss the vibe of hanging out with other founders in the same boat.\n\n### Related topics",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "AI Supply Chain Intelligence Agent From",
+      "link": "https://www.packworld.com/trends/logistics-supply-chain/product/22976144/stockiq-technologies-ai-supply-chain-intelligence-agent",
+      "snippet": "StockIQ, a provider of supply chain planning software for manufacturers and dist...",
+      "raw_snippet": "StockIQ, a provider of supply chain planning software for manufacturers and distributors, announced the launch of Edison, its new AI supply chain intelligence",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Midnight SpaceX launch could bring loud sonic booms to Southern California | KTLA",
+      "link": "https://ktla.com/news/california/midnight-spacex-launch-could-bring-loud-sonic-booms-to-southern-california",
+      "snippet": "BestReviews illustration / Halloween costume trends 2026: Horror, pop culture an...",
+      "raw_snippet": "BestReviews illustration / Halloween costume trends 2026: Horror, pop culture and mythology rule\n\n### Amazon’s stock of 2026 beauty Advent calendars is …\n\nBestReviews illustration / Amazon’s stock of 2026 beauty Advent calendars is going fast\n\n### Mahjong is surging in popularity, but why?\n\nMy Mahjong Trove/VIRORA MAHJONG/MUTEX / Mahjong is surging in popularity, and expensive sets are on sale right now\n\n### Fall boots and coats are deeply discounted for October … [...] ### Suspect identified in 2011 Anaheim apartment murder\n\nMike Nunez was arrested on suspicion of murder more than 14 years after a man was found murdered in Anaheim.\n\n### CA students now have easier access to CalFresh\n\nSNAP CalFresh groceries\n\n### A magnitude 7.7 earthquake shakes Panama, USGS reports\n\nPanama earthquake map\n\n### LASD deputies seek suspects in $36K ATM theft case\n\nTwo suspects are being sought for grand theft after allegedly using a victim's ATM to withdraw $36,000. [...] Two suspects are being sought for grand theft after allegedly using a victim's ATM to withdraw $36,000.\n\n### Massive underwater wave moves along California coast\n\nHomes off the Alamitos Peninsula braces for waves from a waning swell from Hurricane Marie.\n\n### High surf causes massive flooding in Newport Beach\n\nNewport Beach Balboa Peninsula Flooding\n\n### Riverside’s Castle Park to pause ride operations",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Technology Development Program (TECDP) - Artificial Intelligence Track - Start Date: July 12, 2027 job in Bloomfield, Connecticut, United States of America | Technology jobs at The Cigna Group",
+      "link": "https://jobs.thecignagroup.com/us/en/job/26010465/Technology-Development-Program-TECDP-Artificial-Intelligence-Track-Start-Date-July-12-2027",
+      "snippet": "Skip to main navigation   Skip to footer\n\n☰\n\nCigna\n\n×  Close) \n\n Areas We Hire F...",
+      "raw_snippet": "Skip to main navigation   Skip to footer\n\n☰\n\nCigna\n\n×  Close) \n\n Areas We Hire For\n About Us\n How We Hire\n Students & Grads\n Events\n Talent Community\n Candidate Home Login\n Evernorth Health Services\n Cigna Healthcare\n Search Jobs\n\nThe Cigna Group hero image with intertwining circles\n\nCigna Group Career Site Privacy Policy  \n\nNotice About AI Use  \n\nAbout The Cigna Group [...] ​​​​​​​Doing something meaningful starts with a simple decision, a commitment to changing lives. At The Cigna Group, we’re dedicated to improving the health and vitality of those we serve. Through our divisions Cigna Healthcare and Evernorth Health Services, we are committed to enhancing the lives of our clients, customers and patients. Join us in driving growth and improving lives.\n\nJob compeltion image [...] ## We’re sorry, we are no longer accepting applications for this role at this time.\n\nMaybe you would like to consider the Categories below :\n\nInformation About the Cookie Policy\n\nPersonal Information",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Staff Product Manager, AI Management at Kong",
+      "link": "https://jobs.a16z.com/jobs/kong/72375328-ae8e-4090-9fd3-3580878751e2--staff-product-manager-ai-management",
+      "snippet": "Staff Product Manager, AI Management ; Location: San Francisco, California, Unit...",
+      "raw_snippet": "Staff Product Manager, AI Management ; Location: San Francisco, California, United States ; Work arrangement: On-site ; Job type: Full-time ; Compensation: $175K –",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Former United Airlines CEO Oscar Munoz on Delta earnings and Elon Musk’s spat with Ed Bastian",
+      "link": "https://www.cnbc.com/video/2026/10/09/former-united-airlines-ceo-oscar-munoz-on-delta-earnings-and-elon-musks-spat-with-ed-bastian.html",
+      "snippet": "Former United Airlines CEO Oscar Munoz on Delta earnings and Elon Musk’s spat wi...",
+      "raw_snippet": "Former United Airlines CEO Oscar Munoz on Delta earnings and Elon Musk’s spat with Ed Bastian\n\nOscar Munoz, former United Airlines chairman and CEO, joins ‘Squawk on the Street’ to discuss Delta earnings, which missed Wall Street earnings estimates for the first time in two years.",
       "is_chinese": false,
       "source_type": "people"
     }

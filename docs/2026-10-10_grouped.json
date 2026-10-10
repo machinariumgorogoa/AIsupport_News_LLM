@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-10",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "本周十大融资轮：AI与能源领跑繁忙的大额融资阵容",
+          "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe",
+          "snippet": "本周十大融资轮中，AI与能源领域主导大额交易，TypeSafe AI获8.7亿美元，专注基础AI模型研发。",
+          "index": 1
+        },
+        {
+          "title": "OpenAI引领全球AI收购热潮：195起经核实的AI并购曝光，单笔最高估值达110亿美元",
+          "link": "https://eu.36kr.com/en/p/4018587694420103",
+          "snippet": "资金充裕的AI初创公司借并购扩展产品线，OpenAI主导，195起经核实交易单笔估值达110亿美元。",
+          "index": 2
+        },
+        {
+          "title": "AI应用激增，私募市场估值实践承压（InvestmentNews）",
+          "link": "https://www.investmentnews.com/alternatives/private-market-valuation-practices-under-pressure-as-ai-use-surges/268551",
+          "snippet": "随着人工智能进入估值工作流程，私募市场传统估值方式面临压力，行业亟需调整方法论、合规与审计标准。",
+          "index": 3
+        },
+        {
+          "title": "AI估值担忧升温，英伟达支持企业取消IPO",
+          "link": "https://www.reutersconnect.com/item/uncaptioned-nvidia-backed-firm-scraps-ipo-amid-ai-valuation-concerns/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0ODg1MS1WSURFTw",
+          "snippet": "一家人工智能基础设施公司因近期估值担忧取消IPO，反映出市场对AI企业高估值的审慎态度加剧。",
+          "index": 4
+        },
+        {
+          "title": "消息人士称印度Jio Platforms IPO目标估值1060亿美元",
+          "link": "https://www.reuters.com/world/india/indias-jio-platforms-targets-nearly-106-billion-valuation-ipo-sources-say-2026-10-09",
+          "snippet": "穆克什·安巴尼之子阿卡什·安巴尼执掌的Jio运营电信等多元业务，拟以1060亿美元估值上市。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "特朗普同日叫停微软绿卡项目并为CEO授勋",
+          "link": "https://finance.yahoo.com/video/trump-suspended-microsofts-green-card-program--awarded-its-ceo-all-in-the-same-day-135045455.html",
+          "snippet": "特朗普在同一天暂停微软一项绿卡相关计划，并向其CEO纳德拉颁发总统自由勋章，引发科技界广泛关注。",
+          "index": 6
+        },
+        {
+          "title": "马斯克因星链印度上线延迟加大对安巴尼抨击",
+          "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay",
+          "snippet": "马斯克就Starlink印度上线延误加大对安巴尼的批评，双方围绕卫星通信市场准入与频谱分配争执升级。",
+          "index": 7
+        },
+        {
+          "title": "AI, Spiritual Deception and Christ's Return | Cornerstone University",
+          "link": "https://www.cornerstone.edu/ai-spiritual-deception-and-christs-return",
+          "snippet": "A pioneering AI researcher and former IBM Master Inventor with 50 patents, inclu...",
+          "index": 8
+        },
+        {
+          "title": "1Password招聘AI增长产品总监（Accel职位板）",
+          "link": "https://jobs.accel.com/companies/1password/jobs/96471898-director-of-product-ai-growth",
+          "snippet": "密码管理公司1Password运用人工智能与机器学习技术，现招聘AI增长产品总监以推动智能功能发展。",
+          "index": 9
+        },
+        {
+          "title": "MSR AI兴趣小组启动活动（管理、灵性与宗教分会）",
+          "link": "https://msr.aom.org/msrthrivecommunity/discussion/msr-ai-artificial-intelligence-interest-group-launch-event-following",
+          "snippet": "管理、灵性与宗教分会举办AI兴趣小组启动活动，探讨人工智能与宗教、灵性及管理实践交叉影响的未来趋势。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
