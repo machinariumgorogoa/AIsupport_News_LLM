@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-11",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "英伟达背书公司IPO取消，预示AI繁荣存在上限 — WSJ",
+      "link": "https://www.wsj.com/finance/stocks/scrapped-ipo-of-nvidia-backed-company-points-to-limits-of-ai-boom-a8d57067",
+      "snippet": "悉尼——英伟达股价下跌，这家由英伟达支持的AI公司取消IPO，反映AI热潮扩张遇冷，市场开始质疑高增长估值的可持续性。",
+      "raw_snippet": "SYDNEY—Nvidia NVDA -2.94%decrease; down pointing triangle-backed cloud-computing company Firmus Grid scrapped plans for Australia’s largest initial public offering in almost 30 years, a new sign that investors are growing leery of lofty valuations for companies exposed to artificial-intelligence demand. [...] Firmus, which sells Nvidia-powered computing capacity to large technology companies such as OpenAI and Meta Platforms, pulled plans to raise $5 billion after investors balked at its proposed $30 billion valuation. Firmus said it would instead pursue further private investment.\n\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "Databricks IPO时间表与融资细节",
+      "link": "https://forgeglobal.com/databricks_ipo",
+      "snippet": "Databricks是一家工程与分析软件公司，本报道梳理其IPO时间表、融资历程及估值动态，为投资者提供关键参考。",
+      "raw_snippet": "Databricks is an engineering and analytic software company based on AI technology. Per Forge data, Databricks has raised a total of $4 billion in funding over",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "英伟达洽谈进一步投资或收购Reflection AI — 金融时报/路透",
+      "link": "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10",
+      "snippet": "据英国《金融时报》援引路透，英伟达正洽谈进一步投资或收购Reflection AI；其CEO Laskin此前向CNBC透露公司发展方向。",
+      "raw_snippet": "Reflection's ​chief executive, Laskin, told CNBC in April that ​the ⁠Nvidia-backed startup was raising fresh capital at a pre-money valuation of $25 billion.\n The company on Monday launched its first open-weight ⁠model, Beam, ​as it seeks to compete in ​coding and agentic tasks with lower-cost Chinese models such as DeepSeek and ​Kimi. [...] Oct 10 (Reuters) - Nvidia (NVDA.O) is in talks to deepen its investment in ​open-source startup Reflection AI or acquire it, the ‌Financial Times reported on Saturday, citing people with direct knowledge of the matter.\n\nSign up here. [...] Adds Reflection AI declining to comment, third bullet point\n\nReporting by Rishabh Jaiswal in Bengaluru; Editing by Matthew Lewis\n\nOur Standards: The Thomson Reuters Trust Principles.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "石油、AI与债务：谁先退缩？— George Noble",
+      "link": "https://georgenoble.substack.com/p/oil-ai-and-debt-who-blinks-first",
+      "snippet": "乔治·诺布尔在视频中探讨石油、AI与债务三大风险，分析谁先让步及市场可能的拐点。",
+      "raw_snippet": "Watch on Youtube:\n\n#### Discussion about this video\n\nThe Noble Update\n\nThe Noble Update Podcast\n\nCurating The Latest Deep Dive Investment Insights\n\nCurating The Latest Deep Dive Investment Insights\n\nListen on\n\nSubstack AppApple PodcastsSpotify\n\nAppears in episode\n\nGeorge Noble\n\nRecent Episodes\n\nAnother Nail in the Coffin of the AI Trade\n\n• George Noble\n\nThe Insurance Reckoning with Tom Gober\n\n• George Noble\n\nANNOUNCEMENT: Wall Street's best technicians present their 60 best ideas [...] Lesson: Do not rely solely on mark-to-model valuations; apply conservative risk discounts to privately held assets.\n5. Fragile market breadth: Broad market indices sit near record highs while the vast majority of individual stocks trade significantly below their peaks.\n\n    Lesson: Avoid benchmark complacency and protect portfolios against hidden market weakness by emphasizing defensive asset allocation.\n\nFollow Jack Gamble: Nobody Special Finance → \n\nWatch on Youtube: [...] Reassess real estate holdings and valuation risks: Market participants need to factor high mortgage rates into real estate valuations rather than relying on stale online index estimates, as frozen inventories and rising defaults signal impending downward pressure.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "为何生物学在AI时代必须优先重新分析数据",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13390826",
+      "snippet": "AI时代，生物学必须优先重新分析已有数据；高通量数据的海量与复杂性既是挑战，也为模型训练与新发现提供机遇。",
+      "raw_snippet": "Fortunately, the very scale and complexity of high-throughput data make it inherently compatible with machine learning and artificial intelligence (AI) tools, which draw statistical power from size, variability, and cross-cohort integration. AI can be used to model nonlinear relationships, integrate heterogeneous modalities, and extract structure from high-dimensional biological space, all of which are necessary to disentangle meaning from big data. For instance, AI systems have already [...] validating computational predictions. Even in the presence of advanced AI systems, scientific judgment remains indispensable, and algorithmic outputs must ultimately be subject to human scrutiny and validation. [...] a restructured data lifecycle that maximizes scientific insight . Models can be used to identify rare, quiescent, or subtle biology that escape primary analyses, allowing for the reannotation of datasets to improve training data for subsequent models. This iterative cycle creates a progressively more accurate representation of biological systems. Importantly, AI does not replace biological reasoning; it amplifies it by enabling deeper interrogation of data already in hand.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "苹果披露聘请Huxe团队并授权其个性化播客技术 — TechEchelon",
+      "link": "https://www.techechelon.com/post/apple-discloses-deal-to-hire-team-and-license-technology-from-personalized-podcast-startup-huxe",
+      "snippet": "苹果披露已达成协议，聘请个性化播客初创公司Huxe的团队并授权其技术，进一步丰富AI与音频服务布局。",
+      "raw_snippet": "More from Marc →\n\n━━ KEEP READING\n\n### More from this desk\n\n№01· ARTIFICIAL INTELLIGENCE\n\n#### Microsoft's Nadella Calls for AI \"Emergency Brake\" Under Human Control\n\nMicrosoft CEO Satya Nadella called Saturday for advanced AI systems to include an \"emergency brake,\" containment protocols, and independent controls, joining a growing chorus of tech leaders warning that safety frameworks have not kept pace with frontier development.\n\nJay Goldberg · 9 HR AGO\n\n№02· ARTIFICIAL INTELLIGENCE [...] #### Hollywood Trains Its Lens on Zuckerberg, Musk, and Altman as AI Anxiety Deepens\n\nA cluster of films portraying Mark Zuckerberg, Elon Musk, Sam Altman, and Elizabeth Holmes is hitting theaters this fall, arriving as polls show 73% of Americans are concerned about AI's threat to human survival.\n\nJay Goldberg · 17 HR AGO\n\n№03· ARTIFICIAL INTELLIGENCE\n\n#### AI Is Squeezing the Billable Hour as Legal Profession Rethinks How Work Gets Done [...] Apple disclosed to the European Commission that it has agreed to hire members of the Huxe AI team and license the personalized podcast startup's intellectual property, in a reverse acqui-hire deal filed on June 9.\n\nMS\n\nMarc Sabatini\n\nOCT 10, 2026· 09:02 PM ET· 2MIN READ\n\nPhoto by David Klein on Unsplash",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "微软CEO纳德拉呼吁为先进AI设置“紧急刹车” — The Seattle Times",
+      "link": "https://www.seattletimes.com/business/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+      "snippet": "微软CEO纳德拉呼吁为先进AI设置“紧急刹车”；特朗普政府迄今基本采取不干预立场，凸显监管分歧。",
+      "raw_snippet": "The Trump administration has so far taken a largely hands-off approach, but President Donald Trump’s newly launched AI task force late Friday warned developers that they are required to report and resolve security incidents or face potential unspecified consequences. [...] As Microsoft is cut from green card program, workers have questions\n The fish behind America’s fish sticks is fueling a fight over trawling in Alaska  VIEW\n How Seattle worker making $74K plans to retire in 10 years\n Amazon cuts hundreds of jobs in retail division\n Hashi Market to open first WA store in former North Seattle Amazon Fresh [...] The statement comes as Anthropic and OpenAI have disclosed a spate of incidents in recent months involving their AI models acting in unintended ways, ranging from behaviors like an Anthropic model submitting a false tip in a police homicide case, to several hacks of third-party websites. These disclosures have fueled concerns about the security risks of cutting-edge AI and renewed conversation about a so-called AI kill switch.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "Palantir CEO称AI时代只有技工或神经多样性人群会成功 — Fortune",
+      "link": "https://fortune.com/article/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice-billionaire",
+      "snippet": "Palantir CEO称，AI时代只有技术工人或神经多样性人群才能成功；他强调人类独特特质将变得更加重要。",
+      "raw_snippet": "“The things that make us human will become much more important instead of much less important,” she told ABC News in February. “And what I mean by that is when we look to hire people at Anthropic today, we look for people who are great communicators, who have excellent EQ and people skills, who are kind and compassionate and curious and want to help other people.”\n\nA version of this story was published on Fortune.com on March 24, 2026.\n\n### More on careers [...] Carhartt CEO warns schools are steering Gen Z students away from a lucrative career path: Skilled trades can pay 32% more\n Japanese companies are paying older workers to sit by a window and do nothing—while Western CEOs demand super-AI productivity just to keep your job\n This former Navy SEAL spent 5 years in private equity working 100-hour weeks before quitting and building a $9 billion startup [...] # 1\n\nJeff Bezos says a 3-day workweek and more single-income households are on the way thanks to AI: ‘It’s going to be difficult to hire people’\n\n# 2\n\nDisney offered a 13-year-old $2 million to sing in ‘The Lion King.’ His mom took $100K plus royalties instead. He’s still getting paid 34 years later\n\n# 3\n\nCurrent price of oil as of October 9, 2026\n\nSuccessCareers\n\n# Palantir’s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers—‘or you’re neurodivergent’",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "AI安全的幕后守门人正走向聚光灯",
+      "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "snippet": "AI安全的幕后守门人正走向台前；独立评估机构Vals AI首席执行官Rayan Krishnan表示，模型评测与风险审查日益关键。",
+      "raw_snippet": "Rayan Krishnan, CEO of independent evaluator Vals AI, said his for-profit startup, which builds benchmarks to measure how AI models perform on industry-specific tasks, has grown from eight employees to roughly 30 this year, and in August announced a $40 million funding round. [...] President Trump recently lauded AI executives for their \"tremendous self-policing,\" and signaled that he intends to leave companies to their own devices, unwilling to impede the growth of the industry that's driving the economy and stock market. Trump encouraged AI companies to \"partner with an independent external auditor or evaluator\" as part of a voluntary accord he presented in late September. [...] Right now, Anthropic, OpenAI and the infrastructure partners that are profiting from the AI boom are writing the rules. Critics say that's like asking the biggest banks to protect us from a financial crisis or allowing pharmaceutical companies to put drugs on the market without regulatory clearance.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "Gradial CEO谈Agentic AI、企业营销与个性化未来 — 2026·NYSE/An Ice Exchange",
+      "link": "https://tv.nyse.com/nyse-tv-highlights/season:4/videos/gradial-ceo-on-agentic-ai-enterprise-marketing-and-the-future-of-personalization",
+      "snippet": "在洛杉矶All-In峰会上，Gradial CEO/联合创始人Geoffrey Woo探讨Agentic AI、企业营销与个性化未来趋势。",
+      "raw_snippet": "At the All-In Summit in Los Angeles, Geoffrey Woo, Co-Founder of Anti-Fund, joined NYSE Live to discuss venture capital, artificial intelligence, entrepreneurship, and the changing dynamics shaping the next generation of technology companies.\n\n  Woo begins by outlining Anti-Fund's investment philos...\n Media Analyst Seth Schachner on Skyda...  \n\n  04:41\n\n  Media Analyst Seth Schachner on Skyda...\n\n  ### Media Analyst Seth Schachner on Skyda... [...] In this NYSE Live interview, Dawn Fay, Operational President at Robert Half, discusses key findings from the company's 2027 Salary Guide and explores the workplace tre...\n Anti-Fund's Geoffrey Woo on AI, Ventu...  \n\n  06:47\n\n  Anti-Fund's Geoffrey Woo on AI, Ventu...\n\n  ### Anti-Fund's Geoffrey Woo on AI, Ventu... [...] Share via Email\n\n##### Watch anywhere, anytime\n\nFire Tablet Fire TV Android Android TV iPhone LG Smart TV Roku ® Samsung Smart TV Apple TV XBox One\n\n### Up Next in 2026\n\n Robert Half on AI Skills, Salary Grow...  \n\n  05:12\n\n  Robert Half on AI Skills, Salary Grow...\n\n  ### Robert Half on AI Skills, Salary Grow...\n\n  What skills are commanding the highest salaries in today's job market, and how are employers adapting to compete for top talent?",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}

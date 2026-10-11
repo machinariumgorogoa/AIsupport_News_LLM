@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-11",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "英伟达背书公司IPO取消，预示AI繁荣存在上限 — WSJ",
+          "link": "https://www.wsj.com/finance/stocks/scrapped-ipo-of-nvidia-backed-company-points-to-limits-of-ai-boom-a8d57067",
+          "snippet": "悉尼——英伟达股价下跌，这家由英伟达支持的AI公司取消IPO，反映AI热潮扩张遇冷，市场开始质疑高增长估值的可持续性。",
+          "index": 1
+        },
+        {
+          "title": "Databricks IPO时间表与融资细节",
+          "link": "https://forgeglobal.com/databricks_ipo",
+          "snippet": "Databricks是一家工程与分析软件公司，本报道梳理其IPO时间表、融资历程及估值动态，为投资者提供关键参考。",
+          "index": 2
+        },
+        {
+          "title": "英伟达洽谈进一步投资或收购Reflection AI — 金融时报/路透",
+          "link": "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10",
+          "snippet": "据英国《金融时报》援引路透，英伟达正洽谈进一步投资或收购Reflection AI；其CEO Laskin此前向CNBC透露公司发展方向。",
+          "index": 3
+        },
+        {
+          "title": "石油、AI与债务：谁先退缩？— George Noble",
+          "link": "https://georgenoble.substack.com/p/oil-ai-and-debt-who-blinks-first",
+          "snippet": "乔治·诺布尔在视频中探讨石油、AI与债务三大风险，分析谁先让步及市场可能的拐点。",
+          "index": 4
+        },
+        {
+          "title": "为何生物学在AI时代必须优先重新分析数据",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13390826",
+          "snippet": "AI时代，生物学必须优先重新分析已有数据；高通量数据的海量与复杂性既是挑战，也为模型训练与新发现提供机遇。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "苹果披露聘请Huxe团队并授权其个性化播客技术 — TechEchelon",
+          "link": "https://www.techechelon.com/post/apple-discloses-deal-to-hire-team-and-license-technology-from-personalized-podcast-startup-huxe",
+          "snippet": "苹果披露已达成协议，聘请个性化播客初创公司Huxe的团队并授权其技术，进一步丰富AI与音频服务布局。",
+          "index": 6
+        },
+        {
+          "title": "微软CEO纳德拉呼吁为先进AI设置“紧急刹车” — The Seattle Times",
+          "link": "https://www.seattletimes.com/business/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+          "snippet": "微软CEO纳德拉呼吁为先进AI设置“紧急刹车”；特朗普政府迄今基本采取不干预立场，凸显监管分歧。",
+          "index": 7
+        },
+        {
+          "title": "Palantir CEO称AI时代只有技工或神经多样性人群会成功 — Fortune",
+          "link": "https://fortune.com/article/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice-billionaire",
+          "snippet": "Palantir CEO称，AI时代只有技术工人或神经多样性人群才能成功；他强调人类独特特质将变得更加重要。",
+          "index": 8
+        },
+        {
+          "title": "AI安全的幕后守门人正走向聚光灯",
+          "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+          "snippet": "AI安全的幕后守门人正走向台前；独立评估机构Vals AI首席执行官Rayan Krishnan表示，模型评测与风险审查日益关键。",
+          "index": 9
+        },
+        {
+          "title": "Gradial CEO谈Agentic AI、企业营销与个性化未来 — 2026·NYSE/An Ice Exchange",
+          "link": "https://tv.nyse.com/nyse-tv-highlights/season:4/videos/gradial-ceo-on-agentic-ai-enterprise-marketing-and-the-future-of-personalization",
+          "snippet": "在洛杉矶All-In峰会上，Gradial CEO/联合创始人Geoffrey Woo探讨Agentic AI、企业营销与个性化未来趋势。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
