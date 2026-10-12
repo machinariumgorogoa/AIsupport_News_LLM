@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-12",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "新VC基金持续涌现，尽管megaround时代热度下降",
+          "link": "https://valueaddvc.com",
+          "snippet": "[尽管megaround时代降温，新VC基金仍在密集成立，Startup与VC情报平台显示市场韧性犹存。]",
+          "index": 1
+        },
+        {
+          "title": "SiMa.ai融资1.5亿美元，估值达14.5亿美元，加速Physical AI规模化",
+          "link": "https://www.intelligentcio.com/north-america/2026/10/12/sima-ai-hits-us1-45-billion-valuation-after-us150-million-funding-round-to-scale-physical-ai",
+          "snippet": "[SiMa.ai获1.5亿美元融资，估值14.5亿美元，将规模化Physical AI并扩展Pale业务。]",
+          "index": 2
+        },
+        {
+          "title": "IPO市场拐点：AI对VC退出与分配的影响",
+          "link": "https://www.wellington.com/en-au/professional/insights/ipo-market-inflection-ai-venture-exits-distributions",
+          "snippet": "[IPO市场似将重启，但窗口仍较狭窄；AI正重塑VC退出与分配节奏，Wellington认为市场拐点已至。]",
+          "index": 3
+        },
+        {
+          "title": "Innovaccer IPO时间与融资详情",
+          "link": "https://forgeglobal.com/innovaccer_ipo",
+          "snippet": "[医疗AI公司Innovaccer的IPO时间与融资详情受关注，Forge平台汇总其价格表现及上市进展。]",
+          "index": 4
+        },
+        {
+          "title": "面向Agentic AI的上下文与Harness工程",
+          "link": "https://academy.smu.edu.sg/courses/context-harness-engineering-agentic-ai",
+          "snippet": "[该Agentic AI课程帮助从业者构建可靠智能体系统，重点掌握上下文工程与Harness工程方法。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "哪些AI CEO现在谈“超级智能”，哪些不谈？",
+          "link": "https://gizmodo.com/a-guide-to-which-ai-ceos-now-say-super-intelligence-and-which-dont-2000824804",
+          "snippet": "[AI自1950年代诞生，如今已步入新阶段；本指南梳理各大主要AI CEO对超级智能（Superintelligence）的立场分歧。]",
+          "index": 6
+        },
+        {
+          "title": "AMD的人工智能布局",
+          "link": "https://emerj.com/artificial-intelligence-at-amd",
+          "snippet": "[内容涵盖AMD在AI芯片与软件生态的战略布局，同时关联呈现西门子等相关企业在人工智能领域的最新动态。]",
+          "index": 7
+        },
+        {
+          "title": "OpenAI CEO Sam Altman称AI奇点已到来",
+          "link": "https://6abc.com/post/openai-ceo-sam-altman-claims-artificial-intelligence-singularity-has-arrived/19588207?userab=kfsn_content_recs-582%2Avariant_b_trending_kfsn-2513%2Ckabc_content_recs-577%2Avariant_a_control-2480%2Cwls_content_recs-584%2Avariant_b_trending_wls-2517%2Cwtvd_content_recs-585%2Avariant_a_control_wtvd-2518%2Cktrk_content_recs-587%2Avariant_a_control_ktrk-2522%2Cwpvi_content_recs-586%2Avariant_b_trending_wpvi-2521%2Cotv_web_content_rec-539%2Avariant_c_trending-2268%2Cotv_web_topic-580%2Avariant_b_topic_redesign-2509%2Cfollow_abcnews_otv_on_google-654%2Avariant_c_share_plus_google_button-3496%2Cotv_search_page_design_unification-546%2Avariant_b_search_redesign-2300%2Cvertical_video_web-519%2Aenabled-2164%2Cabcn_popular_reads_exp_followup-648%2Avariant_a_control-3455%2Cotv_mobile_web_content_recs-639%2Avariant_a_control-3429%2Ckgo_content_recs-583%2Avariant_a_control_kgo-2514%2Cotvlink_abcnnav-576%2Avariant_c_localnews-3316",
+          "snippet": "[OpenAI首席执行官Sam Altman宣称人工智能奇点已经到来，引发业界对AGI与未来的广泛讨论。]",
+          "index": 8
+        },
+        {
+          "title": "TikTok CEO：AI三年内将带来重大科学突破",
+          "link": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
+          "snippet": "[TikTok CEO周受资预计，人工智能将在未来三年内催生重大科学突破，有望在药物、材料领域展现AGI潜力。]",
+          "index": 9
+        },
+        {
+          "title": "从碎片化创新到一体化plant-to-product框架：植物药中的数字孪生与AI方法",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13388804",
+          "snippet": "[研究提出AI辅助的plant-to-product数字孪生框架，旨在整合植物药从研发到产品的全流程创新。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
