@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-13",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "埃森哲收购Sagacity Solutions，扩大Accenture Song英国及爱尔兰业务的AI驱动客户情报",
+          "link": "https://newsroom.accenture.com/news/2026/accenture-acquires-sagacity-solutions-to-scale-ai-driven-customer-intelligence-across-accenture-song-s-uk-ireland-operations",
+          "snippet": "[埃森哲宣布收购Sagacity Solutions，旨在以AI驱动的客户情报能力，强化Accenture Song在英国与爱尔兰市场的运营及营销转型服务。]",
+          "index": 1
+        },
+        {
+          "title": "芯片股“惨烈行情”显示AI交易正在转向",
+          "link": "https://www.reuters.com/world/asia-pacific/global-markets-ai-selloff-analysis-pix-2026-10-13",
+          "snippet": "[周二AI供应商股票遭遇抛售，成为AI交易转向的最明显信号，显示市场对AI题材的热情正在降温。]",
+          "index": 2
+        },
+        {
+          "title": "Harvey合同智能：AI合同审查与洞察，以155亿美元估值融资5.5亿美元",
+          "link": "https://www.harvey.ai/platform/contract-intelligence",
+          "snippet": "[法律AI公司Harvey完成5.5亿美元融资、估值达155亿美元，并推出Contract Intelligence平台，为法律团队提供AI合同审查与洞察能力。]",
+          "index": 3
+        },
+        {
+          "title": "从复杂工作流到对话：Waters如何将可治理、实用的AI引入实验室软件",
+          "link": "https://www.waters.com/blog/from-complex-workflows-to-conversation-how-waters-is-bringing-governed-practical-ai-into-laboratory-software",
+          "snippet": "[Waters AI Link整合多项能力，将可治理、实用的AI功能引入实验室软件，把复杂工作流转化为对话式交互。]",
+          "index": 4
+        },
+        {
+          "title": "超级智能——NASA现场测试AI机群能力以支持科学探索",
+          "link": "https://www.nasa.gov/super-intelligence",
+          "snippet": "[NASA开展AI驱动的机群能力现场测试，用于科学研究与探索任务，验证协同智能技术在实地环境中的表现。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "观点｜AI会抢走Z世代的工作吗？答案因人而异",
+          "link": "https://www.washingtonpost.com/opinions/interactive/2026/10/13/will-artificial-intelligence-take-gen-z-jobs-depends-who-you-ask",
+          "snippet": "[文章指出，“去创业”并非破碎招聘pipeline的解药，AI是否会取代Z世代工作，答案因受访者的立场而异。]",
+          "index": 6
+        },
+        {
+          "title": "如何招聘AI工程师：美国初创企业playbook（2026）",
+          "link": "https://www.secondtalent.com/resources/how-to-hire-ai-engineers",
+          "snippet": "[该指南认为，多数B轮前美国初创企业需要中等水平的AI工程师，招聘策略应匹配公司阶段与实际业务需求。]",
+          "index": 7
+        },
+        {
+          "title": "2026年10月12日AI产品与服务发布动态｜PLANADVISER",
+          "link": "https://www.planadviser.com/ai-product-service-launches-10-12-2026",
+          "snippet": "[PLANADVISER汇总了2026年10月12日的AI产品与服务发布动态，本内容为赞助商消息，滚动页面可查看更多详情。]",
+          "index": 8
+        },
+        {
+          "title": "初创企业宣传视频的哪些部分应使用AI生成？",
+          "link": "https://www.startupgrind.com/forum/artificial-intelligence-16180/topic/which-parts-of-a-startup-video-should-be-ai-generated-1139",
+          "snippet": "[他们建议在初创企业视频中展示真实功能与实地场景，避免全部依赖AI生成，以提升可信度和用户转化。]",
+          "index": 9
+        },
+        {
+          "title": "Clio Manage AI评测：功能、成本、优缺点（2026）",
+          "link": "https://lawyerist.com/reviews/artificial-intelligence-in-law-firms/clio-manage-ai-review-artificial-intelligence-for-lawyers",
+          "snippet": "[评测显示，Clio Manage AI是一款生成式AI工具，可助力律师事务所简化案件管理、控制成本并权衡利弊。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

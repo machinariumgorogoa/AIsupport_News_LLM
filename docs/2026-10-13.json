@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-13",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "埃森哲收购Sagacity Solutions，扩大Accenture Song英国及爱尔兰业务的AI驱动客户情报",
+      "link": "https://newsroom.accenture.com/news/2026/accenture-acquires-sagacity-solutions-to-scale-ai-driven-customer-intelligence-across-accenture-song-s-uk-ireland-operations",
+      "snippet": "[埃森哲宣布收购Sagacity Solutions，旨在以AI驱动的客户情报能力，强化Accenture Song在英国与爱尔兰市场的运营及营销转型服务。]",
+      "raw_snippet": "LONDON; Oct. 13, 2026 – Accenture (NYSE: ACN) has acquired Sagacity, a UK-based data and customer intelligence firm, strengthening Accenture Song’s capacity to deliver AI-powered customer reinvention at scale. The acquisition directly addresses growing client demand to connect data, AI and operations infrastructure into unified, outcome-focused programs that drive measurable business results. [...] and maintaining client demand for the company’s solutions and services including through the adaptation and expansion of its solutions and services in response to ongoing changes in technology and offerings, and a significant reduction in such demand or an inability to respond to the evolving technological environment could materially affect the company’s results of operations; risks and uncertainties related to the development and use of AI, including advanced AI, could harm the company’s [...] to utilize the intellectual property of others, its business could be adversely affected; Accenture may be subject to criticism and negative publicity related to its incorporation in Ireland; as well as the risks, uncertainties and other factors discussed under the “Risk Factors” heading in Accenture plc’s most recent Annual Report on Form 10-K and other documents filed with or furnished to the Securities and Exchange Commission. Statements in this news release speak only as of the date they",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "芯片股“惨烈行情”显示AI交易正在转向",
+      "link": "https://www.reuters.com/world/asia-pacific/global-markets-ai-selloff-analysis-pix-2026-10-13",
+      "snippet": "[周二AI供应商股票遭遇抛售，成为AI交易转向的最明显信号，显示市场对AI题材的热情正在降温。]",
+      "raw_snippet": "A selloff in AI supplier shares on Tuesday is the strongest sign to date that the mood on the trade of ​the decade is shifting, with worries rising interest",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "Harvey合同智能：AI合同审查与洞察，以155亿美元估值融资5.5亿美元",
+      "link": "https://www.harvey.ai/platform/contract-intelligence",
+      "snippet": "[法律AI公司Harvey完成5.5亿美元融资、估值达155亿美元，并推出Contract Intelligence平台，为法律团队提供AI合同审查与洞察能力。]",
+      "raw_snippet": "We Raised $550M at a $15.5B Valuation to Help Legal Teams Own Their IntelligenceLearn moreWe Raised $550M at a $15.5B Valuation to Help Legal Teams Own Their IntelligenceLearn more\n\nWe Raised $550M at a $15.5B Valuation to Help Legal Teams Own Their IntelligenceLearn more→\n\n### Overview→\n\nA unified view of how Harvey's products work together to support your entire practice.### Agents→\n\nPurpose built agents execute complex legal work end to end.### Vault→ [...] Securely store, organize, and bulk-analyze legal documents.### Knowledge→\n\nResearch complex legal, regulatory, and tax questions across domains.### Spaces→\n\nWork with legal teams across organizations in secure, shared spaces.\n\n### Command Center→\n\nAnalytics, benchmarking, and agentic insights to lead their organization’s AI transformation### Contract Intelligence→\n\nSurface insights, strengthen negotiations, and accelerate reviews.### Horizon Scanning→ [...] Harvey auto-reviewed 10 contracts for you since your last visit.\n\n0\n\nReady to review\n\n0\n\nAssigned to you\n\n0\n\nFolders connected\n\nMy reviews (17)All (6)\n\nSearchManage folders\n\nReviewed doc\n\nStatus\n\nHarvey summary\n\nLast updated\n\nAssignee\n\nStarlight Holdings MSA.docx\n\nStarlight Holdings\n\nIn progress\n\nDrafting edits…\n\nJust now\n\nHarvey\n\nStarlight Holdings MSA.docx\n\nStarlight Holdings\n\nReady for review\n\n641\n\nJust now\n\nLLauren Oh\n\nQuantum Solutions Contract.docx\n\nAcme Corporation\n\nIn progress",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "从复杂工作流到对话：Waters如何将可治理、实用的AI引入实验室软件",
+      "link": "https://www.waters.com/blog/from-complex-workflows-to-conversation-how-waters-is-bringing-governed-practical-ai-into-laboratory-software",
+      "snippet": "[Waters AI Link整合多项能力，将可治理、实用的AI功能引入实验室软件，把复杂工作流转化为对话式交互。]",
+      "raw_snippet": "Waters AI Link currently brings together capabilities supporting quantitative acquisition and processing workflows. These tools enable activities such as creating and editing sample lists, working with acquisition methods, assigning instruments, accessing analytical results, and generating reports. As coverage expands, the goal is a connected, end-to-end experience from method development through acquisition, processing, and result retrieval.\n\n## Designed to make everyday work simpler [...] Artificial intelligence (AI) is changing how people interact with software. However, in the lab, innovation must do more than make technology easier to use, it must also support scientific confidence, protect access to data, and fit within established governance. Waters AI Link is designed for that reality, providing a conversational connection to waters\\_connect Software that helps lab teams turn natural-language requests into controlled actions across their analytical workflows. [...] Lab software supports highly specialized work, but routine tasks can still involve moving through multiple applications, menus, and setup steps. Creating acquisition methods, building sample lists, assigning instruments, submitting work, and retrieving results all require time and attention. For experienced users, that can mean repetitive administration, whereas for newer analysts it can create a steep learning curve and greater dependence on expert colleagues.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "超级智能——NASA现场测试AI机群能力以支持科学探索",
+      "link": "https://www.nasa.gov/super-intelligence",
+      "snippet": "[NASA开展AI驱动的机群能力现场测试，用于科学研究与探索任务，验证协同智能技术在实地环境中的表现。]",
+      "raw_snippet": "NASA Field-Tests AI Fleet Capability for Science, Exploration\n\nNASA, IBM Launch AI Foundation Model for Lunar Science\n\nNASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun\n\nAI at NASA\n\nNASA-developed AI Could Help Track Harmful Algae\n\n## Learn More about SI at NASA\n\nA computer chip with a colorful overlay.\n\n### What is Super Intelligence?\n\nImage of a notebook and pen on a desk with a colorful digital overlay\n\n### NASA's SI Inventory [...] SI allows spacecraft to autonomously make decisions and keep working even when they’re out of contact with Earth. 88% of the driving done by Perseverance rover has been autonomous. The rover acquires images of the terrain with its cameras, analyzes these images with an onboard computer to identify hazards, then navigates around these obstacles, driving on terrain that no human has ever seen. [...] Applying super intelligence tools to existing NASA satellite data and imagery can open doors to new discoveries and reveal important trends. Using SI with NASA satellite images, a study detected the number of blue tarps on rooftops in the aftermath of hurricanes as a way of characterizing the severity of damage in local communities.\n\n## Intelligent Aircraft Re-Rerouting",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "观点｜AI会抢走Z世代的工作吗？答案因人而异",
+      "link": "https://www.washingtonpost.com/opinions/interactive/2026/10/13/will-artificial-intelligence-take-gen-z-jobs-depends-who-you-ask",
+      "snippet": "[文章指出，“去创业”并非破碎招聘pipeline的解药，AI是否会取代Z世代工作，答案因受访者的立场而异。]",
+      "raw_snippet": "“Go be a founder” is not an answer to a broken hiring pipeline, and neither is “go be a health aide.” But the underlying patterns are worth taking seriously. Young people should be focusing on durable jobs that are AI-resilient — the ones that require them to show up, be responsible for their decisions and foster human connections.\n\nThe bottom of the corporate ladder is breaking. Yet the ceiling on what a 23-year-old can achieve has never been higher.\n\nundefined photo [...] In some instances, AI is opening doors just as it closes others. One survey found that, in 2025, Gen Z entrepreneurs accounted for 9 percent of new firms compared with 5 percent started by baby boomer peers. Those younger pioneers were far more likely to use AI in their ventures. [...] that saved time toward addressing backlogs and fulfilling additional responsibilities from their employers.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "如何招聘AI工程师：美国初创企业playbook（2026）",
+      "link": "https://www.secondtalent.com/resources/how-to-hire-ai-engineers",
+      "snippet": "[该指南认为，多数B轮前美国初创企业需要中等水平的AI工程师，招聘策略应匹配公司阶段与实际业务需求。]",
+      "raw_snippet": "Most US startups before Series B need the middle column. If your product calls OpenAI, Anthropic or Google models and your team will not change the weights, you are hiring an AI engineer.\n\nHire an ML engineer only when the model itself is the product, and an AI agent developer only when agents fill most of your roadmap.\n\nAnthropic's engineering team draws the line between the two kinds of system this way: [...] Matt Li is a tech-driven entrepreneur with deep expertise in global talent strategy, digital experience optimization, e-commerce, and Web3 innovation. He is the Co-Founder of Second Talent, a US-based company that connects businesses with top-tier tech professionals worldwide. Since launching the company in 2024, Matt has led its growth by leveraging technology to streamline remote hiring and scale distributed teams. With a background spanning product, operations, and innovation, Matt brings a [...] AI engineer topped LinkedIn's list of the fastest-growing jobs in the US in both 2025 and 2026. The title spreads because it is loose: one startup means a model trainer, the next means someone who wires Claude or GPT into a checkout flow.\n\nThe first question we ask on an AI engineer brief is which of those jobs the founder is filling. The answer changes the shortlist more than any skill keyword.\n\nKey takeaways",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "2026年10月12日AI产品与服务发布动态｜PLANADVISER",
+      "link": "https://www.planadviser.com/ai-product-service-launches-10-12-2026",
+      "snippet": "[PLANADVISER汇总了2026年10月12日的AI产品与服务发布动态，本内容为赞助商消息，滚动页面可查看更多详情。]",
+      "raw_snippet": "SPONSORED MESSAGE — SCROLL FOR MORE CONTENT\n\n#### You Might Also Like:\n\n[]( \n\nProducts & Services\n\n### Product & Service Launches – 10/8/2026\n\nMorningstar Wealth, Envestnet expand adviser access to public and private markets; Betterment debuts unified managed accounts; Macquarie launches infrastructure education...\n\n[]( \n\nProducts & Services\n\n### AI Product & Service Launches – 10/5/2026 [...] Bento Engine Inc., a software-as-a-service platform for financial advisers, announced a model context protocol layer, giving artificial-intelligence-powered agents secure, real-time access to Bento’s content. The product is built for enterprise buyers, large registered investment advisers and other fintech companies. [...] Banner Logo\n\nBanner Logo\n\n About\n Shop\n Newsletters\n  + Breaking News\n  + Spotlight\n  + PLANADVISER Dash\n\n Sign in / Sign up\n\nProducts & Services October 12, 2026\n\n# AI Product & Service Launches – 10/12/2026\n\nMorningstar launches Direct AI agentic software; TruChoice, Zocks offer AI tools to insurance, annuity teams; and Bento Engine launches MCP layer.\n\nReported by Edward Rueda\n\nAdd as a preferred source on Google\n\n[](\n\n## Morningstar Launches Direct AI",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "初创企业宣传视频的哪些部分应使用AI生成？",
+      "link": "https://www.startupgrind.com/forum/artificial-intelligence-16180/topic/which-parts-of-a-startup-video-should-be-ai-generated-1139",
+      "snippet": "[他们建议在初创企业视频中展示真实功能与实地场景，避免全部依赖AI生成，以提升可信度和用户转化。]",
+      "raw_snippet": "They advocate for showing actual features and locations available to users while using AI-generated footage for abstract concepts. They emphasize the need for",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "Clio Manage AI评测：功能、成本、优缺点（2026）",
+      "link": "https://lawyerist.com/reviews/artificial-intelligence-in-law-firms/clio-manage-ai-review-artificial-intelligence-for-lawyers",
+      "snippet": "[评测显示，Clio Manage AI是一款生成式AI工具，可助力律师事务所简化案件管理、控制成本并权衡利弊。]",
+      "raw_snippet": "Our Clio Manage AI review finds a generative AI tool that intends to help users by offering insights and recommendations into law firm work.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}
