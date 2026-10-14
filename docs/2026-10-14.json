@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-14",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "AI的2万亿美元IPO：一个1500亿美元的问题",
+      "link": "https://weissratings.com/en/weiss-crypto-daily/ai-s-2-trillion-ipo-has-a-150-billion-question",
+      "snippet": "Weiss Ratings指出，AI产业IPO估值高达2万亿美元，但市场仍对其1500亿美元估值存在疑问。",
+      "raw_snippet": "Sign In Create Account\n\n\n\n# AI's $2 Trillion IPO Has a $150 Billion Question\n\nBy Beth Canova On October 13, 202612:45 PM Eastern\n\nMy Lists\n\nAI valuations)Anthropic)artificial intelligence)investment risk)\n\nAI's $2 Trillion IPO Has a $150 Billion Question\n\n|\n|  |\n| By Beth Canova |\n\nImagine buying a stock for $100 … only to find out afterwards that Wall Street’s brightest think it’s only worth $7.\n\nThat's the kind of gap now facing one of the biggest IPOs of the year. [...] That growth has made AI firms some of the hottest names on Wall Street.\n\nAnd it created the first notch in the gap of Anthropic’s valuation.\n\nIn May, the firm raised new funds at a value of $965 billion. Now, as it nears its initial public offering (IPO), its listing valuation has been recorded at $2 trillion.\n\nThat’s a big figure. And it’s raised some big questions. Many from our own team (but more on that in a bit).\n\nBut the most recent claims that Anthropic may be overvalued by roughly 93%. [...] AI is growing at a pace few could have seen just a few years ago.\n\nMore firms use it each day. And more people now rely on tools like ChatGPT and Claude to work, learn and save time.\n\nTo put real numbers to the trend, Statista claims the global AI market is expected to hit an incredible valuation near $707.48 billion by the end of this year.\n\nAnd it expects the market to grow at a steady annual growth rate 18.52% through 2032.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "AI退出机器",
+      "link": "https://www.pe150.com/p/the-ai-exit-machine",
+      "snippet": "文章指出，AI投资热潮的核心问题并非技术能否成功，而是AI企业如何实现规模化退出与可持续盈利。",
+      "raw_snippet": "The central question is not whether artificial intelligence is real or commercially valuable. It clearly is. The question is whether IPOs are becoming the mechanism through which extraordinary private valuations, persistent operating losses and increasingly leveraged infrastructure commitments are transferred from venture investors to public-market balance sheets. [...] That creates a second risk channel beyond IPO valuations: leverage turns an equity repricing into a credit event.\n\n## The Circular AI Economy [...] The valuation divergence is important. Much of the broader venture cohort has undergone a painful reset from 2021 marks, while leading AI companies have moved in the opposite direction. That creates an unusual exit environment: public investors may be asked to absorb businesses at valuations dramatically above previous private rounds even while profitability remains uncertain. It does not prove that VCs are deliberately “dumping” companies on the public market. But it creates a clear incentive",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "风投人士：Goldman和JPMorgan正成为AI概念股",
+      "link": "https://finance.yahoo.com/technology/ai/articles/venture-head-says-goldman-jpmorgan-015000786.html",
+      "snippet": "Qu表示，银行通过为AI基础设施建设提供债务融资涉足AI，传统投行正被视作AI股票投资标的。",
+      "raw_snippet": "Qu said banks now touch AI through debt financing for the buildout. They also take part in potential initial public offerings (IPOs) and mergers.\n\nShe expects banks to sit at the center of more mergers as that activity rises.\n\nHowever, lending profit was a highlight of the quarter. JPMorgan, Citigroup, and Wells Fargo posted a record $56.5 billion in combined net interest income, Bloomberg reported. [...] Qu said investors split into two camps on AI valuations.\n\nOne camp gives AI firms a pass on margins and capital spending because revenue is growing so fast.\n\nIn contrast, the other camp expects public markets to demand higher margins and proof that spending pays off.\n\nAnthropic holds its pre-IPO investor day on Wednesday. Qu expects speculation over which camp prevails until the company lists.\n\nShe said other AI companies may wait to list until they see how markets price the leaders. [...] Separately, billionaire Paul Tudor Jones warned that a flood of AI listings could make 2027 difficult for US stocks.\n\nBanks that fund and underwrite those listings could therefore share in any repricing of AI valuations.\n\nRead the Original story Venture Head Says Goldman and JPMorgan Are Becoming AI Stocks by Darryn Pollock at beincrypto.com\n\nTerms  and Privacy Policy\n\nPrivacy Dashboard\n\nMore Info\n\n## Recommended Stories",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "拐点：AI变现、市场波动与估值影响",
+      "link": "https://www.globalxetfs.com/articles/thought-leadership/inflection-points-ai-monetization-market-volatility-and-valuation-disconnects",
+      "snippet": "探讨AI商业化拐点、市场波动及估值重塑，分析变现路径对科技股交易与定价的深远影响。",
+      "raw_snippet": "and trade, and the valuation impact.12 [...] 17. Ibid.\n18. Ibid.\n19. Ibid.\n20. Ibid.\n21. Ibid.\n22. Ibid.\n23. Ibid.\n24. Ibid.\n25. Ibid.\n26. Ibid. [...] Copyright © 2026 Global X. All rights reserved.\n\nPrivacy PolicyAccessibility Statement\n\nSEI Investments Distribution Co. (1 Freedom Valley Drive, Oaks, PA, 19456) is the distributor for the Global X Funds.\n\nCheck the background of SIDCO and Global X's Registered Representatives on FINRA's BrokerCheck.\n\nContent\n\nThought LeadershipMacroeconomicArtificial Intelligence\n\n# Inflection Points: AI Monetization, Market Volatility, and Valuation Disconnects\n\nx\n\nS",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "AI如何重新定义房地产经纪估值",
+      "link": "https://aitools.realestate/ai-brokerage-valuations-unlock-your-true-business",
+      "snippet": "AI显著加速房地产经纪业务流程，改变传统估值模型，推动行业效率提升与资产价值重估。",
+      "raw_snippet": "Artificial intelligence dramatically accelerates the brokerage valuation process, reducing a task that once took weeks to mere hours or days. · Automating Data",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "Robert Walters CEO：AI正在为更多增长创造空间",
+      "link": "https://news.bloomberglaw.com/us-law-week/robert-walters-ceo-says-ai-is-creating-capacity-for-more-hiring",
+      "snippet": "人力资源公司Robert Walters认为，AI提升工作效率、释放额外产能，为未来业务扩张与招聘增长创造条件。",
+      "raw_snippet": "Robert Walters Plc sees artificial intelligence creating capacity for companies to hire more workers, even as the technology automates some tasks and reshapes",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "Eightfold AI任命Joe Korngiebel为新任CEO",
+      "link": "https://www.globenewswire.com/news-release/2026/10/13/3379726/0/en/eightfold-ai-welcomes-joe-korngiebel-as-ceo-to-lead-its-next-chapter-of-growth.html",
+      "snippet": "人才智能平台Eightfold AI迎来新CEO，其AI Interviewer产品获评2026年度最佳产品，助力持续扩张。",
+      "raw_snippet": "AI Interviewer named 2026 Top Product of the Year, recognized as one of the most impactful and forward-thinking technologies.\n\nEightfold AI Interviewer Named a 2026 Top HR Product of the Year by HR Executive\n\nEightfold AI launches AI Career Day, offering free practice interviews to job seekers and graduates. Get AI-powered feedback to ace your next interview!\n\nEightfold AI Launches AI Career Day Offering Free Practice Interviews on Labor Day\n\n## Explore [...] SANTA CLARA, Calif., Oct. 13, 2026 (GLOBE NEWSWIRE) -- Eightfold AI, the pioneer of AI-native talent intelligence, today named Joe Korngiebel chief executive officer. Korngiebel, a veteran HCM innovator, will lead Eightfold as it helps organizations see, develop, and deploy the full depth of their talent. He takes the helm from co-founder and CEO Ashutosh Garg, who spent ten years building the company into an AI leader trusted by Fortune 500 companies, with new customers for its agentic [...] “Ten years ago, we set out to enable hiring based on potential. This team did that, and then some,” said Garg. “I couldn't be prouder of what we built together, or more excited to hand the baton to Joe. He pairs real product vision with a deep respect for customers, and he is exactly the leader for Eightfold's next decade of innovation. I'll stay close to the Eightfold team as chairman of the board.”\n\nAbout Eightfold AI",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "AI人员甄选：实用且无偏见指南",
+      "link": "https://founderz.com/blog/ai-for-personnel-selection-a-practical-and-unbiased-guide",
+      "snippet": "介绍应用于招聘选拔的AI技术，强调通过算法减少偏见、提升评估效率与公平性的实践方法。",
+      "raw_snippet": "AI for personnel selection is technology that applies artificial intelligence to automate and support recruitment tasks, from resume screening to candidate",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "LLMA：投资AI智能层的新机遇",
+      "link": "https://www.globalxetfs.com/articles/product-research/introducing-llma-investing-in-the-intelligence-layer-of-the-ai-economy",
+      "snippet": "LLMA聚焦AI智能层投资，预计2026年Q2年化营收达750亿美元，反映AI基础设施市场潜力。",
+      "raw_snippet": "a $75 billion annual revenue run rate in Q2 2026.13 The launch of its personal AI agent, Muse, introduces additional monetization opportunities through subscriptions and agentic commerce, demonstrating how model capabilities can create new products alongside strengthening established businesses. [...] The ecosystem is led by Alibaba's Qwen, MiniMax's M3, and Z.ai's GLM series, as well as private companies like ByteDance and Moonshot. As of August 2026, Alibaba’s Qwen family surpassed three billion global downloads and generated more than 300,000 derivative models. Commercial adoption is also accelerating, with Alibaba’s AI-related product revenue reaching $1.8 billion in its latest quarter, extending triple-digit YoY growth for a twelfth consecutive quarter.28 Alibaba is heavily investing [...] That opportunity is supported by unprecedented adoption. ChatGPT reached 100 million users less than two months after its November 2022 launch, one of the fastest expansions in consumer technology history.3 By 2025, an estimated 62% of U.S. adults and more than one billion people worldwide used AI each week, showing how quickly the technology has moved from experimentation into everyday use.4 U.S. employees spend nearly 87 minutes a day using AI tools, signaling strong engagement and",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "人工智能高级专家组",
+      "link": "https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai",
+      "snippet": "欧盟人工智能高级专家组页面，提供多语言入口，聚焦AI政策、伦理规范与治理框架建设。",
+      "raw_snippet": "Close\n\n   bg български\n   es español\n   cs čeština\n   da dansk\n   de Deutsch\n   et eesti\n   el ελληνικά\n   en English\n   fr français\n   ga Gaeilge\n   hr hrvatski\n   it italiano\n   lv latviešu\n   lt lietuvių\n   hu magyar\n   mt Malti\n   nl Nederlands\n   pl polski\n   pt português\n   ro română\n   sk slovenčina\n   sl slovenščina\n   fi suomi\n   sv svenska\n\nSearch \n\nSearch\n\nShaping Europe’s digital future\n\nMenu Close\n\nMenu [...] Menu Close\n\nMenu\n\nBack Previous items Next items\n   Home\n   Policies\n   Activities\n   News\n   Library\n   Funding\n   Calendar\n   Consultations\n   AI Office\n\n1.   Home\n2.   …\n3.   Policies\n4.   Artificial Intelligence\n5.   European approach to artificial intelligence\n6.   High-level expert group on artificial intelligence\n\n# High-level expert group on artificial intelligence\n\nThe European Commission appointed a group of experts to provide advice on its artificial intelligence strategy. [...] Image 4: A person standing in the middle of fields, holding a tablet, with several agricultural icons hovering over, suggesting the digitalisation of the agricultural sector.\n\n   Digibyte\n   01 October 2026\n\nEDIC for Agri-Food launched to support digital innovation across Europe’s food and agriculture sector",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-14",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI的2万亿美元IPO：一个1500亿美元的问题",
+          "link": "https://weissratings.com/en/weiss-crypto-daily/ai-s-2-trillion-ipo-has-a-150-billion-question",
+          "snippet": "Weiss Ratings指出，AI产业IPO估值高达2万亿美元，但市场仍对其1500亿美元估值存在疑问。",
+          "index": 1
+        },
+        {
+          "title": "AI退出机器",
+          "link": "https://www.pe150.com/p/the-ai-exit-machine",
+          "snippet": "文章指出，AI投资热潮的核心问题并非技术能否成功，而是AI企业如何实现规模化退出与可持续盈利。",
+          "index": 2
+        },
+        {
+          "title": "风投人士：Goldman和JPMorgan正成为AI概念股",
+          "link": "https://finance.yahoo.com/technology/ai/articles/venture-head-says-goldman-jpmorgan-015000786.html",
+          "snippet": "Qu表示，银行通过为AI基础设施建设提供债务融资涉足AI，传统投行正被视作AI股票投资标的。",
+          "index": 3
+        },
+        {
+          "title": "拐点：AI变现、市场波动与估值影响",
+          "link": "https://www.globalxetfs.com/articles/thought-leadership/inflection-points-ai-monetization-market-volatility-and-valuation-disconnects",
+          "snippet": "探讨AI商业化拐点、市场波动及估值重塑，分析变现路径对科技股交易与定价的深远影响。",
+          "index": 4
+        },
+        {
+          "title": "AI如何重新定义房地产经纪估值",
+          "link": "https://aitools.realestate/ai-brokerage-valuations-unlock-your-true-business",
+          "snippet": "AI显著加速房地产经纪业务流程，改变传统估值模型，推动行业效率提升与资产价值重估。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Robert Walters CEO：AI正在为更多增长创造空间",
+          "link": "https://news.bloomberglaw.com/us-law-week/robert-walters-ceo-says-ai-is-creating-capacity-for-more-hiring",
+          "snippet": "人力资源公司Robert Walters认为，AI提升工作效率、释放额外产能，为未来业务扩张与招聘增长创造条件。",
+          "index": 6
+        },
+        {
+          "title": "Eightfold AI任命Joe Korngiebel为新任CEO",
+          "link": "https://www.globenewswire.com/news-release/2026/10/13/3379726/0/en/eightfold-ai-welcomes-joe-korngiebel-as-ceo-to-lead-its-next-chapter-of-growth.html",
+          "snippet": "人才智能平台Eightfold AI迎来新CEO，其AI Interviewer产品获评2026年度最佳产品，助力持续扩张。",
+          "index": 7
+        },
+        {
+          "title": "AI人员甄选：实用且无偏见指南",
+          "link": "https://founderz.com/blog/ai-for-personnel-selection-a-practical-and-unbiased-guide",
+          "snippet": "介绍应用于招聘选拔的AI技术，强调通过算法减少偏见、提升评估效率与公平性的实践方法。",
+          "index": 8
+        },
+        {
+          "title": "LLMA：投资AI智能层的新机遇",
+          "link": "https://www.globalxetfs.com/articles/product-research/introducing-llma-investing-in-the-intelligence-layer-of-the-ai-economy",
+          "snippet": "LLMA聚焦AI智能层投资，预计2026年Q2年化营收达750亿美元，反映AI基础设施市场潜力。",
+          "index": 9
+        },
+        {
+          "title": "人工智能高级专家组",
+          "link": "https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai",
+          "snippet": "欧盟人工智能高级专家组页面，提供多语言入口，聚焦AI政策、伦理规范与治理框架建设。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
