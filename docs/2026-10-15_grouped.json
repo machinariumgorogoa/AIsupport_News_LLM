@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-15",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Moonshot AI据传估值达500亿美元，或推进香港IPO",
+          "link": "https://fnex.com/moonshot-ai-reportedly-reaches-50-billion-valuation",
+          "snippet": "据报道，AI公司Moonshot估值从350亿美元升至500亿美元，未来可能选择在香港交易所进行IPO。",
+          "index": 1
+        },
+        {
+          "title": "分析师称Anthropic业绩或有助于IPO但难提振AI板块",
+          "link": "https://uk.finance.yahoo.com/news/anthropic-results-may-aid-ipo-032125080.html",
+          "snippet": "瑞士宝盛董事总经理Vey-Sern Ling表示，Anthropic业绩或利好其IPO，但难以提振整体AI板块表现。",
+          "index": 2
+        },
+        {
+          "title": "Readily获1100万美元A轮融资以扩展AI监管合规平台",
+          "link": "https://www.fiercehealthcare.com/finance/readily-secures-11m-series-continue-building-out-ai-regulatory-compliance-platform",
+          "snippet": "Fierce Healthcare报道，Readily的AI平台帮助健康计划与医疗机构实现监管合规，本轮A轮融资达1100万美元。",
+          "index": 3
+        },
+        {
+          "title": "加拿大区域人工智能计划（Regional Artificial Intelligence Initiative）",
+          "link": "https://www.canada.ca/en/atlantic-canada-opportunities/services/regional-artificial-intelligence-initiative.html",
+          "snippet": "加拿大该计划要求项目总价值不低于100万加元，并需展示AI技术应用带来的价值与预期影响。",
+          "index": 4
+        },
+        {
+          "title": "瑞典网络安全、AI与韧性资助计划（Cybersecurity, AI and Resilience Grant）",
+          "link": "https://www2.fundsforngos.org/innovation/vinnova-s-cybersecurity-ai-and-resilience-funding-for-industrial-digital/amp",
+          "snippet": "此项资助旨在强化瑞典工业界的网络安全防护、AI技术应用能力及整体业务韧性水平。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Vetty任命新CEO与COO以扩展招聘AI业务",
+          "link": "https://hrtechedge.com/hr/vetty-names-new-ceo-as-it-expands-ai-hiring-tools",
+          "snippet": "Vetty任命Glenn Argenbright和Adi Nativ分别担任CEO与COO，加大对招聘AI技术的投资与扩张力度。",
+          "index": 6
+        },
+        {
+          "title": "独家：Stella & Dot创始人Herrin为AI营销初创公司Marklo融资500万美元",
+          "link": "https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin",
+          "snippet": "创始人Herrin在创立Stella & Dot二十年后，再度创立AI营销初创公司Marklo，并完成500万美元融资。",
+          "index": 7
+        },
+        {
+          "title": "博通CEO就人工智能发出严峻警告",
+          "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-ceo-delivers-stark-warning-123859521.html",
+          "snippet": "博通首席执行官就AI发展前景向市场发出警示，并谈及加密货币等热门技术领域的投资现状。",
+          "index": 8
+        },
+        {
+          "title": "\"租用智能，拥有上下文\"——@btaylor谈AI战略",
+          "link": "https://x.com/ICONIQCapital/status/2110405623804530925",
+          "snippet": "Benchmark联合创始人@btaylor提出AI战略观点：企业可租用底层AI能力，但必须掌控自身上下文与数据资产。",
+          "index": 9
+        },
+        {
+          "title": "Evan Goldberg谈NetSuite Quick Start与AI驱动的初创企业财务",
+          "link": "https://finance.yahoo.com/video/evan-goldberg-netsuite-quick-start-173811819.html",
+          "snippet": "在NYSE Live访谈中，NetSuite联合创始人Evan Goldberg介绍了Quick Start方案及AI如何赋能初创公司财务管理。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
