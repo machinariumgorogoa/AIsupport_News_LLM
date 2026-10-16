@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-16",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "FAM Q3演讲系列：私募股权与AI",
+          "link": "https://www.datasite.com/en/resources/insights/the-future-of-private-equity-ai-value-creation-and-deal-strategy",
+          "snippet": "Datasite私募股权圆桌强调尽职调查与创始人关系在AI投资中的重要性。",
+          "index": 1
+        },
+        {
+          "title": "Databricks IPO时间表与融资详情",
+          "link": "https://forgeglobal.com/databricks_ipo",
+          "snippet": "数据智能公司Databricks的IPO进程与融资安排引发二级市场密切关注。",
+          "index": 2
+        },
+        {
+          "title": "AI市场焦虑：Anthropic IPO推迟预期引发关注",
+          "link": "https://www.iheart.com/podcast/269-squawk-pod-49626182/episode/ai-jitters-nycs-quest-to-delay-347706035",
+          "snippet": "市场对AI估值过热的担忧升温，Anthropic的IPO时间表成为各方讨论焦点。",
+          "index": 3
+        },
+        {
+          "title": "AI药企Iambic IPO募资1.5亿美元推进“分子超智能”研发",
+          "link": "https://medcitynews.com/2026/10/iambic-ipo-techbio-ai-drug-discovery-cancer-her2-kif18a-cdk2-cdk4-iam",
+          "snippet": "Iambic Therapeutics借助IPO获得1.5亿美元资金，用于AI驱动的新药研发管线。",
+          "index": 4
+        },
+        {
+          "title": "热门AI IPO股大跌52%，OpenAI巨额订单支撑前景",
+          "link": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/8075181/this-hot-artificial-intelligence-ipo-stock-is-down-52-but-it-could-double-from-here-according-to-wall-street",
+          "snippet": "尽管该股较高位回撤逾五成，OpenAI承诺的200亿美元采购为其带来基本面支撑。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "启用AI前，请将其视为新员工",
+          "link": "https://www.wealthmanagement.com/artificial-intelligence/before-you-turn-on-ai-treat-it-like-a-new-hire",
+          "snippet": "Triad Partners联合创始人建议企业像培训新员工一样部署、监督AI系统。",
+          "index": 6
+        },
+        {
+          "title": "AI与全球经济：从风险到机遇",
+          "link": "https://www.imf.org/en/meetings/2026/annual/schedule/2026/10/16/ai-global-economy-212373",
+          "snippet": "Ayesha Khanna博士探讨AI如何重塑全球经济格局，并将潜在风险转化为发展机遇。",
+          "index": 7
+        },
+        {
+          "title": "什么是托管式AI合作伙伴及其对比分析",
+          "link": "https://vixure.ai/what-is-a-managed-ai-partner",
+          "snippet": "托管式AI合作伙伴将AI能力深度嵌入企业业务流程，并持续负责系统运营与优化。",
+          "index": 8
+        },
+        {
+          "title": "JAMA推出新期刊《JAMA AI》",
+          "link": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2026.22425",
+          "snippet": "医学期刊JAMA宣布推出JAMA AI，聚焦AI在医疗健康各领域的全谱应用与研究。",
+          "index": 9
+        },
+        {
+          "title": "对话Apptronik CEO Jeff Cardenas：机器人经济兴起",
+          "link": "https://events.business.columbia.edu/event/physical-ai-series-conversation-jeff-cardenas-ceo-apptronik-and-daisy-cai-general-partner-b?path=%2F&page=2",
+          "snippet": "本系列访谈探讨机器人经济生态的崛起及Apptronik在具身智能领域的布局。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
