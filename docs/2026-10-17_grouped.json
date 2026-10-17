@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-17",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "本周十大融资轮：最新一批AI驱动初创公司获得支出合同",
+          "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal",
+          "snippet": "[本周榜单显示，Modal Labs获7.5亿美元AI基础设施融资，AI初创企业融资热度不减。]",
+          "index": 1
+        },
+        {
+          "title": "花旗：尽管估值回调，中国AI供应链IPO仍保持坚挺",
+          "link": "https://www.reuters.com/business/finance/china-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says-2026-10-17",
+          "snippet": "[花旗称，尽管估值回调，中国AI供应链企业IPO仍保持坚挺，明年港股资本市场焦点或仍集中于此。]",
+          "index": 2
+        },
+        {
+          "title": "AI数据中心企业融资困难",
+          "link": "https://www.chosun.com/english/industry-en/2026/10/17/MFNABBLXOJH35PLG3QBWIVRA5Y",
+          "snippet": "[受市场环境影响，AI数据中心企业普遍融资困难，多家公司难以获得资金，扩张计划受阻。]",
+          "index": 3
+        },
+        {
+          "title": "Iambic首席执行官谈AI制药公司上市",
+          "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238",
+          "snippet": "[Iambic Therapeutics首席执行官表示，公司将走差异化路径，计划推动AI药物研发企业上市。]",
+          "index": 4
+        },
+        {
+          "title": "各国如何评估AI模型？",
+          "link": "https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models",
+          "snippet": "[布鲁金斯学会指出，AI模型评估旨在衡量能力、风险与安全性，各国正探索多样化监管路径。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "生产领域的人工智能：富士康推出FoxBrain AI模型",
+          "link": "https://tadviser.com/index.php/Article%3AArtificial_intelligence_in_production",
+          "snippet": "[富士康推出面向制造业的FoxBrain AI模型，用于生产优化与智能制造，推动AI在工业场景落地。]",
+          "index": 6
+        },
+        {
+          "title": "Reflection AI首席执行官直面人工智能风险：“我当然担忧”",
+          "link": "https://www.foxbusiness.com/video/6406978784112",
+          "snippet": "[Reflection AI首席执行官坦言AI风险令人担忧，强调在推动技术发展的同时必须重视安全与监管。]",
+          "index": 7
+        },
+        {
+          "title": "工作中的AI Tokenmaxxing：Paysend首席执行官限制AI仅向高层开放",
+          "link": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+          "snippet": "[Paysend首席执行官表示，为控制成本，目前仅向高层员工开放AI工具权限，普通员工使用受限。]",
+          "index": 8
+        },
+        {
+          "title": "职位招聘：敏捷产品负责人 – Document AI – 多地",
+          "link": "https://careers.bankofamerica.com/en-us/job-detail/26037345/agile-product-owner-document-ai-multiple-locations",
+          "snippet": "[企业招聘敏捷产品负责人（Agile Product Owner），负责Document AI产品规划，支持多个工作地点。]",
+          "index": 9
+        },
+        {
+          "title": "梅赛德斯-奔驰借助PLM.AI实现全球产品研发数字化，流程提速最高30%",
+          "link": "https://group.mercedes-benz.com/technology/digitalisation/artificial-intelligence/plm-ai.html",
+          "snippet": "[梅赛德斯-奔驰引入PLM.AI推进全球产品研发数字化，部分流程效率最高可提升30%。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
