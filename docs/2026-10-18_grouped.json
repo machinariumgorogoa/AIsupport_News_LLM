@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-18",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "人工智能在眼科OCTA血管成像中的应用：文献计量学分析",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42761361",
+          "snippet": "本研究采用文献计量学方法，系统分析人工智能在眼科OCTA血管成像领域的研究热点、演进趋势及学术影响力，为后续研究提供参考。",
+          "index": 1
+        },
+        {
+          "title": "迪肯大学应用人工智能硕士项目及TOEFL iBT入学要求",
+          "link": "https://www.mastersportal.com/studies/335020/applied-artificial-intelligence.html",
+          "snippet": "迪肯大学应用人工智能硕士项目介绍入学要求，重点说明国际学生需满足的TOEFL iBT语言成绩标准及相关申请信息。",
+          "index": 2
+        },
+        {
+          "title": "KAUST人工智能赋能微波感知与通信研讨会",
+          "link": "https://cemse.kaust.edu.sa/events/by-type/workshop/2026/10/18/kaust-workshop-ai-enabled-microwave-sensing-and-communication",
+          "snippet": "该研讨会汇聚计算机、电气与数学科学工程领域专家，共同探讨AI在微波传感与通信中的前沿应用与挑战。",
+          "index": 3
+        },
+        {
+          "title": "人工智能在作业治疗中的应用：ChatGPT与作业治疗师评估干预方案对比",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41467088",
+          "snippet": "研究对比ChatGPT与作业治疗师在评估和干预中的方法差异，揭示AI应用潜力与局限，为智能辅助作业治疗提供参考。",
+          "index": 4
+        },
+        {
+          "title": "AI与我们的信仰：AI素养与基督教伦理研讨会",
+          "link": "https://www.eventbrite.com/e/ai-and-our-faith-a-workshop-on-ai-literacy-and-christian-ethics-tickets-1999494030470",
+          "snippet": "该研讨会聚焦AI对信仰生活的影响，提升参与者AI素养，并就新兴技术引发的基督教伦理议题展开讨论。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "2026年MIT AI会议征稿启事与截止日期",
+          "link": "https://callforpaper.org/cfp/call-for-papers-mit-ai-conference-2026",
+          "snippet": "2026 MIT AI会议将于10月在加州山景城计算机历史博物馆举行，现已开放早鸟注册，并公布论文投稿截止日期。",
+          "index": 6
+        },
+        {
+          "title": "KiranaAI——面向印度非正规经济的图智能",
+          "link": "https://devpost.com/software/kiranaai-graph-ai-agent-for-india-s-12m-kirana-stores",
+          "snippet": "该项目以图智能技术降低印度非正规经济中的技术门槛，助力本地Kirana小店经济发展与数字化转型。",
+          "index": 7
+        },
+        {
+          "title": "Ship AI AZ GTM黑客马拉松",
+          "link": "https://www.workuity.com/events/arizona-ai-hackathon-2026-10-17-biltmore",
+          "snippet": "该黑客马拉松在Workuity Biltmore举行，参赛团队将于10月17日围绕AI产品的GTM策略进行全天开发与比拼。",
+          "index": 8
+        },
+        {
+          "title": "CD Connected：AI与数字公平的社区对话",
+          "link": "https://www.eventbrite.com/e/cd-connected-a-community-conversation-on-ai-digital-equity-tickets-1999057661278",
+          "snippet": "社区对话聚焦人工智能与数字公平议题，由CDCPDA首席执行官Shaudé Moore等共同主持，促进公众参与讨论。",
+          "index": 9
+        }
+      ]
+    }
+  ]
+}

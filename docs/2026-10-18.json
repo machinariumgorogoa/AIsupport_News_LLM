@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-18",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "人工智能在眼科OCTA血管成像中的应用：文献计量学分析",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42761361",
+      "snippet": "本研究采用文献计量学方法，系统分析人工智能在眼科OCTA血管成像领域的研究热点、演进趋势及学术影响力，为后续研究提供参考。",
+      "raw_snippet": "## Keywords\n\nartificial intelligence, bibliometric analysis, optical coherence tomography angiography, trends [...] adoption of AI-OCTA technology in routine clinical practice. [...] The integration of AI with OCTA has significantly advanced the automation and precise quantitative analysis of ophthalmic vascular imaging, demonstrating substantial potential for diagnosing various retinal and choroidal diseases. Future efforts should focus on developing more robust and interpretable AI models, conducting large-scale, multi-center clinical validation, and establishing standardized imaging and analysis protocols to ultimately realize the widespread adoption of AI-OCTA",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "迪肯大学应用人工智能硕士项目及TOEFL iBT入学要求",
+      "link": "https://www.mastersportal.com/studies/335020/applied-artificial-intelligence.html",
+      "snippet": "迪肯大学应用人工智能硕士项目介绍入学要求，重点说明国际学生需满足的TOEFL iBT语言成绩标准及相关申请信息。",
+      "raw_snippet": "TOEFL admission requirements    TOEFL®  IBT  TOEFL iBT® is accepted by more than 13,000 universities and other institutions in over 160 countries. The test can be taken at a test center or at home. The test measures your English-language abilities in an academic setting. The score refers to the total score of 4 subjects (writing, listening, speaking, and reading), each subject has a range of 0 - 30.\n\nOR\n\n79\n\nSchedule TOEFL® [...] English\n\nTOEFL admission requirements    TOEFL®  IBT  TOEFL iBT® is accepted by more than 13,000 universities and other institutions in over 160 countries. The test can be taken at a test center or at home. The test measures your English-language abilities in an academic setting. The score refers to the total score of 4 subjects (writing, listening, speaking, and reading), each subject has a range of 0 - 30.\n\nOR\n\n79\n\nSchedule TOEFL® [...] As an AI specialist, you will work alongside software engineers, data scientists, application developers and business analysts, applying your knowledge to ensure AI is appropriately integrated into software solutions from a technical and human perspective.\n\nYou will learn to apply advanced knowledge of artificial intelligence to the research and evaluations of AI and explore the complexities of introducing AI solutions in a human context, both from an ethical and an engineering perspective.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "KAUST人工智能赋能微波感知与通信研讨会",
+      "link": "https://cemse.kaust.edu.sa/events/by-type/workshop/2026/10/18/kaust-workshop-ai-enabled-microwave-sensing-and-communication",
+      "snippet": "该研讨会汇聚计算机、电气与数学科学工程领域专家，共同探讨AI在微波传感与通信中的前沿应用与挑战。",
+      "raw_snippet": "Amin Abbosh – Professor, The University of Queensland, Australia\n Stefano Maci – Professor, University of Siena, Italy\n Francesco Paolo Andriulli – Professor, Politecnico di Torino, Italy\n Hua Wang – Professor and Chair of Electronics, ETH Zurich, Switzerland\n Ehsan Afshari – Professor, University of Michigan, USA\n Ahmed Kishk – Professor, Concordia University, Canada.\n Goutam Chattopadhyay – Senior Research Scientist, NASA Jet Propulsion Laboratory, California Institute of Technology, USA [...] Exploring research developments and challenges across AI-enabled microwave engineering, millimeter-wave imaging, and wearable RF sensing for healthcare and communications applications.\n\n## Overview\n\n## Overview\n\nAdvances in artificial intelligence are creating new opportunities across microwave and millimeter-wave systems, from biomedical sensing and imaging to wearable radio-frequency technologies and integrated sensing and communication. [...] King Abdullah University of Science and Technology \n\nComputer, Electrical and Mathematical Sciences and Engineering\n\n# KAUST Workshop on AI-Enabled Microwave Sensing and Communication\n\nWorkshop Chair:  Abdulrahman Alhamed, Ibn Rushd Assistant Professor, Electrical and Computer Engineering\n\n-\n\nB9 L2 R2325\n\nmicrowave sensing coding techniques for Terahertz Integrated Sensing and Communications AI wearable and flexible antennas computational electromagnetics",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "人工智能在作业治疗中的应用：ChatGPT与作业治疗师评估干预方案对比",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41467088",
+      "snippet": "研究对比ChatGPT与作业治疗师在评估和干预中的方法差异，揭示AI应用潜力与局限，为智能辅助作业治疗提供参考。",
+      "raw_snippet": "## Conclusion\n\nThese findings underscore artificial intelligence's promising yet complex role in occupational therapy, highlighting how occupational therapists integrate multiple factors and individual client needs into their decision-making, in contrast to the algorithm-based reasoning of ChatGPT.\n\n## Keywords\n\nartificial intelligence, chatGPT, clinical reasoning, evaluation, intervention, occupational therapy [...] ## Introduction\n\nArtificial intelligence is playing an increasingly important role in supporting rehabilitation processes, offering benefits for both clients and therapists. This study aimed to explore the potential use of ChatGPT-an AI-powered online chatbot-in occupational therapy using clinical case scenarios and to compare the clinical decision-making approaches of ChatGPT and occupational therapists.\n\n## Method [...] # Artificial intelligence in occupational therapy: Comparing ChatGPT and occupational therapist approaches in assessment and intervention.\n\nYusuf Değerli, Medine Nur Özata Değerli, Sinem Kars\n\nThe British journal of occupational therapy · 2025-10-17 · 89(1):6-18 · DOI: 10.1177/03080226251368231 · PMID: 41467088 · PMCID: PMC12743896\n\nPublication type: Journal Article\n\n## Introduction",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "AI与我们的信仰：AI素养与基督教伦理研讨会",
+      "link": "https://www.eventbrite.com/e/ai-and-our-faith-a-workshop-on-ai-literacy-and-christian-ethics-tickets-1999494030470",
+      "snippet": "该研讨会聚焦AI对信仰生活的影响，提升参与者AI素养，并就新兴技术引发的基督教伦理议题展开讨论。",
+      "raw_snippet": "with this emerging technology. This workshop will provide an opportunity to build AI literacy and practice individual and collective reflection on the ethics of artificial intelligence. [...] We are living at a time when AI technologies are dominating the headlines and becoming a greater part of our everyday lives, but we don't often get opportunities to reflect on AI as a faith issue. Weijia Cheng, a former Silicon Valley software engineer and current student at the Boston University School of Theology, will walk us through the basic idea of artificial intelligence and introduce concepts from the Christian tradition that might help us establish a responsible relationship with this [...] AI and Our Faith: A Workshop on AI Literacy and Christian Ethics\n\n# AI and Our Faith: A Workshop on AI Literacy and Christian Ethics\n\nWhat does it mean to be a faithful Christian in the age of AI? Learn more at this AI ethics workshop hosted by United Parish in Brookline!",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "2026年MIT AI会议征稿启事与截止日期",
+      "link": "https://callforpaper.org/cfp/call-for-papers-mit-ai-conference-2026",
+      "snippet": "2026 MIT AI会议将于10月在加州山景城计算机历史博物馆举行，现已开放早鸟注册，并公布论文投稿截止日期。",
+      "raw_snippet": "​Early bird tickets now on sale! We are excited to share our first speakers:   \n   \n​Julie Yoo, General Partner - a16z   \n   \n​Aparna Chennapragada, Chief Product Officer -Microsoft   \n   \n​Feyza Haskaraman, Partner - Felicis   \n   \n​Jessica McKellar, CEO and Founder - Pilot   \n   \n​Bret Taylor, Co-Founder - Sierra / Chairman - OpenAI   \n   \n​Brad Porter, Founder and CEO - Cobot   \n   \n​Daron Acemoglu, Nobel Laureate / MIT Professor   \n   \n​Hugo Barra, Co-Founder - Dreamer [...] ​and more to be announced!   \n   \n​Since 2017, the MITAI Conference has brought together leaders and influencers in the AI community who are at the forefront of solving the world’s most challenging problems through creative applications of technology.   \n   \n​What Makes MITAI Unique?   \n​High-signal AI builders: founders, researchers, operators, and investors​   \n   \n​MIT-style deep dives: across healthcare, fintech, robotics, government, cybersecurity, and more [...] Conference   ACTIVE   Updated: 20th July, 2026\n\nMIT AI Conference 2026\n\n# AI: The Age of Agency\n\nTaking place in Computer History Museum Mountain View, C, MIT AI Conference 2026 was concluded on October 17, 2026. Researchers will present papers on a wide range of subjects, including Artificial Intelligence. The next key deadline is the submission deadline on October 17, 2026.\n\nOctober 17, 2026   In Person   🇺🇸 United States\n\nVisit \n\nApple   Google   Outlook   Windows",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "KiranaAI——面向印度非正规经济的图智能",
+      "link": "https://devpost.com/software/kiranaai-graph-ai-agent-for-india-s-12m-kirana-stores",
+      "snippet": "该项目以图智能技术降低印度非正规经济中的技术门槛，助力本地Kirana小店经济发展与数字化转型。",
+      "raw_snippet": "The Moonshot question: what if you could remove the technical intermediary entirely? Not simplify the interface — eliminate the role. An owner asks in Tenglish, the system reasons about which database holds the answer, and responds in the same language. No SQL. No Cypher. No dashboard. Just a conversation.\n\nThat is the zero-to-one shift: from data as something you hire someone to interpret to data as something you simply talk to.\n\n## What it does [...] Devpost\nDevpost\nDevpost logo\n\nDevpost\n\nParticipate in our public hackathons\n\nDevpost for Teams\n\nDevpost for Teams\n\nAccess your company's private hackathons\n\nDevpost\n\nDevpost\n\nGrow your developer ecosystem and promote your platform\n\nDevpost for Teams logo\n\nDevpost for Teams\n\nDrive innovation, collaboration, and retention within your organization\n\nBy use case\n\nBlog\n\nInsights into hackathon planning and participation\n\nCustomer stories\n\nInspiration from peers and other industry leaders [...] KiranaAI — Graph Intelligence for India's Informal Economy – screenshot 6\n\nQ2 \"Udhar lo unna customers recently em konnaru?\"\n\nKiranaAI — Graph Intelligence for India's Informal Economy – screenshot 7\n\nQ2 \"Udhar lo unna customers recently em konnaru?\"\n\nKiranaAI — Graph Intelligence for India's Informal Economy – screenshot 8\n\nQ2 \"Udhar lo unna customers recently em konnaru?\"\n\n## Inspiration",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "Ship AI AZ GTM黑客马拉松",
+      "link": "https://www.workuity.com/events/arizona-ai-hackathon-2026-10-17-biltmore",
+      "snippet": "该黑客马拉松在Workuity Biltmore举行，参赛团队将于10月17日围绕AI产品的GTM策略进行全天开发与比拼。",
+      "raw_snippet": "Saturday, October 17, 9 AM to 5 PM: Meet your team, join on-site sessions, and build and launch your site.\n\nSunday, October 18, 9 AM to 2 PM: Finish and submit by noon. Recorded pitches begin at 12:15 PM, with awards at 1:30 PM. All times are Arizona time.\n\nShip AI is offering a $1,000 prize pool, certificates for everyone who submits, recorded pitches, and opportunities to meet employers and business professionals attending. [...] CHANDLER 480-745-2515 | 24TH & CAMELBACK 602-761-9675\n\nWorkuity\n\nSelect Page\n\nShip AI AZ GTM Hackathon — Special Event at Workuity Biltmore on 2026-10-17\n\nSpecial Event · Workuity Biltmore Upcoming Session\n\n# Ship AI AZ GTM Hackathon\n\nBuild and launch a marketing website with Ship AI. New and existing projects welcome. October 17, 9 AM to 5 PM, and October 18, 9 AM to 2 PM, at Workuity Biltmore. Free to attend.\n\nto\n\nLocation\n\nWorkuity Biltmore\n\nHosted By\n\nDan Kite\n\nAbout this session [...] Contact Us →\n\n#### Already a member?\n\nSign In\n\nLooking for Biltmore?  \nBook a Biltmore tour →\n\nSCHEDULE A VISIT\n\nFill out the form and we'll confirm your tour within one business day.\n\nLoading form...\n\n⚡\n\nPhoenix's Smartest Square Footage — AI-powered workspaces start at $200/mo   Premium offices, AI training & locally owned hospitality included. Learn about the Center For AI Excellence →\n\nSchedule a Visit\n\nSchedule a Visit\n\nCONTACT US",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "CD Connected：AI与数字公平的社区对话",
+      "link": "https://www.eventbrite.com/e/cd-connected-a-community-conversation-on-ai-digital-equity-tickets-1999057661278",
+      "snippet": "社区对话聚焦人工智能与数字公平议题，由CDCPDA首席执行官Shaudé Moore等共同主持，促进公众参与讨论。",
+      "raw_snippet": "Co-facilitated byCDCPDA CEO Shaudé Moore andDeiMarlon “D” Scisney, President & Founder of The Data Guys LLC, the conversation will explore digital access, education, economic opportunity, responsible AI use, and how we can ensure historically underserved communities are equipped to participate in and benefit from our increasingly digital future. [...] ### Browse more events with different dates, prices, and formats to find your next great experience.\n\n## Still looking for the right event?\n\n### Explore all events in Seattle and filter by date, category, and more to find the perfect fit.\n\n### Use Eventbrite\n\n### Plan Events\n\n### Find Events\n\n### Connect with Us\n\n© 2026 Eventbrite [...] CD Connected: A Community Conversation on AI & Digital Equity\n\n# CD Connected: A Community Conversation on AI & Digital Equity\n\nJoin us in person for CD Connected to chat about AI, digital equity, and how tech shapes our community!\n\n## Join Us for CD Connected!",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    }
+  ]
+}
