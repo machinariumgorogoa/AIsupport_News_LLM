@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-19",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Solidigm IPO将AI增长资金需求与股东稀释担忧对立",
+          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279098",
+          "snippet": "Solidigm拟通过IPO为AI扩张融资，但股东担忧股权稀释，双方分歧令上市前景蒙上阴影。",
+          "index": 1
+        },
+        {
+          "title": "AI公司Anthropic即将上市，拟创下史上最大规模IPO",
+          "link": "https://www.mk.co.kr/en/it/12179147",
+          "snippet": "Anthropic决定推进IPO进程，有望成为史上规模最大的AI公司首次公开募股，备受市场关注。",
+          "index": 2
+        },
+        {
+          "title": "AI领域投资者担忧拖累Nscale的IPO估值前景",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-18/ai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation",
+          "snippet": "英伟达支持的Nscale谋求IPO，但投资者对AI行业的忧虑令其估值前景明显承压。",
+          "index": 3
+        },
+        {
+          "title": "软银据悉考虑180亿美元收购Allied Universal，推进AI安全战略",
+          "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262222983-softbank-18-billion-acquisition-allied-universal-ai-security-tradingkey",
+          "snippet": "软银集团正就收购全球安保公司Allied Universal进行早期谈判，意在强化AI安防战略布局。",
+          "index": 4
+        },
+        {
+          "title": "Harvey AI合同智能：融资5.5亿美元，估值155亿美元，服务法律团队",
+          "link": "https://www.harvey.ai/platform/contract-intelligence",
+          "snippet": "Harvey以155亿美元估值融资5.5亿美元，用AI帮助法律团队高效审查与管理合同。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI驱动招聘：创始人借助Claude等工具节省100万卢比并接触11位候选人",
+          "link": "https://www.indiatoday.in/jobs/in-focus/story/ai-powered-hiring-founder-saves-rs-1-crore-and-meets-11-candidates-in-a-week-educ-3020746-2026-10-19",
+          "snippet": "创始人借助Claude、Apollo和Instinct等AI工具招聘，据称节省100万卢比并接触11位候选人。",
+          "index": 6
+        },
+        {
+          "title": "打造可扩展至60万个网点的产品：Trey最看好的AI押注是实时个性化",
+          "link": "https://productsthatcount.com/the-gap-between-building-a-demo-and-building-something-that-scales-to-600000-locations-mood-media-cpo",
+          "snippet": "Trey最看好的AI投资方向是实时个性化，相关产品有望扩展至60万个线下网点。",
+          "index": 7
+        },
+        {
+          "title": "AI业务拓展实用指南：勿忽视内部利益相关者",
+          "link": "https://www.tommasomariaricci.com/blog/ai-business-development-guide",
+          "snippet": "业务拓展中忽视内部利益相关者易致交易搁浅，AI可协助识别并推动关键决策者支持。",
+          "index": 8
+        },
+        {
+          "title": "Anthropic联合创始人预测AI将推动美国GDP达到44万亿美元",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-co-founder-predicts-ai-will-bring-us-gdp-to-44-trillion",
+          "snippet": "PYMNTS采访Anthropic联合创始人，其预测AI将推动美国GDP增长至44万亿美元。",
+          "index": 9
+        },
+        {
+          "title": "打造以AI速度演进的技术人才队伍：Andela Carrol Chang访谈",
+          "link": "https://emerj.com/podcast-episodes/designing-a-technical-workforce-that-adapts-at-the-speed-of-ai-with-carrol-chang-of-andela",
+          "snippet": "职位名称已难以反映技术岗位实质，企业需构建能随AI快速迭代的技术人才体系。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

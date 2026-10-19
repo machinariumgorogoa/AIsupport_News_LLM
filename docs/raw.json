@@ -1,199 +1,296 @@
 {
-  "date": "2026-10-18",
-  "count": 23,
+  "date": "2026-10-19",
+  "count": 35,
   "items": [
     {
-      "title": "人工智能在眼科OCTA血管成像中的应用：文献计量学分析",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42761361",
-      "snippet": "本研究采用文献计量学方法，系统分析人工智能在眼科OCTA血管成像领域的研究热点、演进趋势及学术影响力，为后续研究提供参考。",
-      "raw_snippet": "## Keywords\n\nartificial intelligence, bibliometric analysis, optical coherence tomography angiography, trends [...] adoption of AI-OCTA technology in routine clinical practice. [...] The integration of AI with OCTA has significantly advanced the automation and precise quantitative analysis of ophthalmic vascular imaging, demonstrating substantial potential for diagnosing various retinal and choroidal diseases. Future efforts should focus on developing more robust and interpretable AI models, conducting large-scale, multi-center clinical validation, and establishing standardized imaging and analysis protocols to ultimately realize the widespread adoption of AI-OCTA",
+      "title": "Solidigm IPO将AI增长资金需求与股东稀释担忧对立",
+      "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279098",
+      "snippet": "Solidigm拟通过IPO为AI扩张融资，但股东担忧股权稀释，双方分歧令上市前景蒙上阴影。",
+      "raw_snippet": "According to industry sources and foreign media reports on Oct. 18, Solidigm has selected Goldman Sachs and Morgan Stanley as lead underwriters for a potential initial public offering (IPO) and is considering a Nasdaq listing next year. Market estimates put Solidigm’s valuation at up to $150 billion, or approximately 210 trillion won, while the offering could raise as much as $15 billion, or about 21 trillion won. SK hynix has said that no decisions have been finalized. However, reports that [...] As Solidigm, SK hynix’s U.S.-based NAND flash subsidiary, steps up preparations for a potential U.S. stock market listing, debate over the plan is intensifying. The central conflict is between the view that substantial fundraising is essential for SK hynix to strengthen its position in the artificial intelligence (AI) memory market and concerns that a separate listing of Solidigm could undermine the value of shares held by SK hynix shareholders. [...] SK hynix faces substantial investment requirements in AI-related semiconductor businesses, including high-bandwidth memory (HBM) and advanced packaging. If Solidigm raises funds independently through an IPO, it could ease the parent company’s financing burden and allow SK hynix to concentrate more resources on its core businesses. Supporters argue that stronger long-term earnings could ultimately benefit shareholders through dividends and other forms of returns.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "迪肯大学应用人工智能硕士项目及TOEFL iBT入学要求",
-      "link": "https://www.mastersportal.com/studies/335020/applied-artificial-intelligence.html",
-      "snippet": "迪肯大学应用人工智能硕士项目介绍入学要求，重点说明国际学生需满足的TOEFL iBT语言成绩标准及相关申请信息。",
-      "raw_snippet": "TOEFL admission requirements    TOEFL®  IBT  TOEFL iBT® is accepted by more than 13,000 universities and other institutions in over 160 countries. The test can be taken at a test center or at home. The test measures your English-language abilities in an academic setting. The score refers to the total score of 4 subjects (writing, listening, speaking, and reading), each subject has a range of 0 - 30.\n\nOR\n\n79\n\nSchedule TOEFL® [...] English\n\nTOEFL admission requirements    TOEFL®  IBT  TOEFL iBT® is accepted by more than 13,000 universities and other institutions in over 160 countries. The test can be taken at a test center or at home. The test measures your English-language abilities in an academic setting. The score refers to the total score of 4 subjects (writing, listening, speaking, and reading), each subject has a range of 0 - 30.\n\nOR\n\n79\n\nSchedule TOEFL® [...] As an AI specialist, you will work alongside software engineers, data scientists, application developers and business analysts, applying your knowledge to ensure AI is appropriately integrated into software solutions from a technical and human perspective.\n\nYou will learn to apply advanced knowledge of artificial intelligence to the research and evaluations of AI and explore the complexities of introducing AI solutions in a human context, both from an ethical and an engineering perspective.",
+      "title": "AI公司Anthropic即将上市，拟创下史上最大规模IPO",
+      "link": "https://www.mk.co.kr/en/it/12179147",
+      "snippet": "Anthropic决定推进IPO进程，有望成为史上规模最大的AI公司首次公开募股，备受市场关注。",
+      "raw_snippet": "Antropic is preparing for the largest-ever initial public offering (IPO) in the form of a public corporation (PBC). The governance structure of the fund and the standard value of the stake expansion will be disclosed in the next few months. The market is paying attention to whether Antropics can be recognized for its corporate value of up to $2 trillion (about 2,800 trillion won). [...] Whenever the company's value rises by 50% over the set standard value, it will hand over an additional 2% stake at the discretion of the board of directors. The more the company grows, the larger the stake used in the public interest.\n\nAntropics cited the impact of AI on the labor market as a prime example, saying that the fund could be used for large-scale donations to non-profit organizations or direct distribution to specific classes. [...] \"AI can create enormous economic value, but it can also lead to instability for many workers,\" Antropics said. \"Considering the pace of AI development, a bolder approach may be needed.\"\n\nAntropics previously agreed to $200 million for research and response to AI's labor market impact, and this fund is the nature of expanding it.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "ICAMLAAI 2026 Dessie – Machine Learning Conference | 18 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2644101",
-      "snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Trans...",
-      "raw_snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] International Conference On Advances In Machine Learning And Applied Artificial Intelligence ICAMLAAI, organized by Global Institute for Science, Technology and Research, is an international conference that brings together researchers, engineers, healthcare professionals, academicians, scientists, industry experts, and professionals from diverse fields across the globe. The conference offers a dynamic platform for presenting original research, exchanging knowledge, exploring emerging trends, [...] 17 Oct 2026 · Arkadag, Turkmenistan\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  17 Oct 2026 · Ashgabat, Turkmenistan\n\n### Other conferences in Dessie\n\n International Conference on Pharmaceutical Education and Practice (ICPEP)\n\n  18 Oct 2026 · Dessie, Ethiopia\n International Conference on Genome Editing and CRISPR Technologies (ICGECT)",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Sydney – Machine Learning Conference | 17 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2693522",
-      "snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Trans...",
-      "raw_snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] Welcome! 👋\n\nI can help you find upcoming conferences in Dubai or search for topics like Artificial Intelligence or Medicine.\n\nAI can make mistakes. Verify important info. [...] 17 Oct 2026 · Sydney, Australia\n International Conference on Computer Science, Machine Learning and Artificial Intelligence (ICCSMLAI)\n\n  17 Oct 2026 · Sydney, Australia\n International Conference on Environmental, Food, Agriculture and Bio-Technology (ICEFABT)\n\n  17 Oct 2026 · Sydney, Australia\n International Conference on Internet of Things, Big Data Analytics and Information Technology (ICITBDIT)\n\n  17 Oct 2026 · Sydney, Australia",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Mumbai – Machine Learning Conference | 17 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2677967",
-      "snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Trans...",
-      "raw_snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] Welcome! 👋\n\nI can help you find upcoming conferences in Dubai or search for topics like Artificial Intelligence or Medicine.\n\nAI can make mistakes. Verify important info. [...] 17 Oct 2026 · Ambo, Ethiopia\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  17 Oct 2026 · Arkadag, Turkmenistan\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  17 Oct 2026 · Ashgabat, Turkmenistan\n\n### Other conferences in Mumbai\n\n International Conference on Genome Editing and CRISPR Technologies (ICGECT)",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Gurgaon – Machine Learning Conference | 17 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2677841",
-      "snippet": "Welcome! 👋\n\nI can help you find upcoming conferences in Dubai or search for topi...",
-      "raw_snippet": "Welcome! 👋\n\nI can help you find upcoming conferences in Dubai or search for topics like Artificial Intelligence or Medicine.\n\nAI can make mistakes. Verify important info. [...] Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] International Conference On Advances In Machine Learning And Applied Artificial Intelligence ICAMLAAI, organized by Global Institute for Science, Technology and Research, is an international conference that brings together researchers, engineers, healthcare professionals, academicians, scientists, industry experts, and professionals from diverse fields across the globe. The conference offers a dynamic platform for presenting original research, exchanging knowledge, exploring emerging trends,",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Chennai – Machine Learning Conference | 17 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2677925",
-      "snippet": "Welcome! 👋\n\nI can help you find upcoming conferences in Dubai or search for topi...",
-      "raw_snippet": "Welcome! 👋\n\nI can help you find upcoming conferences in Dubai or search for topics like Artificial Intelligence or Medicine.\n\nAI can make mistakes. Verify important info. [...] Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] 17 Oct 2026 · Ambo, Ethiopia\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  17 Oct 2026 · Arkadag, Turkmenistan\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  17 Oct 2026 · Ashgabat, Turkmenistan\n\n### Other conferences in Chennai\n\n International Conference on Genome Editing and CRISPR Technologies (ICGECT)",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Cairns – Machine Learning Conference | 17 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2693606",
-      "snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Trans...",
-      "raw_snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] Welcome! 👋\n\nI can help you find upcoming conferences in Dubai or search for topics like Artificial Intelligence or Medicine.\n\nAI can make mistakes. Verify important info. [...] International Conference On Advances In Machine Learning And Applied Artificial Intelligence ICAMLAAI, organized by Global Institute for Science, Technology and Research, is an international conference that brings together researchers, engineers, healthcare professionals, academicians, scientists, industry experts, and professionals from diverse fields across the globe. The conference offers a dynamic platform for presenting original research, exchanging knowledge, exploring emerging trends,",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Addis Ababa – Machine Learning Conference | 18 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2644073",
-      "snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Trans...",
-      "raw_snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] International Conference On Advances In Machine Learning And Applied Artificial Intelligence ICAMLAAI, organized by Global Institute for Science, Technology and Research, is an international conference that brings together researchers, engineers, healthcare professionals, academicians, scientists, industry experts, and professionals from diverse fields across the globe. The conference offers a dynamic platform for presenting original research, exchanging knowledge, exploring emerging trends, [...] 18 Oct 2026 · Taiz, Yemen\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  18 Oct 2026 · Al Hudaydah, Yemen\n\n### Other conferences in Addis Ababa\n\n International Conference on Pharma and Food (ICPAF)\n\n  18 Oct 2026 · Addis Ababa, Ethiopia\n International Conference on Genome Editing and CRISPR Technologies (ICGECT)\n\n  18 Oct 2026 · Addis Ababa, Ethiopia\n International Conference on Advanced Computing , Iot and Cybersecurity (ICACIC)",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAI 2026 Bhopal – Artificial Intelligence Conference | 17 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2242390",
-      "snippet": "16 Oct 2026 · Kyoto, Japan\n International Conference on Computer Science, Machin...",
-      "raw_snippet": "16 Oct 2026 · Kyoto, Japan\n International Conference on Computer Science, Machine Learning and Artificial Intelligence (ICCSMLAI)\n\n  16 Oct 2026 · Kharagpur, India\n\n### Other conferences in Bhopal\n\n International Conference on Arts and Humanities (ICAH)\n\n  17 Oct 2026 · Bhopal, India\n International Conference on Business Management and Social Innovation (ICBMSI)\n\n  17 Oct 2026 · Bhopal, India\n International Conference on Recent Advances in Engineering, Technology and Science (ICRAETS) [...] Artificial Intelligence\n Data Mining\n Cyber Security\n Machine Learning\n Digital Forensics\n Anti-Malware, Anti-Spam and Anti Virus\n Human Factors/ Governance/Compliance\n Business Continuity/ Incident Response\n Identity Access Management\n Application Security\n IoT Security\n Cloud Security\n Mobile Security\n Cyber Terrorism and Cyber Warfare Protection\n Network Security\n Data Protection\n Managed Security Services\n Encryption\n Cyber Defenses\n\n## Important dates [...] Artificial Intelligence\n\n# International Conference on Artificial Intelligence (ICAI 2026)\n\n17 Oct 2026 · Bhopal, Madhya Pradesh, India\n\nOrganized by IRAJ MULTI · Listed 5 Apr 2026\n\nDates\n:   17 Oct 2026\n\nFormat\n:   In person\n\nPaper deadline\n:   7 Sep 2026 (closed)\n\nType\n:   Conference\n\n## Verification and trust",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Karakol – Machine Learning Conference | 17 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2643765",
-      "snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Trans...",
-      "raw_snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] International Conference On Advances In Machine Learning And Applied Artificial Intelligence ICAMLAAI, organized by Global Institute for Science, Technology and Research, is an international conference that brings together researchers, engineers, healthcare professionals, academicians, scientists, industry experts, and professionals from diverse fields across the globe. The conference offers a dynamic platform for presenting original research, exchanging knowledge, exploring emerging trends, [...] 16 Oct 2026 · Zarqa, Jordan\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  16 Oct 2026 · Irbid, Jordan\n\n### Other conferences in Karakol\n\n International Conference on Genome Editing and CRISPR Technologies (ICGECT)\n\n  17 Oct 2026 · Karakol, Kyrgyzstan\n International Conference on Advanced Computing , Iot and Cybersecurity (ICACIC)",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Auckland – Machine Learning Conference | 17 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2693620",
-      "snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Trans...",
-      "raw_snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] International Conference On Advances In Machine Learning And Applied Artificial Intelligence ICAMLAAI, organized by Global Institute for Science, Technology and Research, is an international conference that brings together researchers, engineers, healthcare professionals, academicians, scientists, industry experts, and professionals from diverse fields across the globe. The conference offers a dynamic platform for presenting original research, exchanging knowledge, exploring emerging trends, [...] 16 Oct 2026 · Zarqa, Jordan\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  16 Oct 2026 · Irbid, Jordan\n\n### Other conferences in Auckland\n\n Cultural Wellbeing Retreat\n\n  16 Oct 2026 · Auckland, New Zealand\n the upcoming Paediatric Epilepsy Training\n\n  16 Oct 2026 · Auckland, New Zealand\n International Conference on Forensic Nursing Science and Practice (ICFNSP)",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Hyderabad – Machine Learning Conference | 18 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2678037",
-      "snippet": "Welcome! 👋\n\nI can help you find upcoming conferences in Dubai or search for topi...",
-      "raw_snippet": "Welcome! 👋\n\nI can help you find upcoming conferences in Dubai or search for topics like Artificial Intelligence or Medicine.\n\nAI can make mistakes. Verify important info. [...] Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] 18 Oct 2026 · Aden, Yemen\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  18 Oct 2026 · Taiz, Yemen\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  18 Oct 2026 · Al Hudaydah, Yemen\n\n### Other conferences in Hyderabad\n\n International Conference on Advances in Mechanical, Civil, and Construction Engineering (ICAMCCE)",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Harbin – Machine Learning Conference | 18 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2693928",
-      "snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Trans...",
-      "raw_snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] International Conference On Advances In Machine Learning And Applied Artificial Intelligence ICAMLAAI, organized by Global Institute for Science, Technology and Research, is an international conference that brings together researchers, engineers, healthcare professionals, academicians, scientists, industry experts, and professionals from diverse fields across the globe. The conference offers a dynamic platform for presenting original research, exchanging knowledge, exploring emerging trends, [...] 17 Oct 2026 · Arkadag, Turkmenistan\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  17 Oct 2026 · Ashgabat, Turkmenistan\n\n### Other conferences in Harbin\n\n International Conference on Genome Editing and CRISPR Technologies (ICGECT)\n\n  18 Oct 2026 · Harbin, China\n International Conference on Advanced Computing , Iot and Cybersecurity (ICACIC)",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Almaty – Machine Learning Conference | 17 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2643947",
-      "snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Trans...",
-      "raw_snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] International Conference On Advances In Machine Learning And Applied Artificial Intelligence ICAMLAAI, organized by Global Institute for Science, Technology and Research, is an international conference that brings together researchers, engineers, healthcare professionals, academicians, scientists, industry experts, and professionals from diverse fields across the globe. The conference offers a dynamic platform for presenting original research, exchanging knowledge, exploring emerging trends, [...] 17 Oct 2026 · Ashgabat, Turkmenistan\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  17 Oct 2026 · Astana, Kazakhstan\n\n### Other conferences in Almaty\n\n International Conference on Agriculture & Animal Husbandry (ICAAH)\n\n  17 Oct 2026 · Almaty, Kazakhstan\n International Conference on Genome Editing and CRISPR Technologies (ICGECT)",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "ICAMLAAI 2026 Jaipur – Machine Learning Conference | 17 Oct",
-      "link": "https://www.conferencealert.com/eventdetail/2677995",
-      "snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Trans...",
-      "raw_snippet": "Machine Learning\n Machine Learning\n Deep Learning\n Reinforcement Learning\n Transfer Learning\n Federated Learning\n Explainable AI\n Predictive Analytics\n Computer Vision\n Natural Language Processing\n Time Series Analysis\n Machine Learning Applications\n Applied AI\n Applied AI\n Generative AI\n AI Agents\n AI in Healthcare\n AI in Business\n AI in Finance\n AI in Education\n AI in Robotics\n AI in Industry\n AI for Smart Cities\n AI for Social Good\n\n## Important dates [...] Welcome! 👋\n\nI can help you find upcoming conferences in Dubai or search for topics like Artificial Intelligence or Medicine.\n\nAI can make mistakes. Verify important info. [...] 17 Oct 2026 · Ambo, Ethiopia\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  17 Oct 2026 · Arkadag, Turkmenistan\n International Conference on Advances in Machine Learning and Applied Artificial Intelligence (ICAMLAAI)\n\n  17 Oct 2026 · Ashgabat, Turkmenistan\n\n### Other conferences in Jaipur\n\n International Conference on Genome Editing and CRISPR Technologies (ICGECT)",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "KAUST人工智能赋能微波感知与通信研讨会",
-      "link": "https://cemse.kaust.edu.sa/events/by-type/workshop/2026/10/18/kaust-workshop-ai-enabled-microwave-sensing-and-communication",
-      "snippet": "该研讨会汇聚计算机、电气与数学科学工程领域专家，共同探讨AI在微波传感与通信中的前沿应用与挑战。",
-      "raw_snippet": "Amin Abbosh – Professor, The University of Queensland, Australia\n Stefano Maci – Professor, University of Siena, Italy\n Francesco Paolo Andriulli – Professor, Politecnico di Torino, Italy\n Hua Wang – Professor and Chair of Electronics, ETH Zurich, Switzerland\n Ehsan Afshari – Professor, University of Michigan, USA\n Ahmed Kishk – Professor, Concordia University, Canada.\n Goutam Chattopadhyay – Senior Research Scientist, NASA Jet Propulsion Laboratory, California Institute of Technology, USA [...] Exploring research developments and challenges across AI-enabled microwave engineering, millimeter-wave imaging, and wearable RF sensing for healthcare and communications applications.\n\n## Overview\n\n## Overview\n\nAdvances in artificial intelligence are creating new opportunities across microwave and millimeter-wave systems, from biomedical sensing and imaging to wearable radio-frequency technologies and integrated sensing and communication. [...] King Abdullah University of Science and Technology \n\nComputer, Electrical and Mathematical Sciences and Engineering\n\n# KAUST Workshop on AI-Enabled Microwave Sensing and Communication\n\nWorkshop Chair:  Abdulrahman Alhamed, Ibn Rushd Assistant Professor, Electrical and Computer Engineering\n\n-\n\nB9 L2 R2325\n\nmicrowave sensing coding techniques for Terahertz Integrated Sensing and Communications AI wearable and flexible antennas computational electromagnetics",
+      "title": "AI领域投资者担忧拖累Nscale的IPO估值前景",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-18/ai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation",
+      "snippet": "英伟达支持的Nscale谋求IPO，但投资者对AI行业的忧虑令其估值前景明显承压。",
+      "raw_snippet": "The Nvidia Corp.-backed data center developer has been seeking an IPO valuation of about $30 billion, the people said. A cohort of investors have lately urged that a valuation in the $16 billion to $19 billion range would be more likely to find favor with buyers, in light of factors including the implosion of Australian AI data center company Firmus’ IPO plan, some of the people said. [...] EXCLUSIVE\n\nAI\n\n# AI Cloud Firm Nscale Faces Investor Pushback Over IPO Valuation\n\n## Takeaways by Bloomberg AI\n\nNscale Ltd. is facing opposition to the valuation target it’s pursuing in its initial public offering, according to people familiar with the matter, after a series of market setbacks for artificial intelligence companies.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "人工智能在作业治疗中的应用：ChatGPT与作业治疗师评估干预方案对比",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41467088",
-      "snippet": "研究对比ChatGPT与作业治疗师在评估和干预中的方法差异，揭示AI应用潜力与局限，为智能辅助作业治疗提供参考。",
-      "raw_snippet": "## Conclusion\n\nThese findings underscore artificial intelligence's promising yet complex role in occupational therapy, highlighting how occupational therapists integrate multiple factors and individual client needs into their decision-making, in contrast to the algorithm-based reasoning of ChatGPT.\n\n## Keywords\n\nartificial intelligence, chatGPT, clinical reasoning, evaluation, intervention, occupational therapy [...] ## Introduction\n\nArtificial intelligence is playing an increasingly important role in supporting rehabilitation processes, offering benefits for both clients and therapists. This study aimed to explore the potential use of ChatGPT-an AI-powered online chatbot-in occupational therapy using clinical case scenarios and to compare the clinical decision-making approaches of ChatGPT and occupational therapists.\n\n## Method [...] # Artificial intelligence in occupational therapy: Comparing ChatGPT and occupational therapist approaches in assessment and intervention.\n\nYusuf Değerli, Medine Nur Özata Değerli, Sinem Kars\n\nThe British journal of occupational therapy · 2025-10-17 · 89(1):6-18 · DOI: 10.1177/03080226251368231 · PMID: 41467088 · PMCID: PMC12743896\n\nPublication type: Journal Article\n\n## Introduction",
+      "title": "AI Firm Nscale Faces Investor Pushback Over IPO Valuation (1)",
+      "link": "https://news.bloomberglaw.com/securities-law/ai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation",
+      "snippet": "The Nvidia Corp.-backed data center developer has been seeking an IPO valuation ...",
+      "raw_snippet": "The Nvidia Corp.-backed data center developer has been seeking an IPO valuation of about $30 billion, the people said. A cohort of investors have lately urged that a valuation in the $16 billion to $19 billion range would be more likely to find favor with buyers, in light of factors including the implosion of Australian AI data center company Firmus’ IPO plan, some of the people ...\n\n## Learn more about Bloomberg Law or Log In to keep reading:\n\n### See Breaking News in Context [...] Bloomberg News\n\nNscale Ltd. is facing opposition to the valuation target it’s pursuing in its initial public offering, according to people familiar with the matter, after a series of market setbacks for artificial intelligence companies. [...] Bloomberg Law\n\nSecurities\n\nEmail&body=Here%20is%20a%20story%20that%20I%20thought%20would%20interest%20you.%0D%0A%0D%0Ahttps%3A%2F%2Fnews.bloomberglaw.com%2Fsecurities-law%2Fai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation%3Futm_source%3DEmail_Share)\n\nShare To:Facebook\n\nLinkedIn\n\n\n\nOct. 18, 2026, 11:47 PM UTC\n\nBailey Lipschultz\n\nBailey Lipschultz\n\nBloomberg News",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "CGTN America on X: \"Anthropic said on Sunday it will commit 5% of its shares to a new public benefit fund, subject to stockholder approval, with the stake potentially increasing as the artificial intelligence company's valuation grows.\" / X",
+      "link": "https://x.com/cgtnamerica/status/2111884251063107861",
+      "snippet": "Anthropic said on Sunday it will commit 5% of its shares to a new public benefit...",
+      "raw_snippet": "Anthropic said on Sunday it will commit 5% of its shares to a new public benefit fund, subject to stockholder approval, with the stake potentially increasing as the artificial intelligence company's valuation grows.\n\n  6:16 PM · Oct 18, 2026·935\n\n  Views [...] Anthropic said on Sunday it will commit 5% of its shares to a new public benefit fund, subject to stockholder approval, with the stake potentially increasing as the artificial intelligence company's valuation grows.\n\n6:16 PM · Oct 18, 2026·935\n\nViews\n\n @cgtnamerica\n\n  CGTN America@cgtnamerica [...] ## Post\n\nLog inSign up\n\n## Post\n\nLog inSign up\n\n# CGTN America on X: \"Anthropic said on Sunday it will commit 5% of its shares to a new public benefit fund, subject to stockholder approval, with the stake potentially increasing as the artificial intelligence company's valuation grows.\"\n\n@cgtnamerica\n\nCGTN America@cgtnamerica",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "软银据悉考虑180亿美元收购Allied Universal，推进AI安全战略",
+      "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262222983-softbank-18-billion-acquisition-allied-universal-ai-security-tradingkey",
+      "snippet": "软银集团正就收购全球安保公司Allied Universal进行早期谈判，意在强化AI安防战略布局。",
+      "raw_snippet": "SoftBank Group is in early talks to acquire global security firm Allied Universal at a potential enterprise value near $30 billion, comprising an $18 billion equity valuation and $12 billion in public debt. The deal aims to leverage Allied Universal’s extensive service network to test AI and robotics applications in real-world commercial environments. While the potential acquisition could create automation synergies, it risks increasing SoftBank's capital liabilities and financing pressures. [...] AI-generated summary\n\nTradingKey - On October 16, US Eastern Time, Bloomberg reported that SoftBank Group is in preliminary considerations to acquire US security services company Allied Universal, with a potential equity valuation of up to approximately $18 billion.\n\nAllied Universal has an additional approximately $12 billion in publicly traded debt. If the equity value is combined with the related debt, the potential transaction's enterprise value could approach $30 billion. [...] However, a deal has not yet been reached, with the price, financing method, and debt arrangements still unconfirmed, so related synergies cannot yet be factored into earnings forecasts. In the short term, the stock price may still be impacted by the acquisition valuation, financing costs, the group's debt level, and changes in the investment value of OpenAI.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 4
     },
     {
-      "title": "AI与我们的信仰：AI素养与基督教伦理研讨会",
-      "link": "https://www.eventbrite.com/e/ai-and-our-faith-a-workshop-on-ai-literacy-and-christian-ethics-tickets-1999494030470",
-      "snippet": "该研讨会聚焦AI对信仰生活的影响，提升参与者AI素养，并就新兴技术引发的基督教伦理议题展开讨论。",
-      "raw_snippet": "with this emerging technology. This workshop will provide an opportunity to build AI literacy and practice individual and collective reflection on the ethics of artificial intelligence. [...] We are living at a time when AI technologies are dominating the headlines and becoming a greater part of our everyday lives, but we don't often get opportunities to reflect on AI as a faith issue. Weijia Cheng, a former Silicon Valley software engineer and current student at the Boston University School of Theology, will walk us through the basic idea of artificial intelligence and introduce concepts from the Christian tradition that might help us establish a responsible relationship with this [...] AI and Our Faith: A Workshop on AI Literacy and Christian Ethics\n\n# AI and Our Faith: A Workshop on AI Literacy and Christian Ethics\n\nWhat does it mean to be a faithful Christian in the age of AI? Learn more at this AI ethics workshop hosted by United Parish in Brookline!",
+      "title": "Value Options: Micron, the AI Boom, and the Hidden Opportunities in Deep Value Stocks - The Acquirer's Multiple®",
+      "link": "https://acquirersmultiple.com/2026/10/value-options-micron-the-ai-boom-and-the-hidden-opportunities-in-deep-value-stocks",
+      "snippet": "They also have the development coming in Japan that, I mean, I think it’s going ...",
+      "raw_snippet": "They also have the development coming in Japan that, I mean, I think it’s going to be like the first casino ever in Japan. I might be wrong on that, but I’m maybe the first of that scale or something like that. So yeah, that’s one where I think you look at it and it’s like, yes, okay, AI has some impact on that and the proliferation of online gambling. [...] And he’s been able to do that by investing in things that don’t change. And so there’s a lot of things out there that are like that, that really they’re not going to be impacted by AI at all. You got anything in the book that won’t be impacted by AI?\n\nMGM and VICI Properties: Finding Deep Value in Beaten-Down Stocks [...] It doesn’t matter. So it’s been a, it’s been a tougher year for anything that is small value cyclical. And really that in this market, that’s anything, that’s not the biggest 10 companies in the market that are sort of AI or AI CapEx beneficiaries, either the hyperscale as a semis or something that’s benefiting from the buildup.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "GovSignals Proposes Permissive AI Use Language for Government Acquisitions",
+      "link": "https://www.govsignals.ai/far-rfo",
+      "snippet": "GovSignals proposes a permissive, plain-language, four-part approach for AI-assi...",
+      "raw_snippet": "GovSignals proposes a permissive, plain-language, four-part approach for AI-assisted evaluation and price analysis that is intended to give contracting officers practical direction while supporting government transparency.\n\nThe recommended framework has four parts: [...] Permissive. AI tools may be used. Nothing mandates AI.\n Disclosed. If AI tools will assist evaluation, the RFP says so.\n Human-adopted. A Government evaluator independently reviews and adopts every AI-assisted finding before it is relied upon.\n Documented. The contract file identifies the tool, its scope of use, the reviewing official(s) by function or position, not by name, and any finding that was modified or rejected. [...] NEW YORK, October 18, 2026. GovSignals, Inc. today submitted public comments requesting the Federal Acquisition Regulatory Council (FAR Council) to establish a governmentwide standard for artificial intelligence and automated analytic tools when deployed by federal agencies in proposal evaluation, price analysis, and contract file documentation. GovSignals submitted a comment letter in response to the FAR Council's September 18, 2026 proposed rule revising the FAR Case 2026-003, and recommends",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "The Risks of Automated Investing: Why Human Expertise Still Beats AI in Wealth Management",
+      "link": "https://www.devere-group.com/can-ai-be-trusted-to-invest-my-money",
+      "snippet": "Nevertheless, serious efforts are being made to explore just how much the techno...",
+      "raw_snippet": "Nevertheless, serious efforts are being made to explore just how much the technology can deliver. Six exchange-traded funds now rely solely on AI to pick stocks, managing around $30 million between them. While they have shown early signs of success, they will ultimately be tested over years, rather than months. [...] ## Read more >>\n\n## Fed likely to wait out the midterms before hiking before year-end: deVere CEO\n\n## Read more >>\n\n## Government debt is now NUMBER ONE danger for your wealth: deVere CEO\n\n## Read more >>\n\n## Oil’s energy ceasefire slide is a trap as THREE supply shocks collide\n\n## Read more >>\n\n## Treasury yields could hit 6% as the global bond sell-off gathers speed\n\n## Read more >>\n\n## Anthropic’s $2 trillion IPO puts AI’s circular money machine on trial\n\n## Read more >> [...] ## Read more >>\n\n## Nvidia Stock Approaches $6 Trillion Market Cap: Here’s Why It’s Still the Best AI Bet\n\n## Read more >>\n\n## Gold Vs Bitcoin: Why Some Investors Are Rotating into Digital Assets\n\n## Read more >>\n\n## AI Bubble Fears Resurface Amid Prospective $2 Trillion Anthropic IPO\n\n## Read more >>\n\n## Your Pension Pot Looks Healthy — But Is It Enough?\n\n## Read more >>\n\n## Burnham to Scrap Pension ‘Triple Lock’\n\n## Read more >>\n\n### Quick search\n\n### Digital Solutions\n\n### Vault",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Senior Manager, Artificial Intelligence (AI) Strategy & Solutions (Court Executive 3A) in Trenton, NJ | GovernmentJobs.com",
+      "link": "https://www.governmentjobs.com/jobs/5495509-0/senior-manager-artificial-intelligence-ai-strategy-solutions-court-executiv",
+      "snippet": "Mergers, Acquisitions, Dissolutions, Affiliates.\n\nWe may transfer or disclose pe...",
+      "raw_snippet": "Mergers, Acquisitions, Dissolutions, Affiliates.\n\nWe may transfer or disclose personal data to another entity who acquires or may acquire any or all of our business units, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets, or bankruptcy. We disclose personal data to our affiliates with our Customers’ consent in order to facilitate any Service transition or implementation services.\n\nSMS Communications. [...] should contact an attorney. [...] a right to limit under the CCPA.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "TWD Dashboard | National Institute of General Medical Sciences",
+      "link": "https://nigms.nih.gov/training/Pages/TWD-Dashboard/state/project?state=WI&order=field_award_amount&sort=asc",
+      "snippet": "Per Executive Order 14434 , federal agencies are now using \"Super Intelligence\" (SI) in place of \"Artificial Intelligence\" (AI). ... Funding Opportunity (NOFO).",
+      "raw_snippet": "Per Executive Order 14434 , federal agencies are now using \"Super Intelligence\" (SI) in place of \"Artificial Intelligence\" (AI). ... Funding Opportunity (NOFO).",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Parallel - Web Infrastructure for AI Agents",
+      "link": "https://parallel.ai",
+      "snippet": "Rogo\n\n## Put the web to work across every industry\n\n Monitor portfolios, signals...",
+      "raw_snippet": "Rogo\n\n## Put the web to work across every industry\n\n Monitor portfolios, signals, and pricing\n\n  Watch the things your business runs on: portfolio companies, target accounts, competitor pricing, regulations. Get a structured alert the moment something material changes, so you only hear what matters to you.\n\n  Example query: Find the latest funding rounds for AI infrastructure startups\n Answer with fresh facts, inside your product [...] #### Responses\n\nCited, synthesized answers from the live web in seconds, built for synchronous interactions.Searching\n\n1\n\n2\n\n3\n\n4\n\nMost-cited papers on retrieval-augmented generation\n\n#### Search\n\nThe highest-accuracy web search for your AI. Fresh, fast, and affordable grounding in one call.Extracting\n\nURLs\n\n#### Extract\n\nGet full or excerpted contents from the public web, including PDFs, JS-heavy pages, and government sitesCompanies building web agents\n\nID\n\nCompany\n\nProduct releases\n\nFunding [...] Funding\n\n1\n\nparallel.ai\n\n2\n\nacme.com\n\n3\n\nglobex.com\n\n4\n\nscape.net\n\n#### FindAll\n\nBuild structured datasets with real-time enrichment. Describe what you want, get a live list.\n\nTaskMonitorResponsesFindAll\n\nSearchExtract\n\nParallel Web Index\n\nIndex by Parallel\n\nFortuneThe AtlanticPitchBookTracxnPR NewswireRocketReachZoomInfoExponential ViewThe GeneralistNot BoringSourcesFortuneThe AtlanticPitchBookTracxnPR NewswireRocketReachZoomInfoExponential ViewThe GeneralistNot BoringSources",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Real Estate Appraisals and Property Risk - Capital Markets | JLL",
+      "link": "https://www.jll.com/en-us/services/value-risk",
+      "snippet": "Client story\n\n### Community housing provider reduces valuation time and cost usi...",
+      "raw_snippet": "Client story\n\n### Community housing provider reduces valuation time and cost using artificial intelligence\n\nCommon Equity Housing Limited (CEHL) plays a vital role in helping low-income residents secure stable, affordable housing. When it needed to collate valuations for its property portfolio, CEHL found a better way to complete the long process.\n\nRead the client storyarrow\\_forward\n\nClient story\n\n### A global insurance firm powers ESG strategy with novel risk modeling [...] Our global data shows market trends in real time, AI predicts where markets are heading and our 3,800 experts transform intelligence into action plans that increase returns. Put yourself ahead of market shifts and capitalize on opportunities before the competition.\n\nExplore our tech solutions\n\nchevron\\_right\n\n## Our fields of expertise\n\nOffice\n\nchevron\\_right\n\nLiving and multifamily\n\nchevron\\_right\n\nHotels and hospitality\n\nchevron\\_right\n\nHealthcare\n\nchevron\\_right\n\nData centers [...] The real estate market is constantly evolving, presenting new risks and opportunities for investors. JLL’s real estate valuation and advisory services deliver real-time insights to help investors and lenders understand current values and future market trends, with real estate appraisal and property risk management services to optimize portfolio opportunities.\n\n## Capital markets technology\n\nValuation technology to turn real-time transaction data into your competitive advantage",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "What Is Task or Work Intelligence And Can We Decompose Every Job For AI? – JOSH BERSIN",
+      "link": "https://joshbersin.com/2026/10/what-is-task-or-work-intelligence-and-can-we-decompose-every-job-for-ai",
+      "snippet": "How “No Tax On Tips” Disrupts Frontline-First Companies and Workers\n Affordabili...",
+      "raw_snippet": "How “No Tax On Tips” Disrupts Frontline-First Companies and Workers\n Affordability Is Not Just Inflation: It’s Time For A Historic Shift In Wages.\n Multi-Agent AI For Talent Acquisition Arrives: Eightfold, Paradox, Maki, Radancy, And More\n Handshake Acquires Uplimit: AI Skilling Takes A New Direction\n Are Frontier Models Becoming A Commodity? [...] Second, we can use AI to automate and redesign these tasks with agents! Once you know what a fairly standard process is (ie. closing the books each month, provisioning a new customer, etc.) you can use our AI agent methodology to “build” an automated solution. [...] First we can use AI to find and catalog the tasks, so we may not need so many interviews. For example I asked our AI “digital twin” to explain our process for selling and provisioning a corporate membership. It read all the emails in our team, listened to meetings, and told me the “real tasks” we do.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Harvey AI合同智能：融资5.5亿美元，估值155亿美元，服务法律团队",
+      "link": "https://www.harvey.ai/platform/contract-intelligence",
+      "snippet": "Harvey以155亿美元估值融资5.5亿美元，用AI帮助法律团队高效审查与管理合同。",
+      "raw_snippet": "We Raised $550M at a $15.5B Valuation to Help Legal Teams Own Their IntelligenceLearn moreWe Raised $550M at a $15.5B Valuation to Help Legal Teams Own Their IntelligenceLearn more\n\nWe Raised $550M at a $15.5B Valuation to Help Legal Teams Own Their IntelligenceLearn more→\n\n### Overview→\n\nA unified view of how Harvey's products work together to support your entire practice.### Agents→\n\nPurpose built agents execute complex legal work end to end.### Vault→ [...] Securely store, organize, and bulk-analyze legal documents.### Knowledge→\n\nResearch complex legal, regulatory, and tax questions across domains.### Spaces→\n\nWork with legal teams across organizations in secure, shared spaces.\n\n### Command Center→\n\nAnalytics, benchmarking, and agentic insights to lead their organization’s AI transformation### Contract Intelligence→\n\nSurface insights, strengthen negotiations, and accelerate reviews.### Horizon Scanning→ [...] Harvey auto-reviewed 10 contracts for you since your last visit.\n\n0\n\nReady to review\n\n0\n\nAssigned to you\n\n0\n\nFolders connected\n\nMy reviews (17)All (6)\n\nSearchManage folders\n\nReviewed doc\n\nStatus\n\nHarvey summary\n\nLast updated\n\nAssignee\n\nStarlight Holdings MSA.docx\n\nStarlight Holdings\n\nIn progress\n\nDrafting edits…\n\nJust now\n\nHarvey\n\nStarlight Holdings MSA.docx\n\nStarlight Holdings\n\nReady for review\n\n641\n\nJust now\n\nLLauren Oh\n\nQuantum Solutions Contract.docx\n\nAcme Corporation\n\nIn progress",
       "is_chinese": false,
       "source_type": "funding",
       "index": 5
     },
     {
-      "title": "2026年MIT AI会议征稿启事与截止日期",
-      "link": "https://callforpaper.org/cfp/call-for-papers-mit-ai-conference-2026",
-      "snippet": "2026 MIT AI会议将于10月在加州山景城计算机历史博物馆举行，现已开放早鸟注册，并公布论文投稿截止日期。",
-      "raw_snippet": "​Early bird tickets now on sale! We are excited to share our first speakers:   \n   \n​Julie Yoo, General Partner - a16z   \n   \n​Aparna Chennapragada, Chief Product Officer -Microsoft   \n   \n​Feyza Haskaraman, Partner - Felicis   \n   \n​Jessica McKellar, CEO and Founder - Pilot   \n   \n​Bret Taylor, Co-Founder - Sierra / Chairman - OpenAI   \n   \n​Brad Porter, Founder and CEO - Cobot   \n   \n​Daron Acemoglu, Nobel Laureate / MIT Professor   \n   \n​Hugo Barra, Co-Founder - Dreamer [...] ​and more to be announced!   \n   \n​Since 2017, the MITAI Conference has brought together leaders and influencers in the AI community who are at the forefront of solving the world’s most challenging problems through creative applications of technology.   \n   \n​What Makes MITAI Unique?   \n​High-signal AI builders: founders, researchers, operators, and investors​   \n   \n​MIT-style deep dives: across healthcare, fintech, robotics, government, cybersecurity, and more [...] Conference   ACTIVE   Updated: 20th July, 2026\n\nMIT AI Conference 2026\n\n# AI: The Age of Agency\n\nTaking place in Computer History Museum Mountain View, C, MIT AI Conference 2026 was concluded on October 17, 2026. Researchers will present papers on a wide range of subjects, including Artificial Intelligence. The next key deadline is the submission deadline on October 17, 2026.\n\nOctober 17, 2026   In Person   🇺🇸 United States\n\nVisit \n\nApple   Google   Outlook   Windows",
+      "title": "SCIENTIST II - T236408",
+      "link": "https://www.higheredjobs.com/state/details.cfm?JobCode=179591597&Title=SCIENTIST+II+-+T236408",
+      "snippet": "The Scientist II is expected to contribute meaningfully to obtaining AI drug discovery research funding as a Co-Investigator on grant proposals, to perform",
+      "raw_snippet": "The Scientist II is expected to contribute meaningfully to obtaining AI drug discovery research funding as a Co-Investigator on grant proposals, to perform",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Comment on: Quality assessment of artificial intelligence responses in erectile dysfunction: a comparative study based on EAU recommendations | International Journal of Impotence Research",
+      "link": "https://www.nature.com/articles/s41443-026-01375-9",
+      "snippet": "Çeker et al. provide a timely and methodologically structured comparison of five...",
+      "raw_snippet": "Çeker et al. provide a timely and methodologically structured comparison of five artificial intelligence (AI) systems, a guideline-specific chatbot and four general-purpose large language models (LLMs), against strongly recommended statements from the European Association of Urology (EAU) erectile dysfunction (ED) guidelines [1, 2, Minhas S, Boeri L, Capogrosso P, Corona G, Dinkelman-Smit, et al. EAU Guidelines on Sexual and Reproductive Health. Arnhem: European Association of Urology; [...] Malak A, Şahin MF. How useful are current chatbots regarding urology patient information? Comparison of the ten most popular chatbots’ responses about female urinary incontinence. J Med Syst. 2024;48:102.\n\nArticle \nPubMed \nGoogle Scholar\n\nAlmada M, Petit N. The EU AI Act: between the rock of product safety and the hard place of fundamental rights. Common Mark Law Rev. 2025;62:85–120.\n\nArticle \nGoogle Scholar [...] of Urology; 2026.\")].",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "AI in Residential Lending: Converting Conversations into Revenue | MBA",
+      "link": "https://www.mba.org/conferences-and-education/event/2027/02/08/default-calendar/ai-in-residential-lending-converting-conversations-into-revenue-83484",
+      "snippet": "Each session will feature industry experts and innovators discussing how organiz...",
+      "raw_snippet": "Each session will feature industry experts and innovators discussing how organizations can responsibly adopt AI to improve efficiency, enhance borrower experience, reduce risk, strengthen compliance, and create competitive advantage. Select sessions may also include live product demonstrations and technology showcases that highlight practical applications and emerging solutions currently being deployed across the industry. [...] MBA Education and MISMO are pleased to present a 12-part webinar series that explores and explains how artificial intelligence is reshaping every stage of the residential mortgage lifecycle. Each session will provide practical insights into emerging AI capabilities, implementation strategies, operational considerations, and real-world use cases impacting the industry now. [...] MISMO Members receive a discounted price of $0. MISMO member pricing will apply when you click above and sign in.\n\nObjectives:\n\nTarget Audience:\n\nDate/Time:\n\nSeries Schedule:\n\nPlease remember to register for each session you plan to attend.\n\nOrigination (Lenders & Brokers)\n\nServicing & Retention\n\nStrategy & Future State\n\nSpeaker(s):\n\nPresented by:\n\n### Similar Events\n\nMortgage Bankers Association\n\n(202) 557-2700\n\n(800) 793-6222\n\n### MBA on social media:\n\n© 2026 Mortgage Bankers Association",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "AI驱动招聘：创始人借助Claude等工具节省100万卢比并接触11位候选人",
+      "link": "https://www.indiatoday.in/jobs/in-focus/story/ai-powered-hiring-founder-saves-rs-1-crore-and-meets-11-candidates-in-a-week-educ-3020746-2026-10-19",
+      "snippet": "创始人借助Claude、Apollo和Instinct等AI工具招聘，据称节省100万卢比并接触11位候选人。",
+      "raw_snippet": "Using Claude, Apollo and Instinct, the founder reportedly saved Rs 1 crore in recruitment commissions by identifying senior leaders and arranging meetings.",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "KiranaAI——面向印度非正规经济的图智能",
-      "link": "https://devpost.com/software/kiranaai-graph-ai-agent-for-india-s-12m-kirana-stores",
-      "snippet": "该项目以图智能技术降低印度非正规经济中的技术门槛，助力本地Kirana小店经济发展与数字化转型。",
-      "raw_snippet": "The Moonshot question: what if you could remove the technical intermediary entirely? Not simplify the interface — eliminate the role. An owner asks in Tenglish, the system reasons about which database holds the answer, and responds in the same language. No SQL. No Cypher. No dashboard. Just a conversation.\n\nThat is the zero-to-one shift: from data as something you hire someone to interpret to data as something you simply talk to.\n\n## What it does [...] Devpost\nDevpost\nDevpost logo\n\nDevpost\n\nParticipate in our public hackathons\n\nDevpost for Teams\n\nDevpost for Teams\n\nAccess your company's private hackathons\n\nDevpost\n\nDevpost\n\nGrow your developer ecosystem and promote your platform\n\nDevpost for Teams logo\n\nDevpost for Teams\n\nDrive innovation, collaboration, and retention within your organization\n\nBy use case\n\nBlog\n\nInsights into hackathon planning and participation\n\nCustomer stories\n\nInspiration from peers and other industry leaders [...] KiranaAI — Graph Intelligence for India's Informal Economy – screenshot 6\n\nQ2 \"Udhar lo unna customers recently em konnaru?\"\n\nKiranaAI — Graph Intelligence for India's Informal Economy – screenshot 7\n\nQ2 \"Udhar lo unna customers recently em konnaru?\"\n\nKiranaAI — Graph Intelligence for India's Informal Economy – screenshot 8\n\nQ2 \"Udhar lo unna customers recently em konnaru?\"\n\n## Inspiration",
+      "title": "Parallel Partners Product Owner of AI Internal Systems, Artificial Intelligence (AI) Required, Work From Home | SmartRecruiters",
+      "link": "https://jobs.smartrecruiters.com/ParallelPartners1/744000154977749-product-owner-of-ai-internal-systems-artificial-intelligence-ai-required-work-from-home",
+      "snippet": "- Experience with APIs, databases, cloud infrastructure, and Artificial Intellig...",
+      "raw_snippet": "- Experience with APIs, databases, cloud infrastructure, and Artificial Intelligence (AI) integrations is a plus.\n\n- Strong ownership mindset and ability to solve ambiguous problems.\n\n- Experience building and shipping production software, Artificial Intelligence (AI) applications, or automation systems.\n\n- Strong technical foundation and problem-solving ability.\n\n- Comfortable working independently in a fast-paced startup environment. [...] Keywords:  San Francisco CA Jobs, AI, Artificial Intelligence, APIs, Artificial Intelligence AI Integrations, Automation Systems, Backend, Cloud Infrastructure, Databases, Full Stack, Platform Development, Product Owner of AI Internal Systems, Programming, Work From Home, Remote, California Recruiters, IT Jobs, California Recruiting\n\nLooking to hire a Product Owner of AI Internal Systems in San Francisco, CA or in other cities?  Our IT recruiting agencies and staffing companies can help. [...] We help companies that are looking to hire Product Owners of AI Internal Systems for jobs in San Francisco, California and in other cities too.  Please contact our IT recruiting agencies and IT staffing companies today!\n\n## Additional Information\n\nAll your information will be kept confidential according to EEO guidelines.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "打造可扩展至60万个网点的产品：Trey最看好的AI押注是实时个性化",
+      "link": "https://productsthatcount.com/the-gap-between-building-a-demo-and-building-something-that-scales-to-600000-locations-mood-media-cpo",
+      "snippet": "Trey最看好的AI投资方向是实时个性化，相关产品有望扩展至60万个线下网点。",
+      "raw_snippet": "7. The AI bet Trey is most excited about is real-time personalization at the in-store level: experiences that use all available data about a retailer and their customers to create something tailored in the moment. He started investing in this direction three to four years ago, beginning with 11 Labs for voice synthesis. At the time the output was detectable as AI and not great, but he wanted to invest early because a significant portion of Mood’s business involves custom audio messaging for [...] audio messaging for clients, a process that currently takes three to four days and involves script writing, client approval, voice talent, and multiple rounds of back and forth. AI compresses that to near-instant. [...] 9. Large company AI adoption is not the same as startup AI adoption, and he makes this distinction explicitly. At Mood’s scale, security is a real constraint. You cannot pick a tool, launch it, and hope for the best. Every AI initiative has to go through compliance and security review, which slows some things down while other things move fast. He spends most of his time navigating that tension: where to get quick wins, and where to invest long for the future.",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "Ship AI AZ GTM黑客马拉松",
-      "link": "https://www.workuity.com/events/arizona-ai-hackathon-2026-10-17-biltmore",
-      "snippet": "该黑客马拉松在Workuity Biltmore举行，参赛团队将于10月17日围绕AI产品的GTM策略进行全天开发与比拼。",
-      "raw_snippet": "Saturday, October 17, 9 AM to 5 PM: Meet your team, join on-site sessions, and build and launch your site.\n\nSunday, October 18, 9 AM to 2 PM: Finish and submit by noon. Recorded pitches begin at 12:15 PM, with awards at 1:30 PM. All times are Arizona time.\n\nShip AI is offering a $1,000 prize pool, certificates for everyone who submits, recorded pitches, and opportunities to meet employers and business professionals attending. [...] CHANDLER 480-745-2515 | 24TH & CAMELBACK 602-761-9675\n\nWorkuity\n\nSelect Page\n\nShip AI AZ GTM Hackathon — Special Event at Workuity Biltmore on 2026-10-17\n\nSpecial Event · Workuity Biltmore Upcoming Session\n\n# Ship AI AZ GTM Hackathon\n\nBuild and launch a marketing website with Ship AI. New and existing projects welcome. October 17, 9 AM to 5 PM, and October 18, 9 AM to 2 PM, at Workuity Biltmore. Free to attend.\n\nto\n\nLocation\n\nWorkuity Biltmore\n\nHosted By\n\nDan Kite\n\nAbout this session [...] Contact Us →\n\n#### Already a member?\n\nSign In\n\nLooking for Biltmore?  \nBook a Biltmore tour →\n\nSCHEDULE A VISIT\n\nFill out the form and we'll confirm your tour within one business day.\n\nLoading form...\n\n⚡\n\nPhoenix's Smartest Square Footage — AI-powered workspaces start at $200/mo   Premium offices, AI training & locally owned hospitality included. Learn about the Center For AI Excellence →\n\nSchedule a Visit\n\nSchedule a Visit\n\nCONTACT US",
+      "title": "Artificial Intelligence Director – Center for Career and Professional Development | Mercer University",
+      "link": "https://career.mercer.edu/jobs/balanx-bio-artificial-intelligence-director",
+      "snippet": "Prior startup, founder, open-source, publication, or patent experience is a stro...",
+      "raw_snippet": "Prior startup, founder, open-source, publication, or patent experience is a strong plus. [...] Role Overview\n\nBalanX Bio is seeking an Artificial Intelligence Director to lead the company’s AI strategy, technical architecture, product execution, and AI team development. This is a senior leadership role with a clear opportunity to receive equity and potentially grow into a cofounder-level position. [...] Prior experience as an AI Director, Head of AI, AI Lead, CTO, technical founder, senior AI engineer, principal ML engineer, or similar role.\n Experience with Python, PyTorch, TensorFlow, Hugging Face, LangChain, LlamaIndex, vector databases, AWS, GCP, Azure, Docker, Kubernetes, APIs, or backend systems.\n Experience with affective computing, emotional AI, digital companions, wellness technology, healthtech, bio-AI, or human-centered AI.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "AI Product Manager: Role, Skills, Salary and Career Path",
+      "link": "https://skillifysolutions.com/blogs/artificial-intelligence/ai-product-manager",
+      "snippet": "For generative AI products, this may include checking relevance, factual accurac...",
+      "raw_snippet": "For generative AI products, this may include checking relevance, factual accuracy, consistency, and hallucinations. They also use user feedback and testing results to identify problems and guide improvements before and after launch. The Data Science Bootcamp with AI covers Python, machine learning, and AI through practical projects.\n\n### Manage Responsible AI, Safety, and Compliance [...] If you are exploring this career, this blog breaks down the role, essential skills, salary expectations, certification options, and steps to become an AI Product Manager.\n\n## What is an AI Product Manager?\n\nAn AI Product Manager (AI PM) oversees the development, launch, and continuous improvement of products powered by artificial intelligence. The role combines traditional product management with an understanding of AI models, data quality, model evaluation, and responsible AI practices. [...] They also monitor AI performance after launching and address issues as models and users need to change. The Leading SAFe (6.0) to strengthen their understanding of leadership and AI-enabled practices in enterprise environments.\n\n> Turn your product expertise into AI-driven impact with the Product Management with AI Bootcamp and learn to manage smarter products.\n\n## AI Product Manager Skills",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "AI业务拓展实用指南：勿忽视内部利益相关者",
+      "link": "https://www.tommasomariaricci.com/blog/ai-business-development-guide",
+      "snippet": "业务拓展中忽视内部利益相关者易致交易搁浅，AI可协助识别并推动关键决策者支持。",
+      "raw_snippet": "Forgetting internal stakeholders. Many deals stall inside your own company, in legal, finance or product. AI can prepare internal briefs and decision memos as well as external ones, and this is often where cycle time drops the most. [...] A useful test before launching any new AI workflow in BD: if the person on the other side knew exactly how this message or meeting was prepared, would they feel respected? If the answer is yes, the workflow is probably sound. If the answer is no, redesign it before it reaches anyone outside the company.\n\n## Self-assessment: is your BD team ready for AI?\n\nAnswer yes or no to each question. Count your yes answers.\n\nStrategy [...] I write this as a founder who has built companies and opened markets on both sides of the Atlantic, from Rome to Miami. The pattern I see repeat is simple. Teams that get value from AI in business development do not automate the relationship. They automate everything around it, so the people can spend more time in the room.\n\n## What AI business development actually means",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
     },
     {
-      "title": "CD Connected：AI与数字公平的社区对话",
-      "link": "https://www.eventbrite.com/e/cd-connected-a-community-conversation-on-ai-digital-equity-tickets-1999057661278",
-      "snippet": "社区对话聚焦人工智能与数字公平议题，由CDCPDA首席执行官Shaudé Moore等共同主持，促进公众参与讨论。",
-      "raw_snippet": "Co-facilitated byCDCPDA CEO Shaudé Moore andDeiMarlon “D” Scisney, President & Founder of The Data Guys LLC, the conversation will explore digital access, education, economic opportunity, responsible AI use, and how we can ensure historically underserved communities are equipped to participate in and benefit from our increasingly digital future. [...] ### Browse more events with different dates, prices, and formats to find your next great experience.\n\n## Still looking for the right event?\n\n### Explore all events in Seattle and filter by date, category, and more to find the perfect fit.\n\n### Use Eventbrite\n\n### Plan Events\n\n### Find Events\n\n### Connect with Us\n\n© 2026 Eventbrite [...] CD Connected: A Community Conversation on AI & Digital Equity\n\n# CD Connected: A Community Conversation on AI & Digital Equity\n\nJoin us in person for CD Connected to chat about AI, digital equity, and how tech shapes our community!\n\n## Join Us for CD Connected!",
+      "title": "CGTN America",
+      "link": "https://x.com/cgtnamerica/status/2111882218087833602",
+      "snippet": "Anthropic co-founder Jack Clark warned that artificial intelligence is advancing...",
+      "raw_snippet": "Anthropic co-founder Jack Clark warned that artificial intelligence is advancing much faster than expected and could bring far greater changes to the",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Anthropic联合创始人预测AI将推动美国GDP达到44万亿美元",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-co-founder-predicts-ai-will-bring-us-gdp-to-44-trillion",
+      "snippet": "PYMNTS采访Anthropic联合创始人，其预测AI将推动美国GDP增长至44万亿美元。",
+      "raw_snippet": "In other AI news, PYMNTS spoke last week with Ashley Hillman, vice president of product at UPS Capital, about the company’s efforts to use AI to prevent delivery failures. [...] Accounts Payable Holds the Key to Smarter Working Capital Decisions\n\nPayroc Says AI Makes Building Payments Software Easier, but Running It Is Another Story\n\nBNPL Providers Look Beyond Grocery for More Wallet Share\n\nNearly 9 in 10 Card Issuers Turn to AI to Stop Fraud Without Blocking Sales\n\n### Subscribe\n\nGet PYMNTS Today, AI, B2B and more.\n\nStrategic B2B Partnerships\n\n### Partner With PYMNTS\n\nOwn the conversation. Drive demand.\n\nStart a Conversation → [...] ### Trending News\n\nLuxury Shoppers Put Their Money Where Their Feet Are\n\nNew York Fed Finds Surging Costs Turn Executive Outlook Negative\n\nAcorns Acquires Frich to Scale Financial Education\n\n### The Big Story\n\nLuxury Shoppers Put Their Money Where Their Feet Are\n\n### Featured News\n\nAgentic Payments Are About to Break the Meaning of an Authorized Transaction\n\nUPS Capital Uses AI to Stop Holiday Delivery Disasters\n\nScams Capture 22.4% of Fraud Dollars as Banks Adjust Defenses",
       "is_chinese": false,
       "source_type": "people",
       "index": 9
+    },
+    {
+      "title": "[Hiring] AI Infrastructure / Product Engineer @Clera",
+      "link": "https://remotive.com/remote/jobs/artificial-intelligence/ai-infrastructure-product-engineer-6293982",
+      "snippet": "As an AI Infrastructure / Product Engineer, you will work at the intersection of...",
+      "raw_snippet": "As an AI Infrastructure / Product Engineer, you will work at the intersection of AI research and product development at a healthtech company building AI",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Director of Product, AI Growth @ 1Password",
+      "link": "https://jobs.ashbyhq.com/1password/8151254c-b7d1-4653-87b1-7afeba176898",
+      "snippet": "In this role, you own driving growth for our AI opportunities by identifying whi...",
+      "raw_snippet": "In this role, you own driving growth for our AI opportunities by identifying which customers we target, which outcomes we win on, and proving it with design",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "打造以AI速度演进的技术人才队伍：Andela Carrol Chang访谈",
+      "link": "https://emerj.com/podcast-episodes/designing-a-technical-workforce-that-adapts-at-the-speed-of-ai-with-carrol-chang-of-andela",
+      "snippet": "职位名称已难以反映技术岗位实质，企业需构建能随AI快速迭代的技术人才体系。",
+      "raw_snippet": "A job title no longer tells you what a technical role actually requires, now that AI has changed how the work gets done.\n\nIn this episode, Carrol Chang, CEO of Andela, unpacks how AI is reshaping technical roles, and why hiring and assessment need to shift from job titles to skills.\n\nThe conversation covers how leaders can assess for judgment and problem-solving rather than just technical output, and how to map a workforce for reskilling as roles continue to change. [...] This episode is sponsored by Andela.\n\nTo learn the exact strategies we use to help leading AI brands and startups connect with their ideal enterprise AI buyers, visit: emerj.com/AD1\n\n# This Content is Exclusive to Emerj Plus Members\n\nYou’ve reached a category page only available to Emerj Plus Members.\n\nMembers receive full access to Emerj’s library of interviews, articles, and use-case breakdowns, and many other benefits, including:\n\n#### In-Depth Analysis [...] Consistent coverage of emerging AI capabilities across sectors.\n\n#### Exclusive AI Capabilities Matrix\n\nAn explorable, visual map of AI applications across sectors.\n\n#### Exclusive AI White Paper Library\n\nEvery Emerj online AI resource downloadable in one-click\n\n#### Best Practices and executive guides\n\nGenerate AI ROI with frameworks and guides to AI application\n\nView membership options\n\nGet AI updates relevant for your needs - complete the brief form below:\n\n\"\\\" indicates required fields",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    },
+    {
+      "title": "Applied AI Engineer, Startups (Mandarin-speaking) at OpenAI | Remote Source",
+      "link": "https://www.remotesource.com/jobs/XOL-hWaXWWV5mKi0lyVrs-applied-ai-engineer-startups-mandarin-speaking-at-openai",
+      "snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that gener...",
+      "raw_snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum [...] Have ability to speak Mandarin is a requirement as you will be working with Mandarin-speaking customers and/or vendors in the role.\n Have 5+ years of experience as a software engineer, ML engineer or equivalent, ideally in a startup environment; experience as a founder or founding engineer is highly valued.\n Have passion for startups and a belief in their potential to become future large enterprises.\n Are proficient in Python, JavaScript, and a strong grasp of AI/LLM best practices. [...] We are seeking a technically proficient, business-minded Applied AI Engineer to help push the frontier of advanced AI with our strategic startup customers. You'll work with some of the most exciting AI startups in the world, guiding them through ideation, development, delivery, and scaling to accelerate and maximize the value of what they build on our platform. You will have the opportunity to work on the most novel and creative use cases being built on our API, serving as a critical partner in",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Product Delivery Manager - Machine Learning and AI ...",
+      "link": "https://www.careersingovernment.com/job/3514272/product-delivery-manager-machine-learning-and-ai-machine-learning-operations-intelligence",
+      "snippet": "Come join the Machine Learning & Intelligent Operations team who develops and su...",
+      "raw_snippet": "Come join the Machine Learning & Intelligent Operations team who develops and sustains innovative solutions for Consumer & Community Banking (CCB) Operations,",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Founding Product Engineer at Clera in USA",
+      "link": "https://www.codingjobboard.com/job/founding-product-engineer-at-clera-usa/26079",
+      "snippet": "Build the AI agent's decision-making system, including tool-calling loops, memor...",
+      "raw_snippet": "Build the AI agent's decision-making system, including tool-calling loops, memory, context assembly, prompt design, and model routing.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Director, Responsible AI | Schwab Jobs",
+      "link": "https://www.schwabjobs.com/job/san-francisco/director-responsible-ai/33727/101745192336",
+      "snippet": "Schwab’s AI Strategy & Transformation team, known as AI.x, is the central hub fo...",
+      "raw_snippet": "Schwab’s AI Strategy & Transformation team, known as AI.x, is the central hub for Artificial Intelligence at Schwab. We are an integrated product, engineering, research, risk, and enablement team focused on advancing AI responsibly across the enterprise. We help shape the enterprise vision for AI, invest in the most promising opportunities, accelerate delivery across the company, and build the core platform that powers AI at scale. [...] Preferred Qualifications [...] Experience translating applied AI, Responsible AI, AI safety, human-centered AI, sociotechnical systems, or model evaluation research into practical standards, controls, guidance, or product development practices.\n Proven ability to influence senior leaders and build alignment across technology, product, legal, risk, compliance, privacy, cybersecurity, internal audit, and research teams.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Generative AI Engineer (Product Intelligence) - Tesco ...",
+      "link": "https://justjoin.it/job-offer/tesco-technology-generative-ai-engineer-product-intelligence--krakow-ai",
+      "snippet": "About the role. The Product Intelligence Platform is a generative AI-driven syst...",
+      "raw_snippet": "About the role. The Product Intelligence Platform is a generative AI-driven system that transforms how Tesco handles product data at scale.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "ML Engineer | GE Vernova",
+      "link": "https://careers.gevernova.com/ml-engineer/job/R5055828",
+      "snippet": "# Job Description\n\nML Software Engineer in AI/ML team will be responsible for de...",
+      "raw_snippet": "# Job Description\n\nML Software Engineer in AI/ML team will be responsible for designing, developing, and maintaining software solutions that leverage artificial intelligence and machine learning to improve GEV commercial products and internal processes. ML Software Engineer will work closely with data scientists, product managers, and other stakeholders to deliver high-quality, scalable, and efficient software solutions\n\n  \n\nResponsibilities [...] Provide technical solutions in technology and design. Collaborate with data scientists to integrate AI/ML models into software solutions\n Work closely with cross-functional teams to understand business requirements and translate them into technical solutions\n Design and architect scalable and efficient software systems. Ensure the scalability, performance, and security of software applications\n Write clean, efficient, and well-documented code [...] Stay up to date with the latest trends and technologies in AI/ML and software engineering\n Contribute to the development of internal tools and processes to improve operational efficiency\n Support Senior & Principal Engineers to safeguard design qualities.\n Maintain an active role in product introduction, cost improvements, schedule adherence and problem resolution to meet business needs.",
+      "is_chinese": false,
+      "source_type": "people"
     }
   ]
 }
