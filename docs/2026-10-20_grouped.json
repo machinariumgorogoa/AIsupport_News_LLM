@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-20",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI 末日还是 Pre-IPO 的公关噱头？",
+          "link": "https://www.inc.com/al-sefati/ai-doom-or-pre-ipo-pr-stunt/91421157",
+          "snippet": "在准备应对生存危机前，先冷静看待 AI 风险炒作。",
+          "index": 1
+        },
+        {
+          "title": "律师事务所会成为下一家大型 AI 科技公司吗？",
+          "link": "https://modern-counsel.com/2026/why-freshfields-is-considering-a-billion-dollar-ai-spin-off",
+          "snippet": "随着专业法律 AI 技术成熟，律所正探索向 AI 平台转型。",
+          "index": 2
+        },
+        {
+          "title": "零售另类投资估值基准调研",
+          "link": "https://www.ici.org/white-paper/retail-alternatives-valuation-benchmarking-survey",
+          "snippet": "尽管监管不确定性与数据问题仍存，另类资产估值基准持续演进。",
+          "index": 3
+        },
+        {
+          "title": "Thinking Machines Lab IPO 时间表与融资详情 - Forge",
+          "link": "https://forgeglobal.com/thinking-machines-lab_ipo",
+          "snippet": "Forge 发布 Thinking Machines Lab IPO 日程，涉及 DataRobot、SambaNova Systems 等 AI 企业融资动态。",
+          "index": 4
+        },
+        {
+          "title": "这是 AI 股市繁荣终结的开始吗？",
+          "link": "https://www.theguardian.com/business/2026/oct/20/ai-stock-market-boom-beginning-of-the-end-imf-wallstreet-nasdaq",
+          "snippet": "AI 叙事的快速金融化加剧股价波动，投资者需警惕估值过热风险。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "《研究行为中的人工智能与社会技术》（Loreta Tauginien 著，平装）",
+          "link": "https://www.indigo.ca/products/artificial-intelligence-and-social-technologies-in-research-conduct",
+          "snippet": "本书全面探讨 AI 与社会技术如何影响科研行为与伦理规范。",
+          "index": 6
+        },
+        {
+          "title": "利用人工智能构建韧性电信运营商：基于 CTE 的自主网络与业务运营方法",
+          "link": "https://ijise.ba/article/30",
+          "snippet": "AI 正重塑电信业竞争优势，CTE 方法助力网络与业务自治运营。",
+          "index": 7
+        },
+        {
+          "title": "如何自信且安全地使用人工智能（活动门票），10 月 20 日周二 10:00–12:00",
+          "link": "https://www.eventbrite.co.uk/e/how-to-use-artificial-intelligence-confidently-and-safely-tickets-2000163599168?aff=ebdssbdestsearch",
+          "snippet": "Eventbrite 上该 AI 安全应用研讨会门票已售罄，聚焦安全实践。",
+          "index": 8
+        },
+        {
+          "title": "人工智能时代的开放许可与知识共享——EU Agenda",
+          "link": "https://euagenda.eu/events/2026/10/20/open-licensing-and-the-knowledge-commons-in-the-age-of-artificial-intelligence-2026-10",
+          "snippet": "2026 年 11 月 25 日网络研讨会，探讨 AI 时代开放许可与知识共享政策。",
+          "index": 9
+        },
+        {
+          "title": "普罗维登斯波特兰牙科人工智能活动",
+          "link": "https://dopdx.com/events/2026/10/20/artificial-intelligence-in-dentistry-tickets",
+          "snippet": "聚焦 AI 在牙科诊疗中的应用，由 Providence 主办的相关活动页面信息。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

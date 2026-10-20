@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-20",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "AI 末日还是 Pre-IPO 的公关噱头？",
+      "link": "https://www.inc.com/al-sefati/ai-doom-or-pre-ipo-pr-stunt/91421157",
+      "snippet": "在准备应对生存危机前，先冷静看待 AI 风险炒作。",
+      "raw_snippet": "Before you start preparing for an existential crisis, take a close look at the financial calendar.\n\nAI companies like OpenAI and Anthropic are actively preparing for public offerings and sitting on multi-billion-dollar private valuations, while facing immense pressure to justify those figures to Wall Street.\n\nPreparing for a possible IPO means keeping AI at the center of the global news cycle. And as the old saying goes, any PR is good PR.\n\nInc Logo [...] AI is not an evil villain wanting to intentionally harm us. At its core, AI is a hyper-efficient problem solver. When assigned an objective, it calculates a path to complete it. Without proper constraints and oversight, it might use flawed logic to reach a solution. This is an issue with execution.\n\nThe real risk: Operational missteps [...] 3. Human-in-the-loop oversight: Define accountability frameworks so critical strategic, legal, or financial decisions always require human verification.\n\n4. Continuous auditability: Track AI tool inventory, vendor security posture, and ongoing output reliability to maintain full compliance readiness.\n\nThe headlines may be PR noise, but risk management is an immediate priority. Business leaders who build structured governance today will scale safely tomorrow.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "律师事务所会成为下一家大型 AI 科技公司吗？",
+      "link": "https://modern-counsel.com/2026/why-freshfields-is-considering-a-billion-dollar-ai-spin-off",
+      "snippet": "随着专业法律 AI 技术成熟，律所正探索向 AI 平台转型。",
+      "raw_snippet": "The financial appeal of legal AI has grown as specialist technology companies have attracted major investment.\n\nIn September 2026, legal AI company Harvey raised $550 million in a funding round that valued the business at $15.5 billion. Rival Legora reached a valuation of $5.6 billion in April following another investment round.\n\nThese valuations help explain the interest at Freshfields. [...] The proposed spin-off of Freshfields Lab could attract outside investors and eventually lead to an initial public offering (IPO). Partners have discussed the possibility of creating a business worth billions of dollars, according to internal emails first reported by the Financial Times.\n\nThe discussions involve Freshfields global managing partner Alan Mason and Ethan Klingsberg, co-head of the firm’s US corporate and mergers and acquisitions practice. [...] Software businesses require continuing investment in engineering, cybersecurity, sales and customer support. They must also keep their products up to date as underlying AI models improve and customer needs change.\n\nThere is no guarantee that a technology business developed inside a law firm would achieve the same growth or valuation as a specialist software company.\n\nThe wider industry is still working out how to measure the financial returns from AI adoption.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "零售另类投资估值基准调研",
+      "link": "https://www.ici.org/white-paper/retail-alternatives-valuation-benchmarking-survey",
+      "snippet": "尽管监管不确定性与数据问题仍存，另类资产估值基准持续演进。",
+      "raw_snippet": "Despite ongoing concerns around regulatory uncertainty, data quality, and integration with legacy systems, respondents generally expect AI investment to increase over the next 12 to 24 months. Among the 13 respondents who provided projected AI investment allocations, 84% indicated plans to dedicate at least a portion of their technology budget to AI-related valuation initiatives, signaling a cautious but growing commitment to leveraging AI in support of investment management and valuation [...] AI Incorporation and Uses Have you incorporated AI into the valuation process? How is your firm using technology and AI in the investment and valuation process? [...] AI-Enabled Valuation Processes Firms are exploring opportunities to leverage AI across research, document review, and valuation support activities.\nRETAIL ALTERNATIVES VALUATION BENCHMARKING SURVEY 34 Technology-Enabled Scale Automation, data management, and AI may help firms scale research, document review, monitoring, and valuation support activities, subject to appropriate controls and governance.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "Thinking Machines Lab IPO 时间表与融资详情 - Forge",
+      "link": "https://forgeglobal.com/thinking-machines-lab_ipo",
+      "snippet": "Forge 发布 Thinking Machines Lab IPO 日程，涉及 DataRobot、SambaNova Systems 等 AI 企业融资动态。",
+      "raw_snippet": "DataRobot\nSambaNova Systems\nSandboxAQ\nStoke Space\nTensordyne\n\n### Artificial Intelligence (AI) [...] The news articles displayed on this page may be curated using artificial intelligence (AI) technology, which selects relevant content from a list of trusted web sources. While we strive for accuracy and reliability, the inclusion of an article does not imply endorsement or verification of its content. This communication is for informational purposes only. Investors should conduct their own research and consult a financial professional before making investment decisions. [...] | Trade Metrics | | | | | Last Funding Round | | | |\n ---  ---  ---  --- \n| Company | | | Forge Price | Last Matched | Round | Post-Money Valuation 3 | Price Per Share | Amount Raised |\n| OpenAI | OpenAI | $954.70 +$239.33 (33.46%) | $ xx.xx | Series C | $852B | $687.69 | $122B | |\n| Anthropic | Anthropic | Not available | $ xx.xx | Series H-1 | $965B | $589.01 | $41.29B | |\n| Cohesity | Cohesity | $15.67 | $ xx.xx | Series H-1 | $4.69B | $15.66 | $27.5M | |",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "这是 AI 股市繁荣终结的开始吗？",
+      "link": "https://www.theguardian.com/business/2026/oct/20/ai-stock-market-boom-beginning-of-the-end-imf-wallstreet-nasdaq",
+      "snippet": "AI 叙事的快速金融化加剧股价波动，投资者需警惕估值过热风险。",
+      "raw_snippet": "The fast-growing financialisation of the AI story helps explain why the IMF last week put the bursting of the AI investment bubble at the top of a trio of risks",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "《研究行为中的人工智能与社会技术》（Loreta Tauginien 著，平装）",
+      "link": "https://www.indigo.ca/products/artificial-intelligence-and-social-technologies-in-research-conduct",
+      "snippet": "本书全面探讨 AI 与社会技术如何影响科研行为与伦理规范。",
+      "raw_snippet": "This book provides a comprehensive exploration of how artificial intelligence (AI) is reshaping responsible conduct of research and research governance, while calling for proactive, interdisciplinary frameworks to ensure its responsible and equitable use. It examines how AI, including digital communication technologies, is transforming the research landscape across disciplines, ranging from management and biomedical sciences to education and citizen science. It unfolds both the opportunities [...] Skip to content \n\nOrder online, pick up in store. Ready in 3 hours or less.\n\nEnjoy free shipping on orders $49+\\.\n\nSpend $50 or More, Get a Faux Fur Throw for $34.99 (Reg. $69.99)\n\nYou search, we curate. Explore what Indigo customers are searching for and shopping now. 🔍\n\nEvents  Gift Cards  plum Rewards  Order Status\n\nSign InEventsGift Cardsplum RewardsOrder Status\n\nIndigo\n\nSign In   Lists   Bag\n\n## Item added to your cart\n\nView cart\n\nOrder online, pick up in store. Ready in under 3 hours. [...] Digital download\n\nImmediate access in your Kobo library\n\nDeliver to\n\nArrives on\n\nBuy online, pick up at  Bay & Floor\n\nFree pick up today\n\nFind it in store\n\nOut of stock\n\nFound in:  Reference, COMPUTERS GENERAL\n\nCheck nearby Stores\n\nPlum+ Rewards\n\nEarn  543 plum points  and save more with plum Rewards.  Learn more\n\n### Read this title using any of the following Kobo apps and devices:\n\nBrowser\n\nBrowser\n\neReaders\n\neReaders\n\nTablets\n\nTablets\n\niOS\n\niOS\n\nAndroid\n\nAndroid\n\n View full details",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "利用人工智能构建韧性电信运营商：基于 CTE 的自主网络与业务运营方法",
+      "link": "https://ijise.ba/article/30",
+      "snippet": "AI 正重塑电信业竞争优势，CTE 方法助力网络与业务自治运营。",
+      "raw_snippet": "Artificial Intelligence (AI) is changing where competitive advantage comes from in telecommunications. It used to depend mainly on network assets – spectrum, infrastructure, reach. Increasingly, it depends on how intelligent, adaptable, and resilient the systems running those assets are. This paper builds on the Comprehensive Techno-Economic (CTE) Model and its AI-augmented extension (AI-CTE) to propose a resilience framework that covers both autonomous network operations and autonomous [...] 9. I. Jurčić, “Practical equations and applications of artificial intelligence in the IT and technological areas of the CTE model,” in Proc. Int. Sci. Conf. CIET 2026 – Contemporary Issues in Economy and Technology, University of Split, University Dept. of Professional Studies, 2026, pp. 392-409. [...] 4. E. Edozie, A. N. Shuaibu, B. O. Sadiq, and U. K. John, “Artificial intelligence advances in anomaly detection for telecom networks,” Artif Intell Rev, vol. 58, no. 4, p. 100, Jan. 2025, doi: 10.1007/s10462-025-11108-x.\n5. European Commission, “Artificial Intelligence Act: Rules on artificial intelligence,” 2024. [Online]. Available: \n6. GSMA Intelligence, “Telco AI: State of the market, Q4 2024,” 2024. [Online]. Available:",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "如何自信且安全地使用人工智能（活动门票），10 月 20 日周二 10:00–12:00",
+      "link": "https://www.eventbrite.co.uk/e/how-to-use-artificial-intelligence-confidently-and-safely-tickets-2000163599168?aff=ebdssbdestsearch",
+      "snippet": "Eventbrite 上该 AI 安全应用研讨会门票已售罄，聚焦安全实践。",
+      "raw_snippet": "Sold out\n\n# How to Use Artificial Intelligence Confidently and Safely\n\nTop Organizer\n\nByRoyal Borough of Kensington and Chelsea Libraries\n\nPart of the Digital Help Collection collection\n\nBrompton LibraryLondon, England\n\nOverview\n\nYou are invited to an introduction to AI. Come along and don't miss out.\n\nThis is a special drop-in session for Get Online Week 2026.\n\nEnjoy an Introduction to Artificial Intelligence, covering: [...] ### Browse more events with different dates, prices, and formats to find your next great experience.\n\n## Still looking for the right event?\n\n### Explore all events in London and filter by date, category, and more to find the perfect fit.\n\n United Kingdom Events\n Greater London Events\n Things to do in London\n London classes\n London Science & Tech classes\n\nTickets Sold Out [...] ### Location\n\n### Brompton Library\n\n210 Old Brompton Road\n\nLondon SW5 0BS\n\n#### How do you want to get there?\n\n Driving\n Public transport\n Biking\n Walking\n\nMap\n\nOrganized by\n\nTop OrganizerRoyal Borough of Kensington and Chelsea Libraries\n\nReport this event\n\n## More events from Royal Borough of Kensington and Chelsea Libraries\n\n### Discover more events from Royal Borough of Kensington and Chelsea Libraries, from Science & Tech to other experiences you might love.\n\n## You might also like...",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "人工智能时代的开放许可与知识共享——EU Agenda",
+      "link": "https://euagenda.eu/events/2026/10/20/open-licensing-and-the-knowledge-commons-in-the-age-of-artificial-intelligence-2026-10",
+      "snippet": "2026 年 11 月 25 日网络研讨会，探讨 AI 时代开放许可与知识共享政策。",
+      "raw_snippet": "Webinar, 25 Nov 2026\n\n### Other Events in Digital\n\n#### Pitching day: Finalists of the Apply AI Startup Award\n\nWebinar, 20 Oct 2026\n\n#### LDS Country Workshop in Germany\n\nGermany, 24 Nov 2026\n\n#### SEMIC 2026\n\nIreland, 30 Nov 2026\n\n#### 15th BEREC Stakeholder Forum\n\nBelgium, 24 Feb 2027\n\n#### Apply AI Summit\n\nBelgium, 17 Nov 2026\n\n#### European Cybersecurity Skills Conference 2026\n\nCyprus, 4 Nov 2026\n\n#### Sprout x DIGI-ME: 3-Week Digital Entrepreneurship Program\n\nFinland, 22 Oct 2026 [...] # Contact United Nations Educational, Scientific and Cultural Organization [...] #### Showcase your innovation at CES Unveiled Milan\n\nItaly, 21 Oct 2026\n\n#### Data Union Conference\n\nBelgium, 12 Jan 2027\n\n#### SEMIC 2026: Interoperable Europe driving competitiveness\n\nIreland, 30 Nov 2026\n\n### Similar Webinars in Digital\n\n#### Conferência Ibero-Americana Inteligência Artificial na Sociedade 2026\n\nWebinar, 16 Dec 2026\n\n#### HMA/EMA multistakeholder AI and Data forum: Build trustworthy AI on strong data foundations\n\nNetherlands, 13 Nov 2026",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "普罗维登斯波特兰牙科人工智能活动",
+      "link": "https://dopdx.com/events/2026/10/20/artificial-intelligence-in-dentistry-tickets",
+      "snippet": "聚焦 AI 在牙科诊疗中的应用，由 Providence 主办的相关活动页面信息。",
+      "raw_snippet": "Facebook Pixel\nmain logo\nmain logo\nDs-network-logo_zzzbvh\nmain logo\n\n# Artificial Intelligence in Dentistry\n\n## $39.19\n\n## ​Providence Willamette Falls Community Center\n\nFeatured Events\n\nFeatured Events\n\nFeatured Venues\n\nLatest from DoPDX\n\nWin Free Tickets\n\nFeatured Stuff\n\nDoPDX tastemakers\n\nFind Us on the Web\n\n© 2026 DoPDX All rights reserved\n\nQuantcast",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}
