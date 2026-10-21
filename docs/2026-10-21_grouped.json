@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-21",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI可防御性成为M&A估值的关键因素",
+          "link": "https://www.intelligentcio.com/north-america/2026/10/20/ai-defensibility-emerges-as-critical-factor-in-ma-valuations",
+          "snippet": "[人工智能正深刻改写并购估值逻辑，企业的AI可防御性（技术壁垒、数据优势、规模效应）已成为影响M&A估值与竞争力的关键考量。]",
+          "index": 1
+        },
+        {
+          "title": "AI热潮推动全球M&A逼近历史高位：Apollo Sløk",
+          "link": "https://www.cfodive.com/news/ma-soaring-close-record-level-fueled-rush-ai-apollo-slok-deals-dealmaking/833518",
+          "snippet": "[全球并购交易总值正快速攀升并接近历史最高水平，企业对AI赛道的追逐成为推动M&A市场回暖与交易估值扩张的核心动力。]",
+          "index": 2
+        },
+        {
+          "title": "AI初创公司ASI新一轮融资估值达30亿美元",
+          "link": "https://www.reuters.com/business/ai-startup-asi-valued-3-billion-latest-funding-round-2026-10-20",
+          "snippet": "[人工智能初创企业ASI在最新一轮融资中估值达到30亿美元，资本市场对其AI应用落地与商业化前景的持续看好推动估值攀升。]",
+          "index": 3
+        },
+        {
+          "title": "Writer IPO时间表与融资详情",
+          "link": "https://forgeglobal.com/writer_ipo",
+          "snippet": "[企业AI写作平台Writer的IPO时间线与历史融资细节受市场关注，其上市进程反映出生成式AI赛道热度及资本市场对其增长的高度期待。]",
+          "index": 4
+        },
+        {
+          "title": "Tether领投Mural 1500万美元Series A轮融资",
+          "link": "https://www.bitkub.com/en/blog/tether-leads-15m-investment-in-ai-payment-startup-mural-8kBOgo3nAdZgDBR0pziLsC",
+          "snippet": "[稳定币发行商Tether领投Mural 1500万美元Series A轮融资，该公司致力于打造AI驱动的创新支付解决方案，以提升金融基础设施效率并拓展全球用户。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "1Password招聘AI增长产品总监",
+          "link": "https://jobs.ashbyhq.com/1password/8151254c-b7d1-4653-87b1-7afeba176898",
+          "snippet": "[密码管理公司1Password借助AI与机器学习持续增强产品能力，新设AI增长产品总监职位，旨在推动智能功能创新与全球用户增长。]",
+          "index": 6
+        },
+        {
+          "title": "IBM：AI决策模型的新员工测试",
+          "link": "https://www.ibm.com/think/news/new-hire-test-ai-decision-models",
+          "snippet": "[IBM提出应像考核新员工一样评估AI决策模型，重点关注置信度分数、可解释性以及模型在实际业务场景中的稳定表现与持续改进。]",
+          "index": 7
+        },
+        {
+          "title": "Fortrea招聘Senior Director：数据与AI产品管理（远程）",
+          "link": "https://dailyremote.com/remote-job/senior-director-product-management-data-artificial-intelligence-5798146",
+          "snippet": "[全球临床研究机构Fortrea公开招聘远程Senior Director产品管理职位，聚焦数据与AI产品战略，以推动临床研究数字化平台创新与运营效率提升。]",
+          "index": 8
+        },
+        {
+          "title": "指导我们AI工作的原则",
+          "link": "https://www.gatesfoundation.org/ideas/articles/artificial-intelligence-2026-principles",
+          "snippet": "[机构发布AI应用核心指导原则，倡导负责任、透明、安全的人工智能研发与落地实践，并推荐阅读后续案例与行业最佳实践。]",
+          "index": 9
+        },
+        {
+          "title": "AI产品经理（悉尼）",
+          "link": "https://www.efinancialcareers.com/jobs-Australia-Sydney-AI_Product_Owner.id24916872",
+          "snippet": "[澳大利亚某领先金融服务机构招聘AI Product Owner，负责推动人工智能产品在多元金融场景中的落地、持续优化与业务增长，并协同跨部门团队。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

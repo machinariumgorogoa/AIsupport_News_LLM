@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-21",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "AI可防御性成为M&A估值的关键因素",
+      "link": "https://www.intelligentcio.com/north-america/2026/10/20/ai-defensibility-emerges-as-critical-factor-in-ma-valuations",
+      "snippet": "[人工智能正深刻改写并购估值逻辑，企业的AI可防御性（技术壁垒、数据优势、规模效应）已成为影响M&A估值与竞争力的关键考量。]",
+      "raw_snippet": "Artificial intelligence is rewriting the rules of mergers and acquisitions, forcing dealmakers to reconsider what makes businesses valuable. Javi Rodriguez, Global Head of Strategy at KPMG International, explains why AI defensibility is becoming a critical factor in assessing acquisition targets.\n\nQ: Why is AI moving up the M&A agenda?\n\nAI is changing how businesses generate value across software, engineering and professional services. [...] AI assessment needs to begin during acquisition screening rather than appearing as an additional exercise near the end of due diligence.\n\nBuyers should evaluate both opportunities and threats. AI could accelerate growth, improve productivity and strengthen customer relationships. Equally, it could erode revenues, weaken margins or undermine established market positions. [...] Dealmakers therefore need to examine not just current capabilities but management’s capacity to adapt as technological and commercial conditions evolve, even before the transaction is completed.\n\nUltimately, AI is making competitive advantage more difficult to measure precisely when accurate valuation matters most.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "AI热潮推动全球M&A逼近历史高位：Apollo Sløk",
+      "link": "https://www.cfodive.com/news/ma-soaring-close-record-level-fueled-rush-ai-apollo-slok-deals-dealmaking/833518",
+      "snippet": "[全球并购交易总值正快速攀升并接近历史最高水平，企业对AI赛道的追逐成为推动M&A市场回暖与交易估值扩张的核心动力。]",
+      "raw_snippet": "The value of global mergers and acquisitions is soaring close to a record level this year as companies rush to gain a competitive edge from artificial intelligence, according to Apollo Global Management Chief Economist Torsten Sløk. [...] ### Dive Insight:\n\nThe fixation on AI has spurred dealmaking well beyond technology into companies involved in sectors essential for the AI build-out, including data centers, power generation, power grid infrastructure, cooling and connectivity, Sløk said.\n\n“AI is the trigger of the AI boom, but it is lighting up far more than tech,” he said, noting that dealmaking involving utilities and energy companies posted a record first half. [...] Among the largest AI-focused deals, SpaceX in June bought Anysphere, the creator of AI-coding agent Cursor, for $55 billion, according to Mergermarket.\n\nAlthough the value of deals soared during the first nine months of this year, the volume declined by 1% to 32,419 transactions, according to ION Analytics.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "AI初创公司ASI新一轮融资估值达30亿美元",
+      "link": "https://www.reuters.com/business/ai-startup-asi-valued-3-billion-latest-funding-round-2026-10-20",
+      "snippet": "[人工智能初创企业ASI在最新一轮融资中估值达到30亿美元，资本市场对其AI应用落地与商业化前景的持续看好推动估值攀升。]",
+      "raw_snippet": "Oct 20 (Reuters) - Artificial intelligence startup ASI said on Tuesday it had raised $325 million in a funding ​round valuing the company at $3 billion, ‌amid growing investor appetite for AI software used in real-world applications.\n\nHere are more details:\n\nSign up here. [...] The company secured a five-year, $99 million US Army contract in October and a 12-year, $875 million ⁠Federal ​Aviation Administration contract in June, ​covering military command systems and air traffic management, respectively [...] Reporting by ​Pragyan Kalita in Bengaluru; Editing by Jonathan Ananda\n\nOur Standards: The Thomson Reuters Trust Principles.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "Writer IPO时间表与融资详情",
+      "link": "https://forgeglobal.com/writer_ipo",
+      "snippet": "[企业AI写作平台Writer的IPO时间线与历史融资细节受市场关注，其上市进程反映出生成式AI赛道热度及资本市场对其增长的高度期待。]",
+      "raw_snippet": "See All Top Forge Price Gainers\n\n### Artificial Intelligence (AI) [...] The news articles displayed on this page may be curated using artificial intelligence (AI) technology, which selects relevant content from a list of trusted web sources. While we strive for accuracy and reliability, the inclusion of an article does not imply endorsement or verification of its content. This communication is for informational purposes only. Investors should conduct their own research and consult a financial professional before making investment decisions. [...] FAQs\n\nGlossary\n\nTips and tutorials\n\nCompany page and trades\n\nProof of ownership\n\nBid and ask submissions\n\nForge fund offerings\n\nAbout\n\nAbout Us\n\nLeadership\n\nPeople & Culture\n\nCareers\n\nLog In\n\nSign Up\n\nSecondary marketplace/Explore private companies/Writer IPO\n\nImage 1: Writer\n# Writer IPO\n\n$1.9B\n\nSeries C Valuation, Nov 2024\n\nArtificial IntelligenceUnicorn\n\nBuy And Sell Writer StockLearn More About Writer StockAdd To Watchlist\n\nRegister for details",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "Tether领投Mural 1500万美元Series A轮融资",
+      "link": "https://www.bitkub.com/en/blog/tether-leads-15m-investment-in-ai-payment-startup-mural-8kBOgo3nAdZgDBR0pziLsC",
+      "snippet": "[稳定币发行商Tether领投Mural 1500万美元Series A轮融资，该公司致力于打造AI驱动的创新支付解决方案，以提升金融基础设施效率并拓展全球用户。]",
+      "raw_snippet": "Tether led a $15 million Series A round for Mural, building financial infrastructure for AI agent payments across banks and blockchains.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "1Password招聘AI增长产品总监",
+      "link": "https://jobs.ashbyhq.com/1password/8151254c-b7d1-4653-87b1-7afeba176898",
+      "snippet": "[密码管理公司1Password借助AI与机器学习持续增强产品能力，新设AI增长产品总监职位，旨在推动智能功能创新与全球用户增长。]",
+      "raw_snippet": "_1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See__here__for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing__this form__. For additional information see our__Candidate Privacy Notice__._ [...] This approach extends to our hiring process—candidates are welcome to use AI tools responsibly and thoughtfully during the application process. To us, this means we do ask that you join live interviews without using AI tools so we can get to know how you communicate, solve problems, and collaborate with others.  \n  \nOur approach to remote work [...] You belong here.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "IBM：AI决策模型的新员工测试",
+      "link": "https://www.ibm.com/think/news/new-hire-test-ai-decision-models",
+      "snippet": "[IBM提出应像考核新员工一样评估AI决策模型，重点关注置信度分数、可解释性以及模型在实际业务场景中的稳定表现与持续改进。]",
+      "raw_snippet": "That’s also why the decision model’s confidence score matters so much. Once a workflow is running, decisions that clear the threshold can be acted on without a person ever seeing them. In a recent IBM Institute for Business Value survey of 2,000 CEOs worldwide, respondents said 25% of operational decisions are currently made by AI, without human intervention. By 2030, leaders expect this to nearly double to 48%. [...] so the two kinds of models serve different, complementary jobs: decision models make the quick calls inside software, and LLMs handle the conversation. [...] By Hannah Press\n\nHow many of the decisions that you made today actually needed you?  \n   \n A good chunk of the decisions any of us make at work are small, routine choices: which email to answer first, which request can wait and, if you’re me, what time to crack open the second Coke Zero of the day—and yes, that’s a very important work decision. Whatever your routine decisions look like, AI is starting to take them off your plate.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "Fortrea招聘Senior Director：数据与AI产品管理（远程）",
+      "link": "https://dailyremote.com/remote-job/senior-director-product-management-data-artificial-intelligence-5798146",
+      "snippet": "[全球临床研究机构Fortrea公开招聘远程Senior Director产品管理职位，聚焦数据与AI产品战略，以推动临床研究数字化平台创新与运营效率提升。]",
+      "raw_snippet": "Fortrea is hiring for remote Senior Director, Product Management (Data & Artificial Intelligence) Artificial Intelligence, or related discipline.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "指导我们AI工作的原则",
+      "link": "https://www.gatesfoundation.org/ideas/articles/artificial-intelligence-2026-principles",
+      "snippet": "[机构发布AI应用核心指导原则，倡导负责任、透明、安全的人工智能研发与落地实践，并推荐阅读后续案例与行业最佳实践。]",
+      "raw_snippet": "## Read next\n\nA young farmer in his vegetable garden references information on his tablet.\n\n## The first principles guiding our work with AI\n\nGates Foundation CEO Mark Suzman shares the first principles on artificial intelligence (AI) that will be used to guide the foundation’s use of AI.\n\nBy Mark Suzman   CEO, Board Member, Gates Foundation\n\nRebecca Martey breastfeeds her newborn son, Gerald, at Osu Maternity Home in Accra, Ghana. [...] These are an update to our first principles for AI, published in 2023, building on the same fundamental values and goals that drive the foundation’s work, but adjusted to reflect the significant advances and capabilities in the technology. These principles echo the same commitment to equity and access, local partnership, and accountability to impact that has guided our work from the beginning. We expect to update these principles regularly to keep pace with the evolution of the technology and [...] Today, the rise of artificial intelligence reflects a world that still falls far short when it comes to who benefits. The data it's trained on, the infrastructure that runs it, and the markets that fund it are concentrated in a handful of wealthy countries. This means the people who shape it, benefit from it, and have a say in how it develops are largely the same people who have always been first in line. That is the inequity we are working to change.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "AI产品经理（悉尼）",
+      "link": "https://www.efinancialcareers.com/jobs-Australia-Sydney-AI_Product_Owner.id24916872",
+      "snippet": "[澳大利亚某领先金融服务机构招聘AI Product Owner，负责推动人工智能产品在多元金融场景中的落地、持续优化与业务增长，并协同跨部门团队。]",
+      "raw_snippet": "Join a leading Australian financial services organisation investing heavily in Artificial Intelligence and emerging technologies. As part of a growing AI",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}
