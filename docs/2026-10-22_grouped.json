@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-22",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "2026创新峰会：AI主导格局",
+          "link": "https://www.fedinsider.com/innovation-summit-2026-ai-dominates-the-landscape",
+          "snippet": "[FedInsider举办的2026创新峰会聚焦AI议题，参会者需签到以获取CPE学分。]",
+          "index": 1
+        },
+        {
+          "title": "Elaine Byrne：无匮乏之爱——AI、欲望与人工他者",
+          "link": "https://www.eventbrite.com/e/elaine-byrne-love-without-lack-ai-desire-and-the-artificial-other-tickets-2002767884656",
+          "snippet": "[探讨AI超越工具角色后对人类欲望与主体性关系的哲学讲座活动。]",
+          "index": 2
+        },
+        {
+          "title": "2026 Gen AI领导力论坛：驱动智能经济转型",
+          "link": "https://euagenda.eu/events/2026/10/21/gen-ai-leadership-forum-2026-driving-transformation-in-the-intelligence-economy",
+          "snippet": "[欧盟议程下的2026生成式AI领导力论坛，探讨如何构建智能经济。]",
+          "index": 3
+        },
+        {
+          "title": "ASTM F3463：AI赋能消费品联网产品的安全评估与监督工作组",
+          "link": "https://www.cpsc.gov/Newsroom/Public-Calendar/2026-10-22-100000/ASTM-F3463-Safety-of-Connected-Products-F1575-Connected-Products-Pre-market-Assessment-and-Post-market-Surveillance-for-Artificial-Intelligence-AI-Enabled-Consumer-Products-Task-Group",
+          "snippet": "[美国政府CPSC官网发布ASTM F3463标准，针对AI消费品开展上市前评估与上市后监督。]",
+          "index": 4
+        },
+        {
+          "title": "房地产中的AI：可使用的工具分享（Loganville的Carisa主讲）",
+          "link": "https://www.eventbrite.com/e/ai-in-real-estate-tools-you-can-use-with-carisa-in-loganville-tickets-2001618919069",
+          "snippet": "[活动介绍房地产行业可落地的AI工具与实际应用。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Hireology发布AI招聘智能套件，AI Match客户招聘周期缩短20%",
+          "link": "https://www.prnewswire.com/news-releases/hireology-launches-ai-hiring-intelligence-suite-ai-match-customers-see-20-reduction-in-time-to-hire-302915657.html",
+          "snippet": "[Hireology新AI招聘套件帮助客户自动匹配候选人，显著缩短招聘时间。]",
+          "index": 6
+        },
+        {
+          "title": "U.S. Hunger如何利用Amazon QuickSight连接领导者与数据",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick",
+          "snippet": "[U.S. Hunger CEO Rick Whitted介绍借助Amazon QuickSight与AI整合数据、辅助决策。]",
+          "index": 7
+        },
+        {
+          "title": "高盛携手OpenAI与Meta推动小企业AI应用",
+          "link": "https://www.nbcnews.com/business/ceo-interviews/goldman-sachs-small-business-ai-institute-rcna604621",
+          "snippet": "[高盛与OpenAI、Meta合作，助力小企业借助AI技术提升运营与竞争力。]",
+          "index": 8
+        },
+        {
+          "title": "塞尔维亚AI工程公司提供文档处理与流程自动化服务",
+          "link": "https://een.ec.europa.eu/partnering-opportunities/serbian-artificial-intelligence-ai-engineering-company-offers-document",
+          "snippet": "[该企业结合应用AI技术，面向商业合作提供文档处理与自动化工作流解决方案。]",
+          "index": 9
+        },
+        {
+          "title": "面向OEM产品开发的Edge AI硬件",
+          "link": "https://www.simms.co.uk/tech-talk/building-edge-ai-into-your-next-product",
+          "snippet": "[Simms介绍Edge AI硬件如何助力OEM厂商在产品开发中实现智能化。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
