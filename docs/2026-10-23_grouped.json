@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-23",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "OpenAI接近完成由阿联酋投资者领投、估值1.25万亿美元的融资轮",
+          "link": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+          "snippet": "此轮融资由阿联酋投资者主导，若完成将使OpenAI估值达到1.25万亿美元，进一步巩固其AI领军地位。",
+          "index": 1
+        },
+        {
+          "title": "分析：AI市场动荡拖累其他IPO，Anthropic上市计划独树一帜",
+          "link": "https://www.modbee.com/news/business/article317730488.html",
+          "snippet": "AI板块回调引发一系列IPO推迟，投资者情绪谨慎，但Anthropic仍坚持推进其上市计划，成为市场焦点。",
+          "index": 2
+        },
+        {
+          "title": "Enact Intelligence融资2668万欧元扩展Physical AI机器人",
+          "link": "https://aipressroom.com/enact-intelligence-26m-physical-ai",
+          "snippet": "该公司本轮融资2668万欧元，将用于扩大Physical AI机器人规模，加速实体智能系统的研发与商业化落地。",
+          "index": 3
+        },
+        {
+          "title": "2026年AI研究资助计划发布",
+          "link": "https://atomgrants.com/collections/ai-research-grants",
+          "snippet": "AI被列为2026年最明确的资助重点，NSF官员表示相关拨款将重点支持前沿AI基础研究与应用探索。",
+          "index": 4
+        },
+        {
+          "title": "征集提案推动Agentic AI技术进步",
+          "link": "https://eufundingportal.eu/call-for-proposals-to-support-advancements-in-agentic-ai",
+          "snippet": "此次提案征集聚焦开源Agentic AI开发，旨在提升自主智能体的规划、执行与协作能力，推动技术生态建设。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "“五人问题”：AI为何在工作中失效",
+          "link": "https://www.ie.edu/insights/articles/the-five-person-problem-why-ai-fails-at-work",
+          "snippet": "研究指出第三类AI应用会带来可衡量的绩效损失，揭示组织规模、信任与流程等因素导致AI落地失败的原因。",
+          "index": 6
+        },
+        {
+          "title": "在HIPAA合规环境中通过Amazon Quick部署AI",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick",
+          "snippet": "Amazon Quick支持在HIPAA合规环境中部署AI应用，但用户仍需自行承担数据安全与合规配置的责任并审核确认。",
+          "index": 7
+        },
+        {
+          "title": "SpaceX Super Intelligence合作伙伴网络亮相",
+          "link": "https://x.ai/news/partnernetworkannouncement",
+          "snippet": "SpaceXSI发布Super Intelligence Partner Network，结合Grok理解宇宙的能力与Adapter技术，构建更广泛的AI合作生态。",
+          "index": 8
+        },
+        {
+          "title": "Vivun利用AI为销售通话提供实时指导",
+          "link": "https://www.cio.com/video/4239285/how-vivun-uses-ai-to-give-sales-teams-real-time-guidance-during-customer-calls.html",
+          "snippet": "Vivun通过AI分析客户通话内容，实时向销售团队提供策略建议，覆盖分析、AI自动化与业务运营等关键场景。",
+          "index": 9
+        },
+        {
+          "title": "纽约州长Hochul宣布成立AI Jobs Institute",
+          "link": "https://www.governor.ny.gov/news/governor-hochul-announces-launch-ai-jobs-institute-prepare-new-yorkers-jobs-future",
+          "snippet": "该机构旨在帮助纽约居民掌握未来AI相关岗位所需技能，促进本地人才培养与新兴产业就业机会增长。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
