@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-24",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "本周十大融资轮次：AI驱动多领域大额融资",
+      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent",
+      "snippet": "ASI获得3.25亿美元融资，用于开发面向关键基础设施的AI解决方案，在本周大额融资榜单中位列第三。",
+      "raw_snippet": "3. ASI, $325M, AI for critical infrastructure: ASI, a developer of AI technology for securing and operating critical infrastructure in areas such as aviation, transportation and defense, picked up $325 million in Series C financing. Spark Capital led the round, which set a $3 billion valuation for the Boston-based company. [...] 1. Tenstorrent, $1.5B, AI infrastructure: Santa Clara, California-based Tenstorrent, a developer of AI processors and systems, secured $1.5 billion in Series E funding. Trace Capital and Innovation X led the round, which set a $6.2 billion valuation for the 10-year-old company. [...] 6. Warp Sciences, $215M, AI, robotics and life sciences: Warp Sciences, a startup applying AI and robotics to help develop new medicines faster, raised a $215M Series A round led by Lightspeed Venture Partners.\n\n7. (tied) Whop, $200M, online business marketplace: Whop, a platform that helps entrepreneurs build and run online businesses, secured $200 million in Series D funding led by Sequoia Capital and Shopify Ventures. The round set a $5.1 billion valuation for the New York-based company.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "AI动荡：neoclouds承压、信贷风险上升、Solidigm撤回IPO",
+      "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "snippet": "华尔街对AI前景存疑；韩国存储芯片公司Solidigm因市场动荡撤回IPO，neoclouds困境与信贷风险同步上升。",
+      "raw_snippet": "Wall Street isn't convinced. On Thursday, South Korean memory giant SK Hynix, one of the biggest winners in the AI boom, said it's pulling an IPO for its U.S.-based Solidigm unit, citing market volatility. SK Hynix purchased Solidigm, which makes NAND and SSD storage for data centers, from Intel in 2021. [...] AI optimism has been the major market driver for the past couple of years, as unrelenting demand for new models and services pushes the world's biggest tech companies to spend on infrastructure at historic rates. However, skeptics are getting more vocal in their concerns that returns on AI investment won't justify the capital expenditures.\n\nAnalysts at research and advisory firm Gartner predict that 80% of neocloud companies will either cease operations or be absorbed by 2030. [...] John Williams, who leads the derivatives practice at law firm Milbank LLP, says investors are seeking numerous ways beyond buying CDS to hedge their bets with respect to the AI trade.\n\n\"There's so much investment going into it that it's just very appropriate to look for risk management tools, completely regardless of whether you're bullish or bearish,\" Williams said. \"It would be crazy for people not to be looking for appropriate risk management tools for it.\"",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "The Impending Artificial Intelligence Market Correction And Global Financial Vulnerabilities — ProfessorN.in",
+      "link": "https://professorn.in/read/the-impending-artificial-intelligence-market-correction-and",
+      "snippet": "The International Monetary Fund recently addressed these growing vulnerabilities...",
+      "raw_snippet": "The International Monetary Fund recently addressed these growing vulnerabilities in its Global Financial Stability Report, highlighting the risk of a sharp market correction driven by overextended artificial intelligence valuations. While the underlying technology continues to advance and reshape modern business operations, the financial structures supporting its rapid expansion are showing signs of strain. Analysts and international regulators are increasingly drawing parallels to historical [...] Market indicators across several regions reveal a cooling sentiment. In Australia, Firmus, a major data centre enterprise backed by leading semiconductor giant Nvidia postponed a multi billion dollar initial public offering. Similar delays have affected SB Energy, SoftBank backed energy initiatives and logistics firm operating within the digital infrastructure space. These postponements reflect a growing caution among investors who are questioning whether current market valuations can be [...] valuations can be sustained once shares begin trading in the secondary market.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "波士顿人工智能初创公司榜单",
+      "link": "https://dealroom.co/lists/artificial-intelligence-startups-boston",
+      "snippet": "本榜单梳理波士顿地区融资额最高的50家人工智能初创企业，展现当地AI创新生态与产业格局。",
+      "raw_snippet": "The 50 best-funded artificial intelligence startups in Boston, ranked by total funding raised, have raised a combined $23B, and include 28 unicorns.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "美国政府（USG）Super Intelligence使用政策",
+      "link": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-011.html",
+      "snippet": "该政策界定了Super Intelligence的核心能力，包括感知真实与虚拟环境、抽象理解及自主学习等要素。",
+      "raw_snippet": "(A) perceive real and virtual environments;\n\n(B) abstract such perceptions into models through analysis in an automated manner; and\n\n(C) use model inference to formulate options for information or action.\" \n\nNotes:\n\n As required by EO 14434 § 3(a) (federalregister.gov/d/2026-20321/p-7) and cited at 15 USC § 9401 (3): (law.cornell.edu/uscode/text/15/9401#3)\n\n - Home Page\n\nDepartment of Health  \n and Human Services (HHS)\n\nImage 3: USA.gov - Government Made Easy [...] 14434. The EO directs federal agencies to use \"Super Intelligence\" and \"SI\" in official documents and communications, including public communications, websites, and reports. Based on EO 14434, NIH interprets SI to be defined as:\n\n\"A machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations or decisions influencing real or virtual environments. [Super] intelligence systems use machine and human-based inputs to– [...] NIH... Turning Discovery Into Health®",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "巴克莱削减人力并加大AI投入",
+      "link": "https://abcnews.com/Business/wireStory/barclays-latest-redirect-spending-ai-trims-workforce-137514332",
+      "snippet": "继渣打银行之后，巴克莱将部分支出转向AI，同时裁员以降低成本，反映金融业AI投资趋势。",
+      "raw_snippet": "Oct 16\n\nStandard Chartered said in May that it was “scaling practical uses of automation, advanced analytics and artificial intelligence to streamline processes, improve decision‑making and enhance both client service and internal efficiency.”\n\nThe cryptocurrency trading platform is cutting approximately 14% of its workforce partly due to AI.\n\nIn a blog post, CEO Brian Armstrong said that AI was changing the way that Coinbase worked. [...] “The core thesis is simple. Intelligence tools have changed what it means to build and run a company,” Jack Dorsey said in a letter to shareholders in Block, the parent company to online payment platforms such as Square and Cash App. “A significantly smaller team, using the tools we’re building, can do more and do it better,” he said.\n\nDorsey’s comments explicitly naming AI as a key driver behind the decision were also posted on X, or Twitter, a company he co-founded. [...] Kroger said last week that it will lay off 3,000 corporate employees over the next three years as the national grocery chain ramps up its use of artificial intelligence.\n\n“Technology is reshaping what’s possible,” CEO Greg Foran wrote in a memo to employees. “The way work gets done is changing across every industry; we must adapt and take advantage of technology. We need to adopt capabilities, reduce duplicative work and look closely at where work is best fit to be done.”",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "比尔·盖茨警告AI将带来20年动荡",
+      "link": "https://www.aa.com.tr/en/world/bill-gates-warns-of-20-years-of-turmoil-from-artificial-intelligence/4099155",
+      "snippet": "比尔·盖茨在伊斯坦布尔警告，人工智能可能在未来二十年引发就业、社会及政治层面的长期动荡。",
+      "raw_snippet": "İSTANBUL\n\nBill Gates warned that artificial intelligence could trigger two decades of economic and social upheaval, disrupting jobs and life even if the technology is managed successfully.\n\nIn an interview with the Decoder podcast posted Thursday, the Microsoft co-founder said the transition to an AI-driven economy would create winners and losers, potentially reshaping employment and raising questions about people's roles in society. [...] Gates said advances in AI and humanoid robotics could eventually allow machines to perform much of the physical labor carried out by humans, including building homes, growing food, and even performing surgery.\n\nWhile the advances could reduce shortages of goods and services, he suggested societies might deliberately reserve certain activities for humans, including childcare, food preparation, arts, and sports. [...] ### Pakistan announces ratification of Mecca pact signed with Türkiye, Saudi Arabia\n\n### US president, UK premier discuss Ukraine war, Middle East\n\n### China urges countries to uphold central role of UN, respond to concerns of developing nations\n\nSee All",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "CPSC任命Beth Puchek为首席人工智能官（CAIO）",
+      "link": "https://orangeslices.ai/cpsc-names-beth-puchek-chief-artificial-intelligence-officer-caio",
+      "snippet": "美国消费品安全委员会任命Beth Puchek为首任CAIO，负责统筹AI治理、应用规范与风险监管。",
+      "raw_snippet": "October 23, 2026\n\nThe U.S. Consumer Product Safety Commission (CPSC) today announced that Beth Puchek, who currently serves as the agency’s Chief Data Officer, has been appointed Chief Artificial Intelligence Officer (CAIO). She will lead the agency’s efforts to responsibly implement and govern super intelligence technologies in support of CPSC’s mission to protect consumers from unreasonable risks associated with consumer products. [...] 6.   Social Security Administration names Peltier acting chief AI officer\n7.   US Postal Service taps familiar face as new VP Technology Applications\n8.   USPTO recruits former Air Force IT lead as new Chief, Enterprise Mobility & Virtual Branch [...] “I am thrilled to expand my role at CPSC and this appointment underscores the fundamental truth that impactful, trustworthy SI is built on a foundation of high-quality data,” said Beth Puchek, Chief AI Officer. “Driven by my passion for helping people and organizations reach their full potential, I look forward to leveraging these technologies to optimize our operations and further strengthen our mission.”\n\nSee the news here.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "Google：论证AI的战略价值",
+      "link": "https://prachub.com/interview-questions/making-the-case-for-ais-strategic-value-to-googles-products-and-business",
+      "snippet": "谷歌产品经理阐释，为何AI不仅提升运营效率，更对企业的长期战略与核心竞争力具有关键价值。",
+      "raw_snippet": "A Google product manager question asking why artificial intelligence matters to the company. It tests connecting AI to Google's mission, its core products and",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "Bain & Company AI咨询服务",
+      "link": "https://www.bain.com/consulting-services/technology-ai/artificial-intelligence",
+      "snippet": "贝恩公司结合商业战略与技术专长，为企业提供从AI战略规划到落地实施的全方位咨询服务。",
+      "raw_snippet": "We combine business strategy and technical expertise to help you rethink your goals with AI in mind, then build the most high-value use cases from proof of concept to production. Our integrated team of industry and AI consultants, AI product managers and engineers, and key partners work together to propose strategies based on value, feasibility, risk, and differentiation—then deliver the solution’s tech stack, operating model, and talent strategy. Crucially, we ready your organization for AI [...] Carsten Egeriis is embracing AI more than your average CEO. At Danske Bank, he’s spent the last five years bringing the 155 year old bank towards the bleeding edge of AI innovation.\n\nPodcast\n\n\n\nAI, Insights, and Solutions\n\n##### AI in Software Engineering: The Reliability Paradox\n\nIf AI lets your engineers write code 5 to 10 times faster, what happens to everything that runs after the code ships?\n\nBrief\n\nSEE MORE&invisibleFilters=articleRelevance())\n\n## Winning with AI Podcast [...] The difference between an AI pilot and AI at scale is that a pilot proves a use case works, while scaling changes how the business works—and scaling is where the financial gains appear.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}
