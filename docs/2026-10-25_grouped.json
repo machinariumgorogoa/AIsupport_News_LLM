@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-25",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI融资担忧震动华尔街：我们这样调整投资组合",
+          "link": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
+          "snippet": "上周华尔街因AI投资与融资前景担忧而剧烈震荡，我们据此主动重新调整投资组合、优化资产配置以应对潜在风险。",
+          "index": 1
+        },
+        {
+          "title": "Parallel：面向AI Agent的Web基础设施",
+          "link": "https://parallel.ai",
+          "snippet": "Rogo发布Parallel，为各行业AI Agent提供Web监控与自动化基础设施，让网络为智能体工作。",
+          "index": 2
+        },
+        {
+          "title": "AI4WaterGuard：多源地球观测与AI融合的水资源监测方案",
+          "link": "https://www.nature.com/articles/s41598-026-76069-9",
+          "snippet": "研究提出AI4WaterGuard，整合多源地球观测与AI技术，实现水资源动态监测、智能管理与风险预警。",
+          "index": 3
+        },
+        {
+          "title": "AI安全研究资助计划 Atom Grants",
+          "link": "https://atomgrants.com/collections/ai-safety-research-grants",
+          "snippet": "Atom Grants为AI安全研究项目提供资金，慈善资助方包括Coefficient Giving等机构。",
+          "index": 4
+        },
+        {
+          "title": "区域人工智能倡议（RAII）",
+          "link": "https://www.canada.ca/content/dam/ped-dep/documents/services/funding/raii/raii-applicant-guide-for-businesses.pdf",
+          "snippet": "申请者须满足全部资格条件，通过评审后可优先获得RAII区域人工智能项目的资助、支持与配套资源。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "创始人助理 - 产品方向",
+          "link": "https://www.dutchstartup.ai/en/jobs/jobgether-founder-s-associate-product",
+          "snippet": "加入快速成长型科技公司，担任创始人产品助理，协助制定产品战略、推进落地执行与业务发展。",
+          "index": 6
+        },
+        {
+          "title": "招聘] AI研究实验室联合创始人/CCO @EWOR GmbH",
+          "link": "https://remotive.com/remote/jobs/artificial-intelligence/ai-research-lab-co-founder-cco-6373100",
+          "snippet": "边领全职薪资边创业，与团队共建AI研究实验室并担任CCO，推动技术商业化与市场增长。",
+          "index": 7
+        },
+        {
+          "title": "聘请卓越思考者，让AI承担写作",
+          "link": "https://medium.com/@lucdiallo/hire-great-thinkers-let-ai-write-cfee68e9999c",
+          "snippet": "作者Luc指出，写作曾是衡量思维的代理指标，如今应招募思想家、让AI完成写作，实现人机分工。",
+          "index": 8
+        },
+        {
+          "title": "迈阿密AI峰会：Hugging Face CEO预测每家公司都将成为AI构建者",
+          "link": "https://refreshmiami.com/news/at-miami-ai-summit-hugging-face-ceo-clem-delangue-predicts-every-company-will-necome-an-ai-builder",
+          "snippet": "迈阿密AI峰会闭幕时，Hugging Face CEO Clem Delangue预测每家公司将成为AI构建者。",
+          "index": 9
+        },
+        {
+          "title": "CEO称AI推广顺利，员工却不以为然——《纽约时报》",
+          "link": "https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html",
+          "snippet": "《纽约时报》DealBook调查显示，企业CEO普遍认为AI推广顺利，但普通员工却持相反看法。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

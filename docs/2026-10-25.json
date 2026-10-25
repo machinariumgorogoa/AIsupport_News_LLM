@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-25",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "AI融资担忧震动华尔街：我们这样调整投资组合",
+      "link": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
+      "snippet": "上周华尔街因AI投资与融资前景担忧而剧烈震荡，我们据此主动重新调整投资组合、优化资产配置以应对潜在风险。",
+      "raw_snippet": "Wall Street struggled to find its footing last week as renewed concerns about financing the artificial intelligence boom overshadowed strong earnings. An early rebound in AI-related names ran into a brick wall Thursday after Meta Platforms reported negative free cash flow for the first time since its 2012 initial public offering. The sell-off spread to more defensive areas of the market Friday, sending the Dow Jones Industrial Average down more than 1% as oil prices surged on fears of renewed [...] free cash flow and its AI spending needs upstaged strong guidance and a promising roadmap for its viral Muse AI agent. What made Thursday's 7% drop in Meta shares even more painful was that it had been rallying in after-hours trading on Wednesday night on encouraging signs for Muse. While a muted capital expenditure outlook was initially viewed as a positive on earnings night, a regulatory filing from Meta quickly raised fresh concerns about its funding needs. The company warned that its [...] on fears of renewed U.S. strikes against Iran. The Nasdaq only posted a slight loss as investors returned to beaten-down chip stocks and bought up cyber stocks. The S & P 500 on Friday was modestly lower. For the week, the Dow was the big winner, rising 0.4%. The S & P 500 was down 0.5%, while the Nasdaq slipped 0.7%. Here's a closer look at the three developments that drove last week's market action. AI funding fears deepen The AI trade remained volatile last week as investors weighed strong",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "Parallel：面向AI Agent的Web基础设施",
+      "link": "https://parallel.ai",
+      "snippet": "Rogo发布Parallel，为各行业AI Agent提供Web监控与自动化基础设施，让网络为智能体工作。",
+      "raw_snippet": "Rogo\n\n## Put the web to work across every industry\n\n Monitor portfolios, signals, and pricing\n\n  Watch the things your business runs on: portfolio companies, target accounts, competitor pricing, regulations. Get a structured alert the moment something material changes, so you only hear what matters to you.\n\n  Example query: Find the latest funding rounds for AI infrastructure startups\n Answer with fresh facts, inside your product [...] Give your assistant, copilot, or coding agent current, cited answers fast enough for a chat thread: live docs, real-world context, breaking news. Your users get the answer that's relevant today, not at training time.\n\nProductivityCoding & BuildingLegalFinance\n\nTry Search[Try Search](\n\nHand over an objective and get back hundreds of finished, cited reports in minutes: an account brief before the call, an investment memo, a competitive landscape. Analyst-grade work, embedded in your workflow. [...] Hand over an objective and get back hundreds of finished, cited reports in minutes: an account brief before the call, an investment memo, a competitive landscape. Analyst-grade work, embedded in your workflow.\n\n  Example query: Build a cited brief on the industrial robotics market\n Enrich companies, people, and accounts",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "AI4WaterGuard：多源地球观测与AI融合的水资源监测方案",
+      "link": "https://www.nature.com/articles/s41598-026-76069-9",
+      "snippet": "研究提出AI4WaterGuard，整合多源地球观测与AI技术，实现水资源动态监测、智能管理与风险预警。",
+      "raw_snippet": "We present AI4WaterGuard, a multi-source Earth Observation and artificial intelligence framework for unsupervised water-use anomaly screening across Cyprus.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "AI安全研究资助计划 Atom Grants",
+      "link": "https://atomgrants.com/collections/ai-safety-research-grants",
+      "snippet": "Atom Grants为AI安全研究项目提供资金，慈善资助方包括Coefficient Giving等机构。",
+      "raw_snippet": "Philanthropic funders include Coefficient Giving, the Survival and Flourishing Fund, and the Future of Life Institute. AI companies fund outside research through programs such as the Anthropic Fellows Program, Google's academic research awards, and the Frontier Model Forum's AI Safety Fund.\n\nNot always. Technical programs fund alignment, interpretability, and evaluations work, but many funders also support governance, policy, law, economics, and ethics research on advanced AI. [...] The Right AI Tool for the Job: How Actuaries Choose Between Models, Platforms, and Architectures RFP supports researchers developing a practical framework to help actuaries choose appropriate AI approaches.\n\nDue Nov 13, 2026SOA### AI and the Workforce\n\nAI and the Workforce supports academic scholars researching how artificial intelligence affects employment, productivity, occupational change, and economic opportunity over time to deepen understanding of work. [...] Explainable AI and Regulatory Compliance RFP supports researchers examining explainable AI techniques and adoption in actuarial work to make AI usable where decisions need explanation and documentation.\n\nDue Nov 13, 2026SOA### The Right AI Tool for the Job: How Actuaries Choose Between Models, Platforms, and Architectures RFP",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "区域人工智能倡议（RAII）",
+      "link": "https://www.canada.ca/content/dam/ped-dep/documents/services/funding/raii/raii-applicant-guide-for-businesses.pdf",
+      "snippet": "申请者须满足全部资格条件，通过评审后可优先获得RAII区域人工智能项目的资助、支持与配套资源。",
+      "raw_snippet": "Applications must meet all the following criteria to be considered: • All costs must be incurred between April 1, 2026, and March 31, 2031. Retroactive costs",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "创始人助理 - 产品方向",
+      "link": "https://www.dutchstartup.ai/en/jobs/jobgether-founder-s-associate-product",
+      "snippet": "加入快速成长型科技公司，担任创始人产品助理，协助制定产品战略、推进落地执行与业务发展。",
+      "raw_snippet": "Join a fast-growing technology company as a Founder's Associate - Product, working at the intersection of product management, artificial intelligence, and",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "招聘] AI研究实验室联合创始人/CCO @EWOR GmbH",
+      "link": "https://remotive.com/remote/jobs/artificial-intelligence/ai-research-lab-co-founder-cco-6373100",
+      "snippet": "边领全职薪资边创业，与团队共建AI研究实验室并担任CCO，推动技术商业化与市场增长。",
+      "raw_snippet": "A salary while you build your startup as you will directly be employed by us. · Owning, building, and running your startup in fields such as AI Research Lab.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "聘请卓越思考者，让AI承担写作",
+      "link": "https://medium.com/@lucdiallo/hire-great-thinkers-let-ai-write-cfee68e9999c",
+      "snippet": "作者Luc指出，写作曾是衡量思维的代理指标，如今应招募思想家、让AI完成写作，实现人机分工。",
+      "raw_snippet": "Hire Great Thinkers. Let AI Write. Writing used to be a reasonable proxy for thinking. AI broke that relationship. Maybe it's time we stopped confusing the",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "迈阿密AI峰会：Hugging Face CEO预测每家公司都将成为AI构建者",
+      "link": "https://refreshmiami.com/news/at-miami-ai-summit-hugging-face-ceo-clem-delangue-predicts-every-company-will-necome-an-ai-builder",
+      "snippet": "迈阿密AI峰会闭幕时，Hugging Face CEO Clem Delangue预测每家公司将成为AI构建者。",
+      "raw_snippet": "The summit closed with a lively fireside chat between former Miami Mayor Francis Suarez and 19-year-old founder Zach Yadegari. The audience erupted in laughter as Suarez poked fun at the generational contrast, highlighting how Yadegari. a self-taught developer who built viral web projects at 13, scaled his calorie-tracking app Cal AI to 15 million users and $30 million in revenue before moving to Miami and launching his new AI assistant startup, Persona. [...] Pictured above is Persona Founder Zach Yadigari with former Miami Mayor Francis Suarez. Pictured at the top of this post: Clem Delangue in a talk moderated by Derick Duchodni, Managing Director at JPMorgan. Photos: eMerge Americas\n\nREAD MORE IN REFRESH MIAMI: [...] ### Next-gen founders and a 30-year vision",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "CEO称AI推广顺利，员工却不以为然——《纽约时报》",
+      "link": "https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html",
+      "snippet": "《纽约时报》DealBook调查显示，企业CEO普遍认为AI推广顺利，但普通员工却持相反看法。",
+      "raw_snippet": "## DealBook\n\nSurveys show workers and executives have different views on A.I.\n\nWhen it comes to artificial intelligence, chief executives and their work forces aren’t seeing eye to eye.\n\nCorporate leaders, increasingly in earnings calls and interviews, tout productivity gains and say they are doing right by their workers as they roll out the technology.\n\nBut workers are much more concerned about being supplanted, and they don’t trust their company’s executives. [...] A survey from the Milken Institute-Harris Poll Listening Project recently found that more than two-thirds of business leaders expect they will be better off financially in five years because of A.I., while just 27 percent of the U.S. work force felt the same way — a whopping 41 point gap. [...] Workers also see less A.I. transformation than leadership does. Nearly three-fourths of leaders say A.I. has significantly changed the way work is done, compared with 58 percent of entry and midlevel employees, according to a report released this month from the Wharton School.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}
