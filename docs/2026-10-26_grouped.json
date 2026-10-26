@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-26",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI原生无线接入网络（AI-Native RAN）的数据采集策略",
+          "link": "https://www.nature.com/collections/jabgadbjig/collection-policies",
+          "snippet": "[探讨AI原生无线接入网络的数据采集策略，通过数据驱动实现智能资源调度与网络自治优化，提升网络整体效率。]",
+          "index": 1
+        },
+        {
+          "title": "Eventbrite：AI与科技初创企业、投资者及专业人士联谊活动门票",
+          "link": "https://www.eventbrite.co.uk/e/ai-tech-startups-investors-professionals-networking-event-tickets-2001385575131?aff=ebdssbdestsearch",
+          "snippet": "[该活动汇聚AI创业者、投资",
+          "index": 2
+        },
+        {
+          "title": "The Connotation, Logic, and Pathways of Artificial Intelligence Empowering the Construction of Student Party Branches from the Perspective of Digital Governance",
+          "link": "https://bkds.ustb.edu.cn/en/article/doi/10.19979/j.cnki.issn10082689.2026020007",
+          "snippet": "|  | 郁建兴, 刘大志. 治理理论的现代性与后现代性[J]. 浙江大学学报(人文社会科学版), 2003(2): 6-14. doi: 10.3785/j....",
+          "index": 3
+        },
+        {
+          "title": "Artificial Intelligence and Machine Learning (Online) M.Sc. at Goldsmiths University of London Online | Mastersportal",
+          "link": "https://www.mastersportal.com/studies/491136/artificial-intelligence-and-machine-learning.html",
+          "snippet": "Title: Artificial Intelligence and Machine Learning (Online) M.Sc. at Goldsmiths...",
+          "index": 4
+        },
+        {
+          "title": "Artificial Intelligence Certification | Rwanda",
+          "link": "https://trainingcred.com/rw/training-course/certified-artificial-intelligence-professional-caip",
+          "snippet": "Title: Artificial Intelligence Certification | Rwanda\nFrom new-hire onboarding t...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "The CEO Spent $400,000 on AI. Then He Caught His Employees Doing the Work in Excel.",
+          "link": "https://medium.com/engineering-playbook/the-ceo-spent-400-000-on-ai-then-he-caught-his-employees-doing-the-work-in-excel-6199be8f158e",
+          "snippet": "A model can confidently suggest that an invoice should be paid. That doesn’t mea...",
+          "index": 6
+        },
+        {
+          "title": "The New Playbook for AI-Era Hiring - SkillEnsure",
+          "link": "https://skillensure.com/blog/the-new-playbook-for-ai-era-hiring",
+          "snippet": "Forget tenure and years of experience. Discover how to rewrite job descriptions ...",
+          "index": 7
+        },
+        {
+          "title": "What is AI Recruiting? Tools for Faster, Fairer Hiring | SAP",
+          "link": "https://www.sap.com/spain/resources/what-is-ai-recruiting",
+          "snippet": "At its core, artificial intelligence in recruiting is designed to support human ...",
+          "index": 8
+        },
+        {
+          "title": "The Companies Winning with AI Aren't Starting with AI",
+          "link": "https://hartfordbusiness.com/article/the-companies-winning-with-ai-arent-starting-with-ai",
+          "snippet": "“The thing I’ve spent most of the time thinking about is education. As AI become...",
+          "index": 9
+        },
+        {
+          "title": "Manager, Digital Product Strategy",
+          "link": "https://www.accenture.com/us-en/careers/jobdetails?id=R00358793_en",
+          "snippet": "You bring an AI-first mindset and look for new ways to solve product, customer, ...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
