@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-27",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "2026年AI初创企业最值得关注的投资者与风投机构",
+      "link": "https://www.openvc.app/investor-lists/ai-investors",
+      "snippet": "AI当前吸引资金规模领先各行业，头部VC正加速布局。",
+      "raw_snippet": "AI is pulling in more capital than any other sector right now, according to Crunchbase. In 2025, nearly half of all global venture funding went into AI (up from roughly a third the year before). More than $200 billion has already flowed into AI across infrastructure, foundation models, and application-layer companies.\n\nAdditionally, a report from Goldman Sachs explains how AI companies’ capital spending may surpass $500 billion in 2026.\n\n### Investor Behavior and Expectations [...] AI Seed Funding\n\nSeed round investors want proof that your idea can resonate in the market. That means early adoption (users, pilots, or even strong LOIs) plus data infrastructure that scales as demand grows. Just as important is clarity on how you’ll turn technical innovation into a real business.\n\nAI Series A+ Funding [...] Compare top startup accelerators side by side\n\nLearn & grow\n\nRaise & build\n\nCommunity & company\n\nAll investor lists\n> AI\n\n# The Top AI Investors & VC Firms for Startups in 2026\n\nBrowse OpenVC's list of investors funding startups in artificial intelligence, machine learning, generative AI, and deep learning. Find the right partners for seed, pre-seed, and early-stage capital.\n\nLast update: October 26, 2026\n\nList author: Lucas Roquilly\n\nShortlist investors, submit pitch decks, and get replies",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "AI在信用社合并中能做什么、不能做什么",
+      "link": "https://www.cutoday.info/THE-feature/Where-AI-Can-And-Cannot-Help-Credit-Unions-Combine-After-A-Merger",
+      "snippet": "AI可辅助premerger分析，但合并成功仍依赖文化整合与人工决策。",
+      "raw_snippet": "Premerger Analysis\n\nAI can support premerger analysis as well by gathering research, organizing financial information and identifying questions leaders may not have considered. McHenry said institutions can use it to conduct a red-team-style assessment that challenges the proposed transaction and highlights risks, but it should not determine whether a merger proceeds. [...] McHenry said the strategic objective behind a merger must remain the primary filter for every integration decision, regardless of whether AI is involved. The technology becomes most useful when teams are attempting to assemble, organize and compare large amounts of information from the two institutions. [...] “AI can be a force multiplier for the different work streams and the different teams because it can help do what humans can do, but do it much faster,” McHenry said.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "Anthropic申请IPO，或成首家上市的前沿AI实验室",
+      "link": "https://news.bloomberglaw.com/artificial-intelligence/anthropic-files-for-ipo-to-become-first-frontier-ai-lab-to-list",
+      "snippet": "若成功上市，这家AI实验室将为前沿AI企业进入公开市场树立先例。",
+      "raw_snippet": "Bloomberg Law\n\nArtificial Intelligence\n\nEmail\n\nShare To:Facebook\n\nLinkedIn\n\n[](\n\n# Anthropic Files for IPO to Become First Frontier AI Lab to List\n\nOct. 26, 2026, 1:33 PM UTC\n\nBailey Lipschultz\n\nBailey Lipschultz\n\nBloomberg News\n\nAnthropic PBC filed for an IPO, moving a step closer to being the first company focused primarily on developing the most advanced artificial intelligence models to go public. [...] ### See Breaking News in Context\n\nBloomberg Law provides trusted coverage of current events enhanced with legal analysis.\n\n### Already a subscriber?\n\nLog in to keep reading or access research tools and resources.\n\n© 2026 Bloomberg Industry Group, Inc.\n\nAll Rights Reserved [...] The company behind Claude expects to begin trading on the Nasdaq Global Select Market under the symbol ANT, a filing Monday with the US Securities and Exchange Commission showed. Anthropic filed confidentially in June for a listing.\n\nThe IPO is being led Goldman Sachs Group Inc. and Morgan Stanley, along with 20 other banks, the filing shows.\n\nAnthropic and some of its shareholders are offering stock in the IPO, the filing ...\n\n## Learn more about Bloomberg Law or Log In to keep reading:",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "微软前高管融资，为金融业构建AI Agent",
+      "link": "https://news.bloombergtax.com/financial-accounting/microsoft-alumni-score-funding-to-build-ai-agents-for-finance",
+      "snippet": "前微软团队获投资开发金融智能体，推动投研与客户服务自动化。",
+      "raw_snippet": "## Learn more about Bloomberg Tax or Log In to keep reading:\n\n### See Breaking News in Context\n\nFrom research to software to news, find what you need to stay ahead.\n\n### Already a subscriber?\n\nLog in to keep reading or access research tools and resources.\n\n© 2026 Bloomberg Industry Group, Inc.\n\nAll Rights Reserved [...] The two-year-old startup drew investors including B Capital Group US LLC to its Series A round, joined by existing backers Foundation Capital LLC and BoldCap Ventures LLC. The New York-headquartered firm known previously as Maximor has now raised $54 million in total.\n\nFounded in 2024 by Ramnandan Krishnamurthy and Ajay Krishna Amudan, the startup competes with the likes of Ramp to develop artificial intelligence platforms for financial services. Hyphenate ... [...] Bloomberg Tax\n\nFinancial Accounting\n\nEmail\n\nShare To:Facebook\n\nLinkedIn\n\n[](\n\n# Microsoft Alumni Score Funding to Build AI Agents for Finance\n\nOct. 27, 2026, 10:00 AM UTC\n\nSaritha Rai\n\nSaritha Rai\n\nBloomberg News\n\nHyphenate Inc. has raised $45 million in a funding round led by Nexus Venture Partners, securing capital for an effort to create AI agents that can run finances for businesses.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "AI公司现金告急，融资来源不明",
+      "link": "https://www.washingtonpost.com/technology/2026/10/27/ai-companies-are-desperate-cash-dont-know-where-it-will-come",
+      "snippet": "行业烧钱加剧，资本市场趋冷，多家企业面临现金流压力。",
+      "raw_snippet": "Democracy Dies in Darkness\n\n# AI companies are desperate for cash and don’t know where it will come from\n\nThe companies have been borrowing hundreds of billions of dollars, selling fresh stock and cooking up more novel and potentially risky new methods of financing.\n\n7 min\n\n(Washington Post illustration; iStock/TWP)\n\nBy Shira Ovide\n\nThe biggest bet in the history of the United States keeps getting bigger and we’re all hanging on for the ride. [...] Technology companies recently launched a record scramble for cash to pay for data centers, computer chips and technology and equipment to power artificial intelligence. This boom is so expensive that even Silicon Valley giants are bleeding cash and companies are now racing one another to collect or borrow other people’s money for the estimated $10 trillion of AI-related spending in coming years.\n\npixel",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "AI产品经理岗位：Recruits Lab联合AI公司招聘",
+      "link": "https://recruitslab.com/jobs/product-manager-ai-productsjob-austin-texas-united-states-cda2tpbf5d9b1uv2",
+      "snippet": "招聘方寻找AI产品专家，负责智能产品规划、落地与商业化。",
+      "raw_snippet": "Recruits Lab is partnering with an AI company to hire a hands-on Product Manager who has taken software from concept to launch. You'll own product discovery",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "2026年10月26日AI产品与服务发布动态",
+      "link": "https://www.planadviser.com/ai-product-service-launches-10-26-2026",
+      "snippet": "Founders Financial Securities接入Zocks，拓展AI驱动的投顾服务。",
+      "raw_snippet": "At Founders Financial Securities, Zocks is now part of the TRU Enterprise OS technology suite available to all Founders’ member partners.\n\n## Modera Launches AI Financial Advice Platform\n\nModera Wealth Management LLC, a fee-only wealth management firm serving individuals, families, business owners and nonprofit organizations, launched Mira, a proprietary agentic platform powered by artificial intelligence. [...] ‍Zocks Communications Inc., an artificial intelligence platform for financial services, has partnered with LPL Financial Holdings Inc. and Founders Financial Securities LLC, expanding access to its adviser-focused AI tools across both firms.\n\nThrough its relationship with LPL, Zocks is now available to LPL’s more than 32,000 financial advisers and approximately 1,100 financial institutions. [...] ## FinTurk Introduces FinBox, Unlimited AI For Financial Advisers\n\nFinTurk Inc., which offers an artificial intelligence-powered client relationship management tool for financial advisers, introduced FinBox, a new AI-powered email management tool for client communications and daily workflows for registered investment advisers.\n\nFinBox allows advisers to read, search, organize and respond to emails within the same workspace where they manage clients, tasks and portfolios.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "每位CEO都必须了解的AI智能真相",
+      "link": "https://theceoproject.com/the-truth-about-ai-intelligence",
+      "snippet": "CEO探索AI时，真正挑战在于构建可持续的AI能力、治理与人才体系。",
+      "raw_snippet": "As CEOs explore AI intelligence, the real challenge is building the judgment, culture, and leadership needed to turn greater capacity into growth.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "Nevis Wealth招聘创始人助理（CEO办公室）",
+      "link": "https://www.builtinnyc.com/job/founder-s-associate-ceo-office/9193022",
+      "snippet": "公司寻找优秀人选，协助CEO推进AI财富管理业务战略落地。",
+      "raw_snippet": "We are looking for exceptional people who have consistently delivered in high-stakes environments and want to do the most impactful work of their career. You have real demonstrated performance behind you, whether as a founder, operator, or top-tier professional. If you are motivated by the chance to shape one of the fastest-growing AI companies in the world and have a track record that proves you can, we want to talk to you.\n\nWhat You'll Do [...] Mid level\n\nFounder's Associates work with the CEO on strategic initiatives, manage enterprise deployments of AI at wealth management firms, communicate across levels, and shape product roadmaps based on customer insights.\n\nThe summary above was generated by AI\n\nAbout Nevis [...] Work directly with the CEO and founders on the most consequential initiatives in the company, with full visibility into how a world-class AI startup operates and scales.\n Own relationships with the largest and most sophisticated wealth management firms in the United States, at a scale that creates real and lasting impact.\n Be at the frontier of applied AI. Nevis is deploying production AI agents inside institutions managing hundreds of billions of dollars today.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "“雇用机器人，解雇人类”：比尔·盖茨的警告与微软买断",
+      "link": "https://www.ndtv.com/artificial-intelligence/hire-the-robot-fire-the-human-bill-gates-warning-then-microsoft-buyouts-12241459",
+      "snippet": "盖茨曾警示自动化冲击就业，微软推出自愿离职方案以适应AI转型。",
+      "raw_snippet": "\"The Voluntary Exit Offer is new for us. We'll learn from it,\" Microsoft's chief people officer Amy Coleman said in a memo to staff.  \nMicrosoft says AI is not behind the move. Reuters, however, reports the company is looking to contain costs and help fund its massive AI investments. [...] ## Gates' Warning\n\nBill Gates calls the AI age an \"evolutionary event,\" where humans are no longer the smartest things on the planet. He expects AI to take over almost all work skills, starting with white-collar jobs, followed by blue collar jobs and physical labour. [...] For advanced economies, the IMF said helping workers move into new roles and protecting those hit hardest should be policy priorities.\n\nGates's warning and Microsoft's buyout offer are separate events, but it's almost impossible to ignore that they hit on back-to-back days.\n\nAs companies increasingly invest money into AI, who bears the cost of the shift is the big question the answer at this point.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}

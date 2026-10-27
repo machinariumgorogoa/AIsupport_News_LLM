@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-27",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "2026年AI初创企业最值得关注的投资者与风投机构",
+          "link": "https://www.openvc.app/investor-lists/ai-investors",
+          "snippet": "AI当前吸引资金规模领先各行业，头部VC正加速布局。",
+          "index": 1
+        },
+        {
+          "title": "AI在信用社合并中能做什么、不能做什么",
+          "link": "https://www.cutoday.info/THE-feature/Where-AI-Can-And-Cannot-Help-Credit-Unions-Combine-After-A-Merger",
+          "snippet": "AI可辅助premerger分析，但合并成功仍依赖文化整合与人工决策。",
+          "index": 2
+        },
+        {
+          "title": "Anthropic申请IPO，或成首家上市的前沿AI实验室",
+          "link": "https://news.bloomberglaw.com/artificial-intelligence/anthropic-files-for-ipo-to-become-first-frontier-ai-lab-to-list",
+          "snippet": "若成功上市，这家AI实验室将为前沿AI企业进入公开市场树立先例。",
+          "index": 3
+        },
+        {
+          "title": "微软前高管融资，为金融业构建AI Agent",
+          "link": "https://news.bloombergtax.com/financial-accounting/microsoft-alumni-score-funding-to-build-ai-agents-for-finance",
+          "snippet": "前微软团队获投资开发金融智能体，推动投研与客户服务自动化。",
+          "index": 4
+        },
+        {
+          "title": "AI公司现金告急，融资来源不明",
+          "link": "https://www.washingtonpost.com/technology/2026/10/27/ai-companies-are-desperate-cash-dont-know-where-it-will-come",
+          "snippet": "行业烧钱加剧，资本市场趋冷，多家企业面临现金流压力。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI产品经理岗位：Recruits Lab联合AI公司招聘",
+          "link": "https://recruitslab.com/jobs/product-manager-ai-productsjob-austin-texas-united-states-cda2tpbf5d9b1uv2",
+          "snippet": "招聘方寻找AI产品专家，负责智能产品规划、落地与商业化。",
+          "index": 6
+        },
+        {
+          "title": "2026年10月26日AI产品与服务发布动态",
+          "link": "https://www.planadviser.com/ai-product-service-launches-10-26-2026",
+          "snippet": "Founders Financial Securities接入Zocks，拓展AI驱动的投顾服务。",
+          "index": 7
+        },
+        {
+          "title": "每位CEO都必须了解的AI智能真相",
+          "link": "https://theceoproject.com/the-truth-about-ai-intelligence",
+          "snippet": "CEO探索AI时，真正挑战在于构建可持续的AI能力、治理与人才体系。",
+          "index": 8
+        },
+        {
+          "title": "Nevis Wealth招聘创始人助理（CEO办公室）",
+          "link": "https://www.builtinnyc.com/job/founder-s-associate-ceo-office/9193022",
+          "snippet": "公司寻找优秀人选，协助CEO推进AI财富管理业务战略落地。",
+          "index": 9
+        },
+        {
+          "title": "“雇用机器人，解雇人类”：比尔·盖茨的警告与微软买断",
+          "link": "https://www.ndtv.com/artificial-intelligence/hire-the-robot-fire-the-human-bill-gates-warning-then-microsoft-buyouts-12241459",
+          "snippet": "盖茨曾警示自动化冲击就业，微软推出自愿离职方案以适应AI转型。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
