@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-28",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic IPO文件警告投资者重大AI安全风险",
+          "link": "https://thebusinessjournal.com/anthropic-ipo-ai-safety-risks-investors",
+          "snippet": "随着AI系统自主性提升，Anthropic招股书警示投资者关注重大安全失控及监管等多重潜在风险。",
+          "index": 1
+        },
+        {
+          "title": "Physical Intelligence拟融资10亿美元，估值达200亿美元",
+          "link": "https://finance.yahoo.com/technology/ai/articles/physical-intelligence-talks-raise-1b-202852726.html",
+          "snippet": "据彭博社报道，Physical Intelligence正洽谈以200亿美元估值融资10亿美元，加码AI机器人布局。",
+          "index": 2
+        },
+        {
+          "title": "“AI转向理论”成为证券诉讼新风险区",
+          "link": "https://news.bloomberglaw.com/business-and-practice/ai-diversion-theories-emerge-as-new-securities-lawsuit-risk-zone",
+          "snippet": "去年AI相关证券诉讼达16起，所谓“AI转向理论”正成为投资者起诉企业信息披露的新依据与监管焦点。",
+          "index": 3
+        },
+        {
+          "title": "AI融资推动私人信贷增长，再融资需求上升",
+          "link": "https://www.reuters.com/legal/transactional/ai-financing-driving-private-credit-growth-refinancing-risks-rise-moodys-says-2026-10-27",
+          "snippet": "为兴建AI基础设施大举举债，正快速扩大私人信贷市场，并推升相关企业再融资与信用风险，引发市场投资者关注。",
+          "index": 4
+        },
+        {
+          "title": "AI公司现金饥渴，资金来源成谜",
+          "link": "https://www.washingtonpost.com/technology/2026/10/27/ai-companies-are-desperate-cash-dont-know-where-it-will-come",
+          "snippet": "《华盛顿邮报》称，众多AI企业急需大量现金，但融资环境趋紧、成本上升，未来资金能否到位仍存疑。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Dataxet任命Jason Lee为CEO，加速AI优先战略",
+          "link": "https://www.provokemedia.com/latest/article/dataxet-names-jason-lee-ceo-as-it-accelerates-ai-first-strategy",
+          "snippet": "Jason Lee将领导Dataxet开发AI驱动的市场洞察平台，加速公司向AI优先模式转型与商业化。",
+          "index": 6
+        },
+        {
+          "title": "Anthropic称投资者面临失控AI的反噬风险",
+          "link": "https://www.pbs.org/newshour/science/anthropic-says-risks-for-investors-include-blowback-from-runaway-ai",
+          "snippet": "Anthropic在文件中警告，若AI系统失控，可能引发严重“反噬”，投资者须警惕相关风险。",
+          "index": 7
+        },
+        {
+          "title": "英国政府发布太空AI路线图",
+          "link": "https://www.gov.uk/government/publications/artificial-intelligence-roadmap-for-space/artificial-intelligence-roadmap-for-space",
+          "snippet": "英国政府在GOV.UK发布太空AI路线图，拟将AI嵌入发射与航天系统以提升竞争力并加速产业智能化。",
+          "index": 8
+        },
+        {
+          "title": "NVIDIA推出企业级AI解决方案",
+          "link": "https://www.nvidia.com/en-us/solutions/ai",
+          "snippet": "NVIDIA介绍面向企业的AI技术与平台，助力各行业提升生产力、运营效率并加速智能化转型。",
+          "index": 9
+        },
+        {
+          "title": "Liquid AI发布LFM3：覆盖多模态专业智能",
+          "link": "https://www.liquid.ai/blog/lfm3",
+          "snippet": "Liquid AI发布LFM3模型，支持多模态数据，并已在Hugging Face提供下载。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
