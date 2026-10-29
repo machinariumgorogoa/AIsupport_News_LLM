@@ -1,145 +1,153 @@
 {
-  "date": "2026-10-28",
-  "count": 32,
+  "date": "2026-10-29",
+  "count": 34,
   "items": [
     {
-      "title": "Anthropic IPO文件警告投资者重大AI安全风险",
-      "link": "https://thebusinessjournal.com/anthropic-ipo-ai-safety-risks-investors",
-      "snippet": "随着AI系统自主性提升，Anthropic招股书警示投资者关注重大安全失控及监管等多重潜在风险。",
-      "raw_snippet": "As AI systems “become more autonomous and capable of taking consequential actions with less human oversight,” the SEC filing said, there’s a risk that such systems could “take harmful actions independently and at scale without human intervention.” [...] Share:\n\nAny time a company looks to start selling shares on Wall Street, it’s required to disclose potential risks to investors. In the case of artificial intelligence giant Anthropic, that has included the possibility that its products could threaten nothing less than humanity itself. [...] The filing discussed concerns that advanced AI systems, if not developed and operated with enough safeguards and oversight, “pose catastrophic or existential risks to humanity, particularly if such systems were misused, replicated, weaponized, or allowed to operate with a high degree of autonomy.”\n\nThe company said it would be harmed if use by bad actors causes damage, “or if our model guardrails or safeguards fail to prevent such misuse.”",
+      "title": "B轮融资总额上升，但交易数量减少",
+      "link": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus",
+      "snippet": "分析显示B轮融资金额增长，但完成交易数量下降，市场更趋集中。",
+      "raw_snippet": "Meanwhile, one of the least surprising findings from our analysis of Series B recipients is that it was a heavily AI-focused group.\n\nSo far this year, about two-thirds of Series B funding has gone to AI-focused startups, per Crunchbase data. In 2025, by comparison, about half of investment went to companies in AI categories.\n\nAI companies were also heavily represented by round count. So far in 2026, more than half of all reported U.S. Series B deals have been for AI companies. [...] At least 110 companies have raised rounds of $100 million or more around this stage so far this year. That’s roughly a quarter of all deals.\n\nOf these, the largest by far was a $12 billion round 3 for Prometheus, Jeff Bezos’ physical AI startup that launched last year. [...] Even so, these don’t look like the best of times for startups seeking smaller Series B rounds. Seems like in the current AI-driven cycle, investors are increasingly focused on big checks for high-valuation companies.\n\n## Related Crunchbase query:\n\n US Series B Funding, 2026\n\nIllustration: Dom Guzman",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "Physical Intelligence is seeking a valuation of about $20 billion",
-      "link": "https://qz.com/physical-intelligence-funding-talks-20-billion-valuation-102726",
-      "snippet": "Physical Intelligence secured funding that valued it at $11.5 billion this year,...",
-      "raw_snippet": "Physical Intelligence secured funding that valued it at $11.5 billion this year, according to Bloomberg. The company has no revenue, according to Bloomberg.\n\nOther backers include CapitalG, Alphabet$GOOGL's independent growth fund, Amazon $AMZN.com founder Jeff Bezos and Thrive Capital, according to Bloomberg. Onetime Google DeepMind researchers teamed up with academics at Stanford University and the University of California, Berkeley, to start the company in 2024. [...] OpenAI and Elon Musk's Tesla$TSLA are among a growing number of startups and bigger companies that compete with the company, according to Bloomberg. Skild AI, another startup centered on teaching robots to learn, reached a $14 billion valuation when it raised funds in January. Skild AI announced in September that its annual recurring revenue had passed $100 million, according to Bloomberg.\n\nDaily Brief\n\n## The essential business news, delivered fresh every morning. [...] Physical Intelligence is seeking a valuation of about $20 billion\n\nQuartz\n\nA.I.\n\n# Robotics AI startup Physical Intelligence is seeking a valuation of about $20 billion\n\nThe startup is in talks to raise at least $1 billion, with existing backers Avenir and Lux Capital in talks to lead the round\n\nBy Colleen Cabili·1 min read·Updated October 27, 2026\n\nAdd QZ to Google\n\nSweetBunFactory / Getty Images",
+      "title": "AI Applications for IP, Valuation and Tax | Tax Academy of Singapore",
+      "link": "https://www.taxacademy.sg/our-events/ai-applications-for-ip--valuation-and-tax",
+      "snippet": "Artificial Intelligence (AI) is changing how professionals search for informatio...",
+      "raw_snippet": "Artificial Intelligence (AI) is changing how professionals search for information, organise evidence, analyse business models, review documents, build assumptions and prepare technical analysis. For professionals working with intellectual property, valuation and tax, AI can be a useful tool to support research, issue-spotting and decision-making. However, its usefulness depends on how clearly questions are framed, how outputs are reviewed, and how professional judgement is applied. [...] This session focuses on how AI can support valuation work, particularly for intangible assets where outcomes depend heavily on assumptions. AI can assist in supporting research, structuring and testing assumptions, generating sensitivity scenarios, and checking the consistency of valuation narratives. The emphasis will be on using AI to improve the quality of analysis, for example, by helping practitioners challenge assumptions and identify gaps or inconsistencies, rather than relying on it to [...] This session explores how AI can support tax and transfer pricing work, where analysis often involves large volumes of information. AI can assist with tax computation preparation and routine compliance checks, such as identifying inconsistencies across figures and cross-checking supporting schedules and documentation. In addition, AI can be used to support transfer pricing and benchmarking analysis (e.g., in intangible asset valuations). A key point to emphasise is that AI is a support tool",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "As U.S. artificial intelligence (AI) company Antropics entered the initial public offering (IPO) pro.. - MK",
-      "link": "https://www.mk.co.kr/en/stock/12188176",
-      "snippet": "In particular, Antropics reported an operating loss of $693 million in the first...",
-      "raw_snippet": "In particular, Antropics reported an operating loss of $693 million in the first half of the year and a net loss of $80.7 billion. The net loss was largely reflected in non-cash valuation losses due to changes in fair value of convertible bonds. In addition to the growth potential of the AI market, the burden of investment costs and profitability sustainability should be considered. [...] for the past week was also estimated at 43.7 billion won. Analysts say the news of the IPO has triggered a rebound at a time when low-priced purchases came in during the adjustment period. [...] As U.S. artificial intelligence (AI) company Antropics entered the initial public offering (IPO) process, domestic semiconductor materials, parts, and equipment stocks and related exchange-traded funds (ETF) rebounded. Amid concerns over the profitability of AI investment, expectations that Antropic's rapid growth could lead to increased investment in data centers and semiconductor facilities have stimulated investor sentiment. On top of that, SK Hynix announced an additional shareholder return",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "AI Across the Deal Lifecycle: What's Working, What's Changing, and Where Caution Matters",
-      "link": "https://www.redpathcpas.com/blog/ai-across-the-deal-lifecycle",
-      "snippet": "AI is also changing how buyers evaluate incoming opportunities. Rather than quic...",
-      "raw_snippet": "AI is also changing how buyers evaluate incoming opportunities. Rather than quickly passing on a potential acquisition because of limited time or resources, teams are now using AI to review confidential information memorandums and answer standard screening questions with references to the underlying documents. [...] ## AI Can Organize Complex Data, but Financial Validation Remains a Challenge\n\nNot every acquisition comes with a well-organized data room. In transactions involving smaller or privately held businesses, buyers may receive access to an ERP system or large amounts of raw operating data that require significant work to interpret. [...] Skip to the main content.\n\nRedpathAndCompany\n\nRedpathandCompany\n\n#### Contact Us\n\n5 min read\n\n# AI Across the Deal Lifecycle: What's Working, What's Changing, and Where Caution Matters\n\nPicture of Joe Hellman, CPA Joe Hellman, CPA  :   October 27, 2026\n\nMergers and Acquisitions\n\nAI Across the Deal Lifecycle: What's Working, What's Changing, and Where Caution Matters",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Physical Intelligence in Talks to Raise Funding at $20 Billion Valuation",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
-      "snippet": "[](\n\nSubscribe\n\n[Video 1 Video Player is loading. This is a modal window. Beginn...",
-      "raw_snippet": "[](\n\nSubscribe\n\n[Video 1 Video Player is loading. This is a modal window. Beginning of dialog window. Escape will cancel and close the window. Text Color Transparency Background Color Transparency Window Color Transparency Font Size Text Edge Style Font Family Reset restore all settings to the default values Done Close Modal Dialog End of dialog window.](\n\nLIVE NOWTXSE CEO Speaks at Bloomberg Invest DallasWatch\n\nEXCLUSIVE\n\nTechnology\n\nAI [...] Confidential tip? Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy Rebecca Torrence and Natasha Mascarenhas\n\nOctober 27, 2026 at 7:43 PM UTC\n\nSave\n\nTranslate\n\nPhysical Intelligence, a startup developing artificial intelligence software to power robots for real-world tasks, is in funding talks that would nearly double its valuation to roughly $20 billion, according to people familiar with the matter. [...] The company is in discussions to raise at least $1 billion in the financing round, the people said, requesting anonymity to share private information. Existing backers Avenir and Lux Capital are in talks to lead the round, the people said.\n\nBefore it's here, it's on the Bloomberg Terminal LEARN MORE\n\n[](\n\nHomeBTV+Market DataOpinionAudioOriginalsMagazineEvents\n\nNews\n\nMarketsEconomicsTechnologyPoliticsGreenCryptoAI\n\nWork & Life\n\nWealthPursuitsBusinessweekCityLabSportsEqualityManagement & Work",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Physical Intelligence拟融资10亿美元，估值达200亿美元",
-      "link": "https://finance.yahoo.com/technology/ai/articles/physical-intelligence-talks-raise-1b-202852726.html",
-      "snippet": "据彭博社报道，Physical Intelligence正洽谈以200亿美元估值融资10亿美元，加码AI机器人布局。",
-      "raw_snippet": "1. Crypto\n\n   Crypto\n2. AI\n\n   AI\n\nInvesting.com\n\n# Physical Intelligence in talks to raise $1B at $20B valuation - Bloomberg\n\nLuke Juricic\n\n2 min read\n\n GOOG\n\n  +0.84%\n AMZN\n\n  +1.61% [...] Venture capital has increasingly migrated toward embodied AI as advancements in multimodal systems create viable paths for automation across complex real-world environments. Physical Intelligence faces intensifying competition from deep-pocketed incumbents like OpenAI and Tesla Inc., as well as specialized peers such as Skild AI, which garnered a $14 billion valuation in January and recently crossed $100 million in annual recurring revenue.\n\nOriginal Article [...] Founded in 2024 by former Google DeepMind researchers alongside academics from Stanford University and UC Berkeley, the company is building a hardware-agnostic AI platform designed to control diverse robotic systems. Recent job listings indicate the firm is training models on routine physical tasks, spanning item bagging and dish sorting to installing light bulbs.",
+      "title": "2026年14,262+家获融资AI初创企业完整数据库",
+      "link": "https://www.vcbacked.co/ai-startups",
+      "snippet": "该数据库收录逾14,262家获融资AI初创公司及其融资信息。",
+      "raw_snippet": "| Kapital | Artificial Intelligence (AI) | $125.0M | N/A | Mexico City | Sep 2026 |\n| Tempus | Artificial Intelligence (AI) | $9.5M | N/A | Chicago | Sep 2026 |\n| Cloud Cycle | Artificial Intelligence (AI) | $3.1M | N/A | London | Sep 2026 |\n| Savvy Wealth | Artificial Intelligence (AI) | $100.0M | N/A | New York | Sep 2026 |\n| Actionable | Artificial Intelligence (AI) | $10.0M | N/A | Nancy | Sep 2026 |\n| Overroute | Artificial Intelligence (AI) | $5.5M | N/A | Fayetteville | Sep 2026 | [...] | Veridue | Artificial Intelligence (AI) | $4.0M | N/A | London | Sep 2026 |\n| GenHealth.ai | Artificial Intelligence (AI) | $16.5M | N/A | Vienna | Sep 2026 |\n| Antioch | Artificial Intelligence (AI) | $32.0M | N/A | New York | Sep 2026 |\n| Shoot 360 | Artificial Intelligence (AI) | $7.0M | N/A | Vancouver | Sep 2026 |\n| Mistral AI | Agentic AI | $3.5B | N/A | Paris | Sep 2026 |\n| Sci2sci | Artificial Intelligence (AI) | $1.4M | N/A | Berlin | Sep 2026 | [...] | Every Media | Artificial Intelligence (AI) | $16.0M | N/A | Brooklyn | Sep 2026 |\n| Ground A | Artificial Intelligence (AI) | $10.6M | N/A | Düsseldorf | Sep 2026 |\n| Sapien | Analytics | Undisclosed | N/A | San Francisco | Sep 2026 |\n| Prometheus Hyperscale | Advanced Materials | $30.3M | N/A | Evanston | Sep 2026 |\n| Kingscrowd | Analytics | $602K | N/A | Binghamton | Sep 2026 |\n| yngvi bio | Agriculture | $1.5M | N/A | Copenhagen | Sep 2026 |",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "What is the 'AI bubble' and what happens if it pops? | San Luis Obispo Tribune",
-      "link": "https://www.sanluisobispo.com/news/business/article317803626.html",
-      "snippet": "While the 335-page registration statement didn't state the company's valuation, ...",
-      "raw_snippet": "While the 335-page registration statement didn't state the company's valuation, some investors have guessed it could be as high as $2 trillion, which would make it the biggest IPO ever. A large IPO could inflate what is sometimes referred to as an AI bubble, or the idea that financial markets have overvalued AI companies, and that when the markets correct, a financial fallout will occur, according to Dennis Kelleher, CEO of nonprofit financial group Better Markets. [...] Read today's Edition\n\nSan Luis Obispo Tribune Logo\n\nLog In | Subscribe\n\nWelcome Back!\n\n Edit Profile   My Subscriptions   Sign Out\n\nVoter Guide\n\nThe Cambrian\n\nBusiness \n\n# What is the 'AI bubble' and what happens if it pops?\n\nBy Greta Reich, USA TODAY USA TODAY Network via Reuters Connect\n\nU.S. based AI company Anthropic, maker of popular chatbot Claude, filed for its initial public offering (IPO) on Oct. 26, giving the public a first official look into its business operations and ownership. [...] The paperwork Anthropic filed on Monday is only their registration statement to go public. They are expected to start trading before Thanksgiving, which will serve as a litmus test for investor demand and set the stage for other private AI companies, including OpenAI.\n\nIf Anthropic is overvalued, the AI bubble will continue to grow, creating a bigger fallout if it pops, according to Kelleher.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Who Stands to Gain From an Anthropic I.P.O. - The New York Times",
+      "title": "Anthropic IPO谁会受益",
       "link": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
-      "snippet": "The release of the chatbot maker’s highly anticipated S-1 helped prompt a reboun...",
+      "snippet": "聊天机器人制造商Anthropic提交备受期待的S-1招股书，投资者与早期股东或将获利。",
       "raw_snippet": "The release of the chatbot maker’s highly anticipated S-1 helped prompt a rebound in tech stocks on Monday. The prospectus laid out the promises, challenges and risks of commercializing cutting-edge A.I., with some eye-popping numbers. That said, it left out key details.\n\nAnalysts and bettors on Polymarket, the prediction market, are left to speculate on whether Anthropic will hit a $2 trillion valuation, a number that Wall Street and Silicon Valley have been buzzing about for months. [...] One major standout? Spark Capital. It is poised to turn its approximately $777 million in investments made since 2023 into a staggering $10.9 billion if Anthropic achieves a $1.5 trillion valuation, according to PitchBook. More below.\n\n## The Anthropic effect\n\nThe positive vibes around Anthropic’s I.P.O. filing continue to lift markets. U.S. stock futures are gaining on Tuesday even as investors refocus on the huge spending needed to finance the artificial intelligence boom. [...] But the big question is whether Anthropic’s gargantuan listing can reinvigorate the stalled I.P.O. pipeline and squelch A.I. bubble talk.\n\n## Related Content\n\nAdvertisement",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "“AI转向理论”成为证券诉讼新风险区",
-      "link": "https://news.bloomberglaw.com/business-and-practice/ai-diversion-theories-emerge-as-new-securities-lawsuit-risk-zone",
-      "snippet": "去年AI相关证券诉讼达16起，所谓“AI转向理论”正成为投资者起诉企业信息披露的新依据与监管焦点。",
-      "raw_snippet": "Last year saw 16 AI-related securities filings. In the first half of 2026, 15 such cases were filed, according to Cornerstone, putting this year on pace for nearly double the number of filings. This trend will likely continue as more companies tout their AI abilities. [...] AI-related securities allegations continue to fall into two broad categories, consistent with securities law’s traditional exaggeration-concealment dichotomy: those alleging companies overstated their AI capabilities and those claiming companies understated AI-related risks. [...] According to the complaint, beginning in 2025, Google’s rollout of “AI Overviews” and the growing use of AI chatbots like ChatGPT for searches meant fewer users clicked through to monday.com’s website, essentially eroding the company’s core acquisition engine.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "The Top AI Investors & VC Firms for Startups in 2026",
-      "link": "https://www.openvc.app/investor-lists/ai-investors",
-      "snippet": "AI is pulling in more capital than any other sector right now, according to Crun...",
-      "raw_snippet": "AI is pulling in more capital than any other sector right now, according to Crunchbase. In 2025, nearly half of all global venture funding went into AI (up from roughly a third the year before). More than $200 billion has already flowed into AI across infrastructure, foundation models, and application-layer companies.\n\nAdditionally, a report from Goldman Sachs explains how AI companies’ capital spending may surpass $500 billion in 2026.\n\n### Investor Behavior and Expectations [...] AI Seed Funding\n\nSeed round investors want proof that your idea can resonate in the market. That means early adoption (users, pilots, or even strong LOIs) plus data infrastructure that scales as demand grows. Just as important is clarity on how you’ll turn technical innovation into a real business.\n\nAI Series A+ Funding [...] |  | LG  [Corporate VC](fund/LG) | Flag of USA USA Flag of Israel Israel | $1M to $10M | 4. Scaling 5. Growth6. Pre-IPO+1 | Sometimes | We invest in AI, Robotics, Enterprise software, Energy | APAC Expansion, Commercial relationships with LG |  |  |  | Find intros View profile |",
+      "title": "AI giants' funding ambitions test Wall Street's appetite for risk | Reuters",
+      "link": "https://www.reuters.com/legal/transactional/ai-giants-funding-ambitions-test-wall-streets-appetite-risk-2026-10-28",
+      "snippet": "Sign up here.\n\nMeta (META.O) also unveiled a plan this week that could bring it ...",
+      "raw_snippet": "Sign up here.\n\nMeta (META.O) also unveiled a plan this week that could bring it as much as $97.5 billion through equity offerings over the coming months.\n\nThe markets will also await signs of fundraising plans when Microsoft (MSFT.O) and Alphabet (GOOGL.O) report earnings later on Wednesday.\n\nBy pressing ahead with their enormous funding plans, the biggest AI players are wagering ​that investors' fear of missing out on future returns will outweigh their fear of overpaying for them. [...] SpaceX (SPCX.O) CEO Elon Musk recently said neocloud companies could face significant consolidation and failures. He ruled out any acquisition of a neocloud company by SpaceX, saying such a deal would be \"pointless.\"\n\nStill, this year's ⁠AI capex ​by Amazon (AMZN.O), Alphabet, Meta, Oracle (ORCL.N) and Microsoft would likely equal their cumulative spend ​since the November 2022 launch of ChatGPT, according to data from J.P. Morgan. [...] Oct 28 (Reuters) - The heavyweights of the AI industry are facing a reckoning on Wall Street, reflecting concerns over who will bear the cost of the artificial intelligence buildout that has fueled much of this year's stock market gains.\n\nAnthropic revealed paperwork for its ​initial public offering on Monday, paving the way for a share sale reportedly worth $100 billion as early as ‌next month.\n\nSign up here.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "How to Decide Which AI Ideas Are Worth Funding | The Virtual Forge",
-      "link": "https://www.thevirtualforge.com/company/blog/how-do-you-decide-which-ai-ideas-are-worth-funding",
-      "snippet": "Score each question from 1 to 5.\n Score risk in reverse, so 5 means low risk.\n C...",
-      "raw_snippet": "Score each question from 1 to 5.\n Score risk in reverse, so 5 means low risk.\n Count value twice. It’s the reason you’re doing this in the first place.\n\nThat gives a maximum of 20. Then apply two rules.\n\nAny score of 1 is a stop sign. Don’t let a strong total average away a fatal flaw.\n\nEvery score needs a sentence of evidence. A 4 with no reason behind it is really a 2.\n\n#### Why “Together” Matters\n\nThe scoring is useful. The conversation is where the value is. [...] Those projects weren’t killed by the technology. They were killed by questions nobody asked before the money went in.\n\nThe wider picture tells the same story. In McKinsey’s latest global survey, only 39% of respondents attribute any EBIT impact to AI, and most of those say it accounts for less than 5% of their organisation’s EBIT. (McKinsey) Plenty of activity. Not much on the bottom line yet. mckinsey\n\n#### Three Questions, Scored Together [...] We score every AI opportunity against three questions.\n\nValue: what measurable outcome does it move, and by how much? “It’ll save time” isn’t an answer. “It cuts invoice processing from four days to one, across 2,000 invoices a month” is. If nobody can name the number, the idea isn’t ready for a budget.",
+      "title": "Beyond Valuations: Long-Term Financial Risks from the AI Build-Out",
+      "link": "https://ideas.repec.org/a/fip/fedkeb/103879.html",
+      "snippet": "Registered:\n\n## Abstract\n\nLarge-scale investments associated with the artificial...",
+      "raw_snippet": "Registered:\n\n## Abstract\n\nLarge-scale investments associated with the artificial intelligence (AI) build-out have encompassed a broad range of industries, financial institutions, and markets, generating investor exuberance but also concerns about the disorderly repricing of assets. The financial risks associated with AI investment extend beyond short-term valuation distortions and may entail significant long-term structural shifts.\n\n## Suggested Citation [...] If you know of missing items citing this one, you can help us creating those links by adding the relevant references in the same way as above, for each refering item. If you are a registered author of this item, you may also want to check the \"citations\" tab in your RePEc Author Service profile, as there may be some citations waiting for confirmation. [...] ## Corrections\n\nAll material on this site has been provided by the respective publishers and authors. You can help correct errors and omissions. When requesting a correction, please mention this item's handle: RePEc:fip:fedkeb:103879. See general information about how to correct material in RePEc.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "UNESCO Santiago secures international funding to strengthen journalist",
-      "link": "https://www.unesco.org/en/articles/unesco-santiago-secures-international-funding-strengthen-journalist-safety-and-promote-critical",
-      "snippet": "These initiatives will help strengthen knowledge generation, the development of ...",
-      "raw_snippet": "These initiatives will help strengthen knowledge generation, the development of tools and the capacities of different stakeholders to address two priority areas: the safety of journalists, with particular attention to the risks faced by women, and media and information literacy in a context shaped by the rapid development of artificial intelligence (AI). [...] English\n Español\n\nUNESCO\n\nShareforward\n\nNews\n\n# UNESCO Santiago secures international funding to strengthen journalist safety and promote critical literacy in artificial intelligence [...] The initiative seeks to strengthen critical artificial intelligence literacy among teachers, students and education authorities in Latin America and the Caribbean, promoting the development of capacities to understand, evaluate and use these technologies ethically, critically and responsibly.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "AI融资推动私人信贷增长，再融资需求上升",
-      "link": "https://www.reuters.com/legal/transactional/ai-financing-driving-private-credit-growth-refinancing-risks-rise-moodys-says-2026-10-27",
-      "snippet": "为兴建AI基础设施大举举债，正快速扩大私人信贷市场，并推升相关企业再融资与信用风险，引发市场投资者关注。",
-      "raw_snippet": "High levels of borrowing to fund AI infrastructure is expanding private credit beyond traditional corporate ​lending, but a wave of loans coming ‌due in the",
+      "title": "AI巨头融资雄心考验华尔街风险偏好",
+      "link": "https://www.thenewstribune.com/news/business/article317815620.html",
+      "snippet": "大型AI公司推进巨额融资计划，考验华尔街对高风险投资的承受能力与兴趣。",
+      "raw_snippet": "By pressing ahead with their enormous funding plans, the biggest AI players are wagering that investors' fear of missing out on future returns will outweigh their fear of overpaying for them.\n\nAI stocks accounted for nearly 75% of the S&P 500 index's return in the first half of 2026, according to an analysis by Carson Group. [...] Anthropic revealed paperwork for its initial public offering on Monday, paving the way for a share sale reportedly worth $100 billion as early as next month.\n\nMeta also unveiled a plan this week that could bring it as much as $97.5 billion through equity offerings over the coming months.\n\nThe markets will also await signs of fundraising plans when Microsoft and Alphabet report earnings later on Wednesday. [...] Meta's shares have fallen more than 11% since it unveiled plans last week to create a new class of stock to fund share sales and reported its first quarterly cash burn in more than a decade.\n\nWhile Anthropic's soaring revenue helped ease AI growth concerns, its mounting losses have raised fresh questions. The company's net loss widened to $80.7 billion in the first half of 2026 from $13 billion a year earlier.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 4
     },
     {
-      "title": "AI公司现金饥渴，资金来源成谜",
-      "link": "https://www.washingtonpost.com/technology/2026/10/27/ai-companies-are-desperate-cash-dont-know-where-it-will-come",
-      "snippet": "《华盛顿邮报》称，众多AI企业急需大量现金，但融资环境趋紧、成本上升，未来资金能否到位仍存疑。",
-      "raw_snippet": "Democracy Dies in Darkness\n\n# AI companies are desperate for cash and don’t know where it will come from\n\nThe companies have been borrowing hundreds of billions of dollars, selling fresh stock and cooking up more novel and potentially risky new methods of financing.\n\n7 min\n\n(Washington Post illustration; iStock/TWP)\n\nBy Shira Ovide\n\nThe biggest bet in the history of the United States keeps getting bigger and we’re all hanging on for the ride. [...] Technology companies recently launched a record scramble for cash to pay for data centers, computer chips and technology and equipment to power artificial intelligence. This boom is so expensive that even Silicon Valley giants are bleeding cash and companies are now racing one another to collect or borrow other people’s money for the estimated $10 trillion of AI-related spending in coming years.\n\npixel",
+      "title": "Solink融资超1亿美元推进AI视觉智能",
+      "link": "https://www.businesswire.com/news/home/20261029969930/en/Solink-Raises-More-Than-%24100-Million-in-New-Funding-to-Bring-its-AI-Vision-Intelligence-to-Physical-Business-Operations-Around-the-World",
+      "snippet": "AI Vision Intelligence领导者Solink宣布融资逾1亿美元，以扩展其AI视觉解决方案。",
+      "raw_snippet": "Solink®, a leader in AI Vision Intelligence, today announced more than $100 million in new funding led by Vertu Capital,",
       "is_chinese": false,
       "source_type": "funding",
       "index": 5
     },
     {
-      "title": "Exploring the influencing factors of artificial intelligence literacy acquisition of upper primary students: A path analysis",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0001691826014940",
-      "snippet": "Cookie Details List\n\n### Cookie List\n\nClear\n   - [x] checkbox label label \n\nAppl...",
-      "raw_snippet": "Cookie Details List\n\n### Cookie List\n\nClear\n   - [x] checkbox label label \n\nApply Cancel\n\nConsent Leg.Interest\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\nConfirm my choices\n\nImage 10: Powered by Onetrust [...] We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. You can manage your cookie preferences using theCookie settings link. For more information, see ourCookie Policy\n\nCookie settings Accept all cookies\n\nImage 8: Company Logo\n\nOpt-Out Request Honored\n\n## Cookie Preference Center [...] With the emergence of artificial intelligence (AI) in recent decades, AI literacy has become a critical component of K–12 education. Although research on AI literacy in K–12 education continues to advance, existing studies have largely focused on its definition and conceptualization. There is limited empirical research on the influencing factors of AI literacy, and even less at the primary education level. To address this gap, the present study aimed to explore the relationships among key",
+      "title": "Webcast: Buying the Future: M&A and Partnerships Reshaping AI, Robotics, and Healthcare | ETF Trends",
+      "link": "https://www.etftrends.com/webcasts/buying-the-future-ma-and-partnerships-reshaping-ai-robotics-and-healthcare?topic=healthcare",
+      "snippet": "M&A and takeouts: the technologies buyers want, from edge AI to data center infr...",
+      "raw_snippet": "M&A and takeouts: the technologies buyers want, from edge AI to data center infrastructure, and the strategic logic behind the deals.\n Partnerships and major fundraises: how companies are building capabilities and how private funding is financing the next wave of physical AI.\n Healthcare and automation: how AI-powered labs and process automation are drawing new investment across healthcare technology. [...] ## VIRTUAL EVENTS\n\n# Buying the Future: M&A and Partnerships Reshaping AI, Robotics, and Healthcare\n\nDeal activity is picking up as companies race to bring AI into more of the economy. Companies are buying technologies, forming alliances and funding new contenders to enhance their competitive positioning in data center infrastructure, intelligent devices, robotics and healthcare technology. [...] Disclaimer",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Anthropic’s Trillion-Dollar “Buy Now, Pay Later” Gamble",
-      "link": "https://medium.com/@ignacio.de.gregorio.noblejas/anthropics-trillion-dollar-buy-now-pay-later-gamble-3121f7f95185",
-      "snippet": "Continue in app\n\nOr, continue in mobile web\n\nSign up with email\n\nAlready have an...",
-      "raw_snippet": "Continue in app\n\nOr, continue in mobile web\n\nSign up with email\n\nAlready have an account? Sign in\n\n[](\n\n65\n\n[](\n\n65\n\n[](\n\n1\n\n[](\n\nImage 4: Ignacio de Gregorio\n\n## Written by Ignacio de Gregorio\n\n230K followers\n\n·25 following\n\nI break down AI in simple, easy-to-understand language. Newsletter signup: thewhitebox.ai/newsletter-signup Business inquiries: thewhitebox.ai/advisory-enquiry\n\nFollow\n\nSubscribe to my newsletterBuy me a coffee\n\n## See more from me\n\n[](\n\nHelp\n\nStatus\n\nAbout\n\nCareers [...] Sitemap\n\nOpen in app\n\nSign up\n\nSign in\n\n, has filed for an IPO, finally revealing the highly secretive numbers that analysts have estimated and predicted for months, if not years.\n\nAnd the picture, on paper, is pretty good (we’ll see where the real issues are later). But before anything…\n\n## Create an account to read the full story.\n\nThe author made this story available to Medium members only.  \nIf you’re new to Medium, create a new account to read this story on us.\n\nContinue in app [...] About\n\nCareers\n\nPress\n\nBlog\n\nStore\n\nPrivacy\n\nRules\n\nTerms\n\nText to speech",
+      "title": "Bruce Whipple - How To Use Ai To Supercharge Your Business ...",
+      "link": "https://open.spotify.com/episode/4P1L2iLtUzQpz2ceqeO1GQ",
+      "snippet": "Throughout this episode, listeners will learn how to harness AI-driven market intelligence tools that sift through vast amounts of financial,",
+      "raw_snippet": "Throughout this episode, listeners will learn how to harness AI-driven market intelligence tools that sift through vast amounts of financial,",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Is AI Inevitable? | IE Insights",
-      "link": "https://www.ie.edu/insights/articles/is-ai-inevitable",
-      "snippet": "The practical consequence of the three previous points is a threat: use AI or be...",
-      "raw_snippet": "The practical consequence of the three previous points is a threat: use AI or be left behind. An entrepreneur’s viral post on X garnered almost 90 million views centered on that very idea. For years, the same threat has widely circulated in the form of a passive-aggressive slogan: “AI won’t replace humans, but humans with AI will replace humans without AI.” What started as a prediction becomes a warning and ultimately an instruction. [...] First, it assumes that AI capabilities will continue improving at an unstoppable, exponential rate. This expectation is often reinforced by claims that artificial general intelligence (AGI), or even superintelligence, is already within reach. “The discourse around AGI adds a veneer of inevitability to conversations about AI; if one company doesn’t achieve it, another will,” points out the organization AI Now. [...] Watch\n\n\n\n## The US-China AI Race Has One Winner: Everyone Who Ignores It\n\nInnovation & Technology Artificial Intelligence\n\nRead\n\n\n\n## Innovation for an Aging Society\n\nEntrepreneurship | Innovation & Technology Health\n\nRead\n\n\n\n## Your Team Has AI Tools. But Is It AI-Ready?\n\nInnovation & Technology | Managing People Artificial Intelligence | Leadership\n\nRead\n\n\n\n## Europe Feels Fine. That’s Exactly Why It Isn’t.\n\nInnovation & Technology Artificial Intelligence\n\nRead",
+      "title": "Funding the Future: 5 Steps to Achieve C-Suite Buy-In for AI Supply Chain Planning",
+      "link": "https://johngalt.com/learn/white-papers/funding-the-future-5-steps-to-achieve-c-suite-buy-in-for-ai-supply-chain-planning",
+      "snippet": "Explore step-by-step guidance for building a business case that resonates with d...",
+      "raw_snippet": "Explore step-by-step guidance for building a business case that resonates with decision-makers, and turn the potential of AI into an investment your executive team can support. Discover how to connect AI initiatives to corporate objectives, identify the right use cases, establish appropriate human oversight, address competing stakeholder priorities, and demonstrate measurable business value. [...] Connect AI to business outcomes: Build a compelling case around revenue growth, margin protection, working capital, and resilience.\n Think beyond the supply chain: Demonstrate how planning investments support the priorities of the CFO, CEO, COO, and other stakeholders.\n Build a business case that gets results: Prove the value by aligning AI capabilities with specific challenges and goals. Support your proposal with credible research, real-world results, and a clear path to ROI. [...] A resilient and highly responsive supply chain can protect margins, improve customer service, and create a competitive advantage when market conditions change. Advances in AI are opening new possibilities for faster, smarter decisions, especially when organizations adopt the right capabilities with a clear strategy.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Artificial Intelligence (AI) | IMDA",
+      "link": "https://www.imda.gov.sg/about-imda/research-and-statistics/support-for-industry-sectors/enterprise-digital-transformation/ai",
+      "snippet": "## Stay tuned for our newsletter\n\nSubscribe now\n\nKnowledge Mining\n\nCustomer Enga...",
+      "raw_snippet": "## Stay tuned for our newsletter\n\nSubscribe now\n\nKnowledge Mining\n\nCustomer Engagement\n\nConversational Analytics\n\nOperations Automation\n\nContent Generation\n\nView all partners\n\nDownload here [...] The IMDA logo represents the government's commitment to SMEs go digital, driving digital solutions, data protection and moreThe IMDA logo represents the government's commitment to SMEs go digital, driving digital solutions, data protection and more\n\nLoading...\n\n1. Architects of SG's Digital Future\n2. About IMDA\n3. Research and Statistics\n4. Sectors\n5. Enterprise Digital Transformation\n6. Artificial Intelligence (AI)\n\nRegister for AI x DLAI for Enterprise Impact Playbook",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Real Estate Appraisals and Property Risk - Capital Markets | JLL",
+      "link": "https://www.jll.com/en-us/services/value-risk",
+      "snippet": "Client story\n\n### Community housing provider reduces valuation time and cost usi...",
+      "raw_snippet": "Client story\n\n### Community housing provider reduces valuation time and cost using artificial intelligence\n\nCommon Equity Housing Limited (CEHL) plays a vital role in helping low-income residents secure stable, affordable housing. When it needed to collate valuations for its property portfolio, CEHL found a better way to complete the long process.\n\nRead the client storyarrow\\_forward\n\nClient story\n\n### A global insurance firm powers ESG strategy with novel risk modeling [...] Our global data shows market trends in real time, AI predicts where markets are heading and our 3,800 experts transform intelligence into action plans that increase returns. Put yourself ahead of market shifts and capitalize on opportunities before the competition.\n\nExplore our tech solutions\n\nchevron\\_right\n\n## Our fields of expertise\n\nOffice\n\nchevron\\_right\n\nLiving and multifamily\n\nchevron\\_right\n\nHotels and hospitality\n\nchevron\\_right\n\nHealthcare\n\nchevron\\_right\n\nData centers [...] The real estate market is constantly evolving, presenting new risks and opportunities for investors. JLL’s real estate valuation and advisory services deliver real-time insights to help investors and lenders understand current values and future market trends, with real estate appraisal and property risk management services to optimize portfolio opportunities.\n\n## Capital markets technology\n\nValuation technology to turn real-time transaction data into your competitive advantage",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Artificial Intelligence Papers on X: \"Curriculum-Guided Acquisition of ...",
+      "link": "https://x.com/SciFi/status/2115461468296486960",
+      "snippet": "Hierarchical task knowledge enables efficient problem solving by allowing previously acquired skills to be reused across. read image description",
+      "raw_snippet": "Hierarchical task knowledge enables efficient problem solving by allowing previously acquired skills to be reused across. read image description",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Patient trust in health education attributed to generative artificial ...",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42950882",
+      "snippet": "AI authorship was associated with reduced trust in patient-facing education despite identical, clinician-written content.",
+      "raw_snippet": "AI authorship was associated with reduced trust in patient-facing education despite identical, clinician-written content.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Senior Azure Artificial Intelligence Security Architect - Remote",
+      "link": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2039774",
+      "snippet": "Serves as the AI/ML security subject matter expert, including for Microsoft Azure and Databricks workloads, and partners with technology teams",
+      "raw_snippet": "Serves as the AI/ML security subject matter expert, including for Microsoft Azure and Databricks workloads, and partners with technology teams",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Embodied Intelligence: VR, AI, and Skill Acquisition in Humanoid Robotics | calendar | University of Central Florida Events",
+      "link": "https://events.ucf.edu/event/4231127/embodied-intelligence-vr-ai-and-skill-acquisition-in-humanoid-robotics",
+      "snippet": "Events at UCF\n\nLog In\n\n# Embodied Intelligence: VR, AI, and Skill Acquisition in...",
+      "raw_snippet": "Events at UCF\n\nLog In\n\n# Embodied Intelligence: VR, AI, and Skill Acquisition in Humanoid Robotics\n\n## Admin Options\n\nEdit   Add Event To\n\nFriday, October 30, 2026   9:30 a.m.  to 4 p.m.\n\nFriday, 10/30: 9:30am-4:00pm:\n\nEmbodied Intelligence: VR, AI, and Skill Acquisition in Humanoid Robotics [...] Symposium that brings together VR, AI, and humanoid robotics, focusing on how immersive environments can help train robotic systems. Topics include teleoperation, learning from human demonstrations, sim-to-real transfer, embodied AI, human-machine collaboration, safety, and skill acquisition.\n\nDr. Cruz-Neira will be speaking at 11:30am on “Be There Without Being There: Humanoid Robot Immersive Telepresence for Remote Healthcare and Human Connection\" [...] Complimentary UCF registration code: ucfrobotics  \nView event details and in-person registration\n\nZoom registration: \n\nRead More\n\n## Locations:\n\nRoom 208: 3100 Technology Parkway, Orlando, FL 32826   (\n\nVirtual  (\n\n## Event Registration\n\nIn-person and Zoom\n\nRegister Now\n\n## Contact:\n\nBob Fine    202-684-6207     support@ivrha.org\n\n## Calendar:\n:   calendar\n\n## Category:\n:   Speaker/Lecture/Seminar\n\n## Tags:\n:   Robotic Robot Artificial Intelligence virtual reality Humanoid",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Hire AI Developers in USA: Complete Hiring Guide 2026",
+      "link": "https://www.krishangtechnolab.com/blog/hire-ai-developers-in-usa-guide",
+      "snippet": "A freelance AI developer for hire offers speed and flexibility for short tasks. ...",
+      "raw_snippet": "A freelance AI developer for hire offers speed and flexibility for short tasks. Yet availability can change quickly. Many founders hire an AI developer this way, then hire dedicated developers as the product grows.\n\n### Partnering With an AI Development Company [...] Bharat Odedara, founder and chief technology officer of Krishang Technolab, combines a forward-thinking vision with deep industry expertise to lead and empower cross-functional teams. With a specialized focus on AI-driven custom software, web, and mobile application solutions, he drives operational efficiency and fosters innovation, consistently delivering state-of-the-art digital solutions that surpass global client expectations. Under his leadership, Krishang Technolab has emerged as a key [...] These specialists build apps that use models for search, chat, or scoring. Therefore, many firms hire AI programmer talent to ship features fast. In addition, some hire software developers for the surrounding product.\n\n### Machine Learning Engineers\n\nMachine learning engineers train, tune, and monitor predictive models. Likewise, you can hire AI engineers for forecasting, fraud checks, or demand planning. Next, pair them with teams that hire software developers for the product layer.",
       "is_chinese": false,
       "source_type": "people"
     },
@@ -152,121 +160,129 @@
       "source_type": "people"
     },
     {
-      "title": "How to Hire an AI SaaS Developer in 2026",
-      "link": "https://www.tascey.com/blog-detail.php?slug=how-to-hire-an-ai-saas-developer",
-      "snippet": "### Step 8: Test the product before launch\n\nTest account separation, permissions...",
-      "raw_snippet": "### Step 8: Test the product before launch\n\nTest account separation, permissions, billing, AI output quality, error handling, and important user journeys. Confirm that the application can be maintained, that required credentials are under your control, and that the handover documentation is complete.\n\n## Technical Questions to Ask Before Hiring [...] An AI SaaS developer builds software-as-a-service products that use artificial intelligence to deliver features to customers over the internet. Depending on the project, the developer may create a new product or add AI capabilities to an existing SaaS application. [...] ### 5. AI evaluation and cost control\n\nA reliable AI product needs ways to test output quality and monitor performance. Depending on the use case, this can include evaluation datasets, human review, logging, usage limits, caching, and fallback behaviour.\n\n### 6. Deployment and maintenance\n\nLook for experience with automated testing, deployment workflows, error monitoring, backups, and documentation. Ask how the developer will support the product after launch and what ongoing work will cost.",
+      "title": "Data Operations and AI Solutions Developer - Syneos Health",
+      "link": "https://www.syneoshealth.com/careers/jobs/18413861-data-operations-and-ai-solutions-developer",
+      "snippet": "We may use artificial intelligence (AI) tools to support parts of the hiring pro...",
+      "raw_snippet": "We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Dataxet任命Jason Lee为CEO，加速AI优先战略",
-      "link": "https://www.provokemedia.com/latest/article/dataxet-names-jason-lee-ceo-as-it-accelerates-ai-first-strategy",
-      "snippet": "Jason Lee将领导Dataxet开发AI驱动的市场洞察平台，加速公司向AI优先模式转型与商业化。",
-      "raw_snippet": "As CEO, Lee will oversee the development of AI-powered insight products and solutions to help clients interpret media data, identify emerging trends,",
+      "title": "Technical Product Owner (Layer 6) - AI & Machine Learning Solutions - TD Bank | Built In NYC",
+      "link": "https://www.builtinnyc.com/job/technical-product-owner-layer-6-ai-machine-learning-solutions/11951212",
+      "snippet": "If you’re passionate about helping clients and building deep, lasting relationsh...",
+      "raw_snippet": "If you’re passionate about helping clients and building deep, lasting relationships, TD offers diverse career paths where you can grow your expertise and make a meaningful impact.  \n\nWe're committed to your success and foster a respectful workplace where diverse perspectives are valued, everyone has fair opportunities to grow, and you can unlock your full potential to achieve your career goals. Here at TD, we hire and develop the best. [...] TD is one of the world's leading global financial institutions and is the fifth largest bank in North America by branches/stores. Every day, we strive to make every interaction, product, and experience remarkably human and refreshingly simple for over 27 million households and businesses in Canada, the United States and around the world. More than 95,000 TD colleagues bring their skills, talent, and creativity to foster deeper relationships, ensure disciplined execution, and build a simpler, [...] build a simpler, faster banking experience. TD is deeply committed to being a leader in client experience, that is why we believe that all colleagues, no matter where they work, are client facing. Together, we are reimagining what banking can be for our clients, colleagues and communities.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Etsy新任CEO整顿AI商品列表，买家开始回流",
+      "link": "https://fortune.com/2026/10/29/etsy-ceo-ai-listings-crack-down-buyers-return",
+      "snippet": "Etsy新CEO严打AI生成的Listing，同时借AI帮助卖家运营，用户正回归。",
+      "raw_snippet": "Etsy says AI is also helping sellers draft listings, manage inventory, search for images, optimize for search, and promote products to influencers.\n\n“There’s an interesting paradox here,” Goyal told investors. “As AI makes it easier to create and replicate products at scale, we believe the human creativity, craftsmanship and connection that have always made Etsy special will matter even more.”\n\nPhil Wahba [...] # Trendingnow\n\n# 1\n\n# 2\n\n# 3\n\n# 1\n\n# 2\n\n# 3\n\n# Etsy’s new CEO cracks down on AI listings—and buyers start to return\n\nPhil Wahba\nPhil Wahba\nEtsy logo at company headquarters in Brooklyn on August 5, 2026.\n\nEtsy’s new CEO is fighting a flood of AI-generated junk with a surprising weapon: more AI. [...] Etsy sellers have had enough too. They’ve complained about AI-supported listings, saying such listings often outrank their original offerings in search results and undercut them on price. Many sellers have left the site.\n\nEtsy named Kruti Patel Goyal as CEO at the start of 2026 to try to stop the bleeding, and she’s making some early progress.",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "Anthropic称投资者面临失控AI的反噬风险",
-      "link": "https://www.pbs.org/newshour/science/anthropic-says-risks-for-investors-include-blowback-from-runaway-ai",
-      "snippet": "Anthropic在文件中警告，若AI系统失控，可能引发严重“反噬”，投资者须警惕相关风险。",
-      "raw_snippet": "Brian Mulberry, chief market strategist at Zacks Investment Research, said IPO deals have to display \"very clearly\" what risks people face when they invest their money in a newly public stock. [...] # Anthropic says risks for investors include blowback from runaway AI\n\nAny time a company looks to start selling shares on Wall Street, it's required to disclose potential risks to investors. In the case of artificial intelligence giant Anthropic, that has included the possibility that its products could threaten nothing less than humanity itself. [...] Of the 335 pages outlining Anthropic's finances, executive compensation, dividend policy and the like, 93 pages are devoted to \"risk factors\" — the things that could hurt potential shareholders' investments. Rival SpaceX's listed risk factors, in comparison, took up 38 out of more than 250 pages.\n\nIn selling itself to investors, Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses.",
+      "title": "OpenAI CEO Sam Altman宣称AI奇点已到来",
+      "link": "https://abc7news.com/post/openai-ceo-sam-altman-claims-artificial-intelligence-singularity-has-arrived/19588207?userab=kfsn_content_recs-582%2Avariant_a_control_kfsn-2512%2Ckabc_content_recs-577%2Avariant_c_trending-2482%2Cwls_content_recs-584%2Avariant_a_control_wls-2516%2Cwtvd_content_recs-585%2Avariant_a_control_wtvd-2518%2Cktrk_content_recs-587%2Avariant_a_control_ktrk-2522%2Cwpvi_content_recs-586%2Avariant_b_trending_wpvi-2521%2Cabcn_article_nfy_v2-691%2Acontrol-3727%2Cotv_web_content_rec-539%2Avariant_c_trending-2268%2Cotv_web_topic-580%2Avariant_b_topic_redesign-2509%2Cfollow_abcnews_otv_on_google-654%2Avariant_b_share_drop_down-3495%2Cotv_search_page_design_unification-546%2Avariant_b_search_redesign-2300%2Cotv_web_live-581%2Avariant_b_live_redesign-2511%2Cfollow_otv_on_google-683%2Avariant_b_share_drop_down-3661%2Cabcn_popular_reads_exp_followup-648%2Avariant_c_autotagswpopularity-3458%2Cotv_mobile_web_content_recs-639%2Avariant_a_control-3429%2Ckgo_content_recs-583%2Avariant_b_trending_kgo-2515%2Cabcn_verts_midterms-671%2Avariant_a_control-3586%2Cotvlink_abcnnav-576%2Avariant_b_local-2479",
+      "snippet": "OpenAI首席执行官Sam Altman声称人工智能奇点已经到来，引发业界广泛关注。",
+      "raw_snippet": "1 hour ago\n\n## 3 people injured in accident involving AC Transit bus and pedestrian, Oakland authorities say\n\n 3 hours ago\n\n## Federal judge denies Trump administration's request to segregate 20,000 ballots in California\n\n 24 minutes ago\n\nPresident Donald Trump signed an executive order last month that requests AI companies share products with federal government for evaluation before a wider release. [...] SAN FRANCISCO -- OpenAI CEO Sam Altman claims artificial intelligence has reached a long-sought threshold in which the technology can improve itself, unleashing rapid progress that may prove difficult to fully control.\n\nThe milestone, known as the singularity, promises significant benefits for society, Altman said, appearing to rebuke concern among critics about the societal threat posed by wide adoption of AI. [...] 1 hour ago\n\n## 3 people hurt in accident involving bus, pedestrian in Oakland\n\n 3 hours ago\n\n## Judge denies federal request to segregate 20,000 ballots in CA\n\n 24 minutes ago\n\n## Arrest made in murder of San Pablo man found dead inside car: police\n\n## Dolores Huerta, labor activist and civil rights icon, dies at 96\n\n### Bay Area airports face flooding risk during holidays: report\n\n### Brewers beat Rays to win their first World Series title\n\n 1 hour ago",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "Senior AI Product & Partnerships Counsel - Runway | Built In NYC",
-      "link": "https://www.builtinnyc.com/job/senior-ai-product-partnerships-counsel/11929628",
-      "snippet": "Senior level\n\nAdvises product, engineering, partnerships, sales, marketing, and ...",
-      "raw_snippet": "Senior level\n\nAdvises product, engineering, partnerships, sales, marketing, and executives on AI product legal matters. Provides guidance from product design through launch, negotiates data partnerships, IP and model licensing, SaaS customer contracts, APIs, DPAs, reseller, procurement, marketplace, vendor, and strategic partnership agreements. Builds scalable legal playbooks, self-service resources, enablement programs, and AI-enabled automation while monitoring evolving AI law and policy. [...] Become a go-to advisor for product legal matters, from design to launch, by providing pragmatic, product-motivated advice\n Accelerate AI product development and integrations by building playbooks and streamlining legal review of partnership deals, including data partnerships, IP and model licensing, procurement, reseller, and marketplace agreements [...] Experience providing practical recommendations to senior leaders with limited time and information\n Sound judgment in ambiguity: track record of gathering key information quickly and helping the business make smart decisions\n Deep sense of ownership, whether you're advising our CEO on a novel legal issue or testing your new AI-enabled workflow for the nth time\n Bias for action: why put something off if you can do it now?\n Demonstrated interest in AI, creative tools or both",
+      "title": "Frontier AI Product Owner & Program Leader - Built In",
+      "link": "https://builtin.com/job/frontier-ai-product-owner-program-leader/11955279",
+      "snippet": "Hewlett Packard Enterprise is hiring for a Frontier AI Product Owner & Program L...",
+      "raw_snippet": "Hewlett Packard Enterprise is hiring for a Frontier AI Product Owner & Program Leader in Frisco, TX, USA. Find more details about the job",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Eightfold AI welcomes new CEO as the talent intelligence ...",
-      "link": "https://www.hr-brew.com/stories/eightfold-ai-welcomes-new-ceo-as-the-talent-intelligence-platform-grows-and-scales",
-      "snippet": "Korngiebel said the future at Eightfold includes an AI recruiter agent to help t...",
-      "raw_snippet": "Korngiebel said the future at Eightfold includes an AI recruiter agent to help teams handle repetitive tasks and spend more time with people, as well as tools",
+      "title": "Product Content Creator",
+      "link": "https://openai.com/careers/product-content-creator-san-francisco",
+      "snippet": "At OpenAI, we believe artificial intelligence has the potential to help people s...",
+      "raw_snippet": "At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.\n\nCompensation\n\n$227K – $252K + Offers Equity [...] OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum [...] You’ll use Codex and other AI tools to prototype ideas and create experiences that would previously have required a larger production team. We’re looking for the fluency of a coding-assistant power user; an engineering background isn’t required. Strong judgment about the idea, the audience, and the finished experience matters as much as the ability to build it.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Director of Product, AI Growth",
-      "link": "https://jobspresso.co/job/director-product-ai-growth",
-      "snippet": "In this role, you own driving growth for our AI opportunities by identifying whi...",
-      "raw_snippet": "In this role, you own driving growth for our AI opportunities by identifying which customers we target, which outcomes we win on, and proving it with design",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "英国政府发布太空AI路线图",
-      "link": "https://www.gov.uk/government/publications/artificial-intelligence-roadmap-for-space/artificial-intelligence-roadmap-for-space",
-      "snippet": "英国政府在GOV.UK发布太空AI路线图，拟将AI嵌入发射与航天系统以提升竞争力并加速产业智能化。",
-      "raw_snippet": "To improve launch competitiveness, AI must be embedded into planning, safety, and turnaround operations. This reduces per-launch costs, increases cadence, and improves reliability in global markets.\n\nActions include:\n\n AI-driven trajectory optimisation and weather modelling\n Predictive maintenance for launch vehicles and ground infrastructure\n Digital range safety monitoring and risk modelling\n Digital twin simulation environments for launch operations. [...] Adoption of AI will create commercial opportunities for UK manufacturers to compete more effectively in constellation supply chains, responsive launch markets, and government programmes that demand rapid replenishment or surge capacity. For launch systems, AI-enabled simulation, propulsion test analytics, and production planning are particularly valuable in supporting higher flight rates, reusability concepts, and cost predictability, which are essential for commercial launch competitiveness. [...] In upstream domains, AI will increasingly determine competitiveness by reducing lifecycle costs, extending mission duration, enabling autonomous operations, and improving launch economics. Sovereignty in this new era is defined less by asset ownership and more by control over intelligence, assurance, and trusted decision layers.",
+      "title": "给AI工具像新员工一样的第一周适应期",
+      "link": "https://www.asa.net/News-Media/News/give-your-ai-tool-the-first-week-you-give-a-new-hire",
+      "snippet": "作者建议给予AI工具与新员工同等的一周学习与调试时间，以充分释放其价值。",
+      "raw_snippet": "In the conversations I've had this fall with people using AI at work, the people getting the most out of it aren't better at clever wording.",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
     },
     {
-      "title": "Artificial Intelligence Solutions Director - Wells Fargo",
-      "link": "https://builtin.com/job/artificial-intelligence-solutions-director/11932122",
-      "snippet": "Wells Fargo is hiring for a Artificial Intelligence Solutions Director in Irving...",
-      "raw_snippet": "Wells Fargo is hiring for a Artificial Intelligence Solutions Director in Irving, TX, USA. Find more details about the job and how to apply at Built In.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Artificial Intelligence Solutions Director, CHARLOTTE, North Carolina / IRVING, Texas / SAN FRANCISCO, California | Wells Fargo",
-      "link": "https://www.wellsfargojobs.com/en/jobs/r-583960/artificial-intelligence-solutions-director",
-      "snippet": "The role requires strong enterprise leadership, sound judgment, and the ability ...",
-      "raw_snippet": "The role requires strong enterprise leadership, sound judgment, and the ability to translate complex opportunities into clear, executive-ready strategies and decisions.\n\nThis role is ideal for a strategic product leader who can independently tackle ambiguous, enterprise-level problems, lead through influence and formal people management, and build alignment across senior stakeholders while coaching a team to deliver high-impact outcomes. [...] Lead resolution of complex, cross-functional business and product challenges requiring enterprise thinking, sound judgment, and effective prioritization.\n\n Develop executive-ready communications, recommendations, and decision materials that enable informed leadership decisions.\n\n Serve as a trusted advisor to senior leaders and champion product management and transformation best practices across the organization. [...] Strong strategic, analytical, and systems-thinking skills, with the ability to navigate ambiguity, evaluate tradeoffs, and translate complex challenges into clear actions.\n\n Extensive experience delivering digital products in agile environments and applying modern product management practices at scale.\n\n Demonstrated success designing and implementing product development operating models, governance frameworks, and transformational change across large organizations.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "AI in HR: Why It Starts with Your People Data | Unit4",
-      "link": "https://www.unit4.com/blog/ai-in-hr-starts-with-your-people-data-a-practical-guide-for-hr-leaders",
-      "snippet": "Artificial intelligence dominates leadership discussions across every industry. ...",
-      "raw_snippet": "Artificial intelligence dominates leadership discussions across every industry. In human resources, executive teams hear constant promises about automated recruiting, predictive talent planning, and effortless workforce intelligence. Yet for CHROs, Chief People Officers, and HR leaders in people-centric organisations, turning those promises into real business outcomes often reveals an uncomfortable reality: artificial intelligence is only as reliable as the foundation beneath it. [...] Pragmatic adoption starts with establishing a single source of truth across the entire employee lifecycle. When core records, certifications, career milestones, and time management connect within a unified environment, leaders can see meaningful patterns rather than misleading noise. That same clean foundation is what any future AI capability will depend on to support human judgment rather than confuse it.\n\n## Connecting the Employee Lifecycle: Hire, Retain, Grow, Engage [...] Every talent decision carries significant organisational impact. Whether you lead a professional services firm, a public sector authority, a higher education institution, or a global nonprofit, your people are your primary asset and your primary investment.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Director, Product Management - Data – Remote | Invoca Careers",
-      "link": "https://careers.kula.ai/invoca/64183-director-product-management-data",
-      "snippet": "Invoca is the revenue execution and platform leader that helps marketing, commer...",
-      "raw_snippet": "Invoca is the revenue execution and platform leader that helps marketing, commerce, and contact center teams turn every conversation into revenue. Through its AI agents, Invoca engages, qualifies, and converts customers across SMS and voice, orchestrating seamless buyer journeys and measurable, profitable growth. With over 300 employees, 2,000+ customers, and $100M in revenue, the company continues to lead the category it created. Invoca's AI vision centers on using trustworthy, first-party [...] Exceptional communication skills: able to align engineering, AI, product, and GTM stakeholders and present strategy to executives\n Bachelor's or Master's degree in Computer Science, Data Science, Business Administration, or a related field [...] # The Opportunity: Build the Data Foundation Behind Agentic AI\n\nInvoca is an AI-powered revenue execution platform that brings together marketing, commerce, and contact center teams to turn every customer interaction into measurable, profitable growth.\n\nBy revealing intent across voice, SMS, and digital channels, Invoca helps enterprises drive better customer experiences, increase revenue, and operate with confidence at scale.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Wealth Lending AI Product Manager - Director | New York, NY, USA | Hybrid Job",
-      "link": "https://www.efinancialcareers.com/jobs-United_States-New_York-Wealth_Lending_AI_Product_Manager_-_Director.id24942824",
-      "snippet": "Citi\n\n# Wealth Lending AI Product Manager - Director\n\nCiti\n\n# Wealth Lending AI ...",
-      "raw_snippet": "Citi\n\n# Wealth Lending AI Product Manager - Director\n\nCiti\n\n# Wealth Lending AI Product Manager - Director\n\nCiti\nCiti\nCiti\nCiti\nCiti\nCiti\nCiti\nCiti\nCiti\nCiti\n\n## Boost your career\n\nCiti\nCiti\nCiti\nCiti\nCiti",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "NVIDIA推出企业级AI解决方案",
-      "link": "https://www.nvidia.com/en-us/solutions/ai",
-      "snippet": "NVIDIA介绍面向企业的AI技术与平台，助力各行业提升生产力、运营效率并加速智能化转型。",
-      "raw_snippet": "Alternatively, you can (youtubeLink)watch this video on YouTube(/youtubeLink). [...] Alternatively, you can (youtubeLink)watch this video on YouTube(/youtubeLink).\n\nYouTube Video [...] Transform any enterprise into an AI organization with full-stack innovation across accelerated infrastructure, enterprise-grade software, and AI models. By accelerating the entire AI workflow, projects reach production faster, with higher accuracy, efficiency, and infrastructure performance at a lower overall cost for various solutions and applications.\n\n### Overcoming Challenges in AI Implementation",
+      "title": "入门AI Agent：如何开始并选择适合任务的工具",
+      "link": "https://www.wral.com/news/ap/e15c4-one-tech-tip-how-to-get-started-with-ai-agents-and-which-are-best-for-specific-tasks",
+      "snippet": "专家建议从Claude Duet等AI Agent入手，按具体任务选择最合适的Agent。",
+      "raw_snippet": "Artigas said he'd recommend looking at Claude Duet as key for someone working on a side hustle or launching a new business, Dots as a debugger and problem solver if they're engaging in any specialized technical work, and Instinct for help with things like sending tedious emails or booking reservations and travel plans. [...] Open AI CEO Sam Altman speaks at the OpenAI DevDay 2026 conference, Tuesday, Sept. 29, 2026, in San Francisco. (AP Photo/Jeff Chiu)  \n\nOpen AI CEO Sam Altman speaks at the OpenAI DevDay 2026 conference, Tuesday, Sept. 29, 2026, in San Francisco. (AP Photo/Jeff Chiu)\n\n \n\nBy KAITLYN HUAMANI — AP Technology Writer [...] Claude Duet, OpenAI's Dots and xAI's Grok Bot have each been described as aiming to be like a colleague, or even a chief of staff, whereas Muse and Instinct, from the startup Spear Street Technology, have been described as more like personal assistants. But that's not to say any of them are incapable of helping with tasks outside those realms.",
       "is_chinese": false,
       "source_type": "people",
       "index": 9
     },
     {
-      "title": "Liquid AI发布LFM3：覆盖多模态专业智能",
-      "link": "https://www.liquid.ai/blog/lfm3",
-      "snippet": "Liquid AI发布LFM3模型，支持多模态数据，并已在Hugging Face提供下载。",
-      "raw_snippet": "hugging face logo liquid AIDownload on Hugging FaceLiquid AI logoUse with Liquid APILiquid AI logoTry on Playground\n\n## Launch Partners\n\nWe are grateful to our day-0 launch partners for their support. LFM3 is ready to use today across these platforms: Ambarella, AMD, Arm, Intel via OpenVINO, NVIDIA, OpenRouter, Qualcomm via Qualcomm AI Hub and GenieX, and Vercel. Thanks to Mercedes-Benz and Shopify for partnering on pre-release testing and evaluation. [...] Josh HortSenior Director and Head of ISV Enabling at AMD [...] Agentic RL: tasks from web browsing to office work are run inside real agent harnesses, preparing the model for deployment.",
+      "title": "AI与人类智能：打造更智能的供应链",
+      "link": "https://alom.com/podcast/ai-and-human-intelligence-building-smarter-supply-chains",
+      "snippet": "播客嘉宾探讨将AI与人类智能结合，构建更高效、更智能的供应链体系。  \n\n（注：原文中“3 people injured in accident involving AC Tra”非AI新闻，未予翻译",
+      "raw_snippet": "Smart Supply Chain hosts Shireen and Sarah Garrison welcome Cynthia Hutchison, Founder and CEO of Gain Group, for a discussion on connecting people, technology, and innovation to improve supply chain performance. Drawing on decades of industry leadership and experience with the World Economic Forum, Hutchison shares insights on AI adoption, lessons from COVID-era disruptions, supplier collaboration, and workforce development. [...] Artificial intelligence is transforming supply chains, but technology alone isn’t enough. Building smarter, more resilient operations requires human expertise, stronger supplier relationships, and collaboration. [...] The conversation offers fresh perspectives on why human intelligence and stronger connections across the supply chain remain essential to accelerating innovation and building resilience.",
       "is_chinese": false,
       "source_type": "people",
       "index": 10
+    },
+    {
+      "title": "Senior AI Product & Partnerships Counsel @ Runway",
+      "link": "https://jobs.madrona.com/companies/runway-3/jobs/98275866-senior-ai-product-partnerships-counsel",
+      "snippet": "As AI Product & Partnerships Counsel, your mission is to enable the company to s...",
+      "raw_snippet": "As AI Product & Partnerships Counsel, your mission is to enable the company to ship better products faster and accelerate product and data",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "AI Consulting Services | Bain & Company",
+      "link": "https://www.bain.com/consulting-services/technology-ai/artificial-intelligence",
+      "snippet": "We combine business strategy and technical expertise to help you rethink your go...",
+      "raw_snippet": "We combine business strategy and technical expertise to help you rethink your goals with AI in mind, then build the most high-value use cases from proof of concept to production. Our integrated team of industry and AI consultants, AI product managers and engineers, and key partners work together to propose strategies based on value, feasibility, risk, and differentiation—then deliver the solution’s tech stack, operating model, and talent strategy. Crucially, we ready your organization for AI [...] Carsten Egeriis is embracing AI more than your average CEO. At Danske Bank, he’s spent the last five years bringing the 155 year old bank towards the bleeding edge of AI innovation.\n\nPodcast\n\n\n\nAI, Insights, and Solutions\n\n##### AI in Software Engineering: The Reliability Paradox\n\nIf AI lets your engineers write code 5 to 10 times faster, what happens to everything that runs after the code ships?\n\nBrief\n\nSEE MORE&invisibleFilters=articleRelevance())\n\n## Winning with AI Podcast [...] The difference between an AI pilot and AI at scale is that a pilot proves a use case works, while scaling changes how the business works—and scaling is where the financial gains appear.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Account Director, Enterprise @ OpenAI | Khosla Ventures Job Board",
+      "link": "https://jobs.khoslaventures.com/companies/openai-3-3b1ed8d5-5b3a-45b4-af49-e30a27910b3b/jobs/98362090-account-director-enterprise",
+      "snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that gener...",
+      "raw_snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "AI Product Builder at Improvado - United States Remote",
+      "link": "https://www.remoterocketship.com/us/company/improvado-io-2/jobs/ai-product-builder-united-states-remote-3",
+      "snippet": "Improvado is an AI-native SaaS platform that centralizes marketing and sales dat...",
+      "raw_snippet": "Improvado is an AI-native SaaS platform that centralizes marketing and sales data, connecting 1,000+ sources to provide automated ETL/ELT/",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Director of AI Delivery Management job in Rahway, New Jersey, United States of America | IT & Digital Data jobs at Merck migration",
+      "link": "https://jobs.merck.com/us/en/job/R424235/Director-of-AI-Delivery-Management",
+      "snippet": "##### About Us\n\nWe are one company, but we operate under two different corporate...",
+      "raw_snippet": "##### About Us\n\nWe are one company, but we operate under two different corporate brand names. We are known as Merck & Co.,Inc., Rahway, New Jersey, USA in the United States, Canada & Puerto Rico. We are known as MSD everywhere else.\n\nSee more \"See more\")\n\n##### Benefits & Well-Being\n\n     \n\nDiscover how we support our employee’s physical, mental, financial and social well-being to help them fulfill their potential\n\n   \n\nLearn more \"Lorem Ipsum\")\n\n##### Be Yourself [...] This careers website is intended for Residents of the United States, Canada & Puerto Rico. Residents in other markets, please visit our MSD Careers page. Information on this site is for the purpose of presenting career opportunities at our organization and give our audience a view of our culture, diversity and growth opportunities. Our Company is an equal opportunity employer, Minority/Female/Disability/Veteran, proudly embracing diversity in all of its manifestations. [...] Join our Talent Community to stay connected and receive updates on the latest job opportunities.\n\n   \n\nJoin us\n\nSee more \"See more\")\n\n#### Connect with us on social\n\n##### Beware of hiring scams. Review our Applicant Notice.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "1 Startup Job at Anthropic | Index Ventures",
+      "link": "https://www.indexventures.com/startup-jobs/anthropic/tech-lead-manager-core-apps-data-scientist",
+      "snippet": "This website uses cookies and other tracking technologies for functional and ana...",
+      "raw_snippet": "This website uses cookies and other tracking technologies for functional and analytical purposes. To improve your browsing experience on our site, we would also like to place tracking cookies.\n\nIf you prefer to reject the cookies, please use this link to access the video:  \n www.indexventures.com\n\n### Necessary [...] Find a team member, company, Perspectives piece or Index Press resource\n\nPerspectives\n\nCompanies\n\nIndex Press\n\nTeam\n\nStartup Jobs\n\nFind a job by location, company, job function, sector or key words\n\n# Join the Index family with 15,496 openings across our network. Searching...\n\nShow me all remote jobs\n\nShow me entry level roles\n\n #### \n\n  + \n  + \n  + \n  + \n  + \n  + \n\n Previous\n ](#)\n Next\n\n## This website uses cookies [...] | Vimeo | vimeo.com | If enabled we will embed Vimeo videos directly on the site, if not we'll display a thumbnail. Vimeo sends data collected to a server located in USA. | 1 year | HTTPS |\n| Youtube | youtube.com | If enabled we will embed youtube videos directly on the site, if not we'll display a thumbnail. | 1 year | HTTPS |\n| Simplecast | simplecast.com | If enabled we will embed Simplecast player directly on the site, if not we'll display a prompt. | 1 year | HTTPS |",
+      "is_chinese": false,
+      "source_type": "people"
     }
   ]
 }

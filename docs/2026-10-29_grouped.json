@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-29",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "B轮融资总额上升，但交易数量减少",
+          "link": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus",
+          "snippet": "分析显示B轮融资金额增长，但完成交易数量下降，市场更趋集中。",
+          "index": 1
+        },
+        {
+          "title": "2026年14,262+家获融资AI初创企业完整数据库",
+          "link": "https://www.vcbacked.co/ai-startups",
+          "snippet": "该数据库收录逾14,262家获融资AI初创公司及其融资信息。",
+          "index": 2
+        },
+        {
+          "title": "Anthropic IPO谁会受益",
+          "link": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
+          "snippet": "聊天机器人制造商Anthropic提交备受期待的S-1招股书，投资者与早期股东或将获利。",
+          "index": 3
+        },
+        {
+          "title": "AI巨头融资雄心考验华尔街风险偏好",
+          "link": "https://www.thenewstribune.com/news/business/article317815620.html",
+          "snippet": "大型AI公司推进巨额融资计划，考验华尔街对高风险投资的承受能力与兴趣。",
+          "index": 4
+        },
+        {
+          "title": "Solink融资超1亿美元推进AI视觉智能",
+          "link": "https://www.businesswire.com/news/home/20261029969930/en/Solink-Raises-More-Than-%24100-Million-in-New-Funding-to-Bring-its-AI-Vision-Intelligence-to-Physical-Business-Operations-Around-the-World",
+          "snippet": "AI Vision Intelligence领导者Solink宣布融资逾1亿美元，以扩展其AI视觉解决方案。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Etsy新任CEO整顿AI商品列表，买家开始回流",
+          "link": "https://fortune.com/2026/10/29/etsy-ceo-ai-listings-crack-down-buyers-return",
+          "snippet": "Etsy新CEO严打AI生成的Listing，同时借AI帮助卖家运营，用户正回归。",
+          "index": 6
+        },
+        {
+          "title": "OpenAI CEO Sam Altman宣称AI奇点已到来",
+          "link": "https://abc7news.com/post/openai-ceo-sam-altman-claims-artificial-intelligence-singularity-has-arrived/19588207?userab=kfsn_content_recs-582%2Avariant_a_control_kfsn-2512%2Ckabc_content_recs-577%2Avariant_c_trending-2482%2Cwls_content_recs-584%2Avariant_a_control_wls-2516%2Cwtvd_content_recs-585%2Avariant_a_control_wtvd-2518%2Cktrk_content_recs-587%2Avariant_a_control_ktrk-2522%2Cwpvi_content_recs-586%2Avariant_b_trending_wpvi-2521%2Cabcn_article_nfy_v2-691%2Acontrol-3727%2Cotv_web_content_rec-539%2Avariant_c_trending-2268%2Cotv_web_topic-580%2Avariant_b_topic_redesign-2509%2Cfollow_abcnews_otv_on_google-654%2Avariant_b_share_drop_down-3495%2Cotv_search_page_design_unification-546%2Avariant_b_search_redesign-2300%2Cotv_web_live-581%2Avariant_b_live_redesign-2511%2Cfollow_otv_on_google-683%2Avariant_b_share_drop_down-3661%2Cabcn_popular_reads_exp_followup-648%2Avariant_c_autotagswpopularity-3458%2Cotv_mobile_web_content_recs-639%2Avariant_a_control-3429%2Ckgo_content_recs-583%2Avariant_b_trending_kgo-2515%2Cabcn_verts_midterms-671%2Avariant_a_control-3586%2Cotvlink_abcnnav-576%2Avariant_b_local-2479",
+          "snippet": "OpenAI首席执行官Sam Altman声称人工智能奇点已经到来，引发业界广泛关注。",
+          "index": 7
+        },
+        {
+          "title": "给AI工具像新员工一样的第一周适应期",
+          "link": "https://www.asa.net/News-Media/News/give-your-ai-tool-the-first-week-you-give-a-new-hire",
+          "snippet": "作者建议给予AI工具与新员工同等的一周学习与调试时间，以充分释放其价值。",
+          "index": 8
+        },
+        {
+          "title": "入门AI Agent：如何开始并选择适合任务的工具",
+          "link": "https://www.wral.com/news/ap/e15c4-one-tech-tip-how-to-get-started-with-ai-agents-and-which-are-best-for-specific-tasks",
+          "snippet": "专家建议从Claude Duet等AI Agent入手，按具体任务选择最合适的Agent。",
+          "index": 9
+        },
+        {
+          "title": "AI与人类智能：打造更智能的供应链",
+          "link": "https://alom.com/podcast/ai-and-human-intelligence-building-smarter-supply-chains",
+          "snippet": "播客嘉宾探讨将AI与人类智能结合，构建更高效、更智能的供应链体系。  \n\n（注：原文中“3 people injured in accident involving AC Tra”非AI新闻，未予翻译",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
