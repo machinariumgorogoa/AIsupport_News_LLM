@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-30",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI融资：纪录、债务与流动性",
+          "link": "https://www.duperrin.com/english/2026/10/29/venture-capital-debt-ipos-the-financial-challenges-facing-ai",
+          "snippet": "只要资金持续流入，这些纪录、债务与流动性之间的差异便会持续存在，投资者情绪依旧高涨。",
+          "index": 1
+        },
+        {
+          "title": ".ai域名操作手册：买方收购.ai域名指南",
+          "link": "https://westmore.com/insights/ai-domain-acquisition",
+          "snippet": "8小时前发布，这是一份面向买方的操作指南，旨在帮助收购优质.ai域名并规避潜在的交易风险。",
+          "index": 2
+        },
+        {
+          "title": "AI与ML：关键差异、应用场景及Domo如何释放其全部潜力",
+          "link": "https://www.domo.com/glossary/ai-vs-machine-learning",
+          "snippet": "人工智能是指构建能够模拟人类智能系统的广泛领域，机器学习则是其重要分支，二者应用场景各异。",
+          "index": 3
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "特朗普科技盟友在财报电话会议中用“超级智能”替代AI",
+          "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+          "snippet": "特朗普科技盟友在财报电话会议中用“超级智能”替代AI，亚马逊CEO安迪·贾西周四频繁提及AI。",
+          "index": 4
+        },
+        {
+          "title": "走进AI革命：Together AI CEO谈人工智能下一步走向",
+          "link": "https://www.cheddar.com/media/inside-the-ai-revolution-together-ais-ceo-on-where-artificial-intelligence-goes-next",
+          "snippet": "Together AI CEO探讨AI革命下一步，Replit CEO揭示AI是否会让传统编程逐渐过时。",
+          "index": 5
+        },
+        {
+          "title": "2025年人工智能行业研究（网页版）- GOV.UK",
+          "link": "https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2025/artificial-intelligence-sector-study-2025-web-version",
+          "snippet": "英国政府2025年AI行业研究指出，使用AI生产产品与服务之间存在重要区别，监管视角随之变化。",
+          "index": 6
+        },
+        {
+          "title": "科技贴士：如何开始使用AI Agent，以及哪些最适合特定任务——Hartford Courant",
+          "link": "https://www.courant.com/2026/10/30/one-tech-tip-how-to-get-started-with-ai-agents-and-which-are-best-for-specific-tasks",
+          "snippet": "Hartford Courant科技贴士：如何开始使用AI Agent，以及哪些智能体更适合特定任务。",
+          "index": 7
+        },
+        {
+          "title": "AI咨询服务",
+          "link": "https://www.bain.com/consulting-services/technology-ai/artificial-intelligence",
+          "snippet": "贝恩公司 | 贝恩公司AI咨询服务将商业战略与技术专长相结合，帮助企业客户制定并落地人工智能转型方案。",
+          "index": 8
+        }
+      ]
+    }
+  ]
+}

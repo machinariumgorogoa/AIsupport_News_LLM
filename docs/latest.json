@@ -1,99 +1,81 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "header": {
     "title": "🤖 AI业界动态早报",
     "subtitle": "machinariumAIsupport | 每日早8点自动推送"
   },
   "news": [
     {
-      "title": "B轮融资总额上升，但交易数量减少",
-      "link": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus",
-      "snippet": "分析显示B轮融资金额增长，但完成交易数量下降，市场更趋集中。",
-      "raw_snippet": "Meanwhile, one of the least surprising findings from our analysis of Series B recipients is that it was a heavily AI-focused group.\n\nSo far this year, about two-thirds of Series B funding has gone to AI-focused startups, per Crunchbase data. In 2025, by comparison, about half of investment went to companies in AI categories.\n\nAI companies were also heavily represented by round count. So far in 2026, more than half of all reported U.S. Series B deals have been for AI companies. [...] At least 110 companies have raised rounds of $100 million or more around this stage so far this year. That’s roughly a quarter of all deals.\n\nOf these, the largest by far was a $12 billion round 3 for Prometheus, Jeff Bezos’ physical AI startup that launched last year. [...] Even so, these don’t look like the best of times for startups seeking smaller Series B rounds. Seems like in the current AI-driven cycle, investors are increasingly focused on big checks for high-valuation companies.\n\n## Related Crunchbase query:\n\n US Series B Funding, 2026\n\nIllustration: Dom Guzman",
+      "title": "AI融资：纪录、债务与流动性",
+      "link": "https://www.duperrin.com/english/2026/10/29/venture-capital-debt-ipos-the-financial-challenges-facing-ai",
+      "snippet": "只要资金持续流入，这些纪录、债务与流动性之间的差异便会持续存在，投资者情绪依旧高涨。",
+      "raw_snippet": "As long as money continues to flow in, these discrepancies can be absorbed, but if IPOs are delayed, lenders become more demanding, or the deployment of infrastructure falls behind schedule, difficulties can mount, with, in the case of AI, an additional complication: GPUs can quickly lose their economic value, while the debts incurred to purchase them still need to be repaid. [...] The postponements of OpenAI’s and Anthropic’s IPOs are prolonging the tie-up of their investments. Their high valuations do not guarantee that investors will be able to recoup their money.\n Funding for AI infrastructure is becoming more selective. Lenders are increasingly differentiating between projects based on their collateral, contractual revenues, and the risks of delays in deployment. [...] In any case, these two scenarios show that the businesses that best embody value creation in AI do not currently allow their investors to realize that value when they would like to, and it is precisely these businesses that account for a massive share of new funding.\n\n## Venture capital is breaking records but benefits only a limited number of players",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "2026年14,262+家获融资AI初创企业完整数据库",
-      "link": "https://www.vcbacked.co/ai-startups",
-      "snippet": "该数据库收录逾14,262家获融资AI初创公司及其融资信息。",
-      "raw_snippet": "| Kapital | Artificial Intelligence (AI) | $125.0M | N/A | Mexico City | Sep 2026 |\n| Tempus | Artificial Intelligence (AI) | $9.5M | N/A | Chicago | Sep 2026 |\n| Cloud Cycle | Artificial Intelligence (AI) | $3.1M | N/A | London | Sep 2026 |\n| Savvy Wealth | Artificial Intelligence (AI) | $100.0M | N/A | New York | Sep 2026 |\n| Actionable | Artificial Intelligence (AI) | $10.0M | N/A | Nancy | Sep 2026 |\n| Overroute | Artificial Intelligence (AI) | $5.5M | N/A | Fayetteville | Sep 2026 | [...] | Veridue | Artificial Intelligence (AI) | $4.0M | N/A | London | Sep 2026 |\n| GenHealth.ai | Artificial Intelligence (AI) | $16.5M | N/A | Vienna | Sep 2026 |\n| Antioch | Artificial Intelligence (AI) | $32.0M | N/A | New York | Sep 2026 |\n| Shoot 360 | Artificial Intelligence (AI) | $7.0M | N/A | Vancouver | Sep 2026 |\n| Mistral AI | Agentic AI | $3.5B | N/A | Paris | Sep 2026 |\n| Sci2sci | Artificial Intelligence (AI) | $1.4M | N/A | Berlin | Sep 2026 | [...] | Every Media | Artificial Intelligence (AI) | $16.0M | N/A | Brooklyn | Sep 2026 |\n| Ground A | Artificial Intelligence (AI) | $10.6M | N/A | Düsseldorf | Sep 2026 |\n| Sapien | Analytics | Undisclosed | N/A | San Francisco | Sep 2026 |\n| Prometheus Hyperscale | Advanced Materials | $30.3M | N/A | Evanston | Sep 2026 |\n| Kingscrowd | Analytics | $602K | N/A | Binghamton | Sep 2026 |\n| yngvi bio | Agriculture | $1.5M | N/A | Copenhagen | Sep 2026 |",
+      "title": ".ai域名操作手册：买方收购.ai域名指南",
+      "link": "https://westmore.com/insights/ai-domain-acquisition",
+      "snippet": "8小时前发布，这是一份面向买方的操作指南，旨在帮助收购优质.ai域名并规避潜在的交易风险。",
+      "raw_snippet": "8 hours ago — A buyer-side guide to acquiring premium .ai domains: what .ai is, why the best names are taken, how a .ai acquisition works, valuation, and how .ai fits",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "Anthropic IPO谁会受益",
-      "link": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
-      "snippet": "聊天机器人制造商Anthropic提交备受期待的S-1招股书，投资者与早期股东或将获利。",
-      "raw_snippet": "The release of the chatbot maker’s highly anticipated S-1 helped prompt a rebound in tech stocks on Monday. The prospectus laid out the promises, challenges and risks of commercializing cutting-edge A.I., with some eye-popping numbers. That said, it left out key details.\n\nAnalysts and bettors on Polymarket, the prediction market, are left to speculate on whether Anthropic will hit a $2 trillion valuation, a number that Wall Street and Silicon Valley have been buzzing about for months. [...] One major standout? Spark Capital. It is poised to turn its approximately $777 million in investments made since 2023 into a staggering $10.9 billion if Anthropic achieves a $1.5 trillion valuation, according to PitchBook. More below.\n\n## The Anthropic effect\n\nThe positive vibes around Anthropic’s I.P.O. filing continue to lift markets. U.S. stock futures are gaining on Tuesday even as investors refocus on the huge spending needed to finance the artificial intelligence boom. [...] But the big question is whether Anthropic’s gargantuan listing can reinvigorate the stalled I.P.O. pipeline and squelch A.I. bubble talk.\n\n## Related Content\n\nAdvertisement",
+      "title": "AI与ML：关键差异、应用场景及Domo如何释放其全部潜力",
+      "link": "https://www.domo.com/glossary/ai-vs-machine-learning",
+      "snippet": "人工智能是指构建能够模拟人类智能系统的广泛领域，机器学习则是其重要分支，二者应用场景各异。",
+      "raw_snippet": "Artificial intelligence refers to the broad field of building machines that can simulate human decision-making and cognitive functions. It involves using computers and algorithms to analyze data, identify patterns, and solve problems in ways that resemble human intelligence.\n\nExamples of AI include:\n\n A computer playing chess against a human\n A self-driving car navigating city traffic\n A virtual assistant like Siri or Alexa that can answer questions and perform tasks [...] When you hear about artificial intelligence (AI), you often come across another common term: machine learning (ML). These two are closely related, but they aren’t the same thing. AI is the broader concept of creating machines that can mimic human intelligence. ML is a subset of AI that focuses on teaching computers to learn from data and improve over time without being explicitly programmed. [...] At its core, AI is about enabling machines to reason, plan, and make decisions.\n\n### What is machine learning?\n\nMachine learning is a specific branch of AI focused on using algorithms to analyze data, find patterns, and improve over time. Instead of following fixed instructions, ML models are trained on data to predict outcomes and make decisions.\n\nFor example, ML can be trained on thousands of emails to learn how to identify spam, or on years of stock data to forecast financial trends.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "AI巨头融资雄心考验华尔街风险偏好",
-      "link": "https://www.thenewstribune.com/news/business/article317815620.html",
-      "snippet": "大型AI公司推进巨额融资计划，考验华尔街对高风险投资的承受能力与兴趣。",
-      "raw_snippet": "By pressing ahead with their enormous funding plans, the biggest AI players are wagering that investors' fear of missing out on future returns will outweigh their fear of overpaying for them.\n\nAI stocks accounted for nearly 75% of the S&P 500 index's return in the first half of 2026, according to an analysis by Carson Group. [...] Anthropic revealed paperwork for its initial public offering on Monday, paving the way for a share sale reportedly worth $100 billion as early as next month.\n\nMeta also unveiled a plan this week that could bring it as much as $97.5 billion through equity offerings over the coming months.\n\nThe markets will also await signs of fundraising plans when Microsoft and Alphabet report earnings later on Wednesday. [...] Meta's shares have fallen more than 11% since it unveiled plans last week to create a new class of stock to fund share sales and reported its first quarterly cash burn in more than a decade.\n\nWhile Anthropic's soaring revenue helped ease AI growth concerns, its mounting losses have raised fresh questions. The company's net loss widened to $80.7 billion in the first half of 2026 from $13 billion a year earlier.",
+      "title": "特朗普科技盟友在财报电话会议中用“超级智能”替代AI",
+      "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+      "snippet": "特朗普科技盟友在财报电话会议中用“超级智能”替代AI，亚马逊CEO安迪·贾西周四频繁提及AI。",
+      "raw_snippet": "Amazon CEO Andy Jassy peppered his call with use of AI on Thursday, uttering the acronym well over a dozen times in his introductory remarks. A day earlier, Microsoft CEO Satya Nadella said one of the company's three points of focus is \"designing AI to empower people.\" And Alphabet CEO Sundar Pichai was seconds into his quarterly earnings commentary when he said the search giant's \"AI investments are driving increased usage and overall user growth.\" [...] That's not to suggest tech execs sticking with \"AI\" on this week's earnings calls are openly defying the president. Trump's preferred term is seeping into other correspondence and documents. Microsoft's annual report filed last week included eight mentions of super intelligence, starting at the top of the letter to shareholders. [...] IBM CEO Arvind Krishna, who didn't attend Trump's September lunch, used SI alongside AI during his company's earnings call last week. Krishna said, \"technology innovation in both hybrid infrastructure and super intelligence is leading to better business performance,\" adding that IBM is advancing as a \"software-led hybrid cloud and AI platform company.\"",
       "is_chinese": false,
-      "source_type": "funding",
+      "source_type": "people",
       "index": 4
     },
     {
-      "title": "Solink融资超1亿美元推进AI视觉智能",
-      "link": "https://www.businesswire.com/news/home/20261029969930/en/Solink-Raises-More-Than-%24100-Million-in-New-Funding-to-Bring-its-AI-Vision-Intelligence-to-Physical-Business-Operations-Around-the-World",
-      "snippet": "AI Vision Intelligence领导者Solink宣布融资逾1亿美元，以扩展其AI视觉解决方案。",
-      "raw_snippet": "Solink®, a leader in AI Vision Intelligence, today announced more than $100 million in new funding led by Vertu Capital,",
+      "title": "走进AI革命：Together AI CEO谈人工智能下一步走向",
+      "link": "https://www.cheddar.com/media/inside-the-ai-revolution-together-ais-ceo-on-where-artificial-intelligence-goes-next",
+      "snippet": "Together AI CEO探讨AI革命下一步，Replit CEO揭示AI是否会让传统编程逐渐过时。",
+      "raw_snippet": "##### Is AI Making Coding Obsolete? Replit’s CEO Reveals What Comes Next\n\n###### Amjad Masad, CEO and Co-founder of Replit, discusses AI-powered coding, autonomous agents, the future of work and making software creation accessible to all.\n\n##### Is AI Replacing Google Search? Google’s Product VP Reveals What’s Next\n\n###### Robby Stein, Vice President of Product for Google Search, discusses AI-powered search, Google's evolving user experience and the future of finding information. [...] ##### Acorns CEO on Gen Z, Investing and the Future of Financial Education\n\n###### Noah Kerns, Founder and CEO of Acorns, discusses acquiring Frich, reaching Gen Z and making investing and financial education more accessible.\n\n##### How GM Is Preparing for the Next Era of Robotics and Automation\n\n###### Mikell Taylor, Director of Robotics Strategy at General Motors, discusses the future of robotics, automation and their potential to transform the auto industry.\n\nLoad More\n\n###### Trending Now [...] ##### Microsoft Posts $92 Billion in Revenue as A.I. Spending Powers Growth\n\n###### Microsoft reported $92.3 billion in quarterly revenue, up 19% from a year earlier, as demand for its cloud and AI offerings continues to drive growth.\n\n##### How Gamma Is Changing the Way We Create Presentations\n\n###### Grant Lee, CEO and Co-founder of Gamma, discusses how AI is transforming presentations, content creation and the future of work and what comes next.",
       "is_chinese": false,
-      "source_type": "funding",
+      "source_type": "people",
       "index": 5
     },
     {
-      "title": "Etsy新任CEO整顿AI商品列表，买家开始回流",
-      "link": "https://fortune.com/2026/10/29/etsy-ceo-ai-listings-crack-down-buyers-return",
-      "snippet": "Etsy新CEO严打AI生成的Listing，同时借AI帮助卖家运营，用户正回归。",
-      "raw_snippet": "Etsy says AI is also helping sellers draft listings, manage inventory, search for images, optimize for search, and promote products to influencers.\n\n“There’s an interesting paradox here,” Goyal told investors. “As AI makes it easier to create and replicate products at scale, we believe the human creativity, craftsmanship and connection that have always made Etsy special will matter even more.”\n\nPhil Wahba [...] # Trendingnow\n\n# 1\n\n# 2\n\n# 3\n\n# 1\n\n# 2\n\n# 3\n\n# Etsy’s new CEO cracks down on AI listings—and buyers start to return\n\nPhil Wahba\nPhil Wahba\nEtsy logo at company headquarters in Brooklyn on August 5, 2026.\n\nEtsy’s new CEO is fighting a flood of AI-generated junk with a surprising weapon: more AI. [...] Etsy sellers have had enough too. They’ve complained about AI-supported listings, saying such listings often outrank their original offerings in search results and undercut them on price. Many sellers have left the site.\n\nEtsy named Kruti Patel Goyal as CEO at the start of 2026 to try to stop the bleeding, and she’s making some early progress.",
+      "title": "2025年人工智能行业研究（网页版）- GOV.UK",
+      "link": "https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2025/artificial-intelligence-sector-study-2025-web-version",
+      "snippet": "英国政府2025年AI行业研究指出，使用AI生产产品与服务之间存在重要区别，监管视角随之变化。",
+      "raw_snippet": "The distinction between using AI to produce a product or service (AI adoption) and building either foundational AI products and services, or AI products and services on top of the AI technologies of others (AI product or service development) has become increasingly difficult to define. [...] > Accelerators are really helpful… getting facetime with a CEO or a trial period really cuts down the sales cycle and means you can sell something that they have already used rather than pitch something on PowerPoint from scratch.\n\nSmall AI business [...] Isomorphic Labs applies frontier AI to drug discovery, using predictive and generative models to accelerate scientific breakthroughs to address major diseases\n Quantexa is a data, analytics and AI company whose decision intelligence platform unifies scattered data into a single trusted view, using explainable AI to power decisions in fraud, financial crime, and risk",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "OpenAI CEO Sam Altman宣称AI奇点已到来",
-      "link": "https://abc7news.com/post/openai-ceo-sam-altman-claims-artificial-intelligence-singularity-has-arrived/19588207?userab=kfsn_content_recs-582%2Avariant_a_control_kfsn-2512%2Ckabc_content_recs-577%2Avariant_c_trending-2482%2Cwls_content_recs-584%2Avariant_a_control_wls-2516%2Cwtvd_content_recs-585%2Avariant_a_control_wtvd-2518%2Cktrk_content_recs-587%2Avariant_a_control_ktrk-2522%2Cwpvi_content_recs-586%2Avariant_b_trending_wpvi-2521%2Cabcn_article_nfy_v2-691%2Acontrol-3727%2Cotv_web_content_rec-539%2Avariant_c_trending-2268%2Cotv_web_topic-580%2Avariant_b_topic_redesign-2509%2Cfollow_abcnews_otv_on_google-654%2Avariant_b_share_drop_down-3495%2Cotv_search_page_design_unification-546%2Avariant_b_search_redesign-2300%2Cotv_web_live-581%2Avariant_b_live_redesign-2511%2Cfollow_otv_on_google-683%2Avariant_b_share_drop_down-3661%2Cabcn_popular_reads_exp_followup-648%2Avariant_c_autotagswpopularity-3458%2Cotv_mobile_web_content_recs-639%2Avariant_a_control-3429%2Ckgo_content_recs-583%2Avariant_b_trending_kgo-2515%2Cabcn_verts_midterms-671%2Avariant_a_control-3586%2Cotvlink_abcnnav-576%2Avariant_b_local-2479",
-      "snippet": "OpenAI首席执行官Sam Altman声称人工智能奇点已经到来，引发业界广泛关注。",
-      "raw_snippet": "1 hour ago\n\n## 3 people injured in accident involving AC Transit bus and pedestrian, Oakland authorities say\n\n 3 hours ago\n\n## Federal judge denies Trump administration's request to segregate 20,000 ballots in California\n\n 24 minutes ago\n\nPresident Donald Trump signed an executive order last month that requests AI companies share products with federal government for evaluation before a wider release. [...] SAN FRANCISCO -- OpenAI CEO Sam Altman claims artificial intelligence has reached a long-sought threshold in which the technology can improve itself, unleashing rapid progress that may prove difficult to fully control.\n\nThe milestone, known as the singularity, promises significant benefits for society, Altman said, appearing to rebuke concern among critics about the societal threat posed by wide adoption of AI. [...] 1 hour ago\n\n## 3 people hurt in accident involving bus, pedestrian in Oakland\n\n 3 hours ago\n\n## Judge denies federal request to segregate 20,000 ballots in CA\n\n 24 minutes ago\n\n## Arrest made in murder of San Pablo man found dead inside car: police\n\n## Dolores Huerta, labor activist and civil rights icon, dies at 96\n\n### Bay Area airports face flooding risk during holidays: report\n\n### Brewers beat Rays to win their first World Series title\n\n 1 hour ago",
+      "title": "科技贴士：如何开始使用AI Agent，以及哪些最适合特定任务——Hartford Courant",
+      "link": "https://www.courant.com/2026/10/30/one-tech-tip-how-to-get-started-with-ai-agents-and-which-are-best-for-specific-tasks",
+      "snippet": "Hartford Courant科技贴士：如何开始使用AI Agent，以及哪些智能体更适合特定任务。",
+      "raw_snippet": "Artigas said he’d recommend looking at Claude Duet as key for someone working on a side hustle or launching a new business, Dots as a debugger and problem solver if they’re engaging in any specialized technical work, and Instinct for help with things like sending tedious emails or booking reservations and travel plans. [...] ### Share this:\n\nOpen AI CEO Sam Altman speaks at the OpenAI DevDay 2026 conference, Tuesday, Sept. 29, 2026, in San Francisco. (AP Photo/Jeff Chiu)\n\nBy KAITLYN HUAMANI\n\nAgentic artificial intelligence is gaining popularity far beyond tech circles, with Meta, OpenAI, Anthropic and other companies going head-to-head in the surging market for consumer-friendly AI agents. [...] Claude Duet, OpenAI’s Dots and xAI’s Grok Bot have each been described as aiming to be like a colleague, or even a chief of staff, whereas Muse and Instinct, from the startup Spear Street Technology, have been described as more like personal assistants. But that’s not to say any of them are incapable of helping with tasks outside those realms.",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "给AI工具像新员工一样的第一周适应期",
-      "link": "https://www.asa.net/News-Media/News/give-your-ai-tool-the-first-week-you-give-a-new-hire",
-      "snippet": "作者建议给予AI工具与新员工同等的一周学习与调试时间，以充分释放其价值。",
-      "raw_snippet": "In the conversations I've had this fall with people using AI at work, the people getting the most out of it aren't better at clever wording.",
+      "title": "AI咨询服务",
+      "link": "https://www.bain.com/consulting-services/technology-ai/artificial-intelligence",
+      "snippet": "贝恩公司 | 贝恩公司AI咨询服务将商业战略与技术专长相结合，帮助企业客户制定并落地人工智能转型方案。",
+      "raw_snippet": "We combine business strategy and technical expertise to help you rethink your goals with AI in mind, then build the most high-value use cases from proof of concept to production. Our integrated team of industry and AI consultants, AI product managers and engineers, and key partners work together to propose strategies based on value, feasibility, risk, and differentiation—then deliver the solution’s tech stack, operating model, and talent strategy. Crucially, we ready your organization for AI [...] Carsten Egeriis is embracing AI more than your average CEO. At Danske Bank, he’s spent the last five years bringing the 155 year old bank towards the bleeding edge of AI innovation.\n\nPodcast\n\n\n\nAI, Insights, and Solutions\n\n##### AI in Software Engineering: The Reliability Paradox\n\nIf AI lets your engineers write code 5 to 10 times faster, what happens to everything that runs after the code ships?\n\nBrief\n\nSEE MORE&invisibleFilters=articleRelevance())\n\n## Winning with AI Podcast [...] The difference between an AI pilot and AI at scale is that a pilot proves a use case works, while scaling changes how the business works—and scaling is where the financial gains appear.",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
-    },
-    {
-      "title": "入门AI Agent：如何开始并选择适合任务的工具",
-      "link": "https://www.wral.com/news/ap/e15c4-one-tech-tip-how-to-get-started-with-ai-agents-and-which-are-best-for-specific-tasks",
-      "snippet": "专家建议从Claude Duet等AI Agent入手，按具体任务选择最合适的Agent。",
-      "raw_snippet": "Artigas said he'd recommend looking at Claude Duet as key for someone working on a side hustle or launching a new business, Dots as a debugger and problem solver if they're engaging in any specialized technical work, and Instinct for help with things like sending tedious emails or booking reservations and travel plans. [...] Open AI CEO Sam Altman speaks at the OpenAI DevDay 2026 conference, Tuesday, Sept. 29, 2026, in San Francisco. (AP Photo/Jeff Chiu)  \n\nOpen AI CEO Sam Altman speaks at the OpenAI DevDay 2026 conference, Tuesday, Sept. 29, 2026, in San Francisco. (AP Photo/Jeff Chiu)\n\n \n\nBy KAITLYN HUAMANI — AP Technology Writer [...] Claude Duet, OpenAI's Dots and xAI's Grok Bot have each been described as aiming to be like a colleague, or even a chief of staff, whereas Muse and Instinct, from the startup Spear Street Technology, have been described as more like personal assistants. But that's not to say any of them are incapable of helping with tasks outside those realms.",
-      "is_chinese": false,
-      "source_type": "people",
-      "index": 9
-    },
-    {
-      "title": "AI与人类智能：打造更智能的供应链",
-      "link": "https://alom.com/podcast/ai-and-human-intelligence-building-smarter-supply-chains",
-      "snippet": "播客嘉宾探讨将AI与人类智能结合，构建更高效、更智能的供应链体系。  \n\n（注：原文中“3 people injured in accident involving AC Tra”非AI新闻，未予翻译",
-      "raw_snippet": "Smart Supply Chain hosts Shireen and Sarah Garrison welcome Cynthia Hutchison, Founder and CEO of Gain Group, for a discussion on connecting people, technology, and innovation to improve supply chain performance. Drawing on decades of industry leadership and experience with the World Economic Forum, Hutchison shares insights on AI adoption, lessons from COVID-era disruptions, supplier collaboration, and workforce development. [...] Artificial intelligence is transforming supply chains, but technology alone isn’t enough. Building smarter, more resilient operations requires human expertise, stronger supplier relationships, and collaboration. [...] The conversation offers fresh perspectives on why human intelligence and stronger connections across the supply chain remain essential to accelerating innovation and building resilience.",
-      "is_chinese": false,
-      "source_type": "people",
-      "index": 10
     }
   ]
 }
