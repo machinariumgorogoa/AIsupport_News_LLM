@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-31",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Bloomberg on X：AI初创公司Baseten拟融资，估值翻倍至约300亿美元",
+          "link": "https://x.com/business/status/2116325561379221850",
+          "snippet": "知情人士称，Baseten将完成新融资，估值有望升至约300亿美元，较此前翻倍。",
+          "index": 1
+        },
+        {
+          "title": "Anthropic的纳斯达克上市之路变得更加崎岖",
+          "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+          "snippet": "AI领域虽然热度不减，但Anthropic的纳斯达克上市之路正面临更多波折与障碍。",
+          "index": 2
+        },
+        {
+          "title": "美国AI建设的新瓶颈：廉价资金短缺 — WSJ",
+          "link": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?eafs_enabled=false",
+          "snippet": "美国AI建设依赖廉价资金多年，如今资金成本上升，成为数据中心和基础设施扩张的新瓶颈。",
+          "index": 3
+        },
+        {
+          "title": "Voorhees大学获美国劳工部119万美元资助，成立AI研究院",
+          "link": "https://voorhees.edu/voorhees-university-awarded-1-19-million-u-s-department-of-labor-grant-to-launch-artificial-intelligence-institute",
+          "snippet": "美国劳工部拨款119万美元，助力Voorhees大学建立AI研究院，培养AI人才。",
+          "index": 4
+        },
+        {
+          "title": "AI算法与外部验证：前景、陷阱与...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42961821",
+          "snippet": "外部验证可提供更真实的判别能力和校准度估计，帮助识别AI算法的偏差与局限。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI | Wi-Fi Alliance：提升室内外远距离高性能无线连接",
+          "link": "https://www.wi-fi.org/artificial-intelligence-ai",
+          "snippet": "Wi-Fi Alliance探索AI在无线通信中的应用，以提升远距离室内外环境的高性能连接体验。",
+          "index": 6
+        },
+        {
+          "title": "Amazon CEO指出AI成本是更广泛采用的主要障碍",
+          "link": "https://www.cfodive.com/news/amazon-ceo-flags-ai-costs-barrier-wider-adoption/873381",
+          "snippet": "亚马逊首席执行官指出，高昂的AI成本仍是限制其被更广泛企业采用的关键因素。",
+          "index": 7
+        },
+        {
+          "title": "Pivot播客：特朗普对“人工智能”术语的攻击",
+          "link": "https://podcasts.apple.com/us/podcast/trumps-war-on-artificial-intelligence-elon-v-scott/id1073226719?i=1000798872460&l=ar",
+          "snippet": "播客主持人Kara与Scott解析特朗普试图禁用“人工智能”等术语的怪异举动及影响。",
+          "index": 8
+        },
+        {
+          "title": "AI对抄袭的影响：与Plagiarism Today创始人对话",
+          "link": "https://research.virginia.edu/important-dates/impact-ai-plagiarism-founder-plagiarism-today",
+          "snippet": "AI快速改变内容创作生态，给抄袭检测、版权界定及原创性判断带来新挑战。",
+          "index": 9
+        },
+        {
+          "title": "Super Intelligence — NASA：实地测试AI机群科学探索能力",
+          "link": "https://www.nasa.gov/super-intelligence",
+          "snippet": "NASA在野外测试AI驱动的多机群协同能力，以支持科学、探索与数据分析任务。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

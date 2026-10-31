@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-31",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "Bloomberg on X：AI初创公司Baseten拟融资，估值翻倍至约300亿美元",
+      "link": "https://x.com/business/status/2116325561379221850",
+      "snippet": "知情人士称，Baseten将完成新融资，估值有望升至约300亿美元，较此前翻倍。",
+      "raw_snippet": "1h\n\n  more than doubling a valuation to $30b is a great month. my portfolio did the same thing, just in the other direction.\n @JYoda\n\n  Yoda Jr@JYoda\n\n  1h\n\n  A valuation more than doubling in one round says AI money is still chasing anything with real demand [...] 12:25:07 AM · 10/31/2026·17.2K\n\nViews\n\n2\n\n @business\n\n  Bloomberg@business\n\n  Artificial intelligence startup Baseten is set to raise new funding that would more than double its valuation to about $30 billion, according to sources\n\n  \n\n  Baseten Set for $30 Billion Valuation With New FundingFrom bloomberg.com\n\n  12:25:07 AM · 10/31/2026·17.2K\n\n  Views\n\n  2\n @Vision33X\n\n  Vision33X ♘@Vision33X\n\n  1h [...] Log inSign up\n\n## Post\n\nLog inSign up\n\n# Bloomberg on X: \"Artificial intelligence startup Baseten is set to raise new funding that would more than double its valuation to about $30 billion, according to sources \n\n@business\n\nBloomberg@business\n\nArtificial intelligence startup Baseten is set to raise new funding that would more than double its valuation to about $30 billion, according to sources\n\nBaseten Set for $30 Billion Valuation With New FundingFrom bloomberg.com",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "Anthropic的纳斯达克上市之路变得更加崎岖",
+      "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+      "snippet": "AI领域虽然热度不减，但Anthropic的纳斯达克上市之路正面临更多波折与障碍。",
+      "raw_snippet": "\"Everybody's still full steam ahead on AI, but all the things around it took an interesting turn this week,\" Daniel Newman, CEO at Futurum Group, told CNBC in an interview on Friday. The hyperscalers' results have \"raised eyebrows\" and created a new headwind in the market, which is \"more doubt on capital structure,\" he said. [...] Anthropic didn't immediately respond to a request for comment.\n\nA big tail wind for Anthropic remains AI demand. [...] Analysts at Citizens wrote in a Thursday report that the announcement \"put the biggest investor fear to rest — that funding its enormous AI infrastructure buildout would require an open-ended increase in debt and equity issuance.\"\n\nAttention will now turn back from hyperscaler earnings to Anthropic, as investors assess how much risk they're willing to assume and at what price.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "美国AI建设的新瓶颈：廉价资金短缺 — WSJ",
+      "link": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?eafs_enabled=false",
+      "snippet": "美国AI建设依赖廉价资金多年，如今资金成本上升，成为数据中心和基础设施扩张的新瓶颈。",
+      "raw_snippet": "For years, the companies behind America’s artificial-intelligence boom have raised hundreds of billions of dollars with ease. Wall Street eagerly ponied up capital and asked few questions.\n\nNow, the balance of power is shifting. [...] Lenders and investors are getting choosier about where to place their bets and are demanding tougher terms, signaling a new phase in the AI build-out. Among their concerns: the prospect of delays in big projects as a grassroots political backlash to data centers gains traction, and the threat that AI-related profits from hyperscalers and startups such as Anthropic and OpenAI won’t materialize as fast as promised. [...] Plus, a flood of stock and bond offerings is compounding concerns that investors are getting overexposed to AI.\n\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "Voorhees大学获美国劳工部119万美元资助，成立AI研究院",
+      "link": "https://voorhees.edu/voorhees-university-awarded-1-19-million-u-s-department-of-labor-grant-to-launch-artificial-intelligence-institute",
+      "snippet": "美国劳工部拨款119万美元，助力Voorhees大学建立AI研究院，培养AI人才。",
+      "raw_snippet": "Funding will establish the Artificial Intelligence Institute of Technology and Research Center and transform Bedford Hall into a hub for AI education, workforce preparation, research, and community engagement [...] # Voorhees University Awarded $1.19 Million U.S. Department of Labor Grant to Launch Artificial Intelligence Institute\n\n News\n\nGrant will transform Bedford Hall into a center for AI education, research, workforce preparation, and community engagement\n\nDENMARK, S.C.-September 28, 2026- Voorhees University has been awarded $1,188,800 in first-year funding grant fromthe U.S. Department of Labor to establish the Artificial Intelligence Institute of Technology and Research Center (AIITRC). [...] Established in June 2022 as part of President Ronnie Hopkins’ Voorhees University-Beloved Community vision, the Rural Community Development Institute (RCDI) at Voorhees University in Denmark, South Carolina, works to improve quality of life, education, health access, economic self-sufficiency, and workforce readiness for the University and surrounding rural communities in Denmark, Bamberg, and beyond.\n\nFunding Acknowledgment",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "AI算法与外部验证：前景、陷阱与...",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42961821",
+      "snippet": "外部验证可提供更真实的判别能力和校准度估计，帮助识别AI算法的偏差与局限。",
+      "raw_snippet": "It yields realistic estimates of discrimination and calibration, exposes shortcut learning and distribution shift, quantifies clinical utility",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "AI | Wi-Fi Alliance：提升室内外远距离高性能无线连接",
+      "link": "https://www.wi-fi.org/artificial-intelligence-ai",
+      "snippet": "Wi-Fi Alliance探索AI在无线通信中的应用，以提升远距离室内外环境的高性能连接体验。",
+      "raw_snippet": "high performance at extended distances in both indoor and outdoor environments. [...] ## The network underneath AI [...] standardized telemetry, seamless sharing of analytics, and targeted testing of Wi‑Fi technologies that AI depends on.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "Amazon CEO指出AI成本是更广泛采用的主要障碍",
+      "link": "https://www.cfodive.com/news/amazon-ceo-flags-ai-costs-barrier-wider-adoption/873381",
+      "snippet": "亚马逊首席执行官指出，高昂的AI成本仍是限制其被更广泛企业采用的关键因素。",
+      "raw_snippet": "4.   Image 42: accounting FASB proposes fix for investment accounting [...] ## Company Announcements\n\nView all | Post a press release\n\nFraxion Launches AI-Assisted Risk Assessment and Decision Support for Accounts Payable From Fraxion October 29, 2026 Image 47: Fraxion logoNumbers Game Adds Stripe Transaction Support to Bring Payments and Bookkeeping Together From Numbers Game October 13, 2026 Image 48: Numbers Game logo\n\nWant to share a company announcement with your peers?\n\nGet started ➔\n\n Editors’ picks [...] Image 57: Volkswagen worker performing checks on an EV at the Volkswagen factory on Feb. 24, 2026.  Volkswagen accelerates cost saving efforts; CFO urges swift restructuring  By Grace Noto   \n   Image 58: FedEx jets sit at the company's facility at O'Hare International Airport on September 19, 2014 in Chicago, Illinois.  FedEx nabs AutoZone alum as new CFO  By Grace Noto",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "Pivot播客：特朗普对“人工智能”术语的攻击",
+      "link": "https://podcasts.apple.com/us/podcast/trumps-war-on-artificial-intelligence-elon-v-scott/id1073226719?i=1000798872460&l=ar",
+      "snippet": "播客主持人Kara与Scott解析特朗普试图禁用“人工智能”等术语的怪异举动及影响。",
+      "raw_snippet": "Kara and Scott unpack Trump's bizarre attempt to ban the term “AI,” Elon Musk finally taking aim at Scott, and the final countdown to the",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "AI对抄袭的影响：与Plagiarism Today创始人对话",
+      "link": "https://research.virginia.edu/important-dates/impact-ai-plagiarism-founder-plagiarism-today",
+      "snippet": "AI快速改变内容创作生态，给抄袭检测、版权界定及原创性判断带来新挑战。",
+      "raw_snippet": "Artificial intelligence is rapidly transforming how content is created, shared, and evaluated, raising important questions about plagiarism.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "Super Intelligence — NASA：实地测试AI机群科学探索能力",
+      "link": "https://www.nasa.gov/super-intelligence",
+      "snippet": "NASA在野外测试AI驱动的多机群协同能力，以支持科学、探索与数据分析任务。",
+      "raw_snippet": "NASA Field-Tests AI Fleet Capability for Science, Exploration\n\nNASA, IBM Launch AI Foundation Model for Lunar Science\n\nNASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun\n\nAI at NASA\n\nNASA-developed AI Could Help Track Harmful Algae\n\n## Learn More about SI at NASA\n\nA computer chip with a colorful overlay.\n\n### What is Super Intelligence?\n\nImage of a notebook and pen on a desk with a colorful digital overlay\n\n### NASA's SI Inventory [...] SI allows spacecraft to autonomously make decisions and keep working even when they’re out of contact with Earth. 88% of the driving done by Perseverance rover has been autonomous. The rover acquires images of the terrain with its cameras, analyzes these images with an onboard computer to identify hazards, then navigates around these obstacles, driving on terrain that no human has ever seen. [...] ### Follow NASA\n\n## Was this page helpful?",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}
