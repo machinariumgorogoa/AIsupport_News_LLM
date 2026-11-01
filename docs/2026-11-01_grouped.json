@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-01",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI公司融资压力成为现实，估值蒸发1500亿美元",
+          "link": "https://www.mk.co.kr/en/stock/12192997",
+          "snippet": "AI行业估值自1.4万亿美元高点回落1500亿美元，市场担忧加剧，企业融资难度上升。",
+          "index": 1
+        },
+        {
+          "title": "DataRobot IPO时间表与融资详情",
+          "link": "https://forgeglobal.com/datarobot_ipo",
+          "snippet": "据Forge，DataRobot于2026年9月完成E轮，估值达11亿美元，上市进程受关注。",
+          "index": 2
+        },
+        {
+          "title": "面对Meta、Microsoft与Anthropic竞争，OpenAI下调融资目标",
+          "link": "https://www.investors.com/news/technology/openai-cuts-funding-target-amid-meta-microsoft-offerings-anthropic-ipo",
+          "snippet": "面对巨头竞品及Anthropic IPO，OpenAI缩减最新一轮融资目标规模。",
+          "index": 3
+        },
+        {
+          "title": "2026年AI初创企业顶级投资者与VC机构",
+          "link": "https://www.openvc.app/investor-lists/ai-investors",
+          "snippet": "AI持续吸引资本涌入，2026年投资格局演变，头部VC与投资者积极布局初创企业。",
+          "index": 4
+        },
+        {
+          "title": "Anthropic IPO再显科技创始人保留控制权",
+          "link": "https://www.wsj.com/tech/ai/anthropic-ipo-dual-class-stock-founder-control-4c43a56d",
+          "snippet": "《华尔街日报》指出，Anthropic IPO反映创始人保留控制权的趋势，再次引发公司治理讨论。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "机器学习（ML）/人工智能（AI）研究副总裁",
+          "link": "https://jobs.physicstoday.org/job/42039909/vp-of-research-machine-learning-ml-artificial-intelligence-ai-required-work-from-home",
+          "snippet": "该VP将制定ML与AI研究战略方向，定义技术路线并推动组织在AI领域的创新与突破。",
+          "index": 6
+        },
+        {
+          "title": "苹果CEO John Ternus：满意AI赛道现状，拒绝为AI而AI",
+          "link": "https://finance.yahoo.com/technology/ai/articles/apple-ceo-john-ternus-says-073247018.html",
+          "snippet": "Ternus表示苹果不会盲目追逐AI热点，坚持在合适时机推出有意义的AI功能。",
+          "index": 7
+        },
+        {
+          "title": "Prologis高级AI技术产品经理",
+          "link": "https://www.builtincolorado.com/job/ai-product-owner/10360616",
+          "snippet": "负责从需求发现到交付全流程领导AI产品项目，推动企业AI能力落地与业务价值实现。",
+          "index": 8
+        },
+        {
+          "title": "Founderz AI商学院人工智能证书课程",
+          "link": "https://founderz.com/programa/online-program-in-ai-innovation",
+          "snippet": "由一线行业专家授课，系统学习AI商业应用，帮助企业管理者提升AI战略与实践能力。",
+          "index": 9
+        },
+        {
+          "title": "2026年10月Toptal最佳自由职业AI设计师",
+          "link": "https://www.toptal.com/designers/artificial-intelligence",
+          "snippet": "Toptal推荐的自由职业AI设计师经验丰富，可为企业AI产品提供专业界面与体验设计支持。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
