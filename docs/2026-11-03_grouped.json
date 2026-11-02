@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-03",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI企业融资压力显现，估值大幅缩水",
+          "link": "https://www.mk.co.kr/en/stock/12192898",
+          "snippet": "[AI企业融资压力显现，市场估值大幅缩水，筹资规模或降至200亿美元，行业估值蒸发约1500亿美元。]",
+          "index": 1
+        },
+        {
+          "title": "OpenAI与Andreessen Horowitz",
+          "link": "https://jobs.a16z.com/company/openai",
+          "snippet": "[OpenAI于2015年12月在旧金山成立，获Andreessen Horowitz等投资者支持，专注AI研究。]",
+          "index": 2
+        },
+        {
+          "title": "ASI联合创始人Lucas Kukielka",
+          "link": "https://www.asi.com/company",
+          "snippet": "[Lucas Kukielka是ASI联合创始人之一，参与公司创立与业务发展。]",
+          "index": 3
+        },
+        {
+          "title": "Dark Matter收购House Numbers扩展AI布局",
+          "link": "https://nationalmortgageprofessional.com/news/dark-matter-expands-ai-ambitions-house-numbers-acquisition",
+          "snippet": "[Dark Matter收购House Numbers，加速AI战略扩张，或将影响零售、批发等行业。]",
+          "index": 4
+        },
+        {
+          "title": "科技股与AI债券下跌，AI交易是否陷入困境？",
+          "link": "https://www.wsj.com/podcasts/take-on-the-week/tech-stocks-and-ai-bonds-are-tumbling-is-the-ai-trade-in-trouble/5c52981a-0ef5-452f-be43-b0122766a96a",
+          "snippet": "[科技股与AI债券双双下挫，引发市场对AI交易前景的担忧与讨论。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Y Combinator资助的纽约AI初创公司2026年招聘",
+          "link": "https://www.ycombinator.com/companies/industry/ai/new-york/hiring",
+          "snippet": "[Y Combinator支持的纽约AI初创企业正在招聘2026年岗位，涵盖虚拟医疗等领域。]",
+          "index": 6
+        },
+        {
+          "title": "Anthropic拟进军华尔街，CEO警告AI或淘汰入门级岗位",
+          "link": "https://www.alligator.org/article/2026/11/anthropic-is-heading-to-wall-street-its-ceo-warns-ai-could-erase-entry-level-jobs",
+          "snippet": "[Anthropic计划进军华尔街，其CEO警告AI可能取代入门级职位，引发行业热议。]",
+          "index": 7
+        },
+        {
+          "title": "汇丰将在香港设立AI研究院，继新加坡之后",
+          "link": "https://wmbdradio.com/2026/11/01/hsbc-to-open-hong-kong-ai-institute-following-singapore-launch",
+          "snippet": "[汇丰银行继新加坡之后将在香港成立AI研究院，进一步拓展亚洲人工智能布局。]",
+          "index": 8
+        },
+        {
+          "title": "The Uniformer Live：产品数据与Agentic AI融合（Pimberly）",
+          "link": "https://events.naumd.com/Pimberly",
+          "snippet": "[本期节目探讨产品数据与Agentic AI的融合趋势，及其对行业的潜在影响。]",
+          "index": 9
+        },
+        {
+          "title": "Vecow发布新一代Edge AI PCIe扩展卡",
+          "link": "https://www.vecow.com/en/aboutus/news/edge-ai-pcie-expansion-cards",
+          "snippet": "[Vecow推出新一代Edge AI PCIe扩展卡，面向实时视频分析等边缘智能应用。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

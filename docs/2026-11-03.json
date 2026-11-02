@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-03",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "AI企业融资压力显现，估值大幅缩水",
+      "link": "https://www.mk.co.kr/en/stock/12192898",
+      "snippet": "[AI企业融资压力显现，市场估值大幅缩水，筹资规模或降至200亿美元，行业估值蒸发约1500亿美元。]",
+      "raw_snippet": "to $20 billion. Corporate valuation also fell $150 billion from $1.4 trillion a month ago to $1.25 trillion. As AI-related stocks continued to sell, some investors reportedly reduced the size of their investment agreements. [...] The pressure on artificial intelligence (AI) companies to raise funds is becoming a reality. Concerns about \"money vein hardening\" are growing at a time when huge investment is needed. OpenAI, a representative of AI companies, said its investment contract amount was less than half of its original target. Antropics predicted that its credit rating could remain in the \"speculative rating\" even after its initial public offering (IPO). Meta's credit rating outlook has been lowered due to the direct [...] The U.S. midterm elections and earnings announcements of major AI companies are scheduled this week, and domestic and foreign stock markets are in a \"overlapping state.\" According to the Wall Street Journal (WSJ) on the 1st, OpenAI has secured about $11 billion in investment agreements so far from attracting investments targeting $30 billion. It is only 36.7% of the original target. The Financial Times (FT) reported that OpenAI has lowered its funding target from $30 billion to $20 billion.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "OpenAI与Andreessen Horowitz",
+      "link": "https://jobs.a16z.com/company/openai",
+      "snippet": "[OpenAI于2015年12月在旧金山成立，获Andreessen Horowitz等投资者支持，专注AI研究。]",
+      "raw_snippet": "OpenAI was founded in December 2015 in San Francisco with a commitment to ensuring artificial general intelligence benefits all of humanity. Early backers included a group of technology leaders.\n\nOpenAI founding announcementOpenAI ↗\n\n## Funding rounds\n\nDate\n\nRound\n\nRaised\n\nValuation\n\nLead / investors\n\nMar 2026\n\nFunding round\n\nRaised -\n\nValuation -\n\nMicrosoft and other investors participated; a16z co-led the round\n\n## Team [...] $216K – $240K • Offers Equity·San Francisco, California, United States·Posted 4 hours ago\n\nApply\n\nOpenAI\n\n### Software Engineer, Infranomics\n\n$385K – $445K·San Francisco, California, United States·Posted 6 hours ago\n\nApply\n\nOpenAI\n\n### Software Engineer, Traffic Infrastructure\n\n$266K – $445K • Offers Equity·San Francisco, California, United States·Posted 6 hours ago\n\nApply\n\n## Product story\n\n2015\n\nFounded with a mission [...] PortfolioTeam\n\nTwitterLinkedinFacebookInstagramYoutubeSubstack\n\nAll portfolio jobs/OpenAI\n\nAll portfolio jobs/OpenAI\n\nOpenAI\n\n# OpenAI\n\nGrowthAISan Francisco, United StatesFounded 2015Hybrid\n\nopenai.comXLinkedInGitHub\n\nSee 812 tracked listingsSee tracked listings\n\nopenai.com\n\nOpenAI812 listings\n\nOverviewFeatured jobsProduct storyFunding roundsTeamCulture\n\n## Overview",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "ASI联合创始人Lucas Kukielka",
+      "link": "https://www.asi.com/company",
+      "snippet": "[Lucas Kukielka是ASI联合创始人之一，参与公司创立与业务发展。]",
+      "raw_snippet": "Co-Founder\n\nMr. Lucas Kukielka is one of ASI’s co-founders and has served in commercial engineering leadership positions since co-founding ASI in 2018.\n\n## Offices\n\nHQ\n\nBoston  \nMA\n\nUS Gov\n\nWashington  \nDC\n\nEU\n\nGdansk  \nPL\n\n## News & Insights\n\nSee All\n\nASI secures $325M Series C at $3B valuation to power America’s critical infrastructure with AI.\n\nASI secures $325M Series C at $3B valuation to power America’s critical infrastructure with AI. [...] News09.15.26ASI and National Grid collaborate to deploy operational AI to the electric grid.\n\nASI and National Grid collaborate to deploy operational AI to the electric grid.\n\nNews05.06.26ASI awarded $875 million multi-year software and AI contract by FAA.\n\nASI awarded $875 million multi-year software and AI contract by FAA.\n\nNews06.22.26 [...] Most recent progress in AI has come from systems that understand, generate, and reason over words. That changed how people interact with computers. But the most important decisions do not happen in documents or chat windows. They happen in the physical world, in transportation networks, energy grids, and military operations.\n\nWe build intelligent systems that orchestrate the physical world.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "Dark Matter收购House Numbers扩展AI布局",
+      "link": "https://nationalmortgageprofessional.com/news/dark-matter-expands-ai-ambitions-house-numbers-acquisition",
+      "snippet": "[Dark Matter收购House Numbers，加速AI战略扩张，或将影响零售、批发等行业。]",
+      "raw_snippet": "That shift could have implications across retail, wholesale, and correspondent lending operations, particularly for lenders managing large pipelines and seeking to reduce the labor required to move loans from application to funding.\n\nIt also places greater importance on how well AI capabilities integrate with existing systems. A tool that automates one task may deliver limited savings if employees still have to transfer information between platforms or manually initiate the next step. [...] The acquisition comes as mortgage technology providers face increasing pressure to demonstrate that AI investments produce measurable operating improvements.\n\nFor lenders, the potential savings extend beyond automating individual tasks. Repeated document requests, unresolved conditions, verification delays, and manual handoffs can add time and expense throughout the origination process. [...] Dark Matter CEO Vikas Rao said acquiring House Numbers would accelerate the company's ability to deliver AI capabilities without having to develop the technology internally.\n\n“We’re AI-forward, and we’re disciplined about what we build and what we buy,” Rao said. “House Numbers had already done the incredible work of running AI agents in live production for home lenders.”",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "科技股与AI债券下跌，AI交易是否陷入困境？",
+      "link": "https://www.wsj.com/podcasts/take-on-the-week/tech-stocks-and-ai-bonds-are-tumbling-is-the-ai-trade-in-trouble/5c52981a-0ef5-452f-be43-b0122766a96a",
+      "snippet": "[科技股与AI债券双双下挫，引发市场对AI交易前景的担忧与讨论。]",
+      "raw_snippet": "To watch the video version of this episode, visit our WSJ Podcasts YouTube channel or the video page of WSJ.com\n\nFurther Reading\n\nSee How Anthropic Arrived at Its Mind-Boggling $40 Trillion Market Opportunity\n\nWhy Anthropic’s Rivals are Rooting for its IPO\n\nMeta Plans up to $95 Billion in Financing to Power Its AI Growth\n\nTwo AI Chipmakers Make Up 34% of America’s Earnings Boom\n\nMeta’s Muse Is Going Gangbusters. But Where Is the Payoff? [...] Asa Fitch: Well, I think that one of the takeaways here is that capital is king. I mean, the capital window is wide open. People can raise money. I mean, Anthropic can at least, they hope. They're hoping to raise up to $100 billion in this IPO. So what matters now for these companies like CoreWeave, like Anthropic, like others, is capital. And if you look at other players like Meta Platforms, they're raising $35 billion in equity at the moment, and they plan to raise another 60 billion through, [...] Asa Fitch: When was it? The summer. So it's just ludicrous that people can just keep raising money, but they can't. So I wouldn't say that it's over and this IPO is not going to be met with sufficient supply of capital, but it seems like there's a lot of money that needs to be raised.\n\nTelis Demos: All right. Well, we'll have plenty to talk about in the years and months to come on this. Asa, thanks so much for joining us.\n\nAsa Fitch: Thank you.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "Y Combinator资助的纽约AI初创公司2026年招聘",
+      "link": "https://www.ycombinator.com/companies/industry/ai/new-york/hiring",
+      "snippet": "[Y Combinator支持的纽约AI初创企业正在招聘2026年岗位，涵盖虚拟医疗等领域。]",
+      "raw_snippet": "of patients monthly across virtual care companies, health systems, and a $5B health insurance company. We've raised $5.4M from Accel, Y Combinator, Sequoia (scout), and healthcare founders from Ophelia, Medallion, and Counsel Health. Our founders bring both clinical and technical expertise—our CEO Ryan is a Stanford/Harvard-trained physician who was on the founding teams of Two Chairs and Ophelia, while our CTO Jeffrey built voice AI at Amazon Alexa and led AI/ML teams at Salesforce. Join us as [...] in psychology at Harvard to launch Elayne. Together, they bring financial rigor, technical execution, and lived empathy to a massive but deeply human category. Backed by Y Combinator and Accel, we are now an 8-person team based in NYC. [...] Using generative AI, we take a creator's product idea, visualize it, break it into core components and manufacturing processes, and match each step to the right factory in our network – turning an idea into a shippable product in just a few weeks.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "Anthropic拟进军华尔街，CEO警告AI或淘汰入门级岗位",
+      "link": "https://www.alligator.org/article/2026/11/anthropic-is-heading-to-wall-street-its-ceo-warns-ai-could-erase-entry-level-jobs",
+      "snippet": "[Anthropic计划进军华尔街，其CEO警告AI可能取代入门级职位，引发行业热议。]",
+      "raw_snippet": "Founder control is common in tech, Mari said, citing that Mark Zuckerberg holds 60.8% of Meta’s voting power.\n\nBut at Facebook, Meta’s primary company, the political and social consequences, like the Cambridge Analytica data scandal, came out six years after the company went public, Mari said. With AI, he added, the effects on labor, employment, industrial policy and science are visible before it even hits the market.\n\n“Anthropic, OpenAI, they are highly consequential for our future,” he said. [...] expect to grow. [...] But he said he doesn’t expect mass layoffs right away. Companies will hold on to experienced employees, he added, because those workers are familiar with workflows and information specific to their business, which AI tools would need time to learn before taking over.\n\n“I think what’s going to happen is there’s going to be a no firing, no hiring type of movement,” Ortega said.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "汇丰将在香港设立AI研究院，继新加坡之后",
+      "link": "https://wmbdradio.com/2026/11/01/hsbc-to-open-hong-kong-ai-institute-following-singapore-launch",
+      "snippet": "[汇丰银行继新加坡之后将在香港成立AI研究院，进一步拓展亚洲人工智能布局。]",
+      "raw_snippet": "The Hong Kong plan follows the Asia-focused lender’s announcement in July that it would hire more than 100 artificial intelligence specialists at an AI ​centre in rival financial hub Singapore.\n\nThe investment in AI transformation comes as banks globally cut staff due to AI-driven overhauls, with lenders such as Citi, ⁠Standard Chartered, and Barclays unveiling plans this ⁠year to cut thousands of jobs. [...] The bank ‌aims to launch the institute in the first quarter of 2027, Chief Executive Georges Elhedery said at Hong Kong’s Fintech Week event on Monday.\n\nThe AI unit will work with Hong Kong University of Science and Technology as its anchor academic partner, Elhedery said, though he did ‌not ​disclose headcount details.\n\nHe added the bank would move ⁠the centre to Hong Kong’s Northern ⁠Metropolis — a mega project bordering mainland China — as soon as its site there was ready. [...] Around 80% of all banks ​in Hong Kong are already adopting AI or generative AI, Eddie Yue, chief executive ​of Hong Kong’s de facto central bank, told the conference.\n\nHSBC’s Elhedery ‌added that HSBC — one of Hong Kong’s largest private-sector employers with 28,000 local staff — was rolling out AI training for its entire global workforce of roughly 200,000 people.\n\n“AI is going to be disruptive. It’s going to transform jobs,” Elhedery ⁠said.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "The Uniformer Live：产品数据与Agentic AI融合（Pimberly）",
+      "link": "https://events.naumd.com/Pimberly",
+      "snippet": "[本期节目探讨产品数据与Agentic AI的融合趋势，及其对行业的潜在影响。]",
+      "raw_snippet": "It's a broad look at the convergence of product data and agentic AI, with Martin sharing his perspective on how uniform businesses can prepare for the next",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "Vecow发布新一代Edge AI PCIe扩展卡",
+      "link": "https://www.vecow.com/en/aboutus/news/edge-ai-pcie-expansion-cards",
+      "snippet": "[Vecow推出新一代Edge AI PCIe扩展卡，面向实时视频分析等边缘智能应用。]",
+      "raw_snippet": "Advanced Edge AI solutions for real-time video analytics, forensic surveillance, and intelligent urban security infrastructure. Learn More · Smart",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}
