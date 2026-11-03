@@ -9,33 +9,33 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "AI企业融资压力显现，估值大幅缩水",
-          "link": "https://www.mk.co.kr/en/stock/12192898",
-          "snippet": "[AI企业融资压力显现，市场估值大幅缩水，筹资规模或降至200亿美元，行业估值蒸发约1500亿美元。]",
+          "title": "受AI热潮驱动，Marvell与Lumentum宣布1150亿美元合并——《纽约时报》",
+          "link": "https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html",
+          "snippet": "[AI热潮推动Marvell与Lumentum宣布1150亿美元合并，强化数据中心光互连与算力基础设施。]",
           "index": 1
         },
         {
-          "title": "OpenAI与Andreessen Horowitz",
-          "link": "https://jobs.a16z.com/company/openai",
-          "snippet": "[OpenAI于2015年12月在旧金山成立，获Andreessen Horowitz等投资者支持，专注AI研究。]",
+          "title": "Anthropic投资者要求审慎估值，目标接近1.5万亿美元——《华尔街日报》",
+          "link": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf",
+          "snippet": "[上周科技股大跌后，Anthropic主要投资者要求更审慎估值，拟将公司估值控制在约1.5万亿美元附近。]",
           "index": 2
         },
         {
-          "title": "ASI联合创始人Lucas Kukielka",
-          "link": "https://www.asi.com/company",
-          "snippet": "[Lucas Kukielka是ASI联合创始人之一，参与公司创立与业务发展。]",
+          "title": "Windward收购Azimut.ai，拓展海事视觉智能业务",
+          "link": "https://www.prnewswire.com/news-releases/windward-expands-into-maritime-visual-intelligence-with-acquisition-of-azimutai-302927533.html",
+          "snippet": "[Windward收购Azimut.ai，拓展海事视觉智能，以AI视觉技术强化海上安全与航运合规。]",
           "index": 3
         },
         {
-          "title": "Dark Matter收购House Numbers扩展AI布局",
-          "link": "https://nationalmortgageprofessional.com/news/dark-matter-expands-ai-ambitions-house-numbers-acquisition",
-          "snippet": "[Dark Matter收购House Numbers，加速AI战略扩张，或将影响零售、批发等行业。]",
+          "title": "AI辅助基金评审会让科学更保守吗？——《Nature》",
+          "link": "https://www.nature.com/articles/d41586-026-03340-4",
+          "snippet": "[Nature研究警示，AI辅助基金评审系统可能倾向于保守选择已验证课题，从而抑制科学创新。]",
           "index": 4
         },
         {
-          "title": "科技股与AI债券下跌，AI交易是否陷入困境？",
-          "link": "https://www.wsj.com/podcasts/take-on-the-week/tech-stocks-and-ai-bonds-are-tumbling-is-the-ai-trade-in-trouble/5c52981a-0ef5-452f-be43-b0122766a96a",
-          "snippet": "[科技股与AI债券双双下挫，引发市场对AI交易前景的担忧与讨论。]",
+          "title": "NEOMED授予AI采用试点Strategic Initiative Funding",
+          "link": "https://thepulse.neomed.edu/articles/neomed-awards-strategic-initiative-funding-for-artificial-intelligence-adoption-pilot",
+          "snippet": "[NEOMED资助AI采用试点，探索人工智能在医学教育与研究中的创新应用场景。]",
           "index": 5
         }
       ]
@@ -44,33 +44,33 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "Y Combinator资助的纽约AI初创公司2026年招聘",
-          "link": "https://www.ycombinator.com/companies/industry/ai/new-york/hiring",
-          "snippet": "[Y Combinator支持的纽约AI初创企业正在招聘2026年岗位，涵盖虚拟医疗等领域。]",
+          "title": "Vercel CEO Guillermo Rauch：一个人与AI Agents如何改变工作",
+          "link": "https://www.thewantrepreneurshow.com/blog/vercel-ceo-guillermo-rauch-how-one-person-and-ai-agents-could-build-a-trillion-dollar-company",
+          "snippet": "[Vercel CEO认为，随着AI Agents能力增强，未来一人借助多智能体即可完成过去需要团队的复杂工作。]",
           "index": 6
         },
         {
-          "title": "Anthropic拟进军华尔街，CEO警告AI或淘汰入门级岗位",
-          "link": "https://www.alligator.org/article/2026/11/anthropic-is-heading-to-wall-street-its-ceo-warns-ai-could-erase-entry-level-jobs",
-          "snippet": "[Anthropic计划进军华尔街，其CEO警告AI可能取代入门级职位，引发行业热议。]",
+          "title": "联合创始人兼CEO——面向专业服务的AI Content Intelligence | FutureSight",
+          "link": "https://www.indeed.com/viewjob?jk=1ab934cbef021757",
+          "snippet": "[FutureSight招募联合创始人兼CEO，打造面向专业服务的AI内容智能平台。]",
           "index": 7
         },
         {
-          "title": "汇丰将在香港设立AI研究院，继新加坡之后",
-          "link": "https://wmbdradio.com/2026/11/01/hsbc-to-open-hong-kong-ai-institute-following-singapore-launch",
-          "snippet": "[汇丰银行继新加坡之后将在香港成立AI研究院，进一步拓展亚洲人工智能布局。]",
+          "title": "Veeam招聘高级法律顾问（产品、隐私与AI方向）",
+          "link": "https://careers.veeam.com/job/united-states/sr-counsel-product-privacy-and-ai/22681/102784096400",
+          "snippet": "[Veeam招聘资深法律顾问，负责产品、隐私及AI事务，要求经验丰富且具备商业思维。]",
           "index": 8
         },
         {
-          "title": "The Uniformer Live：产品数据与Agentic AI融合（Pimberly）",
-          "link": "https://events.naumd.com/Pimberly",
-          "snippet": "[本期节目探讨产品数据与Agentic AI的融合趋势，及其对行业的潜在影响。]",
+          "title": "内部岗位——人工智能产品经理（AI Product Owner）",
+          "link": "https://www.livehire.com/careers/brisbanecitycouncil/job/PN7NF/VS17VYMDE/internal-only-product-owner-artificial-intelligence",
+          "snippet": "[该职位负责AI产品的端到端交付，通过跨部门协作推动新AI资产成功上线并产生业务价值。]",
           "index": 9
         },
         {
-          "title": "Vecow发布新一代Edge AI PCIe扩展卡",
-          "link": "https://www.vecow.com/en/aboutus/news/edge-ai-pcie-expansion-cards",
-          "snippet": "[Vecow推出新一代Edge AI PCIe扩展卡，面向实时视频分析等边缘智能应用。]",
+          "title": "让智能可运营：京东CEO许冉谈将企业AI转化为业务价值",
+          "link": "https://markets.businessinsider.com/news/stocks/making-intelligence-operational-jd-com-ceo-sandy-xu-on-turning-enterprise-ai-into-business-value-1036706245",
+          "snippet": "[京东CEO许冉表示，企业AI正加速融入实体场景，通过运营智能将技术转化为可衡量的业务价值。]",
           "index": 10
         }
       ]
