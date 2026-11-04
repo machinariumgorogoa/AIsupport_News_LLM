@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-04",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Latham领投的AI初创公司融资后估值达32.5亿美元",
+          "link": "https://www.law360.com/technology/articles/2545791/latham-led-ai-startup-valued-at-3-25b-after-funding-round",
+          "snippet": "人工智能公司Applied Compute完成融资，估值32.5亿美元，由Latham领衔。",
+          "index": 1
+        },
+        {
+          "title": "5亿美元",
+          "link": "https://augment.market/pulse/anthropic-17b-quarter-1-5t-valuation-talk",
+          "snippet": "人工智能公司Applied Compute完成融资，估值32.5亿美元，由Latham领衔。",
+          "index": 2
+        },
+        {
+          "title": "AI智能体团队如何变革PE、VC与投资银行",
+          "link": "https://www.brexy.ai/resources/blog/how-ai-agent-teams-transform-pe-vc-and-investment-banking",
+          "snippet": "AI交易寻源智能体扫描初创企业与行业公告，赋能私募、风投及投行高效决策。",
+          "index": 3
+        },
+        {
+          "title": "2026年第三季度M&A季度报告",
+          "link": "https://www.thinkbrg.com/insights/publications/quarterly-ma-report-q3-2026",
+          "snippet": "尽管地缘政治冲突与货币政策停滞，全球并购市场仍呈现特定趋势与挑战。",
+          "index": 4
+        },
+        {
+          "title": "超越CASA系统：AI与DL赋能犬精子分析（CSA）",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0093691X26004991",
+          "snippet": "从碎片化、参数化的运动性评估向基于AI/DL的犬精子分析（CSA）转变。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Vercel CEO Guillermo Rauch：一个人与AI智能体如何变革开发",
+          "link": "https://www.thewantrepreneurshow.com/blog/vercel-ceo-guillermo-rauch-how-one-person-and-ai-agents-could-build-a-trillion-dollar-company",
+          "snippet": "AI智能体日益能够执行复杂任务，未来一人借助智能体即可完成大型项目。",
+          "index": 6
+        },
+        {
+          "title": "Prime Intellect招聘产品负责人（Menlo Ventures招聘板）",
+          "link": "https://jobs.menlovc.com/companies/prime-intellect/jobs/98899329-product-lead",
+          "snippet": "Prime Intellect累计融资1.5亿美元，现招募产品负责人推动AI平台发展。",
+          "index": 7
+        },
+        {
+          "title": "HDI Seguros与insureMO将AI引入保险产品工程",
+          "link": "https://finance.yahoo.com/technology/ai/articles/hdi-seguros-insuremo-bring-artificial-090000594.html",
+          "snippet": "继创纪录迁移后，双方利用人工智能缩短保险产品从构思到上市的时间。",
+          "index": 8
+        },
+        {
+          "title": "在AI赋能的工作空间中提升个人生产力",
+          "link": "https://mitsloan.mit.edu/ideas-made-to-matter/increase-your-personal-productivity-ai-enabled-workspace",
+          "snippet": "MIT Sloan文章介绍Gentreo创始人Renee Fry借助AI工作环境提升个人效率。",
+          "index": 9
+        },
+        {
+          "title": "Advito发布AI赋能的咨询智能平台",
+          "link": "https://www.businesstravelexecutive.com/news/advito-announces-launch-of-ai-enabled-consulting-intelligence-platform",
+          "snippet": "新平台将复杂数据转化为有意义的商业决策，助力差旅与咨询服务提升效率。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
