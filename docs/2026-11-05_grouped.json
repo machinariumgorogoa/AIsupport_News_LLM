@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-05",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Approaching.AI融资、投资方与竞争对手分析",
+          "link": "https://multiples.vc/private-comps/approaching-ai",
+          "snippet": "该平台汇总Approaching.AI的总部、营收、EBITDA、估值及收入倍数等数据，供投资者与分析师参考。",
+          "index": 1
+        },
+        {
+          "title": "AI保险初创公司Kalepa估值4.7亿美元",
+          "link": "https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05",
+          "snippet": "Kalepa周四宣布完成7500万美元融资，其AI驱动的商业保险承保平台获得约4.7亿美元估值。",
+          "index": 2
+        },
+        {
+          "title": "Anthropic招股书大篇幅提示AI投资风险，却淡化社会风险",
+          "link": "https://sites.tufts.edu/ibgc/anthropics-ipo-filing-spends-69800-words-on-ais-risks-to-investors-and-says-little-about-the-risks-to-the-rest-of-us-fortune",
+          "snippet": "学者在《财富》撰文指出，Anthropic的IPO文件用近七万字详述AI投资者风险，却几乎未谈社会影响。",
+          "index": 3
+        },
+        {
+          "title": "7亿美元",
+          "link": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf",
+          "snippet": "Kalepa周四宣布完成7500万美元融资，其AI驱动的商业保险承保平台获得约4.7亿美元估值。",
+          "index": 4
+        },
+        {
+          "title": "人工智能时代的网络安全之变",
+          "link": "https://miamioh.edu/it-services/news-media/2026/11/ai-cybersecurity.html",
+          "snippet": "AI正重塑网络安全格局，在提升智能防御的同时扩大攻击面，企业须更新安全策略以应对新型威胁与合规风险。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "苹果高管John Ternus：Siri AI或将转为付费升级",
+          "link": "https://finance.yahoo.com/technology/ai/articles/apple-siri-ai-could-become-213018500.html",
+          "snippet": "未来更多基于服务器端的Apple Intelligence与Siri AI功能可能向用户收费，以覆盖算力成本。",
+          "index": 6
+        },
+        {
+          "title": "AI Magazine发布全球十大AI领袖榜单",
+          "link": "https://aimagazine.com/top10/top-10-ai-leaders",
+          "snippet": "AI Magazine发布全球十大AI领袖榜单，涵盖吴恩达与李飞飞等专家，介绍其所属机构、职位及行业影响。",
+          "index": 7
+        },
+        {
+          "title": "BoF：AI如何改变商业领袖决策方式",
+          "link": "https://www.businessoffashion.com/articles/artificial-intelligence/aily-labs-bianca-anghelina-ai-decision-intelligence-business-leaders",
+          "snippet": "BoF专访Decidr创始人，探讨AI如何为时尚与零售高管提供数据洞察，重塑战略与运营决策。",
+          "index": 8
+        },
+        {
+          "title": "从生产力到智能：保险原生AI的崛起",
+          "link": "https://www.brighttalk.com/webcast/16535/675621",
+          "snippet": "保险原生AI正从效率工具演进为决策智能，Earnix等厂商推动精准定价、风险评估与行业数字化转型。",
+          "index": 9
+        },
+        {
+          "title": "生成式AI时代创作权的心理价值",
+          "link": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.2018203/full",
+          "snippet": "研究表明，尽管生成式AI可快速产出内容，人类创作者身份仍对自我价值、认同感与心理健康具有重要意义。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
