@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-06",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "独家｜主要投资者质疑Anthropic IPO能否达到1.5万亿美元估值——WSJ",
+          "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b",
+          "snippet": "[《华尔街日报》独家报道，主要机构投资者越来越怀疑Anthropic的IPO能否实现1.5万亿美元估值。]",
+          "index": 1
+        },
+        {
+          "title": "Tidhar IPO将成为近十年来TASE规模最大IPO——Globes",
+          "link": "https://en.globes.co.il/en/article-tidhar-ipo-to-be-biggest-on-tase-in-past-decade-1001542656",
+          "snippet": "[尽管Tidhar此次IPO可能不包含二次发行，它仍将成为近十年特拉维夫证交所（TASE）规模最大的IPO。]",
+          "index": 2
+        },
+        {
+          "title": "好莱坞下一幕：竞争、AI与银幕制作未来——新西兰外交贸易部",
+          "link": "https://www.mfat.govt.nz/en/trade/mfat-market-reports/hollywoods-next-act-competition-artificial-intelligence-and-the-future-of-screen-production",
+          "snippet": "[全球银幕产业正受到竞争加剧与AI技术等重大力量重塑，文章探讨好莱坞及屏幕制作的未来走向。]",
+          "index": 3
+        },
+        {
+          "title": "评估AI对客户支持的变革性影响：一项比较实验研究——IJERT",
+          "link": "https://www.ijert.org/evaluating-the-transformational-impact-of-artificial-intelligence-on-customer-support-a-comparative-experimental-study-ijertv15is050892",
+          "snippet": "[AI可帮助企业提速运营并减轻客服负担，该比较实验研究评估了AI对客户支持的变革性影响。]",
+          "index": 4
+        },
+        {
+          "title": "Tatiana Codreanu：利用AI提升语言学习｜帝国理工学院活动",
+          "link": "https://www.imperial.ac.uk/events/181892/using-ai-to-boost-language-learning",
+          "snippet": "[本次研讨会中，Codreanu博士将探讨AI在语言学习中的应用，助力提升教学与学习效率。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI产品管理：构建AI产品的课程｜ISDI",
+          "link": "https://www.isdi.education/en/programs/ai-product-management",
+          "snippet": "[该项目帮助企业实施AI产品与战略计划，培养构建和管理AI解决方案的产品管理能力。]",
+          "index": 6
+        },
+        {
+          "title": "3人因涉嫌利用AI冒充CEO和律师等身份被起诉",
+          "link": "https://www.13newsnow.com/article/news/nation-world/3-charged-ai-ceo-impersonation/507-ed32d112-4182-4cf9-9839-2b24a8ce3d84",
+          "snippet": "[三人被控利用AI冒充CEO和律师等身份实施诈骗，该案凸显AI技术被滥用所带来的法律风险。]",
+          "index": 7
+        },
+        {
+          "title": "Amazon Marketplace如何利用SageMaker AI评估内容质量",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai",
+          "snippet": "[文章介绍如何在生产环境中借助SageMaker AI监控并再训练ML模型，持续评估Marketplace内容质量。]",
+          "index": 8
+        },
+        {
+          "title": "美国心理协会CEO Arthur C. Evans Jr.探讨AI将如何影响青少年心理健康",
+          "link": "https://www.clarku.edu/news/2026/11/05/american-psychological-association-ceo-arthur-c-evans-jr-weighs-how-artificial-intelligence-will-impact-youth-mental-health",
+          "snippet": "[美国心理协会CEO Arthur C. Evans Jr.将在10月8日讲座中探讨AI如何影响青少年的心理健康与行为健康问题。]",
+          "index": 9
+        },
+        {
+          "title": "URAC CEO强调医疗AI临床监督的重要性",
+          "link": "https://www.urac.org/blog/urac-ceo-highlights-the-importance-of-clinical-oversight-in-health-care-ai",
+          "snippet": "[URAC的医疗AI认证帮助医疗机构建立临床监督机制，确保AI在医疗场景中的安全与有效应用。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
