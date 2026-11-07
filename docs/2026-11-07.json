@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-07",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "Anthropic IPO将检验AI行业财务可行性",
+      "link": "https://www.bankinfosecurity.com/anthropic-ipo-to-test-ai-industrys-financial-viability-a-33328",
+      "snippet": "AI初创公司Anthropic计划上市，或成为衡量人工智能产业盈利前景的关键风向标。",
+      "raw_snippet": "TRENDING:\n\n Why CMMC Contractors Should Plan for NIST Revision 3 Now•\n 2026 Resilience Week NYC: Healthcare, Fraud, & Finance Summits•\n\nAgentic AI , Artificial Intelligence & Machine Learning , Next-Generation Technologies & Secure Development\n\n# Anthropic IPO to Test AI Industry's Financial Viability\n\nPotential $1.5 Trillion Valuation Raises Stakes for Frontier Model Makers and AI Supply Chain  Emilia David • November 6, 2026     \n\n Credit Eligible [...] The IPO represents the first true test of the longevity and financial viability of AI as a sector, and it may affect how other companies within the AI supply chain may or may not benefit from the monster-sized investment Anthropic and other capital-intensive model makers demand. [...] \"A strong debut validates private valuations across the sector and makes the next round easier to raise. A weak one forces a reset, and the last few weeks showed how quickly that can happen: About half a trillion dollars of expected value was reconsidered after a single investor day,\" Olujobi said.\n\n Agentic AI\n Artificial Intelligence & Machine Learning\n Next-Generation Technologies & Secure Development\n\n Credit Eligible\n\nPrevious  \nOpenAI Hopes to Ease Backlash Against AI Data Centers",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "DataRobot IPO时间表与融资细节——Forge",
+      "link": "https://forgeglobal.com/datarobot_ipo",
+      "snippet": "DataRobot的IPO进程、融资规模及估值信息通过Forge平台披露，引发市场关注。",
+      "raw_snippet": "Register\n\n$1.1B\n\nSeries EI Valuation, Sep 2026\n\nTop Forge Price GainersArtificial IntelligenceNew Funding RoundUnicorn\n\nBuy And Sell DataRobot StockLearn More About DataRobot StockAdd To Watchlist\n\nRegister for details\n\nFor more details on financing and valuation for DataRobot, register or log in.\n\nPlease provide a valid email address.\n\nRegister\n\nBy registering, you agree to Forge’s Terms of Use. Already registered? Log In [...] ### Artificial Intelligence (AI)\n\n|  | Company | Forge Price | Market Activity | Last Matched |\n ---  --- \n| Image 20: OpenAI | OpenAI | Not available | High | $xxx.xx |\n| Image 21: Anthropic | Anthropic | Not available | Medium | $xxx.xx |\n| Image 22: Anduril | Anduril | $140.00 +$27.72 (24.69%) | High | $xxx.xx |\n| Image 23: Databricks | Databricks | $268.50 +$72.19 (36.77%) | High | $xxx.xx |\n| Image 24: Lambda | Lambda | $56.19 +$4.16 (8.00%) | High | $xxx.xx |\n\nSee All AI Companies [...] FordDirect adopted DataRobot's AI platform to build 360-degree customer views, decreasing time to implement models by 75% versus hand-coded and reducing tech debt by $3M. Propensity models identify customers 18X more likely to buy, a segment valued at $6.5M. FordDirect looks to extend value with generative AI.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "从劳动到资本：通用人工智能（AGI）",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7677199",
+      "snippet": "Restrepo（2025）研究指出，通用人工智能（AGI）兴起后，经济将从劳动转向资本驱动。",
+      "raw_snippet": "Restrepo (2025) shows that once artificial general intelligence lets compute perform every task, output becomes linear in compute, wages",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "微软研究资助CFP：AI与就业——为增强型工作而设计",
+      "link": "https://connect.informs.org/discussion/microsoft-research-funding-cfp-ai-and-jobs-designing-for-augmented-work",
+      "snippet": "微软发布研究资助征集，探索AI对就业影响并设计人机协同的增强型工作模式。",
+      "raw_snippet": "email\n\nGlobal message icon [...] Dmitrii Sumkin's profile image\n\n#### Microsoft AI-901 Artificial Intelligence Fundamentals / Data4Good\n\nMatthew Lanham's profile image\nINFORMS® Online - Institute for Operations Research and the Management Sciences\n\nInstitute for Operations Research and the Management Sciences\n\nINFORMS (Institute for Operations Research and the Management Sciences) is a U.S. 501(c)(3) nonprofit organization; EIN: 52-1898636.\n\nphone 1 443-757-3500\n\nphone 2 800-4INFORMS (800-446-3676)\n\nfax 443-757-3515\n\nemail [...] 5.     Designing for AI-mediated discovery, markets, and value creation \n\nSelected researchers will join the AIEI Senior Fellows cohort, participate in virtual and in-person workshops, contribute to a book on the AI economy, and submit a manuscript to an academic journal.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "通过跨模态助推的生成式人工智能：感官信任与资源优化",
+      "link": "https://cordis.europa.eu/project/id/101262968",
+      "snippet": "欧盟GASTRO-X项目探索生成式AI在跨模态助推中的应用，以提升感官信任并优化资源。",
+      "raw_snippet": "### Funding Scheme Funding scheme (or “Type of Action”) inside a programme with common features. It specifies: the scope of what is funded; the reimbursement rate; specific evaluation criteria to qualify for funding; and the use of simplified forms of costs like lump sums. [...] The distribution of tracker values is done in groups or batches according to the panel (ERC or MSCA) that selected the projects. [...] The total amount of money invested in the project. The total cost includes EU contribution as well as other project costs not covered by EU funding. It is expressed in euros.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "美司法部称三名外籍人士涉嫌用AI冒充CEO诈骗1.29亿美元",
+      "link": "https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818",
+      "snippet": "美国司法部指控三人利用AI模仿CEO声音或形象，策划1.29亿美元诈骗案。",
+      "raw_snippet": "Rebecca Cohen\n\nRebecca Cohen is a breaking news reporter for NBC News Digital. [...] The trio and their co-conspirators would tell these employees — typically in accounting departments — they needed help with a confidential financial transaction and would use AI technology to mimic the company CEO’s voice, according to the press release. [...] Once the employee wired the money, the group would convert the cash into cryptocurrency “in an attempt to conceal the source, ownership, and control of the stolen proceeds and distribute it amongst themselves and their co-conspirators,” prosecutors said.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "从提示到创业：企业家如何利用AI思考、构建与扩张",
+      "link": "https://studentaffairs.unc.edu/event/from-prompt-to-venture-how-entrepreneurs-use-ai-to-think-build-scale",
+      "snippet": "UNC讲座或活动介绍企业家如何借助AI从构思、搭建到规模化发展初创企业。",
+      "raw_snippet": "Curious about how entrepreneurs are using artificial intelligence to launch ideas, solve problems, and grow businesses? Join the Shuford Program in Entrepreneurship for an engaging panel discussion featuring entrepreneurs and industry leaders who are leveraging AI as a thought partner, creative tool, and business accelerator. [...] This conversation will explore practical frameworks for effective prompting, strategies for integrating AI into entrepreneurial workflows, and real-world examples of how AI is transforming innovation, productivity, and venture creation. Whether you’re exploring a startup idea, building your professional skill set, or simply curious about the future of AI, you’ll leave with actionable insights you can apply immediately. [...] Hear from panelists Nick Sullivan, Clyde Brown, and Kevin Robinson, facilitated by Jermani Horton.\n\nCome ready to explore how AI can help turn your next prompt into your next venture.\n\nFrom   \n to   \n at Gardner Hall 104.\n\n Google Calendar\n iCalendar\n Outlook 365\n Outlook Live\n\n## Test announcement\n\nTesting the announcement bar",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "南新泽西最大数据中心CEO与Anthropic Claude将主讲Rowan AI大会",
+      "link": "https://today.rowan.edu/news/2026/11/november-sweeney-center-artificial-intelligence-conference.html",
+      "snippet": "11月10日Rowan大学AI大会将邀请DataOne CEO及Anthropic的Claude担任主讲嘉宾。",
+      "raw_snippet": "Attendees will hear from DataOne CEO Charles-Antoine Beyney, whose company is building South Jersey’s largest data center in Vineland, and, in a Rowan first, Anthropic’s Claude.ai will be interviewed in real time by event keynoter Ric Edelman, founding head of Rowan University’s School of Financial Planning. Edelman will use an app developed by Yolanda Mack, Ph.D., associate dean for workforce development and industry partnerships, Henry M. Rowan College of Engineering. [...] Rowan University Ph.D. student in computational biophysics Tiana Noll-Walker [...] Rowan University",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "Factorial推出One：你的职场个人AI Agent",
+      "link": "https://factorial.com/blog/one-personal-ai-agent-at-work",
+      "snippet": "HR科技公司Factorial发布名为One的个人AI Agent，旨在提升工作场景生产力与自动化。",
+      "raw_snippet": "linkedinfacebooktwitterwhatsapp\n\nFactorial presents a new evolution of One, its personal artificial intelligence agent for work. This launch comes at a moment of expansion and growth, with artificial intelligence at the center of its business. [...] linkedin\n\n#### Related posts\n\nNew Factorial LMS platform for smarter learnings\n\nCategories Inside Factorial\n\n##### Factorial launches a new Learning Management System (LMS) to streamline employee training on the latest product updates\n\nJoan Cornudella\n\nFactorial IT new ITSM platform\n\nCategories Inside Factorial\n\n##### Factorial releases the new ITSM platform that connects all of your IT operations powered by AI: Factorial IT\n\nBiel Seuma\n\nFactorial IT new ITSM platform [...] The goal is for technology to make work simpler, not more complex: to reduce the time teams spend searching for information, switching between applications or completing administrative tasks, and to free that time so they can focus on what really adds value. With this vision, Factorial is betting on a new generation of business software in which AI is not an extra layer, but a fundamental part of how companies work and make decisions.\n\n## Growth and international expansion",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "Guy Oseary在X上谈及The Rundown AI创始人Rowan",
+      "link": "https://x.com/guyoseary/status/2118770016342688155",
+      "snippet": "Guy Oseary发文介绍The Rundown AI创始人Rowan，称其为全球最大AI资讯平台之一。",
+      "raw_snippet": "Rowan is the founder of The Rundown AI, the world's largest daily artificial intelligence newsletter with an audience of over 3.5 million people",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}

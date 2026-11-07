@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-07",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic IPO将检验AI行业财务可行性",
+          "link": "https://www.bankinfosecurity.com/anthropic-ipo-to-test-ai-industrys-financial-viability-a-33328",
+          "snippet": "AI初创公司Anthropic计划上市，或成为衡量人工智能产业盈利前景的关键风向标。",
+          "index": 1
+        },
+        {
+          "title": "DataRobot IPO时间表与融资细节——Forge",
+          "link": "https://forgeglobal.com/datarobot_ipo",
+          "snippet": "DataRobot的IPO进程、融资规模及估值信息通过Forge平台披露，引发市场关注。",
+          "index": 2
+        },
+        {
+          "title": "从劳动到资本：通用人工智能（AGI）",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7677199",
+          "snippet": "Restrepo（2025）研究指出，通用人工智能（AGI）兴起后，经济将从劳动转向资本驱动。",
+          "index": 3
+        },
+        {
+          "title": "微软研究资助CFP：AI与就业——为增强型工作而设计",
+          "link": "https://connect.informs.org/discussion/microsoft-research-funding-cfp-ai-and-jobs-designing-for-augmented-work",
+          "snippet": "微软发布研究资助征集，探索AI对就业影响并设计人机协同的增强型工作模式。",
+          "index": 4
+        },
+        {
+          "title": "通过跨模态助推的生成式人工智能：感官信任与资源优化",
+          "link": "https://cordis.europa.eu/project/id/101262968",
+          "snippet": "欧盟GASTRO-X项目探索生成式AI在跨模态助推中的应用，以提升感官信任并优化资源。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "美司法部称三名外籍人士涉嫌用AI冒充CEO诈骗1.29亿美元",
+          "link": "https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818",
+          "snippet": "美国司法部指控三人利用AI模仿CEO声音或形象，策划1.29亿美元诈骗案。",
+          "index": 6
+        },
+        {
+          "title": "从提示到创业：企业家如何利用AI思考、构建与扩张",
+          "link": "https://studentaffairs.unc.edu/event/from-prompt-to-venture-how-entrepreneurs-use-ai-to-think-build-scale",
+          "snippet": "UNC讲座或活动介绍企业家如何借助AI从构思、搭建到规模化发展初创企业。",
+          "index": 7
+        },
+        {
+          "title": "南新泽西最大数据中心CEO与Anthropic Claude将主讲Rowan AI大会",
+          "link": "https://today.rowan.edu/news/2026/11/november-sweeney-center-artificial-intelligence-conference.html",
+          "snippet": "11月10日Rowan大学AI大会将邀请DataOne CEO及Anthropic的Claude担任主讲嘉宾。",
+          "index": 8
+        },
+        {
+          "title": "Factorial推出One：你的职场个人AI Agent",
+          "link": "https://factorial.com/blog/one-personal-ai-agent-at-work",
+          "snippet": "HR科技公司Factorial发布名为One的个人AI Agent，旨在提升工作场景生产力与自动化。",
+          "index": 9
+        },
+        {
+          "title": "Guy Oseary在X上谈及The Rundown AI创始人Rowan",
+          "link": "https://x.com/guyoseary/status/2118770016342688155",
+          "snippet": "Guy Oseary发文介绍The Rundown AI创始人Rowan，称其为全球最大AI资讯平台之一。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
