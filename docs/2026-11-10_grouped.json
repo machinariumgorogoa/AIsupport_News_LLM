@@ -9,33 +9,33 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "OpenAI新一轮融资估值达1.25万亿美元",
-          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-valuation-hits-1-25-trillion-in-new-funding-round",
-          "snippet": "[OpenAI在新一轮融资中估值突破1.25万亿美元，彰显生成式AI领军企业的资本吸引力，并刷新私营科技公司估值纪录。]",
+          "title": "AI、M&A与下一步的经济学",
+          "link": "https://www.valuationpodcast.com/episodes/ai-mergers-and-acquisitions-the-economics-of-what-comes-next",
+          "snippet": "AI正改变企业估值与M&A格局，专家探讨AI如何重塑交易定价、尽职调查及未来经济影响。",
           "index": 1
         },
         {
-          "title": "Kalepa完成7500万美元B轮融资，估值4.7亿美元以扩展AI保险平台",
-          "link": "https://www.reinsurancene.ws/kalepa-secures-75m-in-series-b-funding-at-470m-valuation-to-expand-ai-insurance-platform",
-          "snippet": "[AI保险平台Kalepa完成7500万美元B轮融资，投后估值达4.7亿美元，资金将用于扩展其AI保险平台及全球市场布局。]",
+          "title": "Sakana AI或于2027年上市",
+          "link": "https://www.japantimes.co.jp/business/2026/11/10/companies/sakana-ai-ipo",
+          "snippet": "Sakana AI表示优先打造具有代际意义的AI公司，2027年IPO计划显示其长期商业化信心。",
           "index": 2
         },
         {
-          "title": "Anthropic IPO：AI热潮与华尔街交汇",
-          "link": "https://community.vestedfinance.com/t/anthropic-s-ipo-the-ai-boom-meets-wall-street/23127",
-          "snippet": "[Anthropic的IPO有望成为衡量AI投资热潮的实时标尺，投资者将借此观察华尔街对生成式AI企业的真实信心。]",
+          "title": "Anthropic新IPO寻求每股70至78美元，估值近1.3万亿美元",
+          "link": "https://abc11.com/story/anthropic-seeks-70-78-share-new-ipo-filing-values-13-trillion/20029820",
+          "snippet": "Anthropic推进IPO，拟定价70至78美元/股，估值近1.3万亿美元，引发市场对AI巨头资本化的关注。",
           "index": 3
         },
         {
-          "title": "Interface.ai股票行情：估值、融资与投资者信息",
-          "link": "https://notice.co/c/interface-ai",
-          "snippet": "[Notice.co展示Interface.ai股票行情，涵盖估值、融资与投资者信息，帮助投资者把握Pre-IPO机遇并跟踪其资本运作。]",
+          "title": "AI赋能中端市场银行M&A研究 - Sutherland",
+          "link": "https://www.sutherlandglobal.com/insights/case-study/ai-enabled-ma-research-investment-banking",
+          "snippet": "Sutherland借助AI为中型银行加速M&A研究，从源头提升尽职调查效率与决策质量。",
           "index": 4
         },
         {
-          "title": "Credo AI上市前股票：投资或出售机会",
-          "link": "https://www.nasdaqprivatemarket.com/company/credo-ai",
-          "snippet": "[Credo AI提供AI驱动的数据整合与自动化治理平台，投资者可在IPO前选择买入或出售其股票，布局AI治理赛道。]",
+          "title": "SSPI Thurmond召集AI教育峰会",
+          "link": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel46.asp",
+          "snippet": "加州州督学Thurmond召集AI教育峰会，聚焦K-12教育中AI应用、政策制定与伦理挑战。",
           "index": 5
         }
       ]
@@ -44,33 +44,33 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "英伟达因针对CEO黄仁勋的“外国情报”调查股价下跌",
-          "link": "http://www.ktvn.com/news/national/nvidia-slumps-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/article_2b71b0d0-43bc-53fb-92ae-4a2b96548db4.html",
-          "snippet": "[英伟达股价因有消息称某AI公司就CEO黄仁勋发起“外国情报”相关调查而下跌，引发市场关注。]",
+          "title": "人工智能正在急切寻找自身叙事",
+          "link": "https://theconversation.com/artificial-intelligence-is-desperately-seeking-its-narrative-296067",
+          "snippet": "Anthropic CEO Dario Amodei曾提出类似愿景，讨论AGI发展路径与AI行业叙事的构建。",
           "index": 6
         },
         {
-          "title": "Whirl AI旧金山招聘资深产品设计师",
-          "link": "https://www.builtinsf.com/job/product-designer/10756342",
-          "snippet": "[Whirl AI在旧金山招聘资深产品设计师，要求6年以上经验并有完整应用上线经历。]",
+          "title": "初创公司创始人用AI申请专利：DIY何时变成风险",
+          "link": "https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall",
+          "snippet": "创始人可用AI整理技术文档准备专利申请，但DIY在权利要求环节可能带来法律风险。",
           "index": 7
         },
         {
-          "title": "专业Scrum产品负责人——AI Essentials课程",
-          "link": "https://www.scrum.org/courses/professional-scrum-product-owner-ai-essentials-munich-germany-2027-03-12-111212",
-          "snippet": "[该课程聚焦AI与Scrum产品负责人实践结合，帮助学员利用人工智能提升产品决策质量与市场响应速度。]",
+          "title": "我们的AI初创公司融资4000万美元后，一名工程师质问为何无人使用产品",
+          "link": "https://medium.com/engineering-playbook/our-ai-startup-raised-40-million-then-an-engineer-asked-why-nobody-was-using-the-product-44083b3c9bc5",
+          "snippet": "AI Agent可审核发票、对账与记录更新，但产品缺乏真实用户，促使创业团队反思PMF与产品价值。",
           "index": 8
         },
         {
-          "title": "BJAK远程招聘AI金融CEO",
-          "link": "https://builtin.com/job/ceo-ai-finance/10946166",
-          "snippet": "[BJAK远程招聘AI金融CEO，负责制定人工智能金融战略、推动产品创新并实现业务增长。]",
+          "title": "OpenAI",
+          "link": "https://jobs.a16z.com/company/openai",
+          "snippet": "Andreessen Horowitz | 估值 - 微软及a16z等参投 | 微软与a16z等投资者参与OpenAI融资，估值持续走高，反映资本市场对生成式AI龙头的看好。",
           "index": 9
         },
         {
-          "title": "OpenAI融资：a16z与微软等参与，估值创新高",
-          "link": "https://jobs.a16z.com/company/openai",
-          "snippet": "[a16z与微软等投资者参与OpenAI新一轮融资，显著推高其估值，进一步巩固其在生成式AI领域的领先地位。]",
+          "title": "\"软件正在吞噬世界\"以更宏大的方式：Box CEO称AI自动化将重塑电影、游戏和制造业",
+          "link": "https://www.tradingview.com/news/benzinga:2506c4753094b:0-software-is-eating-the-world-in-a-bigger-way-box-ceo-says-ai-automation-is-set-to-reshape-film-gaming-manufacturing",
+          "snippet": "Box CEO称AI Automation将以更宏大方式重塑电影、游戏和制造业等行业运营模式。",
           "index": 10
         }
       ]
