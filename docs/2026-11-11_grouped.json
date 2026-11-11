@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-11",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Anthropic将IPO发行价区间定为70–78美元，估值达1.404万亿美元",
+          "link": "https://hyper.ai/en/stories/1a6a4c972e5ba44338cbd9229134d036",
+          "snippet": "公司披露九个月净亏损1040亿美元，市场关注其高估值与持续亏损之间的平衡。",
+          "index": 1
+        },
+        {
+          "title": "Mercor完成7.5亿美元D轮融资，估值达200亿美元，用于扩展企业AI训练与评估",
+          "link": "https://pulse2.com/mercor-750-million-series-d-funding-at-20-billion-valuation-to-expand-enterprise-ai-training-and-evaluation",
+          "snippet": "这家AI数据公司帮助企业训练与评估模型，本轮资金将加速其企业级AI解决方案的全球布局。",
+          "index": 2
+        },
+        {
+          "title": "AI税务公司Blue J在新投资后估值突破10亿美元",
+          "link": "https://thelogic.co/news/blue-j-ai-tax-firm-valuation-rises",
+          "snippet": "Blue J首席执行官Benjamin Alarie表示，新资金将推动AI税务产品规模化发展，并扩大市场份额。",
+          "index": 3
+        },
+        {
+          "title": "初创公司创始人用AI申请专利，DIY何时变成法律风险",
+          "link": "https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall",
+          "snippet": "AI专利申请工具降低门槛，但在权利要求撰写与侵权风险评估上，缺乏专业审核仍可能埋下隐患。",
+          "index": 4
+        },
+        {
+          "title": "Operand融资3100万美元，将AI引入私募股权尽职调查",
+          "link": "https://dealroom.co/news/171272-operand-raises-31m-to-bring-ai-to-private-equity-due-diligence",
+          "snippet": "Operand利用AI自动化执行尽职调查流程，帮助投资机构更快识别目标公司的潜在风险与价值。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "DAX INSIGHTS：Wondersauce CEO John Sampogna谈AI如何改变企业运营",
+          "link": "https://www.eventbrite.com/e/dax-insights-john-sampogna-ceo-and-co-founder-wondersauce-tickets-2003678258609",
+          "snippet": "该活动聚焦人工智能对商业运营模式、品牌策略与客户体验的深远影响，探讨企业数字化转型方向。",
+          "index": 6
+        },
+        {
+          "title": "5亿美元D轮融资，估值达200亿美元，用于扩展企业AI训练与评估",
+          "link": "https://www.iapjournals.ac.cn/aas/article/doi/10.1007/s00376-026-6149-7",
+          "snippet": "这家AI数据公司帮助企业训练与评估模型，本轮资金将加速其企业级AI解决方案的全球布局。",
+          "index": 7
+        },
+        {
+          "title": "AI峰会回顾：面向现代车队的战略智能",
+          "link": "https://www.ttnews.com/webinar/ai-summit-recap-strategic-intelligence-modern-fleet",
+          "snippet": "Transport Topics梳理峰会要点，探讨人工智能在车队管理、路线优化与安全监控中的战略价值与应用前景。",
+          "index": 8
+        },
+        {
+          "title": "基于人工智能的轨道交通一体化云网数字智能平台建设",
+          "link": "https://ui.adsabs.harvard.edu/abs/2026NatSR..16..393W/abstract",
+          "snippet": "该研究提出构建AI驱动的轨道交通云网融合平台，以提升调度指挥、运维管理与乘客服务的数字化智能水平。",
+          "index": 9
+        },
+        {
+          "title": "PDA人工智能——制药制造革命2026研讨会",
+          "link": "https://www.pda.org/global-event-calendar/event-detail/pda-artificial-intelligence-a-revolution-in-pharma-manufacturing-workshop-2026",
+          "snippet": "PDA将于2026年举办专题研讨会，探讨人工智能在药品生产、质量控制和合规管理中的变革潜力与实践路径。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
