@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-12",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Grants 4 Schools大会：AI版@达拉斯",
+          "link": "https://www.eventbrite.com/e/grants-4-schools-conference-ai-edition-dallas-registration-1996654816304",
+          "snippet": "学习实用、合规的AI助学资助申请方法，11月12日至13日上午9点至12点在达拉斯举行。",
+          "index": 1
+        },
+        {
+          "title": "2026年德克萨斯ICAIML人工智能大会",
+          "link": "https://www.conferencealert.com/eventdetail/2373649",
+          "snippet": "大会涵盖人工神经网络、关联规则学习等主题，11月12日在美国德州探讨AI前沿技术。",
+          "index": 2
+        },
+        {
+          "title": "纽约AI、ML与DeepTech创业者、投资人及专业人士社交酒会",
+          "link": "https://www.eventbrite.com/e/nyc-ai-ml-deeptech-startups-investors-professionals-networking-mixer-tickets-2002633919964",
+          "snippet": "面向AI、ML与DeepTech创业者、投资人及专业人士，11月10日晚7点至10点纽约社交交流。",
+          "index": 3
+        },
+        {
+          "title": "基于人工智能的轨道交通一体化云网数智平台建设",
+          "link": "https://ui.adsabs.harvard.edu/abs/2026NatSR..16..393W/abstract",
+          "snippet": "构建面向轨道交通的AI一体化云网数智平台，推动运营调度与运维管理智能化升级。",
+          "index": 4
+        },
+        {
+          "title": "2026年PDA人工智能——制药制造业革命研讨会",
+          "link": "https://www.pda.org/global-event-calendar/event-detail/pda-artificial-intelligence-a-revolution-in-pharma-manufacturing-workshop-2026",
+          "snippet": "研讨会聚焦AI对制药生产的颠覆性影响，分享智能制造案例，推动制药行业数字化转型。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "CEO问为何没人用他300万美元的AI产品，工程师早已心知肚明",
+          "link": "https://medium.com/engineering-playbook/our-ceo-asked-why-nobody-was-using-his-3-million-ai-product-the-engineers-already-knew-9818acb331ce",
+          "snippet": "产品发布反响热烈却无人问津，工程师们早已发现这款300万美元AI产品存在关键问题。",
+          "index": 6
+        },
+        {
+          "title": "Nvidia风波后，AI公司争相招募前间谍应对安全风险",
+          "link": "https://www.reuters.com/legal/litigation/help-wanted-ai-firms-court-ex-spies-nvidia-drama-spotlights-security-risks-2026-11-12",
+          "snippet": "AI企业聘请前情报人员以强化安全防护，Nvidia事件令行业保密与供应链风险更受关注。",
+          "index": 7
+        },
+        {
+          "title": "企业为何必须成为AI原生：李开复问答",
+          "link": "https://www.smartbrief.com/original/why-companies-must-become-ai-native-a-qa-with-kai-fu-lee",
+          "snippet": "面对企业重金引入AI工具的趋势，李开复解读为何公司必须从底层重构为AI原生组织。",
+          "index": 8
+        },
+        {
+          "title": "Armanino基于Microsoft Foundry打造AI应用工厂，生产时间缩短89%",
+          "link": "https://www.microsoft.com/en/customers/story/27624-armanino-advisory-microsoft-foundry",
+          "snippet": "基于Microsoft Foundry构建AI应用工厂，借助GitHub Copilot，将生产周期缩短近九成。",
+          "index": 9
+        },
+        {
+          "title": "欧洲药品管理局人工智能指导文件",
+          "link": "https://www.ema.europa.eu/en/about-us/how-we-work/data-regulation-big-data-other-sources/artificial-intelligence/artificial-intelligence-guidance",
+          "snippet": "EMA发布AI使用反思文件，为药物研发与监管全生命周期中的人工智能应用提供指导。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

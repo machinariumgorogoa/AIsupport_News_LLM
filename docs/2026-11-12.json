@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-12",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "Grants 4 Schools大会：AI版@达拉斯",
+      "link": "https://www.eventbrite.com/e/grants-4-schools-conference-ai-edition-dallas-registration-1996654816304",
+      "snippet": "学习实用、合规的AI助学资助申请方法，11月12日至13日上午9点至12点在达拉斯举行。",
+      "raw_snippet": "7). Write Better Grants—Faster  \nLearn practical, ethical ways to use AI to improve proposal quality, save time, increase efficiency, and strengthen your chances of securing funding.\n\nDAY TWO\n\n1). Put AI into Action  \nApply the strategies learned on Day One. [...] 3). Master Modern Grant Writing Strategies  \nGain a practical overview of today's grant writing process while learning how AI can help research opportunities, generate ideas, strengthen narratives, and support every stage of the grant writing process.\n\n4). Eliminate the Fear of Grant Writing  \nDiscover how AI can simplify grant writing, reduce writing anxiety, streamline follow-up reports, and save valuable time throughout the entire grant process. [...] GOALS:\n\nDAY ONE -\n\n1). Write Grants, Develop a Grant Writer or Build a Grant Team  \nLearn how to write grants, develop a grant writer or build grant leadership team that strategically uses artificial intelligence (AI) to increase productivity, collaboration, and funding success across your school or district.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "2026年德克萨斯ICAIML人工智能大会",
+      "link": "https://www.conferencealert.com/eventdetail/2373649",
+      "snippet": "大会涵盖人工神经网络、关联规则学习等主题，11月12日在美国德州探讨AI前沿技术。",
+      "raw_snippet": "Artificial neural networks\n Association rule learning\n Automata, logic and games\n Bayesian networks\n Clustering\n Commercial software\n Commercial software with open-source editions\n Complex systems\n Computational complexity\n Computational learning theory\n Computational linguistics\n Computer animation\n Computer science\n Computer system\n Concurrent algorithms and data structures\n Data mining\n Decision tree learning\n Deep Learning\n Design and analysis of algorithms\n Genetic algorithms [...] Genetic algorithms\n Inductive logic programming\n Intelligent systems\n Lambda calculus and types\n Logic and proof\n Machine learning\n Models of computation\n Object-oriented programming\n Open-source software\n Pattern recognition\n Reinforcement learning\n Representation learning\n Similarity and metric learning\n Sparse dictionary learning\n Supervised learning\n Support vector machines\n Unsupervised learning [...] 12th November 2026 · Portmore, Jamaica\n Global Conference on Digital Libraries, Ai-driven Information Science & Knowledge Innovation (GCDLADISKI)\n\n  12th November 2026 · Walvis Bay, Namibia\n Global Conference on Digital Libraries, Ai-driven Information Science & Knowledge Innovation (GCDLADISKI)\n\n  12th November 2026 · Swakopmund, Namibia\n\n### Other conferences in Texas\n\n International Conference on Climate Change, Sustainability and Environmental Science (ICCCSES)",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "纽约AI、ML与DeepTech创业者、投资人及专业人士社交酒会",
+      "link": "https://www.eventbrite.com/e/nyc-ai-ml-deeptech-startups-investors-professionals-networking-mixer-tickets-2002633919964",
+      "snippet": "面向AI、ML与DeepTech创业者、投资人及专业人士，11月10日晚7点至10点纽约社交交流。",
+      "raw_snippet": "NYC AI, ML, DeepTech Startups, Investors, Professionals Networking Mixer\n\n# NYC AI, ML, DeepTech Startups, Investors, Professionals Networking Mixer\n\n## More events from Business Founders Group\n\n### Discover more events from Business Founders Group, from Business to other experiences you might love.\n\n## You might also like...\n\n### Browse more events with different dates, prices, and formats to find your next great experience.\n\n## Still looking for the right event? [...] ### Explore all events in New York and filter by date, category, and more to find the perfect fit.\n\n### Use Eventbrite\n\n### Plan Events\n\n### Find Events\n\n### Connect with Us\n\n© 2026 Eventbrite",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "基于人工智能的轨道交通一体化云网数智平台建设",
+      "link": "https://ui.adsabs.harvard.edu/abs/2026NatSR..16..393W/abstract",
+      "snippet": "构建面向轨道交通的AI一体化云网数智平台，推动运营调度与运维管理智能化升级。",
+      "raw_snippet": "Title: The construction of an integrated cloud network digital intelligence platform for rail transit based on artificial intelligence - ADS\n## ADS. ## The construction of an integrated cloud network digital intelligence platform for rail transit based on artificial intelligence. #### Abstract. This study presents the design and validation of a closed-loop control platform for rail transit construction. The platform integrates multi-source data, enables real-time prediction, and supports AI-driven scheduling, with strategy execution and feedback implemented via digital twins. A three-layer architecture is constructed, comprising edge sensing, cloud computing, and intelligent interaction. The system incorporates data fusion middleware, an AI decision engine, and a 3D digital twins module. The operational workflow follows the perception-fusion-prediction/optimization-execution/feedback loop: edge devices collect on-site status, cloud middleware integrates and serves the data, the AI engine performs prediction and scheduling optimization, and the digital twins layer validates strategies and dispatches execution to the front end. At the data modeling level, a Transformer-Encoder-based multimodal temporal fusion model is designed, and graph attention networks are employed for heterogeneous structure modeling. Apache Kafka and Flink handle streaming data to achieve high-frequency, low-latency processing. The intelligent analysis layer integrates a Spatio-Temporal Graph Convolutional Network for passenger flow and construction period prediction, a Shifted Window Transformer for image recognition, and the Proximal Policy Optimization (PPO) algorithm for task scheduling optimization. Field tests in an urban rail construction project show that the platform maintains 91.6% accuracy in passenger flow prediction under high-concurrency conditions and achieves 98.2% accuracy in image recognition. PPO-based scheduling reduces average task completion time by 27.4%. The system sustains an average response latency of 280 ms, peak throughput of 27,000 messages per second, and over 95% closed-loop execution success rate. These results indicate that the platform meets its design targets in prediction accuracy, response latency, and scheduling efficiency under real-world conditions, providing a foundation for informatization and intelligent upgrading in urban rail transit. ### No Sources Found.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "2026年PDA人工智能——制药制造业革命研讨会",
+      "link": "https://www.pda.org/global-event-calendar/event-detail/pda-artificial-intelligence-a-revolution-in-pharma-manufacturing-workshop-2026",
+      "snippet": "研讨会聚焦AI对制药生产的颠覆性影响，分享智能制造案例，推动制药行业数字化转型。",
+      "raw_snippet": "Title: PDA Artificial Intelligence-A Revolution in Pharma Manufacturing Workshop 2026 | PDA\n# PDA Artificial Intelligence-A Revolution in Pharma Manufacturing Workshop 2026. ###### Choose a registration option. ### Individual Registration. Perfect for individuals attending in person and networking with peers. ### Group Registration. Register multiple attendees from your organization in one easy step. The future of AI in pharmaceutical manufacturing is being shaped through collaboration among industry, regulators, standards organizations, and technology leaders. This workshop creates a unique forum where AI experts and practitioners work side by side to explore the complete AI lifecycle in pharmaceutical manufacturing. guidance to support scalable, compliant, and trustworthy AI adoption across global regulatory frameworks. Looking forward to welcoming you in Berlin! VP Digital Transformation & AI Solutions. #### Welcome Remarks from the Workshop Lead. #### P1: Boundaries of Regulations Part I. #### P2: From Data to Decision: Selection, Quality, Sharing Part I. #### End of Workshop Day 1. #### P3: From Model Selection to Training Part I. #### From Model Selection to Training: A ‘Compliance by Design’ Journey for EU GMP Annex 22 in Practice. ## Registration. **PDA MEMBERS:** Please remember to log in before registering If you come from a Governmental or Health Authority Institution or from an Academic Organization, please contact registration-europe@pda.org before registering. If you need to apply for a visa to enter the event country, PDA Europe must be informed of this fact at least 4 weeks before the start of the event. Lufthansa Group Airlines offers discounted travel for attendees of **PDA Artificial Intelligence-A Revolution in Pharma Manufacturing Workshop 2026**. You can benefit from the cooperation with the Lufthansa Group airlines (Austrian Airlines, Brussels Airlines, Eurowings, Lufthansa and SWISS) and optimize your travel costs. Elevate your brand and maximize your exposure by becoming a Sponsor at the **PDA Artificial Intelligence-A Revolution in Pharma Manufacturing Workshop 2026**! Connect with industry leaders, showcase your products and services, and establish your company as a key player in the field. Boost your brand and visibility by becoming an exhibitor at the **PDA Artificial Intelligence-A Revolution in Pharma Manufacturing Workshop 2026**! Connect with industry influencers, showcase your products and services, and position your company as a key player in the field.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "CEO问为何没人用他300万美元的AI产品，工程师早已心知肚明",
+      "link": "https://medium.com/engineering-playbook/our-ceo-asked-why-nobody-was-using-his-3-million-ai-product-the-engineers-already-knew-9818acb331ce",
+      "snippet": "产品发布反响热烈却无人问津，工程师们早已发现这款300万美元AI产品存在关键问题。",
+      "raw_snippet": "The launch announcement had received excellent engagement on LinkedIn. Investors praised the company’s AI strategy, and the marketing team had produced a video showing the assistant completing twenty minutes of administrative work in thirty seconds. [...] She accepted on one condition.\n\nThe team would evaluate new AI capabilities against real customer workflows before committing to major infrastructure investments or announcing launch dates.\n\nJonathan agreed.\n\nMarcus remained Head of AI, and the two began working more closely. His team focused on improving retrieval, reasoning quality, and evaluation, while Rachel’s engineers developed the controls that made model recommendations useful inside customer workflows. [...] The difference was that those mistakes no longer automatically changed the customer’s project.\n\n## The Engineer Who Almost Quit Became the Product Lead\n\nRachel had considered leaving during the original launch. She’d repeatedly raised concerns about authorization, customer workflows, and the difficulty of evaluating autonomous changes, only to be told that the company needed to move faster.\n\nAfter the redesign, Jonathan offered her responsibility for the AI product’s technical direction.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "Nvidia风波后，AI公司争相招募前间谍应对安全风险",
+      "link": "https://www.reuters.com/legal/litigation/help-wanted-ai-firms-court-ex-spies-nvidia-drama-spotlights-security-risks-2026-11-12",
+      "snippet": "AI企业聘请前情报人员以强化安全防护，Nvidia事件令行业保密与供应链风险更受关注。",
+      "raw_snippet": "AI firms are hiring former intelligence operatives to help shield them from espionage, a risk thrust into the spotlight as Nvidia grapples",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "企业为何必须成为AI原生：李开复问答",
+      "link": "https://www.smartbrief.com/original/why-companies-must-become-ai-native-a-qa-with-kai-fu-lee",
+      "snippet": "面对企业重金引入AI工具的趋势，李开复解读为何公司必须从底层重构为AI原生组织。",
+      "raw_snippet": "Companies are heavily investing in AI, adding new tools, launching pilots and exploring ways to improve productivity. But how much of that activity is actually changing the way businesses operate or compete? As AI becomes more capable and affordable, business leaders face growing pressure to rethink everything from organizational structures to how work gets done. [...] Kai-Fu Lee has spent the past four decades pioneering AI in business from nearly every vantage point: as a researcher, senior executive at Apple, Microsoft and Google, and now a CEO himself. Few thinkers can match his combination of technical expertise and business acumen. [...] What are some of the biggest misconceptions CEOs have about AI, and how are those misconceptions affecting their decisions?",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "Armanino基于Microsoft Foundry打造AI应用工厂，生产时间缩短89%",
+      "link": "https://www.microsoft.com/en/customers/story/27624-armanino-advisory-microsoft-foundry",
+      "snippet": "基于Microsoft Foundry构建AI应用工厂，借助GitHub Copilot，将生产周期缩短近九成。",
+      "raw_snippet": "very first meeting. Engineering runs on GitHub Copilot, Microsoft Foundry, and Azure DevOps. Launch adds automated test coverage through Playwright. [...] Microsoft   Customer Stories    All stories  AI & Microsoft Copilot Azure Dynamics 365 Microsoft 365 Microsoft Security Microsoft Power Platform Microsoft Teams   Mercedes-AMG PETRONAS F1 Team NFL Premier League   Microsoft 365 Dynamics 365 Microsoft Power Platform Microsoft Teams Microsoft Security Nonprofit     Microsoft Security Azure Dynamics 365 Microsoft 365 Microsoft Teams Windows 365   Microsoft AI Azure Space Mixed reality Microsoft HoloLens Microsoft Viva Quantum computing [...] Microsoft AI Microsoft Security Azure Dynamics 365 Microsoft 365 Microsoft Advertising Microsoft Copilot Microsoft Teams   Microsoft Developer Microsoft Learn Support for AI marketplace apps Microsoft Tech Community Microsoft Marketplace Microsoft Power Platform Software companies Visual Studio   Careers About Microsoft Company news Privacy at Microsoft Investors Diversity and inclusion Accessibility Sustainability\n\n English (WW)\n\nYour Privacy Choices",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "欧洲药品管理局人工智能指导文件",
+      "link": "https://www.ema.europa.eu/en/about-us/how-we-work/data-regulation-big-data-other-sources/artificial-intelligence/artificial-intelligence-guidance",
+      "snippet": "EMA发布AI使用反思文件，为药物研发与监管全生命周期中的人工智能应用提供指导。",
+      "raw_snippet": "A reflection paper on the use of artificial intelligence (AI) in the medicinal product lifecycle is available (linked below).\n\nIt includes considerations to help medicine developers and marketing authorisation applicants use AI and machine learning in a safe and effective way at the different stages of a medicine lifecycle.\n\nThe paper reflects EMA's experience in the evolving field of AI. [...] Medicine developers and applicants should understand the paper's considerations in the context of EU legal requirements and principles on AI, data protection, and medicines regulation.\n\nEMA's Methodology Working Party developed the paper with support from the former Big Data Steering Group.\n\nThe Committee for Human Medicinal Products (CHMP) and the Committee for Veterinary Medicinal Products (CVMP) both adopted the paper in September 2024.\n\nFor more information, see: [...] EMA and the Heads of Medicines Agency (HMA) published the first version of this document in September 2024. It is regularly updated.\n\nMulti-annual artificial intelligence workplan\nLLMs factsheet\n\n### Four principles for safe and responsible use of large language models\n\n## Page update history\n\nAn update log is available to show the date and summary of changes to this webpage. It does not include updates to linked documents or minor edits like typos or broken link fixes.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}
