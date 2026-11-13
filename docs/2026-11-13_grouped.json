@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-13",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Figure AI IPO：时间线、估值与投资选项",
+          "link": "https://smartasset.com/investing/figure-ai-ipo-timeline-valuation-investment-options",
+          "snippet": "梳理Figure AI的IPO时间线、各轮融资估值及普通投资者可选择的参与方式，聚焦人形机器人赛道。",
+          "index": 1
+        },
+        {
+          "title": "Anthropic IPO：AI领域万亿美元的股市考验",
+          "link": "https://www.moomoo.com/community/feed/anthropic-ipo-a-1-trillion-test-for-artificialintelligence-117605646401542",
+          "snippet": "Anthropic若上市，或将成为AI领域规模最大的万亿美元级股市测试之一，估值与前景备受投资者关注。",
+          "index": 2
+        },
+        {
+          "title": "Interface.ai股票：估值、融资与投资者",
+          "link": "https://notice.co/c/interface-ai",
+          "snippet": "介绍Interface.ai的非公开估值、融资历程与主要投资者，并说明私企通常会在上市前提前预留股票代码。",
+          "index": 3
+        },
+        {
+          "title": "Thoma Bravo支持的BlueMatrix收购AI金融研究平台Aiera",
+          "link": "https://www.citybiz.co/article/933142/thoma-bravo-backed-bluematrix-completes-acquisition-of-ai-financial-research-platform-aiera",
+          "snippet": "Thoma Bravo支持的BlueMatrix已完成对AI金融研究平台Aiera的收购，进一步扩展买方研究与数据分析能力。",
+          "index": 4
+        },
+        {
+          "title": "独家｜WSJ：中国Moonshot AI重组为IPO铺路",
+          "link": "https://www.wsj.com/tech/chinas-moonshot-ai-restructures-to-pave-way-for-ipo-49f09abb",
+          "snippet": "中国AI初创企业月之暗面（Moonshot AI）正完成重组，以清理股权结构并为未来IPO上市铺平道路。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Spangle AI发布Product Intelligence 360",
+          "link": "https://www.martechcube.com/spangle-ai-launches-product-intelligence-360",
+          "snippet": "Spangle AI推出Product Intelligence 360，帮助企业全方位洞察产品表现，并为AI Agent提供更智能的交互数据支持。",
+          "index": 6
+        },
+        {
+          "title": "俄亥俄州立大学与Microsoft启动2.5亿美元的五年AI及云合作",
+          "link": "https://www.ohiotechnews.com/ohio-state-microsoft-launch-five-year-ai-cloud-partnership",
+          "snippet": "俄亥俄州立大学与Microsoft签署为期五年的AI与云计算合作协议，总金额据传达到2.5亿美元，用于科研与教育创新。",
+          "index": 7
+        },
+        {
+          "title": "AIMI行业趋势：VinBrain CEO Steven Truong",
+          "link": "https://aimi.stanford.edu/events/research-meeting/aimi-industry-trends-steven-truong-ceo-vinbrain",
+          "snippet": "VinBrain创始人Steven Truong分享其作为医疗AI领军者的见解，探讨AI在医学影像诊断与临床工作流中的最新行业趋势。",
+          "index": 8
+        },
+        {
+          "title": "OpenAI｜Andreessen Horowitz投资概览",
+          "link": "https://jobs.a16z.com/company/openai",
+          "snippet": "Andreessen Horowitz梳理了对OpenAI的投资背景，介绍其研发并部署通用人工智能技术的战略定位与商业模式。",
+          "index": 9
+        },
+        {
+          "title": "当下十大正在招聘的AI公司｜Migrate Mate",
+          "link": "https://migratemate.co/listicles/ai-companies",
+          "snippet": "文章盘点当前全球十大正在招贤纳士的AI公司，并解析它们通常招聘的研发、产品、数据与工程类核心岗位。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

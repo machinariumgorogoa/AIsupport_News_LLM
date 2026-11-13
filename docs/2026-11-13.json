@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-13",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "Figure AI IPO：时间线、估值与投资选项",
+      "link": "https://smartasset.com/investing/figure-ai-ipo-timeline-valuation-investment-options",
+      "snippet": "梳理Figure AI的IPO时间线、各轮融资估值及普通投资者可选择的参与方式，聚焦人形机器人赛道。",
+      "raw_snippet": "| Date | Funding Round | Amount Raised | Valuation |\n ---  --- |\n| 2022 | Seed or founder capital | Not publicly confirmed as a separate seed round | Not disclosed |\n| May 2023 | Series A | $70 million | Not announced by Figure; press reports cited estimates |\n| February 2024 | Series B | $675 million | $2.6 billion |\n| September 2025 | Series C | More than $1 billion committed | $39 billion post-money | [...] Unitree Robotics, a Chinese maker of humanoid and quadruped robots, listed on Shanghai’s STAR Market in August 2026. Reuters reported that its IPO price valued the company at about $9 billion, though its market value can change as the shares trade. 5  1X Technologies remains private; its latest publicly announced funding was a $100 million Series B in January 2024, and the company did not disclose a valuation with that announcement. 6 [...] 1. “Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation.” FigureAI, 16 Sept. 2025, \n2. Inc., Figure. “Figure Raises $675M at $2.6B Valuation and Signs Collaboration Agreement with OpenAI.” Cision PR Newswire, 29 Feb. 2024, \n3. “Figure AI Pre-IPO Research: Valuation and How to Invest | AG Dillon & Co.” AG Dillon & Co, 18 Oct. 2026, \n4. Inc., Figure. “Figure Announces $70M Series A to Support Commercialization of Figure 01 Humanoid Robot.” Cision PR Newswire, 24 May 2023,",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "Anthropic IPO：AI领域万亿美元的股市考验",
+      "link": "https://www.moomoo.com/community/feed/anthropic-ipo-a-1-trillion-test-for-artificialintelligence-117605646401542",
+      "snippet": "Anthropic若上市，或将成为AI领域规模最大的万亿美元级股市测试之一，估值与前景备受投资者关注。",
+      "raw_snippet": "Anthropic's proposed stock market listing could become one of the biggest investment events of 2026. The company behind the Claude artificial intelligence platform is targeting a valuation of around US$1 trillion, potentially rising to US$1.4 trillion on a fully diluted basis. That would make it one of the largest technology IPOs in history. [...] According to Anthropic's IPO disclosures, its annualised revenue run rate reached approximately US$81 billion by the end of October. That is extraordinary growth for a company only five years old.\n\nHowever, revenue growth alone does not determine whether a trillion-dollar valuation is justified.\n\nThe enormous cost of building AI\n\nDeveloping and operating advanced AI models requires enormous computing power, specialist semiconductor chips, data centres and electricity. [...] Two recent research papers from FactSet provide an interesting perspective on the potential market implications of the listing.\n\nIn Anthropic Valuation: Hypothetical Market Impact, A Stress Test Perspective, FactSet examines how a significant repricing of AI-related investments could affect broader equity markets and investment portfolios.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "Interface.ai股票：估值、融资与投资者",
+      "link": "https://notice.co/c/interface-ai",
+      "snippet": "介绍Interface.ai的非公开估值、融资历程与主要投资者，并说明私企通常会在上市前提前预留股票代码。",
+      "raw_snippet": "Private companies typically reserve a stock symbol up to two years prior to an IPO, and disclose this when they file a Form S-1 with the Securities and Exchange Commission when they start the IPO process.\n\n## How can I sell Interface.ai stock? [...] Because Interface.ai is privately held, its stock is not available for purchase through public stock exchanges like the NYSE or Nasdaq. Retail investors can not access this stock via traditional brokerage accounts, and are not allowed to invest directly in Interface.ai pre-IPO.\n\n### Popular companies\n\n©2026 Notice, Inc.Terms of usePrivacy policyDisclaimers\n\nLinkedInTwitterFacebook [...] Air Space Intelligence Stock\n\nAir Space Intelligence\n\n89.39\n\n+0.59\n\nAnduril Stock\n\nAnduril\n\n118.72\n\n+4.13\n\nAnthropic Stock\n\nAnthropic\n\n833.60\n\n+6.90\n\nApplied Compute Stock\n\nApplied Compute\n\n137.64\n\n+0.01\n\nArmadin Stock\n\nArmadin\n\n53.86\n\n-0.31\n\nAtlas Atomics Stock\n\nAtlas Atomics\n\n95.51\n\n+5.73\n\nAyar Labs Stock\n\nAyar Labs\n\n65.75\n\n+3.69\n\nBedrock Robotics Stock\n\nBedrock Robotics\n\n100.51\n\n+0.58\n\nBytedance (TikTok) Stock\n\nBytedance (TikTok)\n\n332.62\n\n-0.96\n\nCapitolis Stock\n\nCapitolis\n\n5.56\n\n-0.05",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "Thoma Bravo支持的BlueMatrix收购AI金融研究平台Aiera",
+      "link": "https://www.citybiz.co/article/933142/thoma-bravo-backed-bluematrix-completes-acquisition-of-ai-financial-research-platform-aiera",
+      "snippet": "Thoma Bravo支持的BlueMatrix已完成对AI金融研究平台Aiera的收购，进一步扩展买方研究与数据分析能力。",
+      "raw_snippet": "Skip to content\n\nGlobal, New York, South Florida General Business, Mergers & Acquisitions, Internet / Technology\n\n# Thoma Bravo-Backed BlueMatrix Completes Acquisition of AI Financial Research Platform Aiera\n\nNovember 12, 2026\n\nBlueMatrix, a provider of capital markets research publishing technology, has completed its acquisition of Aiera, an artificial intelligence-enabled financial research and content delivery platform backed by a consortium of financial institutions. [...] The combined platform is intended to allow research providers and investment managers to use AI capabilities without compromising ownership rights, attribution requirements or institutional governance standards.\n\nThe companies did not disclose Aiera’s revenue, employee count, acquisition valuation or a timeline for completing the platform integration.\n\n## Clients who trust citybiz\n\n\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[](\n\n[]( [...] The acquisition combines BlueMatrix’s research authoring, compliance and distribution technology with Aiera’s AI-powered content delivery capabilities, creating an integrated platform for managing financial research from publication through consumption by AI systems.\n\nThe transaction is backed by Thoma Bravo, a software-focused private equity investment firm and majority shareholder of BlueMatrix.\n\nFinancial terms of the acquisition were not disclosed.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "独家｜WSJ：中国Moonshot AI重组为IPO铺路",
+      "link": "https://www.wsj.com/tech/chinas-moonshot-ai-restructures-to-pave-way-for-ipo-49f09abb",
+      "snippet": "中国AI初创企业月之暗面（Moonshot AI）正完成重组，以清理股权结构并为未来IPO上市铺平道路。",
+      "raw_snippet": "Chinese artificial-intelligence startup Moonshot AI is wrapping up a corporate restructuring that would pave the way for an initial public offering.\n\nMoonshot’s operations are mainly in China, but it has a holding company incorporated in the Cayman Islands. Many of its early backers invested in that entity in dollars. Now, Moonshot is deactivating the holding company and moving investors’ stakes to its primary operating entity in China, according to people familiar with the matter. [...] Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "Spangle AI发布Product Intelligence 360",
+      "link": "https://www.martechcube.com/spangle-ai-launches-product-intelligence-360",
+      "snippet": "Spangle AI推出Product Intelligence 360，帮助企业全方位洞察产品表现，并为AI Agent提供更智能的交互数据支持。",
+      "raw_snippet": "“Everyone is working on making it easier for AI agents to shop. But who’s making sure brands win when those agents start choosing?” said Maju Kuruvilla, Founder and CEO of Spangle AI and former VP of Technology at Amazon. “Your catalog knows a style number. Your shopper knows it as the shoe for their first marathon. We built Product Intelligence 360 to put what brands know about their products to work wherever shopping decisions happen.”\n\nFinding demand brands didn’t know they could capture [...] ###### Hightouch Co-Founder Tejas Manohar Named to 2026 ADWEEK Innovator 50\n\n BusinessWire \n\n  By   BusinessWire\n November 12, 2026\n\n Chatbots\n Conversational AI\n\n###### G2 Unites Four Software Marketplaces to Help Brands Win AI...\n\n G2 \n\n  By   G2\n November 12, 2026\n\nThis website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Privacy Policy\n\nPrivacy & Cookies Policy\n\n#### Privacy Overview [...] “Brands need more than attributes. Product Intelligence 360 gives every product multi-dimensional context: how it performs, in which context, and what customers ask AI, together in one living record,” said Fei Wang, Co-founder and CTO of Spangle AI. “It connects product knowledge with changing demand, the alternatives a shopper is considering and actual sales, so the intelligence improves as customers shop.”\n\nScaling AI discovery and revenue at Express",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "俄亥俄州立大学与Microsoft启动2.5亿美元的五年AI及云合作",
+      "link": "https://www.ohiotechnews.com/ohio-state-microsoft-launch-five-year-ai-cloud-partnership",
+      "snippet": "俄亥俄州立大学与Microsoft签署为期五年的AI与云计算合作协议，总金额据传达到2.5亿美元，用于科研与教育创新。",
+      "raw_snippet": "Founder Matt Simmons, a former SpaceX engineer, built the tool after learning a local landscaping owner woke at 4 a.m. daily to check the forecast at every job site. Plans start at $50 a month for five locations, with a hail model for roofers expected in the next few months. [...] “Artificial intelligence represents one of the most significant opportunities to transform and improve how hospitals care for patients,” said Dr. John J. Warner, CEO of Wexner Medical Center and executive vice president at Ohio State.\n\nThe organizations said their approach is intended to reduce administrative burden while keeping clinical judgment and human oversight central to patient care.\n\n### Building Ohio’s AI workforce [...] The Ohio-raised CEO behind the startup is raising a $1 million pre-seed round as passive-cooling earbuds enter early manufacturing. Maritime evaluations are next, along with an expanded controlled study with Reykjavik University after initial human feasibility testing in Iceland.\n\nHonda plans high-tech Ohio auto plant in $3.38 billion expansion \n\n### Honda plans high-tech Ohio auto plant in $3.38 billion expansion",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "AIMI行业趋势：VinBrain CEO Steven Truong",
+      "link": "https://aimi.stanford.edu/events/research-meeting/aimi-industry-trends-steven-truong-ceo-vinbrain",
+      "snippet": "VinBrain创始人Steven Truong分享其作为医疗AI领军者的见解，探讨AI在医学影像诊断与临床工作流中的最新行业趋势。",
+      "raw_snippet": "Steven Truong is the Founder and CEO of VinBrain, a subsidiary of Vingroup, the largest conglomerate in Vietnam. He has been in the AI and software industry for more than 26 years and has held senior leadership positions in top technology companies in the USA and Canada, including Microsoft, Honeywell, and IntelliCommunities. Before he formed VinBrain, he was the Director of AI Incubation and Engineering at Microsoft in the USA, reporting directly to the VP of MSAI. Steven has led [...] Steven established VinBrain with the mission to infuse AI and IoT to improve human lives and productivity. He has led his team to deploy DrAid – the 1st AI-powered doctor assistant in Vietnam – to more than 100 hospitals across Vietnam and the USA. VinBrain also served thousands of Vietnamese COVID-19 patients through VinBrain’s second flagship product, AIviCare, for telehealth. VinBrain won ACM SIGAI Industry Award in 2021 – previously, Microsoft was the only winner.\n\n## Related Topics [...] Steven has led multi-development center teams at Microsoft and has been a key innovation initiator for AI products that have been used by millions of users worldwide, such as Email Smart Reply and iRanker.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "OpenAI｜Andreessen Horowitz投资概览",
+      "link": "https://jobs.a16z.com/company/openai",
+      "snippet": "Andreessen Horowitz梳理了对OpenAI的投资背景，介绍其研发并部署通用人工智能技术的战略定位与商业模式。",
+      "raw_snippet": "## Overview\n\nOpenAI develops and deploys artificial intelligence systems with a mission to ensure AGI benefits all of humanity. Its products include ChatGPT, the GPT family of models, image generation, and Whisper. OpenAI was founded in San Francisco in 2015 by Sam Altman, Greg Brockman, and others.\n\nJobs\n\n820\n\ntracked listings\n\nProduct story\n\n2015\n\nfounded in San Francisco\n\n## Featured Jobs\n\nSee all 820 tracked listings\n\nOpenAI\n\n### Applied AI Engineer, Enterprise - EDU\n\nopenai.com [...] Valuation -\n\nMicrosoft and other investors participated; a16z co-led the round\n\n## Team\n\nSam AltmanSam AltmanCEOCo-founder and CEO of OpenAI. Previously President of Y Combinator. Returned as CEO in November 2023 after brief departure.LinkedIn ↗Greg BrockmanGreg BrockmanPresidentCo-founder and President of OpenAI. Previously CTO of Stripe.LinkedIn ↗Sarah FriarSarah FriarCFOChief Financial Officer at OpenAI. Previously CEO of Nextdoor and CFO of Square.LinkedIn ↗\n\nCulture [...] $225K – $318K • Offers Equity·San Francisco, California, United States·Posted 14 hours ago\n\nApply\n\n## Product story\n\n2015\n\nFounded with a mission\n\nOpenAI was founded in December 2015 in San Francisco with a commitment to ensuring artificial general intelligence benefits all of humanity. Early backers included a group of technology leaders.\n\nOpenAI founding announcementOpenAI ↗\n\n## Funding rounds\n\nDate\n\nRound\n\nRaised\n\nValuation\n\nLead / investors\n\nMar 2026\n\nFunding round\n\nRaised -\n\nValuation -",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "当下十大正在招聘的AI公司｜Migrate Mate",
+      "link": "https://migratemate.co/listicles/ai-companies",
+      "snippet": "文章盘点当前全球十大正在招贤纳士的AI公司，并解析它们通常招聘的研发、产品、数据与工程类核心岗位。",
+      "raw_snippet": "### What kinds of roles do AI companies typically hire for?\n\nAI companies hire most heavily in software engineering, business operations, and AI (Artificial Intelligence). Across the 10 AI companies Migrate Mate tracks, software engineering is the largest function at 78 of 6,066 open roles as of November 11, 2026, followed by business operations (25) and AI (Artificial Intelligence) (20).\n\n### Do AI companies hire remotely? [...] Some AI companies are fundamentally research organizations that also ship products. Others are software businesses that use AI as a capability. The distinction shapes team structure, how work gets prioritized, and what constitutes success.\n\n### Stage and funding [...] #### Roles by team\n\n+26 roles across other teams\n\nOpenAI\n\n### OpenAI\n\nOpenAI has 579 open roles on Migrate Mate as of November 11, 2026, concentrated in AI (Artificial Intelligence) (8) and account management (6). OpenAI researches and deploys large language models, safety systems, and AI-powered products including ChatGPT and the GPT model family. It remains one of the highest-profile employers in the field for both applied and research roles.\n\n#### Roles by team\n\n+23 roles across other teams",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}
