@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-15",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "Agile Robots：融资5亿美元后估值达85亿美元",
+      "link": "https://startupvalley.news/uk/agile-robots-8-5bn-valuation-softbank-nvidia",
+      "snippet": "[该公司完成5亿美元融资，估值升至85亿美元，正从AI迈向Physical AI。]",
+      "raw_snippet": "## From Artificial Intelligence to Physical AI\n\nFounded in 2018 as a spin-off from the German Aerospace Center (DLR), Agile Robots develops robotic systems that combine artificial intelligence, sensors and precision engineering.\n\nIts products range from industrial robotic arms and dexterous hands to mobile and humanoid robots, supported by proprietary software and AI models. [...] The distinction between conventional automation and Physical AI is commercially significant. Traditional industrial robots generally perform predefined tasks in structured environments. AI-enabled systems aim to interpret changing conditions and adapt their behaviour accordingly.\n\nThat could open up more complex activities in manufacturing, logistics and electronics assembly, where tasks have historically depended on human dexterity and judgement. [...] The valuation reflects expectations about the commercial potential of Physical AI, but it reveals relatively little about the company’s underlying financial performance.\n\nAgile Robots has not disclosed revenue, profitability or detailed financial terms in its funding announcement.\n\nWithout those figures, investors and industry observers cannot assess the valuation against sales, earnings or cash generation.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "The Artificial Intelligence Show播客——Apple Podcasts",
+      "link": "https://podcasts.apple.com/us/podcast/the-artificial-intelligence-show/id1548733275",
+      "snippet": "[本期播客探讨AI安全机制、Meta Muse数据泄露及Anthropic IPO动向。]",
+      "raw_snippet": "safeguards, Meta's Muse data exposure, and Anthropic's IPO filing at a valuation approaching $2 trillion, plus product and funding news in the rapid-fire round. AI-Pulse Survey: Fill out this week’s AI-Pulse Survey here. Show Notes: Access the show notes and show links here Timestamps: 00:00:00 — Intro 00:05:17 — The AI Cybersecurity Crisis Is Here 00:29:55 — Dario Defends Anthropic’s Safety Record 00:45:50 — Outside Evaluators Find Gaps in OpenAI’s AI Safeguards 00:56:57 — Marketing AI [...] #249: Anthropic Files for IPO, The Self-Driving Company, AI and the Meaning of Work & Microsoft’s 60,000-Employee Buyout Offer\n3. Oct 27\n\n   ### #248: The AI Cybersecurity Crisis, Dario Fights Back on Safety, OpenAI’s Monitoring Blind Spots & Claude Duet [...] Anthropic has filed to go public, and its S-1 lays out a future of \"virtual collaborators,\" $40 trillion in knowledge work, and a valuation that could top Meta's. Paul Roetzer and Mike Kaput break down the filing. They debate whether Fortune 500 companies can really become \"self-driving\" by 2030, and dig into Google DeepMind's new research on AGI, wages, and the meaning of work. In rapid fire: Gemini 4 Carbon, Genie 4, and GPT-6.1 Terra; earnings from Google, Microsoft, and Amazon;",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "Interface.ai股票：估值、融资与投资者 | Notice.co",
+      "link": "https://notice.co/c/interface-ai",
+      "snippet": "[私营公司通常会提前预留股票代码，为潜在上市做准备。]",
+      "raw_snippet": "Private companies typically reserve a stock symbol up to two years prior to an IPO, and disclose this when they file a Form S-1 with the Securities and Exchange Commission when they start the IPO process.\n\n## How can I sell Interface.ai stock? [...] Because Interface.ai is privately held, its stock is not available for purchase through public stock exchanges like the NYSE or Nasdaq. Retail investors can not access this stock via traditional brokerage accounts, and are not allowed to invest directly in Interface.ai pre-IPO.\n\n### Popular companies\n\n©2026 Notice, Inc.Terms of usePrivacy policyDisclaimers\n\nLinkedInTwitterFacebook [...] Air Space Intelligence Stock\n\nAir Space Intelligence\n\n89.39\n\n+0.59\n\nAnduril Stock\n\nAnduril\n\n118.72\n\n+4.13\n\nAnthropic Stock\n\nAnthropic\n\n833.60\n\n+6.90\n\nApplied Compute Stock\n\nApplied Compute\n\n137.64\n\n+0.01\n\nArmadin Stock\n\nArmadin\n\n53.86\n\n-0.31\n\nAtlas Atomics Stock\n\nAtlas Atomics\n\n95.51\n\n+5.73\n\nAyar Labs Stock\n\nAyar Labs\n\n65.75\n\n+3.69\n\nBedrock Robotics Stock\n\nBedrock Robotics\n\n100.51\n\n+0.58\n\nBytedance (TikTok) Stock\n\nBytedance (TikTok)\n\n332.62\n\n-0.96\n\nCapitolis Stock\n\nCapitolis\n\n5.56\n\n-0.05",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "人工智能——IPCEI | 欧盟资助合作伙伴",
+      "link": "https://eufundingpartners.com/sectors/artificial-intelligence",
+      "snippet": "[欧盟IPCEI人工智能项目征集，意向表达已于1月21日截止。]",
+      "raw_snippet": "Nov 14, 2026Earlier expression of interest closed: Jan 21, 2026 [...] Artificial IntelligenceIPCEI AIProject sketches may be submitted at any time for the funding route aimed particularly at associated-partner consortia. Assessment dates recur on 30 April and 31 October; the next after this review is 30 April 2027, not a final closing date. Consortia must be company-led; individual projects are generally excluded. Earlier EOI participation is not required. A formal funding application follows a positive sketch assessment.Record checked Nov 14, 2026Earlier [...] Netherlands\n\nArtificial IntelligenceIPCEI AIFormal funding applications opened 5 October 2026. Budget: €114 million. Only qualifying participants in the earlier interest survey are eligible. Deadline: 17:00 Netherlands time (CET).Record checked Nov 10, 2026Earlier interest survey closed (previously listed here as 24 March 2026): Mar 25, 2026\n\nOpen\n\nDeadline\n\nSourceConsultation\n\nGermany",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "Anthropic的IPO如何重塑AI投资格局",
+      "link": "https://www.wsj.com/video/series/wsj-take-on-the-week/how-anthropics-ipo-reshapes-the-ai-investment-landscape/863DB0A2-FF4B-44EE-8E46-1261226848DD",
+      "snippet": "[Anthropic IPO将重塑AI投资版图，既吸引商业领袖也面向更广泛受众。]",
+      "raw_snippet": "business leaders while also entertaining a broader audience with lively, relatable conversations. Episodes drop Sundays. [...] WSJ's Take On the Week brings you the insights and analysis you need to get a leg up on the world of money and investing. We cut through the noise and dive into markets, the economy and finance. Join The Wall Street Journal's Telis Demos and Miriam Gottfried in conversation with the people closest to the hot topics in markets to get incisive analysis on the big trades, key players in finance and business news. The duo will bring actionable insights to a range of investors and business leaders [...] # How Anthropic’s IPO Reshapes the AI Investment Landscape\n\nWellington Management’s Matthew Witheiler joins the WSJ to discuss Anthropic’s IPO. Plus, they break down what’s affecting the AI trade, from Nvidia CEO Jensen Huang's resignation to CoreWeave’s blockbuster earnings report.\n\n33:06\n\n### WSJ's Take On the Week",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "Ramp CEO Eric Glyman谈AI、Glass与金融科技之后",
+      "link": "https://www.fintechbrainfood.com/p/exclusive-ramp-ceo-eric-glyman-on-ai-glass-and-life-after-fintech",
+      "snippet": "[Eric Glyman谈及Ramp内部工具Glass，并探索金融科技之外的新方向。]",
+      "raw_snippet": "The person who built Ramp’s internal Glass harness is giving a talk on how it was built. You’ll be able to hear from someone who made the decisions, then get into the details with other people trying to solve similar problems.\n\nThat’s the kind of person we’re bringing together: engineers shipping AI tools, product people changing how work gets done, risk and compliance teams making new products work in practice, and founders building the next generation of financial services. [...] Eric Glyman  ·  10:51\n\nIt's it's almost something a little bit different, right? Like if the if the overarching mission of the company is to help every organization get more from every dollar an hour, and a major like I think AI is becoming this third major input to how companies do business. Maybe just to give like our internal framework, like classically, if you were converting capital into things, you could sort of convert that into two uses instead of firm. You could go hire people, [...] Hey Nerds 👋,\n\nThis company can’t stop having news. Whether it’s raising at a $60bn valuation, applying for an OCC Trust Charter, the full launch of their harness, or doing skits with Tony Hawk and Bam Margera. Ramp is everywhere.\n\nAnd unlike nearly everything else in finance. They’re winning the marginal VC dollar in the age of AI. How is this even possible? I had to ask.\n\nI sat down with Eric Glyman, Co-Founder and Co-CEO of Ramp, at its New York office to get into exactly that.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "从助手到协作者：当AI成为团队一员",
+      "link": "https://medium.com/@Fransantolo/from-assistant-to-collaborator-when-ai-is-part-of-the-team-c1c96077e308",
+      "snippet": "[企业若以目标、判断与责任整合AI，AI将从助手升级为协作者。]",
+      "raw_snippet": "Organizations that integrate AI with purpose, judgment, and vision will gain agility, scale, talent attraction, and learning capacity.\n\nIs your organization already designing how to work with its new digital teammates?\n\nAI becomes part of the team when leaders redesign the work around it, with purpose and judgment.\n\n_I write about strategy, innovation and AI for leaders and founders. If something here sparked a thought, I’d be glad to hear from you at franciscosantolo.com/en._ [...] Artificial Intelligence\n\nOrganizational Culture\n\nLeadership\n\nFuture Of Work\n\nBusiness Strategy\n\n[](\n\n[](\n\n[](\n\n[](\n\nImage 4: Francisco Santolo\n\nImage 5: Francisco Santolo\n\nFollow\n\n## Written by Francisco Santolo\n\n2.2K followers\n\n·124 following\n\nCEO at Scalabl. Serial Entrepreneur & Speaker. MBA Professor. Executive education at Harvard, Stanford, Singularity University, Kellogg Chicago Booth & MIT.\n\nFollow\n\nHelp\n\nStatus\n\nAbout\n\nCareers\n\nPress\n\nBlog\n\nStore\n\nPrivacy\n\nRules\n\nTerms\n\nText to speech [...] Sitemap\n\nOpen in app\n\nSign up\n\nSign in\n\n is the new paradigm that companies that are understanding the game are preparing for.\n\nThe conversation about artificial intelligence is moving faster than its implementation. And its implementation, much faster than its strategic adoption.\n\nIn many organizations, it is still seen as an add-on: useful, but peripheral. It is assigned to repetitive tasks, analysis, or operational automation.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "非营利倡导团体称AI危险并起诉阻止其开发",
+      "link": "https://www.jurist.org/news/2026/11/nonprofit-advocacy-groups-cite-dangers-sue-to-stop-development-of-artificial-intelligence",
+      "snippet": "[Public Citizen等公益组织起诉阻止AI开发，称其对公众构成危险。]",
+      "raw_snippet": "In a press release from Public Citizen, attorney Matthew Platkin who filed the complaint on behalf of the plaintiffs said “It is patently illegal for companies to develop and release products they know are unsafe in any respect, let alone have the potential to exterminate the human race. We are asking the court to intervene before the risks AI executives have warned us about cause devastating and irreversible harm.” [...] California’s Unfair Competition Law, specifically the section which prohibits unlawful business practices. Plaintiffs allege that, under the code, AI is a “public nuisance” which the law defines as “[a]nything which is injurious to health . . . or an obstruction to the free use of property, so as to interfere with the comfortable enjoyment of life or property by an entire community or neighborhood.” [...] The complaint quotes Elon Musk, who controls SpaceX and who has invested heavily in AI, as saying that AI “has the potential of civilization destruction.”The complaint also quotes Dario Amodei, CEO of Anthropic, as saying that AI developers “do not understand how our own AI creations work.” Amodei also said that AI could enable a group to carry out a “large-scale biological attack,” which, in a hearing before a subcommittee of the Senate Judiciary Committee, he called “a grave threat to U.S.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "远程人工智能岗位（6.7万至19.8万美元）",
+      "link": "https://www.remoterocketship.com/jobs/artificial-intelligence",
+      "snippet": "[远程AI岗位年薪6.7万至19.8万美元，涵盖高级AI战略顾问等职。]",
+      "raw_snippet": "Senior AI strategy consultant leading client discovery, business cases and product or transformation roadmaps. MojoTech uses strategy, design, data and engineering to build AI-enabled digital products.\n\n🌵 Arizona, Colorado, +17 more states – Remote\n\ninfoinfo [...] Typically, a degree in computer science, artificial intelligence, data science, or a related field is required. Experience in AI projects and a strong portfolio showcasing relevant work can be more important than formal education. Advanced degrees may be beneficial. [...] Popular Jobs\n\nRemote data analyst jobsRemote customer support jobsRemote executive assistant jobsRemote marketing jobsRemote product designer jobsRemote product manager jobsRemote project manager jobsRemote recruiter jobsRemote sales jobsRemote software engineer jobs\n\nJobs by Type",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "企业AI实施：从何开始、如何推进",
+      "link": "https://preneuriat.com/blog/ai-implementation-for-business",
+      "snippet": "[企业AI落地应从一项重复性任务起步，再逐步扩展应用场景。]",
+      "raw_snippet": "AI implementation for business starts with one repetitive task, not with a tool. How to choose what to automate first, a step-by-step order of work, and how",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-15",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Agile Robots：融资5亿美元后估值达85亿美元",
+          "link": "https://startupvalley.news/uk/agile-robots-8-5bn-valuation-softbank-nvidia",
+          "snippet": "[该公司完成5亿美元融资，估值升至85亿美元，正从AI迈向Physical AI。]",
+          "index": 1
+        },
+        {
+          "title": "The Artificial Intelligence Show播客——Apple Podcasts",
+          "link": "https://podcasts.apple.com/us/podcast/the-artificial-intelligence-show/id1548733275",
+          "snippet": "[本期播客探讨AI安全机制、Meta Muse数据泄露及Anthropic IPO动向。]",
+          "index": 2
+        },
+        {
+          "title": "Interface.ai股票：估值、融资与投资者 | Notice.co",
+          "link": "https://notice.co/c/interface-ai",
+          "snippet": "[私营公司通常会提前预留股票代码，为潜在上市做准备。]",
+          "index": 3
+        },
+        {
+          "title": "人工智能——IPCEI | 欧盟资助合作伙伴",
+          "link": "https://eufundingpartners.com/sectors/artificial-intelligence",
+          "snippet": "[欧盟IPCEI人工智能项目征集，意向表达已于1月21日截止。]",
+          "index": 4
+        },
+        {
+          "title": "Anthropic的IPO如何重塑AI投资格局",
+          "link": "https://www.wsj.com/video/series/wsj-take-on-the-week/how-anthropics-ipo-reshapes-the-ai-investment-landscape/863DB0A2-FF4B-44EE-8E46-1261226848DD",
+          "snippet": "[Anthropic IPO将重塑AI投资版图，既吸引商业领袖也面向更广泛受众。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Ramp CEO Eric Glyman谈AI、Glass与金融科技之后",
+          "link": "https://www.fintechbrainfood.com/p/exclusive-ramp-ceo-eric-glyman-on-ai-glass-and-life-after-fintech",
+          "snippet": "[Eric Glyman谈及Ramp内部工具Glass，并探索金融科技之外的新方向。]",
+          "index": 6
+        },
+        {
+          "title": "从助手到协作者：当AI成为团队一员",
+          "link": "https://medium.com/@Fransantolo/from-assistant-to-collaborator-when-ai-is-part-of-the-team-c1c96077e308",
+          "snippet": "[企业若以目标、判断与责任整合AI，AI将从助手升级为协作者。]",
+          "index": 7
+        },
+        {
+          "title": "非营利倡导团体称AI危险并起诉阻止其开发",
+          "link": "https://www.jurist.org/news/2026/11/nonprofit-advocacy-groups-cite-dangers-sue-to-stop-development-of-artificial-intelligence",
+          "snippet": "[Public Citizen等公益组织起诉阻止AI开发，称其对公众构成危险。]",
+          "index": 8
+        },
+        {
+          "title": "远程人工智能岗位（6.7万至19.8万美元）",
+          "link": "https://www.remoterocketship.com/jobs/artificial-intelligence",
+          "snippet": "[远程AI岗位年薪6.7万至19.8万美元，涵盖高级AI战略顾问等职。]",
+          "index": 9
+        },
+        {
+          "title": "企业AI实施：从何开始、如何推进",
+          "link": "https://preneuriat.com/blog/ai-implementation-for-business",
+          "snippet": "[企业AI落地应从一项重复性任务起步，再逐步扩展应用场景。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
