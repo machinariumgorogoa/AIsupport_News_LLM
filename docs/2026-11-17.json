@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-17",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "AI溢价：估值中真的有AI吗？",
+      "link": "https://globalventuring.com/corporate/overview/ai-premium-valuation",
+      "snippet": "[依据PitchBook 2026年Q2估值数据，分析巨额交易中的AI成分是否真正支撑高估值，探讨AI溢价是否名副其实。]",
+      "raw_snippet": "According to PitchBook’s Q2 2026 valuations data, megadeals of $100m or more took 87.5% of U.S. venture dollars in the first half of the year, with AI companies alone capturing 86% of total U.S. venture funding. The median increase in an AI company’s valuation from one round to the next was 2.2x, against 1.6x for non-AI companies. This increased to a median 6.6x increase at series D funding round and beyond. [...] Put “AI-powered” on a pitch deck and a $10m company starts to look like a $100m one. Add “agentic” and “AI-native,” and someone in the room will ask whether $500m is too conservative.\n\n  The enthusiasm isn’t irrational. AI can restructure costs, automate knowledge work, and accelerate scientific discovery. But the size of an opportunity and a company’s present value are different numbers, and that gap is where a fund earns or loses its returns. [...] The market isn’t simply funding AI. It’s paying for its possibility, which is wonderful, especially when someone else is footing the bill.\n\n  ## Adoption is not differentiation\n\n  An investment committee’s first question should be simple: What economic value exists because of AI that wouldn’t exist without it?\n\n  Not whether the company uses AI. Nearly every company does; that’s like asking whether it has email.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "美联储理事巴尔：人工智能对金融稳定潜在影响的讲话",
+      "link": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+      "snippet": "[除股权估值问题外，巴尔讨论AI快速发展可能带来的金融稳定风险，并强调宏观审慎监管与未来政策应对。]",
+      "raw_snippet": "In addition to the question of equity valuations, the AI buildout has been increasingly funded by debt. The Federal Reserve's FSR delves into three ways in which the financing of AI data centers and related investments, which it calls \"advanced computing debt,\" could affect financial stability: (1) the rapid growth of this debt, (2) circular financing networks, and (3) other complex financial obligations. In the case of a significant repricing of AI investments, stress from these three aspects [...] 13. AI can improve the information content of prices by incorporating a broader set of information more quickly; see Qiang Cheng, Pengkai Lin, and Yue Zhao (2025), \"Does Generative AI Facilitate Investor Trading? Early Evidence from ChatGPT Outages,\" Journal of Accounting and Economics, vol. 80 (November–December), 101821; and Foucault and others, Artificial Intelligence in Finance (see note 11). But there is also the risk that AI-generated content on finance-related social media could help [...] these three aspects of AI financing could amplify the repricing of AI investments.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "Anthropic IPO如何重塑AI投资格局",
+      "link": "https://www.wsj.com/video/series/wsj-take-on-the-week/how-anthropics-ipo-reshapes-the-ai-investment-landscape/863DB0A2-FF4B-44EE-8E46-1261226848DD",
+      "snippet": "[Anthropic IPO不仅吸引商业领袖，也面向更广泛受众，或将重塑AI投资格局与市场预期。]",
+      "raw_snippet": "business leaders while also entertaining a broader audience with lively, relatable conversations. Episodes drop Sundays. [...] WSJ's Take On the Week brings you the insights and analysis you need to get a leg up on the world of money and investing. We cut through the noise and dive into markets, the economy and finance. Join The Wall Street Journal's Telis Demos and Miriam Gottfried in conversation with the people closest to the hot topics in markets to get incisive analysis on the big trades, key players in finance and business news. The duo will bring actionable insights to a range of investors and business leaders [...] # How Anthropic’s IPO Reshapes the AI Investment Landscape\n\nWellington Management’s Matthew Witheiler joins the WSJ to discuss Anthropic’s IPO. Plus, they break down what’s affecting the AI trade, from Nvidia CEO Jensen Huang's resignation to CoreWeave’s blockbuster earnings report.\n\n33:06\n\n### WSJ's Take On the Week",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "AI在住宅贷款中的应用：将对话转化为收入 | MBA",
+      "link": "https://www.mba.org/conferences-and-education/event/2027/02/08/default-calendar/ai-in-residential-lending-converting-conversations-into-revenue-83484",
+      "snippet": "[通过AI预测客户再融资（Refi）意向，实现精准留存，把贷款咨询对话转化为住宅抵押贷款业务收入。]",
+      "raw_snippet": "Predictive Retention – Knowing Who Will Refi First: February 1, 2027\n Converting Conversations into Revenue: February 8, 2027\n The Empathic Chatbot – 24/7 Borrower Support: March 1, 2027\n Default Management & Early Intervention: April 5, 2027\n MSR Valuation & Trading Intelligence: May 3, 2027\n\nStrategy & Future State [...] Automated Underwriting 2.0 – Income Analysis: December 7, 2026\n Automated Underwriting 2.0 – Income Analysis (Part II): January 11, 2027\n The Compliance Shield – AI for Fair Lending: January 19, 2027\n\nServicing & Retention [...] ### Similar Events\n\n AI in Residential Servicing: Turning Insights into Better Borrower Experiences\n AI in Residential Lending: Your Data is Broken – The Prerequisite to AI\n AI in Residential Lending: Vendor Management\n School of Mortgage Servicing: March 2027",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "AI引导超声心动图采集在新手及非专业操作者中的诊断质量：系统评价与Meta分析",
+      "link": "https://link.springer.com/article/10.1186/s12872-026-06993-1",
+      "snippet": "[基于PICO框架系统综述AI引导超声心动图由新手/非专业操作者完成时的诊断图像产出比例及临床价值。]",
+      "raw_snippet": "Population, Intervention, Comparator, Outcome, Study design\n\nparasternal long-axis\n\npoint-of-care ultrasound\n\nPreferred Reporting Items for Systematic Reviews and Meta-Analyses\n\nInternational Prospective Register of Systematic Reviews\n\nQuality Assessment of Diagnostic Accuracy Studies 2\n\nRapid Assessment of Competency in Echocardiography\n\nrandomized controlled trial\n\nright ventricle/right ventricular\n\n## Acknowledgements\n\nNone.\n\n## Funding\n\nThis review received no external funding. [...] ### Explore related subjects\n\n## Abbreviations\n\napical four-chamber\n\nAdequate for Clinical Evaluation Purposes\n\nartificial intelligence\n\nconfidence interval\n\nconflict of interest\n\ngeneralized linear mixed model\n\nGrading of Recommendations Assessment, Development and Evaluation\n\nintraclass correlation coefficient\n\nintensive care unit\n\ninferior vena cava\n\nJoanna Briggs Institute\n\nleft ventricle/left ventricular\n\nleft ventricular ejection fraction [...] ### Background\n\nReal-time artificial intelligence (AI) probe-guidance software may allow operators without formal ultrasound training to acquire echocardiograms, a form of task-shifting for cardiovascular screening. The proportion of such examinations in real patients that reach diagnostic quality has not been quantitatively synthesized.\n\n### Methods",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "AI Rudder推出CALL-E，让AI Agent具备打电话能力",
+      "link": "https://vir.com.vn/ai-rudder-launches-call-e-enabling-ai-agents-to-make-phone-calls-165174.html",
+      "snippet": "[AI Rudder发布CALL-E平台，使AI Agent能够拨打电话，助力企业实现自动化客户沟通与运营。]",
+      "raw_snippet": "### ONYX Hospitality Group plans Amari Samui Resort development in Thailand\n\nSomerset Diamond Bay Garden opens 168 serviced residences in Phnom Penh \n\n### Somerset Diamond Bay Garden opens 168 serviced residences in Phnom Penh\n\nEducation technology firm Qimingdaren appoints Eric Muqing Li Co-CEO \n\n### Education technology firm Qimingdaren appoints Eric Muqing Li Co-CEO\n\nWhole goat milk formula reduces toddler eczema risk by 64% \n\n### Whole goat milk formula reduces toddler eczema risk by 64% [...] Thai Cement Manufacturers Association Advances Carbon Capture Initiative Toward 2050  (November 13, 2026 | 12:03)\n HKSTP Leads 10 Companies at Singapore Urban Mobility Week 2026  (November 12, 2026 | 15:22)\n Somerset Clarke Quay Singapore to Open on 15 December 2026  (November 12, 2026 | 15:16)\n HGC Global Communications Appoints Frédéric Schepens as Chief Executive Officer  (November 12, 2026 | 15:11) [...] CALL-E is built for those calls. A personal AI agent hands it the errand, and CALL-E makes the call and reports back with proof.  \n   \n \"The smartest AI model in the world can still fail a phone call. All it takes is one 'mm-hmm',\" said Teng Ren, CEO of AI Rudder.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "Iba Masood——Optimal AI联合创始人兼CEO | YesPress",
+      "link": "https://yespress.io/iba-masood",
+      "snippet": "[介绍Iba Masood从迪拜校园创业到Gradberry、Tara AI及Optimal AI的连续创业经历。]",
+      "raw_snippet": "From school businesses in Dubai to Gradberry, Tara AI and Optimal AI: Iba Masood's story of first jobs, engineering teams and the work around the work.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "人工智能气候研究所正式启动——绿色数字行动",
+      "link": "https://www.itu.int/initiatives/green-digital-action/events/cop31/launch-of-the-artificial-intelligence-climate-institute",
+      "snippet": "[人工智能气候研究所正式启动，致力于利用AI与绿色数字技术创新应对气候变化，推动可持续发展。]",
+      "raw_snippet": "Official launch of the Artificial Intelligence Climate InstituteFormal launch by the founding partners, followed by a presentation of the Institute’s mandate, 2026–2027 workplan, planned activities and opportunities for partnership. The launch would highlight its focus on capacity-building, knowledge exchange and context-appropriate, responsible and resource-efficient artificial intelligence solutions. [...] Background [...] and Cultural Organization (UNESCO), with the support of the Ministry of Foreign Affairs (MRE).",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "HLTH 2026：Viz.ai与Wolters Kluwer合作推进平台整合",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-wolters-kluwer-partner-platform-integration",
+      "snippet": "[在HLTH 2026大会，Viz.ai与Wolters Kluwer宣布整合平台，借助AI提升医疗诊断与治疗效率。]",
+      "raw_snippet": "“The greatest leap we can achieve in healthcare is to make the best medical evidence always available, applied automatically to every patient, at the moment it matters,” said Chris Mansi, Viz.ai CEO and co-founder, in a statement to Fierce Healthcare. [...] The companies say it is the first integration to bring UpToDate into AI-driven care coordination workflows.\n\nWolters Kluwer CEO Greg Samios said in a statement that one of healthcare AI’s biggest opportunities is \"to help clinicians see more of the patient's full picture when making healthcare decisions.\" [...] Fierce Pharma\n Fierce Biotech\n Fierce Healthcare\n Fierce Life Sciences Events\n\n Advertise\n About Us\n\nAI and Machine Learning\n\n# HLTH 2026: Viz.ai, Wolters Kluwer partner on platform integration\n\nBy  Cailey Gleeson    Nov 16, 2026 9:00am\n\nViz.ai Wolters Kluwer Health Artificial Intelligence partnership\n\nA doctor using a futuristic computer, symbolizing AI  \n\nThe companies say it is the first integration to bring UpToDate into AI-driven care coordination workflows. (ismagilov/GettyImages)",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "Circle311晋升AI高管Roger",
+      "link": "https://www.issuewire.com/circle311-promotes-artificial-intelligence-executive-roger-to-ceo-1881508403772494",
+      "snippet": "[Circle311晋升AI高管Roger，称其将借助AI为客户提供营销支持并推动业务增长。]",
+      "raw_snippet": "The company says Roger will support customers with marketing strategies, demonstrations, questions and campaign guidance through its full-service app.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}

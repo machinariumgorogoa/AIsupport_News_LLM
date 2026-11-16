@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-17",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "AI溢价：估值中真的有AI吗？",
+          "link": "https://globalventuring.com/corporate/overview/ai-premium-valuation",
+          "snippet": "[依据PitchBook 2026年Q2估值数据，分析巨额交易中的AI成分是否真正支撑高估值，探讨AI溢价是否名副其实。]",
+          "index": 1
+        },
+        {
+          "title": "美联储理事巴尔：人工智能对金融稳定潜在影响的讲话",
+          "link": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+          "snippet": "[除股权估值问题外，巴尔讨论AI快速发展可能带来的金融稳定风险，并强调宏观审慎监管与未来政策应对。]",
+          "index": 2
+        },
+        {
+          "title": "Anthropic IPO如何重塑AI投资格局",
+          "link": "https://www.wsj.com/video/series/wsj-take-on-the-week/how-anthropics-ipo-reshapes-the-ai-investment-landscape/863DB0A2-FF4B-44EE-8E46-1261226848DD",
+          "snippet": "[Anthropic IPO不仅吸引商业领袖，也面向更广泛受众，或将重塑AI投资格局与市场预期。]",
+          "index": 3
+        },
+        {
+          "title": "AI在住宅贷款中的应用：将对话转化为收入 | MBA",
+          "link": "https://www.mba.org/conferences-and-education/event/2027/02/08/default-calendar/ai-in-residential-lending-converting-conversations-into-revenue-83484",
+          "snippet": "[通过AI预测客户再融资（Refi）意向，实现精准留存，把贷款咨询对话转化为住宅抵押贷款业务收入。]",
+          "index": 4
+        },
+        {
+          "title": "AI引导超声心动图采集在新手及非专业操作者中的诊断质量：系统评价与Meta分析",
+          "link": "https://link.springer.com/article/10.1186/s12872-026-06993-1",
+          "snippet": "[基于PICO框架系统综述AI引导超声心动图由新手/非专业操作者完成时的诊断图像产出比例及临床价值。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI Rudder推出CALL-E，让AI Agent具备打电话能力",
+          "link": "https://vir.com.vn/ai-rudder-launches-call-e-enabling-ai-agents-to-make-phone-calls-165174.html",
+          "snippet": "[AI Rudder发布CALL-E平台，使AI Agent能够拨打电话，助力企业实现自动化客户沟通与运营。]",
+          "index": 6
+        },
+        {
+          "title": "Iba Masood——Optimal AI联合创始人兼CEO | YesPress",
+          "link": "https://yespress.io/iba-masood",
+          "snippet": "[介绍Iba Masood从迪拜校园创业到Gradberry、Tara AI及Optimal AI的连续创业经历。]",
+          "index": 7
+        },
+        {
+          "title": "人工智能气候研究所正式启动——绿色数字行动",
+          "link": "https://www.itu.int/initiatives/green-digital-action/events/cop31/launch-of-the-artificial-intelligence-climate-institute",
+          "snippet": "[人工智能气候研究所正式启动，致力于利用AI与绿色数字技术创新应对气候变化，推动可持续发展。]",
+          "index": 8
+        },
+        {
+          "title": "HLTH 2026：Viz.ai与Wolters Kluwer合作推进平台整合",
+          "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-wolters-kluwer-partner-platform-integration",
+          "snippet": "[在HLTH 2026大会，Viz.ai与Wolters Kluwer宣布整合平台，借助AI提升医疗诊断与治疗效率。]",
+          "index": 9
+        },
+        {
+          "title": "Circle311晋升AI高管Roger",
+          "link": "https://www.issuewire.com/circle311-promotes-artificial-intelligence-executive-roger-to-ceo-1881508403772494",
+          "snippet": "[Circle311晋升AI高管Roger，称其将借助AI为客户提供营销支持并推动业务增长。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
