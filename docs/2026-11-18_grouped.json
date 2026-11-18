@@ -9,33 +9,33 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "PwC IPO负责人谈选择性市场、AI估值与2027年前景",
-          "link": "https://news.crunchbase.com/public/ipo-ma-spac-ai-forecast-qa-pwcs-partner-bellin",
-          "snippet": "普华永道IPO业务负责人剖析当前选择性上市市场，解读AI企业估值逻辑并展望2027年资本市场趋势。",
+          "title": "OpenAI Stock IPO：估值、时间表与投资选择",
+          "link": "https://smartasset.com/investing/openai-stock-ipo",
+          "snippet": "OpenAI 1100亿美元融资与IPO预期引发市场关注，投资者聚焦其估值、上市窗口及参与方式。",
           "index": 1
         },
         {
-          "title": "Anthropic的IPO：如何为AI未来定价？",
-          "link": "https://www.afp.com/en/anthropics-ipo-how-do-you-price-future-ai",
-          "snippet": "Anthropic联合创始人兼CEO Dario Amodei透露公司计划IPO，引发投资者对其AI技术前景与估值的热议。",
+          "title": "Anthropic 提交 IPO 申请，称 AI 可“改善人类生活”",
+          "link": "https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety",
+          "snippet": "Anthropic 递交IPO文件，强调生成式AI提升人类生活质量，市场视其为AI赛道价值的重要验证。",
           "index": 2
         },
         {
-          "title": "AI给M&A团队带来新抉择：提速还是获取更深洞察",
-          "link": "https://www.businessrecord.com/ai-gives-ma-teams-a-choice-to-move-faster-or-gain-more-insight-in-dealmaking",
-          "snippet": "AI正赋能M&A团队在并购交易中权衡速度与洞察，既加速执行也提升尽职调查与决策质量。",
+          "title": "Voice AI 行业快照：投资者加大押注语音 AI",
+          "link": "https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026",
+          "snippet": "Voice AI 领域获投资者热捧，旧金山初创公司 Fal 成为该板块近期最大的融资受益者之一。",
           "index": 3
         },
         {
-          "title": "我们应授予Anthropic 1.4万亿美元吗？解析AI安全与发展巨额投资提案",
-          "link": "https://eu.36kr.com/en/p/4073082745738118",
-          "snippet": "文章深入分析向Anthropic提供1.4万亿美元、用于推进AI安全与技术发展的巨额投资提案及其潜在影响。",
+          "title": "独家｜企业卡初创公司 Ramp 拟以 700 亿美元估值融资",
+          "link": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a",
+          "snippet": "Ramp 正与投资者洽谈新一轮融资，目标估值达700亿美元，继续扩张企业卡与费用管理平台。",
           "index": 4
         },
         {
-          "title": "Anthropic IPO与Nvidia财报：一页速览本周AI要闻",
-          "link": "https://www.btse.com/blog/anthropic-ipo-nvidia-earnings",
-          "snippet": "Anthropic拟发行8.25亿美元A类普通股，Nvidia财报紧随其后，共同成为本周AI市场关注焦点。",
+          "title": "CPRIT 资助助力 UT San Antonio 基于 AI 的癌症发现研究",
+          "link": "https://news.uthscsa.edu/cprit-funding-fuels-ai-powered-cancer-discovery-at-ut-san-antonio",
+          "snippet": "CPRIT 向 UT San Antonio 提供资金，支持其利用 AI 技术加速癌症相关科学发现。",
           "index": 5
         }
       ]
@@ -44,33 +44,33 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "人工智能：原创优势 | 德勤全球",
-          "link": "https://www.deloitte.com/global/en/what-we-do/capabilities/ai/research/ceo-ai-leadership-report.html",
-          "snippet": "德勤指出，在APEC商业环境中AI虽已普及，但原创能力与差异化仍是企业构建持久竞争优势的关键。",
+          "title": "Pertlink 发布《Hotel AI Agent Playbook》助酒店首聘 AI Agent",
+          "link": "https://www.hotelnewsresource.com/article143794.html",
+          "snippet": "Pertlink 推出免费分步指南，帮助酒店识别场景并落地首个 Hotel AI Agent，提升运营自动化。",
           "index": 6
         },
         {
-          "title": "打造AI领导人才梯队：CEO的新优先事项",
-          "link": "https://huntscanlon.com/building-the-ai-leadership-bench-a-new-priority-for-ceos",
-          "snippet": "Sandhill Talent Capital指出，打造强有力的AI领导梯队应成为CEO当务之急，决定企业AI战略能否成功落地。",
+          "title": "CEO 告知 80 名员工 AI 已让他们可被替代",
+          "link": "https://medium.com/everyday-ai/our-ceo-told-80-employees-ai-made-them-replaceable-his-best-people-quit-first-311df8d22805",
+          "snippet": "某公司 CEO 对员工表示，AI 自动化使高薪岗位难再被证明合理，引发对就业影响的激烈讨论。",
           "index": 7
         },
         {
-          "title": "如何构建惠及所有人的AI革命",
-          "link": "https://time.com/article/2026/11/16/how-to-build-an-artificial-intelligence-revolution-for-all",
-          "snippet": "Lynn Forester de Rothschild撰文探讨如何推动一场包容、公平且让全社会共享红利的AI革命，确保技术惠及不同群体。",
+          "title": "Klipboard 推出 AI-Native Autowork 门店管理 AI",
+          "link": "https://www.klipboard.com/en-us/news/klipboard-drives-a-new-era-of-industry-specific-business-software-with-ai-native-autowork-ve3j5",
+          "snippet": "Klipboard 发布面向独立门店的 AI-Native Autowork 平台，以 AI 原生流程优化门店管理。",
           "index": 8
         },
         {
-          "title": "在Terry商学院，AI以人为本",
-          "link": "https://www.terry.uga.edu/at-terry-ai-is-people-powered",
-          "snippet": "Terry商学院强调，尽管AI工具日益强大，但人的创造力、判断力与伦理意识仍是商业教育与技术应用的核心。",
+          "title": "OpenAI 官网：研究与部署",
+          "link": "https://openai.com",
+          "snippet": "OpenAI 官方网站呈现其前沿 AI 研究、模型部署进展，以及 ChatGPT 等产品的登录与试用入口。",
           "index": 9
         },
         {
-          "title": "克莱姆森大学将推出三个AI新学位项目",
-          "link": "https://news.clemson.edu/clemson-university-to-launch-three-new-degree-programs-in-artificial-intelligence",
-          "snippet": "克莱姆森大学将新增三个AI学位项目，培养满足产业数字化转型与创新需求的新一代专业人才。",
+          "title": "Harvey Contract Intelligence：AI 合同审查与洞察",
+          "link": "https://www.harvey.ai/platform/contract-intelligence",
+          "snippet": "Harvey 发布 Contract Intelligence 平台，实现合同从 intake、审查到执行的全生命周期 AI 管理。",
           "index": 10
         }
       ]
