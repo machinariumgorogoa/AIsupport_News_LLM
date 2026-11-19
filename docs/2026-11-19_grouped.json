@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-19",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "2026年AI估值倍数",
+          "link": "https://aventis-advisors.com/ai-valuation-multiples",
+          "snippet": "2026年Q1录得2887起AI融资，显示行业回暖，AI企业估值倍数成为市场关注焦点，并影响投资定价逻辑。",
+          "index": 1
+        },
+        {
+          "title": "Anthropic IPO定价每股83美元，估值1.5万亿美元",
+          "link": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion",
+          "snippet": "IPO是企业融资方式之一，Anthropic以每股83美元定价上市，AI巨头估值达1.5万亿美元，引发市场广泛关注。",
+          "index": 2
+        },
+        {
+          "title": "摩根士丹利：AI融资浪潮将达1万亿美元，警示电力瓶颈",
+          "link": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-sees-1-trillion-081213104.html",
+          "snippet": "企业并购异常活跃，摩根士丹利预测AI领域将迎来万亿美元资金涌入，但电力供应瓶颈可能成为发展制约。",
+          "index": 3
+        },
+        {
+          "title": "Accel：AI投资组合与战略分析",
+          "link": "https://aifunding.me/insights/accel-ai-portfolio-analysis",
+          "snippet": "聚焦风投机构Accel在AI领域的投资布局与策略，梳理其Funding方向及重点关注的创新企业与技术趋势。",
+          "index": 4
+        },
+        {
+          "title": "Palo Alto Networks斥资45亿美元收购Applied Compute，押注企业AI",
+          "link": "https://www.csoonline.com/article/4250669/palo-alto-networks-bets-4-5b-on-enterprise-ai-with-applied-compute-acquisition.html",
+          "snippet": "该收购将为网络安全公司提供AI算力技术，助力Palo Alto Networks强化企业级AI安全解决方案与竞争力。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "AI Launchpad创业资助计划 | Zoom AI服务",
+          "link": "https://www.zoom.ai/ai-launchpad",
+          "snippet": "Zoom AI服务推出AI Launchpad创业资助，现已开放申请，支持开发者基于Zoom平台构建创新AI应用。",
+          "index": 6
+        },
+        {
+          "title": "Rezolve Ai CEO：AI长期赢家将是垂直市场专家",
+          "link": "https://rezolve.com/press-releases/rezolve-ai-ceo-the-long-term-winners-in-ai-will-be-the-vertical-market-specialists",
+          "snippet": "相比通用大模型，聚焦特定垂直行业的AI解决方案与专家，将在长期市场竞争中占据优势并持续创造价值。",
+          "index": 7
+        },
+        {
+          "title": "什么是AI原生商业软件？Klipboard AI解读",
+          "link": "https://www.klipboard.com/en-us/blog/what-ai-native-means-for-the-future-of-business-software-1fuxo",
+          "snippet": "Klipboard发布云端门店管理工具Autowork，结合实例阐释AI Native商业软件如何重塑企业运营与用户体验。",
+          "index": 8
+        },
+        {
+          "title": "AI试点困境：如何推动企业AI项目落地生产",
+          "link": "https://medium.com/@workdaylifeblog/ai-pilot-purgatory-how-to-get-enterprise-ai-to-production-35dcfbb06986",
+          "snippet": "企业常陷入AI试点僵局，需建立对不确定性的容忍，制定清晰路径，将AI实验项目顺利转化为生产级应用。",
+          "index": 9
+        },
+        {
+          "title": "员工体验演示 | Phenom AI Day",
+          "link": "https://www.phenom.com/sessions/employee-experience-demo",
+          "snippet": "Phenom AI日展示AI Agent如何陪伴工程师从入职首周到离职全周期，提升员工体验与人才管理智能化水平。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
