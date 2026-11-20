@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-20",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Funding AI: IPOs are sending a new signal | J.P. Morgan Private Bank U.S.",
+          "link": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/tmt/funding-ai-ipos-are-sending-a-new-signal",
+          "snippet": "Funding the artificial intelligence (AI) buildout began with cash—over $700 bill...",
+          "index": 1
+        },
+        {
+          "title": "Valuation Multiples for Startups: A Quick Guide for Founders | NetSuite",
+          "link": "https://www.netsuite.com/portal/resource/articles/financial-management/tech-startup-value-multiples.shtml",
+          "snippet": "No surprise: AI has the highest valuations. Aventis Advisors puts the median rev...",
+          "index": 2
+        },
+        {
+          "title": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade - WSJ",
+          "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?eafs_enabled=false",
+          "snippet": "From Wall Street’s perspective, Anthropic’s ANT 17.07%increase; up pointing tria...",
+          "index": 3
+        },
+        {
+          "title": "Writer IPO Timeline and Financing Details - Forge",
+          "link": "https://forgeglobal.com/writer_ipo",
+          "snippet": "The news articles displayed on this page may be curated using artificial intelli...",
+          "index": 4
+        },
+        {
+          "title": "Rebalancing portfolios for a more sustainable cycle | Barclays Private Bank",
+          "link": "https://privatebank.barclays.com/insights/outlook-2026-11-2025/beyond-the-ai-boom-rebalancing-portfolios-for-a-more-sustainable",
+          "snippet": "However, today’s AI leaders differ from the late-1990s tech cohort. They are pro...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Why CEOs Must Think Like AI-Native Competitors",
+          "link": "https://www.edisonpartners.com/blog/why-ceos-must-think-like-ai-native-competitors?hs_amp=true",
+          "snippet": "Consider product development. Traditionally, product leaders have spent signific...",
+          "index": 6
+        },
+        {
+          "title": "Who is Dario Amodei, the CEO of Anthropic? - Lawton Radio",
+          "link": "https://www.lawtonradio.com/business/who-is-dario-amodei-the-ceo-of-anthropic",
+          "snippet": "Dario Amodei, co-founder and CEO of Anthropic, has drawn attention for his publi...",
+          "index": 7
+        },
+        {
+          "title": "DuPont turns to AI to speed up product development",
+          "link": "https://delawarebusinesstimes.com/news/dupont-ai-product-development",
+          "snippet": "“Together, DuPont’s teams can build on the data and expertise they have today, w...",
+          "index": 8
+        },
+        {
+          "title": "Run your whole selling business in AWS Quick | Artificial Intelligence",
+          "link": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick",
+          "snippet": "After the launch, the agent reads four signal families through the Selling Partn...",
+          "index": 9
+        },
+        {
+          "title": "Behavioral Intelligence: The Science of Hiring for What Lasts",
+          "link": "https://www.phenom.com/sessions/behavioral-intelligence-assessments",
+          "snippet": "Discover how Behavioral Intelligence predicts who will thrive, hear how Circle K...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
