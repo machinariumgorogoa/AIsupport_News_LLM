@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-21",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "初创企业融资：轮次与里程碑实用指南",
+      "link": "https://www.getaiperks.com/en/blogs/254-startup-funding-for-startups",
+      "snippet": "介绍初创公司pre-seed、seed、Series A等融资轮次及关键里程碑，助创始人规划融资路径。",
+      "raw_snippet": "Companies commonly raise through pre-seed, seed, Series A, Series B, Series C, and Series D. Some raise later lettered rounds before an IPO or acquisition. The names describe a rough progression, but they do not determine what a company is worth or how much it should raise.\n\nInvestor expectations tend to grow with the business. Early on, they may ask whether your team can build a product customers want. Later, they focus on retention, repeatable growth, and the company’s ability to scale. [...] Series C funding commonly supports expansion after the core business is established. Investors may assess category leadership, multiple working products or markets, and management depth beyond the founding team. A company may raise a Series D or later round if it needs more capital before an IPO or acquisition.\n\n## How should you plan for dilution and runway? [...] ## Frequently Asked Questions\n\n### What are the main stages of startup funding?\n\nThe common sequence is pre-seed, seed, Series A, Series B, Series C, and Series D. Some companies raise later lettered rounds before an IPO or acquisition. Investors generally expect stronger evidence of demand, retention, repeatable growth, or scale as a business develops.\n\n### How much money should a startup raise?",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "人工智能在诊断正畸性牙根吸收中的应用进展",
+      "link": "https://www.kqjbfz.com/EN/10.12016/j.issn.2096-1456.202660021",
+      "snippet": "综述AI技术在正畸诱发牙根吸收诊断中的最新进展，探讨其临床辅助诊断价值与应用前景。",
+      "raw_snippet": "|  |  |\n --- |\n| {{custom\\_ref.label}} | {{custom\\_citation.content}}      <{{custom_citation.url}}>  [Cited in this article [{{custom\\_ref.citedCount}}]](javascript:;) Abstract  {{custom\\_citation.annotation}} |\n\n### References\n\n{{article.reference}}\n\n### {{custom\\_fnGroup.title\\_en}}\n\n### Footnotes\n\n{{custom\\_fn.content}}\n\n### {{custom\\_ack.title\\_en}}\n\n{{custom\\_ack.content}}\n\n### Funding\n\n{{custom\\_fund}}\n\n  PDF(1346 KB)\n\nCitation\n\nPrivacy Policy [...] diagnostic results with orthodontic clinical workflows to promote early warning and risk-stratified management of OIRR.\" name=\"citation\\_abstract\"> Artificial intelligence (AI) technology is developing rapidly in the field of dental imaging, providing new technical means for the early identification and quantitative assessment of orthodontically induced root resorption (OIRR). This article reviews recent advances in deep learning algorithms—such as convolutional neural networks (CNNs), dynamic [...] to capture global features and applying federated learning to address data privacy silos. It is recommended to deeply integrate AI diagnostic results with orthodontic clinical workflows to promote early warning and risk-stratified management of OIRR.\" name=\"description\"> Artificial intelligence (AI) technology is developing rapidly in the field of dental imaging, providing new technical means for the early identification and quantitative assessment of orthodontically induced root resorption",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "人工智能对人类的威胁：碎片化世界中的AI治理（11月21日）",
+      "link": "https://www.eventbrite.com/e/threat-of-ai-to-humanity-governing-ai-in-a-fragmented-world-tickets-2001020668686",
+      "snippet": "Eventbrite线上活动，探讨AI快速变革下，如何在碎片化世界治理人工智能及其对人类的影响。",
+      "raw_snippet": "Artificial Intelligence is rapidly transforming nearly every aspect of human life, from healthcare, education, and scientific discovery to law, governance, security, and international relations. While AI promises unprecedented opportunities for innovation and human advancement, it also raises profound questions about human rights, economic stability, democratic integrity, global security, and the future of human civilization. [...] This timely webinar explores one of the most important questions of our age:\n\nIs artificial intelligence itself the greatest threat to humanity, or is humanity's inability to govern AI the greater danger? [...] ### Key Takeaway\n\nThe future of artificial intelligence will ultimately be determined not only by technological innovation, but by humanity's capacity for cooperation, ethical leadership, and effective global governance.\n\n### Call to Action\n\nRegister today and join a vital global conversation on artificial intelligence, law, governance, human security, and the future of humanity.\n\n## Good to know\n\nHighlights\n\nRefund Policy\n\nHighlights\n\nRefund Policy\n\nNo refunds\n\n### Location\n\n#### Online event",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "IEEE-RICAI 2026征文通知与截止日期（2026年11月·深圳）",
+      "link": "https://callforpaper.org/cfp/call-for-papers-ieee-ricai-2026",
+      "snippet": "会议将于2026年11月在深圳举行，征稿主题包括智能传感器、智能通信与协作等。",
+      "raw_snippet": "+ Intelligent Sensors\n  + Intelligent Communication and Collaborative Control\n  + Sensing and Cognitive Communication\n Artificial Intelligence\n  + Deep Learning Technology\n  + Frontiers in Computer Vision\n  + Big Models and General Artificial Intelligence\n  + Reinforcement Learning and Decision Intelligence\n  + AI and Scientific Computing\n  + Edge and Embedded AI\n  + Generative AI and Robot Simulation\n  + Trusted AI and Security Verification\n  + Brain Computing and Bionic AI [...] Submission Categories\n\n Full Papers (for publication in proceedings)\n Presenter (Abstract submission for oral/poster presentation, not for proceedings)\n Listener (Attendance only)\n Poster Presentation (Non-proceedings)\n\n## Topics of Interest\n\n5 TOPICS\n\nResearch papers are invited in, but not limited to, the following areas:\n\nComputer Science ↗ \n\nrobotics\n\ncontrol\n\nartificial intelligence\n\ninternet of things\n\n## Venue Information\n\nShenzhen, China\n\n## Cite this Call For Papers [...] + AI and Intelligent Robotics",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "记者与被报道者：新闻业中的人工智能（11月20日）",
+      "link": "https://www.eventbrite.com/e/reporters-and-the-reported-artificial-intelligence-in-journalism-tickets-2003297038369?aff=ebdssbdestsearch",
+      "snippet": "Eventbrite活动，聚焦AI对新闻业的影响，探讨记者、被报道对象与智能技术之间的复杂关系。",
+      "raw_snippet": "Reporters and the Reported: Artificial Intelligence in Journalism\n\n# Reporters and the Reported: Artificial Intelligence in Journalism\n\nPanel debate on AI with Olle Zachrison, BBC News, Professor Charlie Beckett, LSE/Polis\nand Claire Holubowskyj, Enders Analysis.\n\nThis MA journalism module is open to all students from Cardiff University though a ticket is required. Each week, guest speakers will discuss the key issues, challenges and opportunities facing media organisations today. [...] Students will hear leading professional figures in UK media and other high profile contributors.\n\nThey will outline the impact and the decision-making process around key factors such as business models, new technologies, changing audience behaviours, ethics, AI, diversity, impartiality, transparency and editorial. These issues will be explored within existing regulatory frameworks and referencing the media landscape. [...] ### Follow organisers to get events picked for you\n\n## You might also like...\n\n### Browse more events with different dates, prices, and formats to find your next great experience.\n\n## Still looking for the right event?\n\n### Explore all events in Cardiff and filter by date, category, and more to find the perfect fit.\n\n### Use Eventbrite\n\n### Plan Events\n\n### Find Events\n\n### Connect with Us\n\n© 2026 Eventbrite",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "2026年CTO圆桌论坛（11月19日）",
+      "link": "https://www.eventbrite.com/e/cto-panel-2026-registration-2001284883961",
+      "snippet": "Eventbrite活动，TechEmpower创始人Tony等嘉宾探讨CTO的技术趋势与领导力挑战。",
+      "raw_snippet": "Tony is the Founder and CEO of TechEmpower, a 20-person software and AI development services company. Tony has worked as a fractional CTO at over 40 different companies, including as the original CTO at eHarmony, helping them get to a $110M financing in their fourth year. Tony has worked on AI solutions for more than two decades across a wide variety of industries and is currently the fractional CTO of AI companies in healthcare, legal, and insurance. Tony is also cofounder of the LA CTO Forum, [...] Pablo Perez is Director of Engineering at CreatorIQ, where he leads the Engineering Services organization, which partners with Fortune 500 brands and leaders across the creator economy. He has built and scaled engineering organizations for nearly two decades, at Demand Media, GoDaddy, Omaze, Rivian, and AgentSync, guiding companies through IPOs, major funding rounds, and enterprise platform launches.\n\nTONY KARRER | Founder & CEO | TechEmpower [...] CTO Panel - 2026\n\n# CTO Panel - 2026\n\nJoin us for our 16th Annual CTO Panel to hear how building software has changed and how they're managing AI across organizations.\n\n\\\\Current AITP-LA members receive discounted pricing for all AITP-LA events. If you are not currently a member, please consider joining. 1-Year membership is only $75! Join now by clicking HERE.\n\n### 6:00 - 9 PM : All Attendees (members and non-members)\n\nChief Technology Officers - What's Changed in the Last 2-3 Years",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "与DomAiynLabs创始人对话：Innovation Circuit（11月20日）",
+      "link": "https://www.eventbrite.com/e/founders-session-with-domaiynlabs-innovation-circuit-tickets-2004645424428?aff=ebdssbdestsearch",
+      "snippet": "非传统嘉宾讲座，与DomAiynLabs创始人轻松交流创业与创新。",
+      "raw_snippet": "This is not a conventional guest lecture. We want a relaxed, welcoming, and interactive conversation where students can connect directly with founders, hear about their entrepreneurial experiences, ask spontaneous questions, and learn about real-world opportunities.\n\nTopics include entrepreneurship, startup challenges, AI security, LLMs, RAG, multi-agent systems, AI governance, compliance, and the future of artificial intelligence. [...] Innovation Circuit, the student-led technology society at the University of York Mumbai, is hosting an interactive Founders’ Session with DomAiynLabs on Friday, 20 November 2026, from 1:30 PM onwards.\n\nThe session features two founders:\n\nParth Varshney — Founder & CEO, DomAiynLabs\n\nPragat Pagariya — Co-Founder & CTO, DomAiynLabs [...] Mumbai, MH 400076\n\n#### How do you want to get there?\n\nMap\n\n### Agenda\n\n01:30 PM\n\n### Welcome & Introductions\n\nAn introduction to Innovation Circuit, DomAiynLabs, and the founders.\n\n01:45 PM\n\n### The Founders' Journey\n\nHow DomAiynLabs started, lessons from entrepreneurship, challenges, and turning ideas into a company.\n\n02:10 AM\n\n### Building & Securing the Future of AI\n\nA conversation about AI security, LLMs, RAG, agentic systems, governance, and emerging opportunities.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "与DomAiynLabs创始人对话：Innovation Circuit（11月20日）",
+      "link": "https://www.eventbrite.com/e/founders-session-with-domaiynlabs-innovation-circuit-tickets-2004645424428",
+      "snippet": "非传统嘉宾讲座，与DomAiynLabs创始人轻松交流创业与创新。",
+      "raw_snippet": "Eventbrite Eventbrite Search events Search events autocomplete Find my tickets Sign in Find Events Create Events Solutions Solutions Event Ticketing Event Marketing Platform Eventbrite Ads Payments Industry Industry Music Food & Beverage Performing Arts Charity & Causes Retail Event Types Event Types Concerts Classes & Workshops Festivals & Fairs Conferences Corporate Events Online Events Blog Blog Tips & Guides News & Trends Community Tools & Features Organizer Resource Hub Create Events [...] Hub Create Events Contact Sales Get Started Help Center Help Center Find your tickets Contact your event organizer Updates Updates Find Events Create Events Help Center Help Center Find your tickets Contact your event organizer Find my tickets Sign in Find Events Create Events Solutions Solutions Event Ticketing Event Marketing Platform Eventbrite Ads Payments Industry Industry Music Food & Beverage Performing Arts Charity & Causes Retail Event Types Event Types Concerts Classes & Workshops [...] Maharashtra Events Things to do in Mumbai Mumbai seminars Mumbai Science & Tech seminars Sales ended Fri, Nov 20 • 1:30 PM Explore similar events",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    }
+  ]
+}

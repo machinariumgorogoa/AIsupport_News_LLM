@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-21",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "初创企业融资：轮次与里程碑实用指南",
+          "link": "https://www.getaiperks.com/en/blogs/254-startup-funding-for-startups",
+          "snippet": "介绍初创公司pre-seed、seed、Series A等融资轮次及关键里程碑，助创始人规划融资路径。",
+          "index": 1
+        },
+        {
+          "title": "人工智能在诊断正畸性牙根吸收中的应用进展",
+          "link": "https://www.kqjbfz.com/EN/10.12016/j.issn.2096-1456.202660021",
+          "snippet": "综述AI技术在正畸诱发牙根吸收诊断中的最新进展，探讨其临床辅助诊断价值与应用前景。",
+          "index": 2
+        },
+        {
+          "title": "人工智能对人类的威胁：碎片化世界中的AI治理（11月21日）",
+          "link": "https://www.eventbrite.com/e/threat-of-ai-to-humanity-governing-ai-in-a-fragmented-world-tickets-2001020668686",
+          "snippet": "Eventbrite线上活动，探讨AI快速变革下，如何在碎片化世界治理人工智能及其对人类的影响。",
+          "index": 3
+        },
+        {
+          "title": "IEEE-RICAI 2026征文通知与截止日期（2026年11月·深圳）",
+          "link": "https://callforpaper.org/cfp/call-for-papers-ieee-ricai-2026",
+          "snippet": "会议将于2026年11月在深圳举行，征稿主题包括智能传感器、智能通信与协作等。",
+          "index": 4
+        },
+        {
+          "title": "记者与被报道者：新闻业中的人工智能（11月20日）",
+          "link": "https://www.eventbrite.com/e/reporters-and-the-reported-artificial-intelligence-in-journalism-tickets-2003297038369?aff=ebdssbdestsearch",
+          "snippet": "Eventbrite活动，聚焦AI对新闻业的影响，探讨记者、被报道对象与智能技术之间的复杂关系。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "2026年CTO圆桌论坛（11月19日）",
+          "link": "https://www.eventbrite.com/e/cto-panel-2026-registration-2001284883961",
+          "snippet": "Eventbrite活动，TechEmpower创始人Tony等嘉宾探讨CTO的技术趋势与领导力挑战。",
+          "index": 6
+        },
+        {
+          "title": "与DomAiynLabs创始人对话：Innovation Circuit（11月20日）",
+          "link": "https://www.eventbrite.com/e/founders-session-with-domaiynlabs-innovation-circuit-tickets-2004645424428?aff=ebdssbdestsearch",
+          "snippet": "非传统嘉宾讲座，与DomAiynLabs创始人轻松交流创业与创新。",
+          "index": 7
+        },
+        {
+          "title": "与DomAiynLabs创始人对话：Innovation Circuit（11月20日）",
+          "link": "https://www.eventbrite.com/e/founders-session-with-domaiynlabs-innovation-circuit-tickets-2004645424428",
+          "snippet": "非传统嘉宾讲座，与DomAiynLabs创始人轻松交流创业与创新。",
+          "index": 8
+        }
+      ]
+    }
+  ]
+}

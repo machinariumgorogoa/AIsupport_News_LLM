@@ -1,42 +1,15 @@
 {
-  "date": "2026-11-20",
-  "count": 35,
+  "date": "2026-11-21",
+  "count": 20,
   "items": [
     {
-      "title": "Funding AI: IPOs are sending a new signal | J.P. Morgan Private Bank U.S.",
-      "link": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/tmt/funding-ai-ipos-are-sending-a-new-signal",
-      "snippet": "Funding the artificial intelligence (AI) buildout began with cash—over $700 bill...",
-      "raw_snippet": "Funding the artificial intelligence (AI) buildout began with cash—over $700 billion sitting on the balance sheets of the biggest tech companies in the world. Then came private capital, with alternative investors expected to supply $1.4 trillion over the next five years, followed by a wave of public corporate debt issuance to the tune of $2.1 trillion of expected AI-related debt financing over the same period. Now, the next level of financing is moving into one of the most traditional venues: [...] Companies in the United States are on track to raise around $290 billion in 2026 through just IPOs, approaching the 2021 peak of roughly $330 billion.1 That marks one of the strongest years of issuance in the last two decades before accounting for secondary offerings, special purpose acquisition companies (SPACs) or convertible notes. But just as the AI buildout grows, so do the capital markets. It’s a large amount, but in the context of today’s $70 trillion stock market, expected issuance [...] IPOs with a $100 billion raise and $2 trillion valuation have been estimated to have a 1%–1.2% weight in the NASDAQ 100 and S&P Total Market Index.2 In the MSCI World Indexes, large IPOs can amount to a weight of roughly 10–11 basis points and be considered for early inclusion as soon as the 10th trading day.\n\nEven with a pipeline of private companies ultimately debuting in the public markets, the case to stay private for longer still holds. It’s the role of public markets that’s changing.",
+      "title": "初创企业融资：轮次与里程碑实用指南",
+      "link": "https://www.getaiperks.com/en/blogs/254-startup-funding-for-startups",
+      "snippet": "介绍初创公司pre-seed、seed、Series A等融资轮次及关键里程碑，助创始人规划融资路径。",
+      "raw_snippet": "Companies commonly raise through pre-seed, seed, Series A, Series B, Series C, and Series D. Some raise later lettered rounds before an IPO or acquisition. The names describe a rough progression, but they do not determine what a company is worth or how much it should raise.\n\nInvestor expectations tend to grow with the business. Early on, they may ask whether your team can build a product customers want. Later, they focus on retention, repeatable growth, and the company’s ability to scale. [...] Series C funding commonly supports expansion after the core business is established. Investors may assess category leadership, multiple working products or markets, and management depth beyond the founding team. A company may raise a Series D or later round if it needs more capital before an IPO or acquisition.\n\n## How should you plan for dilution and runway? [...] ## Frequently Asked Questions\n\n### What are the main stages of startup funding?\n\nThe common sequence is pre-seed, seed, Series A, Series B, Series C, and Series D. Some companies raise later lettered rounds before an IPO or acquisition. Investors generally expect stronger evidence of demand, retention, repeatable growth, or scale as a business develops.\n\n### How much money should a startup raise?",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
-    },
-    {
-      "title": "Valuation Multiples for Startups: A Quick Guide for Founders | NetSuite",
-      "link": "https://www.netsuite.com/portal/resource/articles/financial-management/tech-startup-value-multiples.shtml",
-      "snippet": "No surprise: AI has the highest valuations. Aventis Advisors puts the median rev...",
-      "raw_snippet": "No surprise: AI has the highest valuations. Aventis Advisors puts the median revenue multiple in a sample of recent large AI funding rounds and acquisitions at 24.2 times, with the highest individual transaction at 225 times. Aventis cautions that the sample skews toward the largest, most successful companies, “so founders looking to sell their AI startups should take this data with a grain of salt. The valuation multiple will likely be significantly lower in the sale offer you receive.” [...] Investors and acquirers also place more weight on profit than revenue growth when valuing IT services startups, although the absolute size of the business matters a lot, too. An Aventis analysis of M&A transactions of IT services businesses from 2015 to mid-2026 notes a median EV/EBITDA multiple of 10.4 times for the period, with a peak of 12.7 times in 2023 and a low of 8.5 times in 2020. The median for 2025 was 9.5 times. AI is dividing this category, too. Data analytics, cybersecurity, and [...] Two startups with the same $10 million in annual recurring revenue (ARR) can walk out of a fundraising round with very different valuations. That’s because there is no single tech startup valuation multiple in 2026. Investors now price AI-native companies and traditional software-as-a-service (SaaS) businesses as separate markets, and a startup gets the multiple of whichever market investors decide it’s in. And AI investment is, as the saying goes, “sucking all of the oxygen out of the room,”",
-      "is_chinese": false,
-      "source_type": "funding",
-      "index": 2
-    },
-    {
-      "title": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade - WSJ",
-      "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?eafs_enabled=false",
-      "snippet": "From Wall Street’s perspective, Anthropic’s ANT 17.07%increase; up pointing tria...",
-      "raw_snippet": "From Wall Street’s perspective, Anthropic’s ANT 17.07%increase; up pointing triangle long-awaited stock-market debut did everything it had to: The largest initial public offering ever raised tens of billions to fund the artificial-intelligence giant’s audacious plans and bestowed its early backers with eye-popping profits. [...] The company and its advisers pulled it off just as investors were beginning to sour on AI-related stocks, questioning whether massive, economy-shaping investments in the industry would pay off soon—and as public backlash to the sector grew. The shock resignation of Nvidia’s Jensen Huang after a sex-and-spy scandal added to the market unease.\n\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
-      "is_chinese": false,
-      "source_type": "funding",
-      "index": 3
-    },
-    {
-      "title": "Writer IPO Timeline and Financing Details - Forge",
-      "link": "https://forgeglobal.com/writer_ipo",
-      "snippet": "The news articles displayed on this page may be curated using artificial intelli...",
-      "raw_snippet": "The news articles displayed on this page may be curated using artificial intelligence (AI) technology, which selects relevant content from a list of trusted web sources. While we strive for accuracy and reliability, the inclusion of an article does not imply endorsement or verification of its content. This communication is for informational purposes only. Investors should conduct their own research and consult a financial professional before making investment decisions. [...] | Trade Metrics |  |  |  |  | Last Funding Round |  |  |  |\n------------\n| Company |  |  | Forge Price | Last Matched | Round | Post-Money Valuation 3 | Price Per Share | Amount Raised |\n|  |  | Anthropic | Not available | $ xx.xx | Series H-1 | $965B | $589.01 | $45.73B |\n|  |  | OpenAI | Not available | $ xx.xx | Series D | $1.25T | $992.06 | $11B |\n|  |  | Cohesity | $15.67 | $ xx.xx | Series H-1 | $4.69B | $15.66 | $27.5M | [...] Funding DateRoundAmount RaisedPrice per SharePost-Money Valuation 3 Key Investors\n\n11/12/2024Series C$200M$52.03$1.9BAccenture Ventures, Adobe Ventures, Balderton Capital, B Capital Group, Citi Ventures, IBM Ventures, ICONIQ Growth, Insight Partners, Premji Invest, Radical Ventures, Salesforce Ventures, Vanguard, Workday Ventures\n\nPrice per Share\n\n$ xx.xx\n\nShares Outstanding\n\n3,844,074\n\nLiquidation Pref Order\n\n1\n\nLiquidation Pref As Multiplier\n\n1.0x\n\nConversion Ratio\n\n1.0x\n\nDividend Rate\n\n8.0%",
-      "is_chinese": false,
-      "source_type": "funding",
-      "index": 4
     },
     {
       "title": "Rebalancing portfolios for a more sustainable cycle | Barclays Private Bank",
@@ -44,22 +17,47 @@
       "snippet": "However, today’s AI leaders differ from the late-1990s tech cohort. They are pro...",
       "raw_snippet": "However, today’s AI leaders differ from the late-1990s tech cohort. They are profitable, cash-generative and integrated into enterprise and consumer infrastructure. Valuation risks persist, but vulnerabilities are more likely to stem from multiple compression or slower adoption than from business-model failure. Selectivity and diversification remain the best ways to capture upside while managing downside risk.\n\nInvestors should prepare for greater dispersion both within and across markets [...] Anchor with quality and income: In a slowing growth, valuation-rich environment, combine resilient, high-quality companies with businesses offering strong shareholder returns through dividends and buybacks\n Participate in the next wave of innovation: As the AI cycle evolves, invest in its adopters and other structural themes driving long-term productivity, security and sustainability. [...] ## From euphoria to rebalancing\n\nGlobal equities extended their rally in 2025, fuelled by the extraordinary momentum around artificial intelligence (AI). Optimism about a productivity revolution, falling inflation and resilient growth supported sentiment, while expectations of rate cuts boosted risk appetite.",
       "is_chinese": false,
-      "source_type": "funding",
-      "index": 5
+      "source_type": "funding"
     },
     {
-      "title": "Advances in the application of artificial intelligence for diagnosing orthodontically induced root resorption",
+      "title": "人工智能在诊断正畸性牙根吸收中的应用进展",
       "link": "https://www.kqjbfz.com/EN/10.12016/j.issn.2096-1456.202660021",
-      "snippet": "|  |  |\n --- |\n| {{custom\\_ref.label}} | {{custom\\_citation.content}}      <{{cu...",
+      "snippet": "综述AI技术在正畸诱发牙根吸收诊断中的最新进展，探讨其临床辅助诊断价值与应用前景。",
       "raw_snippet": "|  |  |\n --- |\n| {{custom\\_ref.label}} | {{custom\\_citation.content}}      <{{custom_citation.url}}>  [Cited in this article [{{custom\\_ref.citedCount}}]](javascript:;) Abstract  {{custom\\_citation.annotation}} |\n\n### References\n\n{{article.reference}}\n\n### {{custom\\_fnGroup.title\\_en}}\n\n### Footnotes\n\n{{custom\\_fn.content}}\n\n### {{custom\\_ack.title\\_en}}\n\n{{custom\\_ack.content}}\n\n### Funding\n\n{{custom\\_fund}}\n\n  PDF(1346 KB)\n\nCitation\n\nPrivacy Policy [...] diagnostic results with orthodontic clinical workflows to promote early warning and risk-stratified management of OIRR.\" name=\"citation\\_abstract\"> Artificial intelligence (AI) technology is developing rapidly in the field of dental imaging, providing new technical means for the early identification and quantitative assessment of orthodontically induced root resorption (OIRR). This article reviews recent advances in deep learning algorithms—such as convolutional neural networks (CNNs), dynamic [...] to capture global features and applying federated learning to address data privacy silos. It is recommended to deeply integrate AI diagnostic results with orthodontic clinical workflows to promote early warning and risk-stratified management of OIRR.\" name=\"description\"> Artificial intelligence (AI) technology is developing rapidly in the field of dental imaging, providing new technical means for the early identification and quantitative assessment of orthodontically induced root resorption",
       "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "Pars Talk | Fireside Chat with Dr. Ali Kashani (San Jose) Tickets, Thursday, November 19  •  6:30 PM - 8:30 PM | Eventbrite",
+      "link": "https://www.eventbrite.com/e/pars-talk-fireside-chat-with-dr-ali-kashani-san-jose-tickets-2004333529542",
+      "snippet": "Dr. Ali Kashani is the Co-founder & CEO of Serve Robotics, a company developing ...",
+      "raw_snippet": "Dr. Ali Kashani is the Co-founder & CEO of Serve Robotics, a company developing AI-powered, Level 4 autonomous sidewalk delivery robots. Spun out of Postmates following its acquisition by Uber, Serve has received backing from NVIDIA and Uber and began trading on Nasdaq under the ticker SERV in 2024. [...] We’ll discuss Ali’s journey from robotics researcher to repeat founder and public-company CEO, lessons from building and scaling startups, and the future of physical AI - bringing artificial intelligence into the real world.\n\nThe evening will include audience Q&A and networking with founders, investors, and professionals.\n\n### Topics we’ll cover\n\n### About Ali Kashani [...] Ali holds a Ph.D. in Robotics from the University of British Columbia and received Canada’s Alexander Graham Bell Canada Graduate Scholarship. His work spans robotics, artificial intelligence, and connected hardware, with inventions covered by multiple patents.\n\n## Good to know\n\nHighlights\n\nHighlights\n\n### Location\n\n### 1635 The Alameda\n\n1635 The Alameda\n\nSan Jose, CA 95126\n\n#### How do you want to get there?\n\nMap\n\n### Agenda\n\n06:30 PM - 07:00 PM\n\n### Check-in & Networking\n\n07:00 PM - 08:00 PM",
+      "is_chinese": false,
       "source_type": "funding"
+    },
+    {
+      "title": "人工智能对人类的威胁：碎片化世界中的AI治理（11月21日）",
+      "link": "https://www.eventbrite.com/e/threat-of-ai-to-humanity-governing-ai-in-a-fragmented-world-tickets-2001020668686",
+      "snippet": "Eventbrite线上活动，探讨AI快速变革下，如何在碎片化世界治理人工智能及其对人类的影响。",
+      "raw_snippet": "Artificial Intelligence is rapidly transforming nearly every aspect of human life, from healthcare, education, and scientific discovery to law, governance, security, and international relations. While AI promises unprecedented opportunities for innovation and human advancement, it also raises profound questions about human rights, economic stability, democratic integrity, global security, and the future of human civilization. [...] This timely webinar explores one of the most important questions of our age:\n\nIs artificial intelligence itself the greatest threat to humanity, or is humanity's inability to govern AI the greater danger? [...] ### Key Takeaway\n\nThe future of artificial intelligence will ultimately be determined not only by technological innovation, but by humanity's capacity for cooperation, ethical leadership, and effective global governance.\n\n### Call to Action\n\nRegister today and join a vital global conversation on artificial intelligence, law, governance, human security, and the future of humanity.\n\n## Good to know\n\nHighlights\n\nRefund Policy\n\nHighlights\n\nRefund Policy\n\nNo refunds\n\n### Location\n\n#### Online event",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
     },
     {
       "title": "EcoReps Lunch & Learn: Generative Artificial Intelligence on Friday, November 20, 2026 | University of Louisville Events",
       "link": "https://events.louisville.edu/events/ecoreps-lunch-learn-generative-artificial-intelligence/2026-11-20",
       "snippet": "Artificial Intelligence has been part of our everyday life for a long time. For ...",
-      "raw_snippet": "Artificial Intelligence has been part of our everyday life for a long time. For decades, grocery stores have used it to send us savings coupons for products we’re likely to buy. Netflix has used it to make movie recommendations. Google Maps has used it to help predict the most efficient routes from point A to point B. And airlines have used it to improve flight safety and reduce accidents and incidents. All of this is being eclipsed by the recent advent of Generative AI, which moves beyond [...] a general economic meltdown.   Generative AI has even raised existential fears that bots might escape human control, causing humans widespread harm or even extinction. [...] All of these issues have boiled over into a new AI debate that has begun to eclipse traditional social classes and political affiliation. During this session, we’ll explore the rise of AI, Generative AI and the implications on politics, the economy, sustainability, and our society.",
+      "raw_snippet": "Artificial Intelligence has been part of our everyday life for a long time. For decades, grocery stores have used it to send us savings coupons for products we’re likely to buy. Netflix has used it to make movie recommendations. Google Maps has used it to help predict the most efficient routes from point A to point B. And airlines have used it to improve flight safety and reduce accidents and incidents. All of this is being eclipsed by the recent advent of Generative AI, which moves beyond [...] a general economic meltdown. Generative AI has even raised existential fears that bots might escape human control, causing humans widespread harm or even extinction. [...] All of these issues have boiled over into a new AI debate that has begun to eclipse traditional social classes and political affiliation. During this session, we’ll explore the rise of AI, Generative AI and the implications on politics, the economy, sustainability, and our society.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "ICAISG--EI 2026 : 2026 The 2nd International Conference on",
+      "link": "https://callforpaper.org/call-for-papers-icaisg-ei-2026-2026-the-2nd-international-conference-on-artificial-intelligence-security-and-governance-icaisg-2026",
+      "snippet": "## Topics of Interest\n\n12 TOPICS\n\nResearch papers are invited in, but not limite...",
+      "raw_snippet": "## Topics of Interest\n\n12 TOPICS\n\nResearch papers are invited in, but not limited to, the following areas:\n\nArtificial Intelligence ↗   Business, Economics & Management ↗   cybersecurity and privacy ↗   Multidisciplinary & General ↗ \n\nCommunication, Networking and Broadcast Technologies\n\nComputing and Processing\n\nContent Generation and Tampering Content Detection\n\nTraceability and Provenance Analysis of Synthetic Content\n\nSecurity of Large Language Models\n\nData Privacy Protection [...] Conference will be hosting its next edition on November 20, 2026 in Grand New Century Hotel, NO.297,NO.5 St, Economic-Technological Development Area, Hangzhou, China, 310018. Researchers will present papers on a wide range of subjects, including Artificial Intelligence, Business, Economics & Management and cybersecurity and privacy.\n\nVerified Signal \n\nVerified by IEEE  Learn more ↗\n\nNovember 20-22, 2026   In Person   🇨🇳 China\n\nVisit \n\nApple   Google   Outlook   Windows [...] ```\nICAISG--EI 2026 : 2026 The 2nd International Conference on Artificial Intelligence Security and Governance (ICAISG 2026). (2026, November 20–22). Grand New Century Hotel, NO.297,NO.5 St, Economic-Technological Development Area, Hangzhou, China, 310018, China. \n```",
       "is_chinese": false,
       "source_type": "funding"
     },
@@ -88,20 +86,29 @@
       "source_type": "funding"
     },
     {
-      "title": "Call for Proposals: Joint Research and Innovative Projects ...",
-      "link": "https://www2.fundsforngos.org/innovation/call-for-proposals-joint-research-and-innovative-projects-on-artificial-intelligence-malta",
-      "snippet": "This joint call focuses on fostering collaborative research and innovation in Artificial Intelligence. It aims to strengthen ties between Malta and Poland by",
-      "raw_snippet": "This joint call focuses on fostering collaborative research and innovation in Artificial Intelligence. It aims to strengthen ties between Malta and Poland by",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
       "title": "Artificial Intelligence Accelerator Workshop Tickets, Friday 20 November • 10 AM - 1 PM | Eventbrite",
       "link": "https://www.eventbrite.com/e/artificial-intelligence-accelerator-workshop-tickets-2003020694818?dsrp_sid=17e9b3b6-caca-40ae-85af-c8db7fe69ca2&aff=ebdssbdestsearch",
       "snippet": "The AI Accelerator Workshop is a hands-on session designed to help business lead...",
       "raw_snippet": "The AI Accelerator Workshop is a hands-on session designed to help business leaders cut through the noise and understand how artificial intelligence can create tangible value within their organisation, using the Microsoft tools many teams already rely on every day. [...] Dive into AI's impact on business with hands-on tips and real talk at this in-person AI Accelerator workshop!\n\nDive into AI’s impact on business with hands-on tips and real talk at this in-person AI Accelerator workshop!\n\nWhat is the AI Accelerator Workshop? [...] ✅ Practical AI applications being used by businesses today, including Microsoft Copilot across Microsoft 365  \n✅ How AI automation can remove repetitive manual work  \n✅ Real examples of AI agents solving everyday business challenges, including Microsoft Copilot Studio builds  \n✅ Where AI can improve productivity, efficiency and profitability  \n✅ How to identify the best AI opportunities within your own organisation",
       "is_chinese": false,
       "source_type": "funding"
+    },
+    {
+      "title": "META ADS MEETS AI Tickets, Saturday, November 21 • 11:30 AM - 1:30 PM | Eventbrite",
+      "link": "https://www.eventbrite.com/e/meta-ads-meets-ai-tickets-2004282353473",
+      "snippet": "# META ADS MEETS AI\n\nDiscover how Artificial Intelligence is transforming Meta a...",
+      "raw_snippet": "# META ADS MEETS AI\n\nDiscover how Artificial Intelligence is transforming Meta advertising. Learn how to create smarter Meta Ad campaigns using AI-powered tools\n\nAre you ready to explore the future of Meta advertising?\n\nArtificial Intelligence is changing the way businesses create, manage and optimize digital advertising campaigns.\n\nThe National Institute of Digital Marketing (NIDM) invites you to an exclusive free workshop: Meta Ads Meets AI. [...] Bengaluru, KA 560029 [...] Discover how AI can make advertising smarter, improve campaign workflows and help marketers make better marketing decisions.\n\n### What will you explore?\n\n- Introduction to Meta advertising.\n- Understanding AI in digital advertising.\n- AI-powered advertising tools and applications.\n- Smarter campaign creation and optimization.\n- Creative strategies for Meta Ads.\n- The changing role of AI in digital marketing.\n\n### Who should attend?",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "IEEE-RICAI 2026征文通知与截止日期（2026年11月·深圳）",
+      "link": "https://callforpaper.org/cfp/call-for-papers-ieee-ricai-2026",
+      "snippet": "会议将于2026年11月在深圳举行，征稿主题包括智能传感器、智能通信与协作等。",
+      "raw_snippet": "+ Intelligent Sensors\n  + Intelligent Communication and Collaborative Control\n  + Sensing and Cognitive Communication\n Artificial Intelligence\n  + Deep Learning Technology\n  + Frontiers in Computer Vision\n  + Big Models and General Artificial Intelligence\n  + Reinforcement Learning and Decision Intelligence\n  + AI and Scientific Computing\n  + Edge and Embedded AI\n  + Generative AI and Robot Simulation\n  + Trusted AI and Security Verification\n  + Brain Computing and Bionic AI [...] Submission Categories\n\n Full Papers (for publication in proceedings)\n Presenter (Abstract submission for oral/poster presentation, not for proceedings)\n Listener (Attendance only)\n Poster Presentation (Non-proceedings)\n\n## Topics of Interest\n\n5 TOPICS\n\nResearch papers are invited in, but not limited to, the following areas:\n\nComputer Science ↗ \n\nrobotics\n\ncontrol\n\nartificial intelligence\n\ninternet of things\n\n## Venue Information\n\nShenzhen, China\n\n## Cite this Call For Papers [...] + AI and Intelligent Robotics",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
     },
     {
       "title": "Just a moment...",
@@ -112,185 +119,56 @@
       "source_type": "funding"
     },
     {
-      "title": "Reporters and the Reported: Artificial Intelligence in Journalism Tickets, Friday 20 November  •  12 PM - 2 PM | Eventbrite",
+      "title": "记者与被报道者：新闻业中的人工智能（11月20日）",
       "link": "https://www.eventbrite.com/e/reporters-and-the-reported-artificial-intelligence-in-journalism-tickets-2003297038369?aff=ebdssbdestsearch",
-      "snippet": "Reporters and the Reported: Artificial Intelligence in Journalism\n\n# Reporters a...",
+      "snippet": "Eventbrite活动，聚焦AI对新闻业的影响，探讨记者、被报道对象与智能技术之间的复杂关系。",
       "raw_snippet": "Reporters and the Reported: Artificial Intelligence in Journalism\n\n# Reporters and the Reported: Artificial Intelligence in Journalism\n\nPanel debate on AI with Olle Zachrison, BBC News, Professor Charlie Beckett, LSE/Polis\nand Claire Holubowskyj, Enders Analysis.\n\nThis MA journalism module is open to all students from Cardiff University though a ticket is required. Each week, guest speakers will discuss the key issues, challenges and opportunities facing media organisations today. [...] Students will hear leading professional figures in UK media and other high profile contributors.\n\nThey will outline the impact and the decision-making process around key factors such as business models, new technologies, changing audience behaviours, ethics, AI, diversity, impartiality, transparency and editorial. These issues will be explored within existing regulatory frameworks and referencing the media landscape. [...] ### Follow organisers to get events picked for you\n\n## You might also like...\n\n### Browse more events with different dates, prices, and formats to find your next great experience.\n\n## Still looking for the right event?\n\n### Explore all events in Cardiff and filter by date, category, and more to find the perfect fit.\n\n### Use Eventbrite\n\n### Plan Events\n\n### Find Events\n\n### Connect with Us\n\n© 2026 Eventbrite",
       "is_chinese": false,
-      "source_type": "funding"
+      "source_type": "funding",
+      "index": 5
     },
     {
-      "title": "Artificial Intelligence Conferences in Walvis Bay 2026 & 2027 | ACA",
-      "link": "https://www.allconferencealert.com/walvis-bay/artificial-intelligence",
-      "snippet": "## Artificial Intelligence conferences in Walvis Bay at a glance\n\n1 upcoming Art...",
-      "raw_snippet": "## Artificial Intelligence conferences in Walvis Bay at a glance\n\n1 upcoming Artificial Intelligence conferences are listed in Walvis Bay, between 19 Nov 2026 and 25 Dec 2026.\n\nWithin Artificial Intelligence, the most common subjects are Computer Science (1). November 2026 is the busiest month with 1 events. [...] International Conference on Machine Learning and Chat GPT (ICMLCG), on 19 Nov 2026. After that: International Conference on Machine Learning and Chat GPT (ICMLCG) (23 Dec 2026), and International Conference on Machine Learning and Chat GPT (ICMLCG) (25 Dec 2026).\n\n### Which subjects are most common among Artificial Intelligence conferences in Walvis Bay?\n\nBesides Artificial Intelligence itself, listings most often also cover Computer Science (1). [...] Check the official website for a named organizing committee, the real venue in Walvis Bay and the publisher of the proceedings. Confirm any Scopus or IEEE claim yourself. Our Think. Check. Attend. checklist explains what to look for.",
+      "title": "Cyber, AI & Robotics SIG Monthly Meeting Tickets, Thursday, November 19  •  6 PM - 8 PM | Eventbrite",
+      "link": "https://www.eventbrite.com/e/cyber-ai-robotics-sig-monthly-meeting-tickets-2003119217502?aff=ebdssbdestsearch",
+      "snippet": "Patent application strategies are revealed when your intellectual property invol...",
+      "raw_snippet": "Patent application strategies are revealed when your intellectual property involves artificial intelligence.\n\nDiscussions primarily focused on Cyber, AI & Robotics technologies, the USPTO and answering questions surrounding the patent application process.\n\nFollow us on Linked in.\n\n## Good to know\n\nHighlights\n\nHighlights\n\n### Location\n\n### 622 Dolorosa St\n\n622 Dolorosa Street\n\nSan Antonio, TX 78207\n\n#### How do you want to get there?\n\nMap [...] ### Use Eventbrite\n\n### Plan Events\n\n### Find Events\n\n### Connect with Us\n\n© 2026 Eventbrite [...] Cyber, AI & Robotics SIG Monthly Meeting\nHero image\nHero image\nHero image\n\n# Cyber, AI & Robotics SIG Monthly Meeting\n\nGrowing a society of innovators. Guiding like-minded inventors & entrepreneurs through the convergence of cyber, AI & robotics.\n\nVenue: Harvey E. Najim Innovation District located within the new UT San Antonio San Pedro II building, 1st Floor\n\nModerated by the Alamo Inventors, Cyber, AI & Robotics SIG",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "P1 Guest Talk by Yvonne Rogers | Event | Pioneer Centre for Artificial Intelligence",
-      "link": "https://www.aicentre.dk/events/20261120-p1-guest-talk-by-yvonne-rogers",
-      "snippet": "Title: P1 Guest Talk by Yvonne Rogers | Event | Pioneer Centre for Artificial In...",
-      "raw_snippet": "Title: P1 Guest Talk by Yvonne Rogers | Event | Pioneer Centre for Artificial Intelligence\nOut of Our Minds: What is AI Doing to Us and for Us? The phrase ‘out of our minds’ refers to how we externalise and offload various aspects of cognitive work through writing, drawing, talking and so on. AI is the latest technological tool that we use to do this. This can result in a paradox of effort where the extent to which we externalise is reduced leading to less satisfaction. Simply put, when we make the effort ourselves to perform a task it can be more rewarding than when we get AI to do it for us. How can we design AI tools to make our work more effortful (rather than less) and in doing so more rewarding? In my talk, I will describe the research I have been doing investigating how best to extend human minds that can be both rewarding and challenging: enabling us to reason and make decisions more systematically through reflecting on our goals and intent. **Yvonne Rogers** is a Professor of Interaction Design at UCL. From 2022-2024 she was the CTO of LetsThink.com, a start-up that is developing new tools to augment how people think by applying behaviour science methods to AI. During this time, she co-developed a centre for AI and healthcare, that focussed on how personal health data could be used in combination with AI from a human-centred perspective to improve health and well-being. In 2022, she was awarded the ACM SIGCHI Lifetime Research Award; the Royal Society Robin Milner Medal for Computer Science and was elected as a Fellow of the Royal Society as \"one of the leaders who created the field of Ubiquitous Computing\". She also received a MRC Suffrage and Science Award (2020) for being one of the leading women in 'mathematics and computing.' She is also a Fellow of the ACM; a Fellow of the British Computer Society and a Fellow of the ACM's CHI Academy. ***After the talk, we invite you to join us for a reception at 16.00-17.00 in the Seminar Room at the Pioneer Centre for AI, Øster Voldgade 3, 1350 Kbh K.***.",
+      "title": "ICAIML 2026 Philadelphia – Computer Science Conference | 20 Nov",
+      "link": "https://www.conferencealert.com/eventdetail/2374977",
+      "snippet": "# International Conference on Artificial Intelligence and Machine Learning (ICAI...",
+      "raw_snippet": "# International Conference on Artificial Intelligence and Machine Learning (ICAIML 2026)\n\n20th November 2026 · Philadelphia, Pennsylvania, USA\n\nDates\n\n20th November 2026\n\nFormat\n\nIn person\n\nPaper deadline\n\n24th October 2026 (closed)\n\nType\n\nConference\n\n## Verification and trust [...] - Artificial neural networks\n- Association rule learning\n- Automata, logic and games\n- Bayesian networks\n- Clustering\n- Commercial software\n- Commercial software with open-source editions\n- Complex systems\n- Computational complexity\n- Computational learning theory\n- Computational linguistics\n- Computer animation\n- Computer science\n- Computer system\n- Concurrent algorithms and data structures\n- Data mining\n- Decision tree learning\n- Deep Learning\n- Design and analysis of algorithms [...] - Genetic algorithms\n- Inductive logic programming\n- Intelligent systems\n- Lambda calculus and types\n- Logic and proof\n- Machine learning\n- Models of computation\n- Object-oriented programming\n- Open-source software\n- Pattern recognition\n- Reinforcement learning\n- Representation learning\n- Similarity and metric learning\n- Sparse dictionary learning\n- Supervised learning\n- Support vector machines\n- Unsupervised learning",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "VP of Product | Careers | Nace.AI",
-      "link": "https://www.nace.ai/careers/6990a982-8e10-49f1-bc0e-2dc906d892c9",
-      "snippet": "This is our first product executive role, reporting directly to the CEO. Until w...",
-      "raw_snippet": "This is our first product executive role, reporting directly to the CEO. Until we build out program management and marketing, you will also run product execution day to day and partner closely with the founders on positioning and launches. You will help hire and shape those functions as they come online.\n\nThis is a rare opportunity to build a product organization from the ground up at a company with real technical differentiation, strong customer traction, and the resources to move fast. [...] Team & Leadership:\n\n- Build and lead the product organization, starting with product managers and design\n- Help shape and hire our program management and marketing functions, and define how they work with product\n- Set up lightweight product processes, from specs and reviews to launch checklists, that scale with the company without slowing it down\n- Present product strategy, roadmap, and results to the founders and the board, and work side by side with our teams in our Palo Alto office [...] - Run product execution day to day: specs, priorities, sprint planning, and release readiness with engineering, research, and design\n- Lead product launches with the founders, from positioning and benchmarks to launch day and post-launch iteration\n- Set product KPIs for adoption, retention, usage, and revenue, and make decisions from the data\n\nTeam & Leadership:",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "[Hiring] Artificial Intelligence Co-Founder / Head of Sales @EWOR ...",
-      "link": "https://remotive.com/remote/jobs/artificial-intelligence/artificial-intelligence-co-founder-head-of-sales-6669829",
-      "snippet": "We are looking to hire ambitious entrepreneurs to start and scale their own star...",
-      "raw_snippet": "We are looking to hire ambitious entrepreneurs to start and scale their own startups. You will own, build, and run your startup in fields such as Artificial",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Artificial Intelligence Co-Founder / CFO (100 % remote) (m/f/d) | Thane",
-      "link": "https://www.jobleads.com/in/job/artificial-intelligence-co-founder-cfo-100-remote-m-f-d--thane--ef30154f1a081686c820448a9dedf05a5",
-      "snippet": "EWOR GmbH is hiring Artificial Intelligence Co-Founder. We are looking to hire a...",
-      "raw_snippet": "EWOR GmbH is hiring Artificial Intelligence Co-Founder. We are looking to hire ambitious entrepreneurs to start and scale their own startups.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Why CEOs Must Think Like AI-Native Competitors",
-      "link": "https://www.edisonpartners.com/blog/why-ceos-must-think-like-ai-native-competitors?hs_amp=true",
-      "snippet": "Consider product development. Traditionally, product leaders have spent signific...",
-      "raw_snippet": "Consider product development. Traditionally, product leaders have spent significant time managing roadmaps, coordinating development teams, and ensuring new capabilities are delivered on schedule. AI can increasingly support portions of that work, creating an opportunity for product leaders to focus more heavily on identifying customer needs and developing differentiated solutions. As AI becomes more capable of translating ideas into working products, creativity and the ability to direct these [...] What would happen if three entrepreneurs launched a company tomorrow that did exactly what your business does today? They have no legacy code, limited overhead, and no established processes to work around. They're building from scratch with AI embedded in how they develop products and serve customers. And they're targeting the same customers you've spent years acquiring and retaining. [...] AI-first thinking helps growth-stage companies evaluate how artificial intelligence could reshape their products, operating models, and competitive advantages. As AI-native competitors enter established markets, CEOs must consider how AI can accelerate innovation and improve customer value. Incorporating that perspective into strategic planning can help companies sustain growth and build long-term enterprise value.",
+      "title": "2026年CTO圆桌论坛（11月19日）",
+      "link": "https://www.eventbrite.com/e/cto-panel-2026-registration-2001284883961",
+      "snippet": "Eventbrite活动，TechEmpower创始人Tony等嘉宾探讨CTO的技术趋势与领导力挑战。",
+      "raw_snippet": "Tony is the Founder and CEO of TechEmpower, a 20-person software and AI development services company. Tony has worked as a fractional CTO at over 40 different companies, including as the original CTO at eHarmony, helping them get to a $110M financing in their fourth year. Tony has worked on AI solutions for more than two decades across a wide variety of industries and is currently the fractional CTO of AI companies in healthcare, legal, and insurance. Tony is also cofounder of the LA CTO Forum, [...] Pablo Perez is Director of Engineering at CreatorIQ, where he leads the Engineering Services organization, which partners with Fortune 500 brands and leaders across the creator economy. He has built and scaled engineering organizations for nearly two decades, at Demand Media, GoDaddy, Omaze, Rivian, and AgentSync, guiding companies through IPOs, major funding rounds, and enterprise platform launches.\n\nTONY KARRER | Founder & CEO | TechEmpower [...] CTO Panel - 2026\n\n# CTO Panel - 2026\n\nJoin us for our 16th Annual CTO Panel to hear how building software has changed and how they're managing AI across organizations.\n\n\\\\Current AITP-LA members receive discounted pricing for all AITP-LA events. If you are not currently a member, please consider joining. 1-Year membership is only $75! Join now by clicking HERE.\n\n### 6:00 - 9 PM : All Attendees (members and non-members)\n\nChief Technology Officers - What's Changed in the Last 2-3 Years",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "Artificial Intelligence Co-Founder / Head of Sales (100 % remote) (m ...",
-      "link": "https://dailyremote.com/remote-job/artificial-intelligence-co-founder-head-of-sales-100-remote-m-f-d-5942470",
-      "snippet": "You will own, build, and scale your own startup in the Artificial Intelligence s...",
-      "raw_snippet": "You will own, build, and scale your own startup in the Artificial Intelligence sector while receiving intensive coaching and support.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Who is Dario Amodei, the CEO of Anthropic? - Lawton Radio",
-      "link": "https://www.lawtonradio.com/business/who-is-dario-amodei-the-ceo-of-anthropic",
-      "snippet": "Dario Amodei, co-founder and CEO of Anthropic, has drawn attention for his publi...",
-      "raw_snippet": "Dario Amodei, co-founder and CEO of Anthropic, has drawn attention for his public warnings about the catastrophic risk posed by AI, even as he",
+      "title": "与DomAiynLabs创始人对话：Innovation Circuit（11月20日）",
+      "link": "https://www.eventbrite.com/e/founders-session-with-domaiynlabs-innovation-circuit-tickets-2004645424428?aff=ebdssbdestsearch",
+      "snippet": "非传统嘉宾讲座，与DomAiynLabs创始人轻松交流创业与创新。",
+      "raw_snippet": "This is not a conventional guest lecture. We want a relaxed, welcoming, and interactive conversation where students can connect directly with founders, hear about their entrepreneurial experiences, ask spontaneous questions, and learn about real-world opportunities.\n\nTopics include entrepreneurship, startup challenges, AI security, LLMs, RAG, multi-agent systems, AI governance, compliance, and the future of artificial intelligence. [...] Innovation Circuit, the student-led technology society at the University of York Mumbai, is hosting an interactive Founders’ Session with DomAiynLabs on Friday, 20 November 2026, from 1:30 PM onwards.\n\nThe session features two founders:\n\nParth Varshney — Founder & CEO, DomAiynLabs\n\nPragat Pagariya — Co-Founder & CTO, DomAiynLabs [...] Mumbai, MH 400076\n\n#### How do you want to get there?\n\nMap\n\n### Agenda\n\n01:30 PM\n\n### Welcome & Introductions\n\nAn introduction to Innovation Circuit, DomAiynLabs, and the founders.\n\n01:45 PM\n\n### The Founders' Journey\n\nHow DomAiynLabs started, lessons from entrepreneurship, challenges, and turning ideas into a company.\n\n02:10 AM\n\n### Building & Securing the Future of AI\n\nA conversation about AI security, LLMs, RAG, agentic systems, governance, and emerging opportunities.",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "Top 15 Companies to Hire AI Developers in USA - Forum - Global Risk Community",
-      "link": "https://globalriskcommunity.com/forum/topics/top-15-companies-to-hire-ai-developers-in-usa",
-      "snippet": "Artificial Intelligence is changing how businesses develop products, automate op...",
-      "raw_snippet": "Artificial Intelligence is changing how businesses develop products, automate operations, and serve customers. From intelligent chatbots and predictive analytics to generative AI platforms and autonomous AI agents, companies are investing in solutions that make business processes faster and more efficient. [...] ## Conclusion\n\nHiring the right AI developers is an important step for businesses planning to introduce intelligent technology into their products and operations. From generative AI and machine learning to AI agents, predictive analytics, and automation, the right development expertise can help transform business ideas into practical digital solutions. [...] However, building successful AI products requires more than choosing an AI model. Businesses need developers who understand machine learning, data engineering, API integrations, model deployment, and scalable software architecture.\n\nFor startups, growing businesses, and enterprises, partnering with an experienced AI development company can make it easier to turn an idea into a practical business solution.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "DuPont turns to AI to speed up product development",
-      "link": "https://delawarebusinesstimes.com/news/dupont-ai-product-development",
-      "snippet": "“Together, DuPont’s teams can build on the data and expertise they have today, w...",
-      "raw_snippet": "“Together, DuPont’s teams can build on the data and expertise they have today, within the workflows they already use, to explore far more ideas in silico, through computer simulation, so physical testing goes to the candidates most worth pursuing,” NobleAI CEO Alex Wang said in the release. [...] The new collaboration between DuPont, Microsoft and NobleAI will afford researchers the opportunity to access tools that can simulate how potential solutions might perform before scientists commit to physical testing. That would let research teams consider more options on a computer and spend lab time on the ones most likely to work.\n\nFounded in 2018, NobleAI is a San Francisco-based software company that uses artificial intelligence to help researchers with market predictability. [...] WILMINGTON — A new partnership at DuPont is leveraging artificial intelligence to help scientists and engineers decide which ideas to test in the lab to bring products to market faster.",
+      "title": "与DomAiynLabs创始人对话：Innovation Circuit（11月20日）",
+      "link": "https://www.eventbrite.com/e/founders-session-with-domaiynlabs-innovation-circuit-tickets-2004645424428",
+      "snippet": "非传统嘉宾讲座，与DomAiynLabs创始人轻松交流创业与创新。",
+      "raw_snippet": "Eventbrite Eventbrite Search events Search events autocomplete Find my tickets Sign in Find Events Create Events Solutions Solutions Event Ticketing Event Marketing Platform Eventbrite Ads Payments Industry Industry Music Food & Beverage Performing Arts Charity & Causes Retail Event Types Event Types Concerts Classes & Workshops Festivals & Fairs Conferences Corporate Events Online Events Blog Blog Tips & Guides News & Trends Community Tools & Features Organizer Resource Hub Create Events [...] Hub Create Events Contact Sales Get Started Help Center Help Center Find your tickets Contact your event organizer Updates Updates Find Events Create Events Help Center Help Center Find your tickets Contact your event organizer Find my tickets Sign in Find Events Create Events Solutions Solutions Event Ticketing Event Marketing Platform Eventbrite Ads Payments Industry Industry Music Food & Beverage Performing Arts Charity & Causes Retail Event Types Event Types Concerts Classes & Workshops [...] Maharashtra Events Things to do in Mumbai Mumbai seminars Mumbai Science & Tech seminars Sales ended Fri, Nov 20 • 1:30 PM Explore similar events",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
-    },
-    {
-      "title": "Applied AI Co-Founder / CCO (100 % remote) (m/f/d) - Zero Tax Jobs",
-      "link": "https://zerotaxjobs.com/jobs/applied-ai-co-founder-cco-100-remote-mfd-i9g7pxfs",
-      "snippet": "Artificial Intelligence Co-Founder / CSO (100 % remote) (m/f/d). Education Compa...",
-      "raw_snippet": "Artificial Intelligence Co-Founder / CSO (100 % remote) (m/f/d). Education Company Manama, Bahrain. Direct to Company $551k/yr Data & AI.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Product Designer, Advertiser Experiences | OpenAI",
-      "link": "https://openai.com/careers/product-designer-advertiser-experiences-san-francisco",
-      "snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that gener...",
-      "raw_snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum [...] - Lead end-to-end design for advertiser experiences, from discovery and setup through creation, launch, measurement, and iteration.\n- Establish a high bar for interaction design, visual craft, information architecture, and end-to-end product quality.\n- Design AI-assisted creative workflows that help businesses turn their goals, brand context, and existing assets into effective advertising. [...] - Can explain the reasoning behind important craft decisions and show how iteration strengthened the final product.\n- Are highly generative, move with urgency, and can turn ambiguous opportunities into clear product direction.\n- Use AI meaningfully in your own design process to explore, prototype, communicate, or build.\n- Balance user needs, business goals, technical constraints, and measurable outcomes with strong design judgment.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Run your whole selling business in AWS Quick | Artificial Intelligence",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick",
-      "snippet": "After the launch, the agent reads four signal families through the Selling Partn...",
-      "raw_snippet": "After the launch, the agent reads four signal families through the Selling Partner plugin: listing health, inventory, sales, and traffic. It connects them to find the cause rather than just reporting numbers. Flat sales with healthy traffic points to a conversion problem. Flat sales with falling traffic points to discoverability. Good conversion with falling units points to supply. It returns a health summary per ASIN, the diagnosis with evidence, and a ranked fix list, labeling any [...] Figure 4: The Inventory Launch Prep agent comparing FBA and AWD fulfillment per factor and recommending a hybrid approach\n\n## Use case B: Post-Launch Product Health [...] The seller is staging a new product into Amazon and wants the lowest total landed cost. The agent reads supplier data and weighs the fulfillment options per SKU on inbound cost, storage, and speed to sellable. It walks through placement choices and returns the output the seller picks: a shipping plan, a cost comparison, or a combined packet. It explains its reasoning and confirms before it creates anything.",
-      "is_chinese": false,
-      "source_type": "people",
-      "index": 9
-    },
-    {
-      "title": "Product Owner of AI Email Applications, Artificial Intelligence (AI) Required, Work From Home - M - Next Step Systems - Remote | Dice.com",
-      "link": "https://www.dice.com/job-detail/3681e93b-ce74-48c4-a129-47d057d0e13d",
-      "snippet": "Remote\n\n•\n\nToday [...] Product Lead, AI Email Applications, Artificial Intellige...",
-      "raw_snippet": "Remote\n\n•\n\nToday [...] Product Lead, AI Email Applications, Artificial Intelligence (AI) Required - Work From Home As Product Lead, AI Email Applications, you will work at the intersection of user needs, model capability, and engineering constraints. The Product Lead will work directly with Machine Learning (ML) and engineering teams to define how the system should behave, how we measure it, and how we continuously improve it. This is a deeply technical, hands-on role. You are expected to understand the system and ch [...] Easy Apply\n\nFull-time\n\n175000 - 195000",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Director, Strategic AI Partnerships, Remote - US: San Francisco, CA | Dropbox Careers",
-      "link": "https://www.dropbox.jobs/en/jobs/8048844/director-strategic-ai-partnerships",
-      "snippet": "- Drive cross-functional execution from opportunity definition through technical...",
-      "raw_snippet": "- Drive cross-functional execution from opportunity definition through technical scoping, agreement, launch, adoption, and expansion, with clear internal and external owners.\n- Establish executive governance, operating cadences, escalation paths, joint roadmaps, and scorecards that keep the most important workstreams moving.\n- Provide market intelligence and a clear point of view on the AI ecosystem, using partner and customer evidence to influence Dropbox product, GTM, and corporate strategy. [...] ### Role Description\n\nThe Dropbox Business Development team builds strategic partnerships that expand product adoption, create new distribution channels, and drive long-term customer and revenue growth. We are hiring a Director of Strategic AI Partnerships to own a focused portfolio of Dropbox’s highest-priority AI relationships, including OpenAI, Anthropic, and Meta. [...] - Direct experience working with OpenAI, Anthropic, Meta, or comparable AI and technology platforms.\n- Experience launching native integrations or strategic platform experiences used by enterprise and consumer customers.\n- Experience building enterprise AI partnerships involving identity, administration, security, distribution, or model consumption.\n- Strong public-speaking and executive-presentation skills, including experience representing a company in high-visibility partner settings.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "TRM Labs | Senior AI Engineer (AI Automation)",
-      "link": "https://www.trmlabs.com/careers/d8498fe0-1f86-46e6-805a-626489ddd0cb",
-      "snippet": "As a Senior AI Engineer, you will be the embedded AI automation engineer for Pro...",
-      "raw_snippet": "As a Senior AI Engineer, you will be the embedded AI automation engineer for Product, building the agents, automations, and apps that help product managers, product marketers, and designers move faster. You work directly with them, and with engineering, across the product lifecycle from early discovery through launch and adoption. You sit inside the teams, not behind a ticket queue.  \n  \nThe impact you will have: [...] If you are excited by meaningful problems, motivated by ambitious goals, and energized by working alongside mission-driven colleagues, there is a good chance you will find TRM to be an exceptional place to grow and contribute.\n\n## Leadership Principles\n\nWe hire and grow against three leadership principles. They’re the standards for how we operate, treat each other, and make decisions. [...] ## Join our Mission\n\nAt TRM, we care deeply about our craft. We are looking for individuals who want their work to matter, who experiment with speed and rigor, and who take pride in building a safer world for billions of people. If you’re excited by TRM’s mission but don’t check every box, we encourage you to apply — we hire for slope, judgment, and the will to learn fast.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "750+ live Product Owner jobs | Archer",
-      "link": "https://hackajob.com/talent/product-owner-jobs",
-      "snippet": "Product ManagerProduct LeaderProduct OwnerArtificial Intelligence Engineer +4\n\n ...",
-      "raw_snippet": "Product ManagerProduct LeaderProduct OwnerArtificial Intelligence Engineer +4\n\n  Apply   View role\n Accenture \n\n  ### AI Product Management Practitioner (AI Agents & Workflow Integration, 2-4 yrs)\n\n  Accenture\n\n  Posted 30+ days ago\n\n  Pune Full-time\n\n  Project Role : AI Product Management Practitioner Project Role Description : Leads the development of AI-driven products, collaborating with data…\n\n  Product ManagerProduct OwnerProduct AnalystMLOps Engineer +5\n\n  Apply   View role [...] ### AI Business Transformation, Product Manager-Payments-Vice President\n\n  JPMorganChase\n\n  Posted 30+ days ago\n\n  Tampa Full-time\n\n  JOB DESCRIPTION You enjoy shaping the future of product innovation as a core leader, driving value for customers, guiding successful launches, and…\n\n  Product LeaderProgram ManagerDelivery ManagerProduct Manager +4\n\n  Apply   View role\n JPMorganChase \n\n  ### AI Delivery Senior Associate (International Consumer Bank)\n\n  JPMorganChase\n\n  Posted yesterday [...] Project Role : AI Native Software Engineer Project Role Description : Build and ship production-ready software using AI as a core part of the…\n\n  Salesforce DeveloperProduct OwnerTechnical ArchitectSolution Architect +1\n\n  Apply   View role\n JPMorganChase \n\n  ### AI Product Director\n\n  JPMorganChase\n\n  Posted 7 days ago\n\n  London Full-time\n\n  JOB DESCRIPTION J.P. Morgan Personal Investing offers award-winning investments, products and digital wealth management services to over 275,000…",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "GTM AI Engineer - Sprout Social | Built In Chicago",
-      "link": "https://www.builtinchicago.org/job/gtm-ai-engineer/12340001",
-      "snippet": "- Complete Sprout Social’s new hire training & onboarding program alongside othe...",
-      "raw_snippet": "- Complete Sprout Social’s new hire training & onboarding program alongside other new Sprout team members. You’ll gain a broader understanding of our products and how your role fits into the organization.\n- Make a plan with your manager to set initial priorities, align on expectations for your role, plant goalposts for your career, and learn about Sprout’s approach to building and governing AI for go-to-market teams. [...] Description\n\nSprout Social is looking to hire a GTM AI Engineer to the Sales & Customer Experience team.\n\nYou’ll build and ship the AI agents, automations and integrations that take admin work off our reps and managers and help our revenue teams sell, forecast and renew with more insight. You’ll sit in GTM Systems & Applied AI, work inside our AI Center of Excellence for GTM, and partner closely with Salesforce IT and the business teams who use what you build. [...] and your offer letter.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Senior Product Counsel, AI & Data | Hybrid | Reston, VA in Multiple Locations | Ellucian",
-      "link": "https://careers.ellucian.com/careers-home/jobs/7888?lang=en-us",
-      "snippet": "Ellucian provides equal employment opportunities to all applicants and employees...",
-      "raw_snippet": "Ellucian provides equal employment opportunities to all applicants and employees and does not discriminate on the basis of race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), national origin, age, disability, genetic information, parental status, veteran status or any other status protected by applicable law. This commitment applies to all employment decisions, including recruitment, hiring, compensation, promotion, training, and development. [...] Ellucian maintains rigorous processes to detect and prevent fraudulent applicant schemes and will notify appropriate authorities of any such activity. To protect the integrity of our hiring process:\n\nIf you have concerns about the authenticity of a communication, please contact talentacquisition@ellucian.com. [...] This posting is intended to comply with all applicable laws. Where required by law, additional information — including compensation ranges — will be provided. Additionally, we provide reasonable accommodations to applicants with disabilities, and requests can be made by emailing talentacquisition@ellucian.com",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "GTM AI Engineer - Sprout Social | Built In",
-      "link": "https://builtin.com/job/gtm-ai-engineer/12340001",
-      "snippet": "Sprout Social is looking to hire a GTM AI Engineer to the Sales & Customer Exper...",
-      "raw_snippet": "Sprout Social is looking to hire a GTM AI Engineer to the Sales & Customer Experience team. You'll build and ship the AI agents, automations",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Behavioral Intelligence: The Science of Hiring for What Lasts",
-      "link": "https://www.phenom.com/sessions/behavioral-intelligence-assessments",
-      "snippet": "Discover how Behavioral Intelligence predicts who will thrive, hear how Circle K...",
-      "raw_snippet": "Discover how Behavioral Intelligence predicts who will thrive, hear how Circle K hires at scale with assessments, and learn how Phenom keeps every result",
-      "is_chinese": false,
-      "source_type": "people",
-      "index": 10
     }
   ]
 }
