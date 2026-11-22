@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-22",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "OpenAI 竞争对手：按估值与IPO状态排名的顶级AI企业 [2026",
+          "link": "https://www.techstackipo.com/compare/openai-competitors",
+          "snippet": "TechStackIPO] | [该榜单发布2026年OpenAI主要竞争对手排名，按估值、IPO状态、融资总额及IPO评分排序。]",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "人工智能 - Business Insider | 2分钟阅读",
+          "link": "https://www.businessinsider.com/category/artificial-intelligence",
+          "snippet": "[谷歌与学校在AI应用上的争议，暴露出教育领域对人工智能技术依赖程度之深。]",
+          "index": 2
+        },
+        {
+          "title": "Parallel - 面向AI智能体的网络基础设施 | Your agent",
+          "link": "https://parallel.ai",
+          "snippet": "[Parallel完成4000万美元B轮融资，专注为AI智能体构建网络基础设施。]",
+          "index": 3
+        },
+        {
+          "title": "州长们呼吁AI行动 - 美国国家州长协会（NGA）",
+          "link": "https://www.nga.org/news/press-releases/governors-call-for-ai-action",
+          "snippet": "[美国州长协会呼吁加快AI治理行动，强调州长处于AI技术开发与应用的最前线。]",
+          "index": 4
+        },
+        {
+          "title": "人工智能与全球发展的下一阶段……",
+          "link": "https://figshare.com/articles/preprint/Artificial_Intelligence_and_the_Next_Phase_of_Global_Development_Productivity_Diffusion_Technological_Leapfrogging_and_Economic_Convergence/35083726",
+          "snippet": "[这份33页的混合学术研究报告探讨人工智能如何塑造全球发展的新阶段。]",
+          "index": 5
+        },
+        {
+          "title": "端到端AI转型论坛：捷克共和国 | Dassault Systèmes",
+          "link": "https://myevents.3ds.com/ai-transformation-end-to-end-forum-czech-republic",
+          "snippet": "[达索系统在捷克举办端到端AI转型论坛，解析MBSE如何赋能系统理解。]",
+          "index": 6
+        }
+      ]
+    }
+  ]
+}
