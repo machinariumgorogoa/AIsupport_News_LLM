@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-24",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Databricks 以约 2229 亿美元估值寻求新一轮融资，企业级 AI 投资热潮持续",
+          "link": "https://finance.biggo.com/news/4a06c5b2-1877-48b2-a122-264f1efed242",
+          "snippet": "美国数据与 AI 公司 Databricks 正寻求新融资，估值约 2229 亿美元，反映企业 AI 投资热情不减。",
+          "index": 1
+        },
+        {
+          "title": "Anthropic 81.3 亿美元 IPO 成功，预示 AI 市场高速增长",
+          "link": "https://hsecurities.in/blog/anthropic-ipo-raises-record-8-13-billion",
+          "snippet": "Anthropic 成功完成 81.3 亿美元 IPO，标志生成式 AI 市场进入规模化增长阶段。",
+          "index": 2
+        },
+        {
+          "title": "Genius Group 向股东通报 Anthropic 创纪录 IPO 对其 AI 资产的影响",
+          "link": "https://www.nasdaq.com/press-release/genius-group-updates-shareholders-impact-anthropics-record-ipo-its-ai-treasury-2026",
+          "snippet": "Genius Group 说明 Anthropic 5 月 IPO 估值达 9650 亿美元，对其 AI 储备战略产生潜在影响。",
+          "index": 3
+        },
+        {
+          "title": "人工智能 IPO 活动：发行所得并非如此",
+          "link": "https://www.kalkine.co.in/article/us-stocks/why-a-large-ai-listing-pipeline-may-barely-change-a-giant-equity-market",
+          "snippet": "近期科技 IPO 活动显示，尽管有大型 AI 公司上市，实际募资规模与市场预期仍存在落差。",
+          "index": 4
+        },
+        {
+          "title": "今日初创融资快讯——最新融资轮与募资",
+          "link": "https://headstart.news/funding",
+          "snippet": "AI 编程初创公司 Cognition AI Inc. 正推进新一轮融资，持续推动智能代码生成赛道热度。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "2026 年印度 AI 律师：何时应当引入",
+          "link": "https://globaladvisoryexperts.com/news/ai-lawyer-india-when-to-hire-2026-guide",
+          "snippet": "印度企业需把握时机引入 AI 律师，以提升合规审查效率并控制法律服务成本。",
+          "index": 6
+        },
+        {
+          "title": "Lotic AI：人工智能 meets 行为科学——专访 CEO William Welser IV",
+          "link": "https://open.spotify.com/episode/45Vf1TTJu4NPvzNvZRVKqY?si=qQIy82VJSWmr3q3JxXwcWw",
+          "snippet": "Lotic AI 结合 AI 与行为科学，创始人 William Welser IV 在 Spotify 播客中探讨其应用前景。",
+          "index": 7
+        },
+        {
+          "title": "Otabek Olimjonov：AI 工程师、Eurosoft 联合创始人兼 CEO",
+          "link": "https://www.eurosoft.uz/otabek-olimjonov",
+          "snippet": "作为 Eurosoft 负责人，他主导 Enterprise RAG 等 AI 产品，推动企业智能化解决方案落地。",
+          "index": 8
+        },
+        {
+          "title": "2026 年顶级人工智能咨询公司——AI 战略",
+          "link": "https://mncdo.com/feeds/service/artificial-intelligence-consultant",
+          "snippet": "Arvind Mozumdar 创立的 CDO On-Demand 入选领先 AI 咨询公司，聚焦数据与 AI 战略咨询。",
+          "index": 9
+        },
+        {
+          "title": "AI 拟人化——人工智能",
+          "link": "https://webiano.digital/knowledge-base/artificial-intelligence/ai-ethics/ai-anthropomorphism",
+          "snippet": "AI 拟人化指将人类特质、情感或意图赋予人工智能系统的倾向，对人机交互设计具有重要影响。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
