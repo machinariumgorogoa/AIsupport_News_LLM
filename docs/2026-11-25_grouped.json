@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-25",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "2027年澳大利亚及全球市场展望",
+          "link": "https://www.morningstar.com/en-au/business/insights/research/market-outlook-2027",
+          "snippet": "[分析AI模型在2027年澳大利亚及全球市场预测中的局限，强调人类判断对把握复杂趋势与风险的核心作用及投资决策。]",
+          "index": 1
+        },
+        {
+          "title": "人工智能（AI）与IRB：生物医学研究板块（图书馆工作坊）",
+          "link": "https://www.lib.ncsu.edu/workshops/artificial-intelligence-ai-and-irb-biomedical-research-section/2026-11-23",
+          "snippet": "[北卡州立大学图书馆举办工作坊，介绍AI在IRB生物医学研究伦理审查中的角色，说明报名资格、课程内容及适用对象。]",
+          "index": 2
+        },
+        {
+          "title": "一日实践课程：利用人工智能生成合成数据",
+          "link": "https://psiweb.org/events/event-item/2026/11/23/default-calendar/regulatory-scientific---health-solutions-(r-s-s)---synthetic-data-generation-through-artificial-intelligence",
+          "snippet": "[本课程为一日动手实践培训，聚焦AI合成数据生成方法、工具与应用场景，并附PSI读书会关于组织变革的推荐书目及讨论。]",
+          "index": 3
+        },
+        {
+          "title": "埃塞克斯大学人工智能博士项目（PhDportal）",
+          "link": "https://www.phdportal.com/studies/478112/artificial-intelligence.html",
+          "snippet": "[介绍埃塞克斯大学人工智能博士项目，涵盖研究方向、研究资源、导师团队及申请流程，适合有志深造者参考。]",
+          "index": 4
+        },
+        {
+          "title": "从试点到规模化：AI如何在物流流程中实现运营效益",
+          "link": "https://logistra.de/en/news/pilot-scaling-how-ai-becomes-operationally-effective-logistics-processes-493935.html",
+          "snippet": "[文章探讨AI在物流IT中从试点到规模化落地的关键路径，分析仓储、运输与供应链运营效率提升策略及实施挑战。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "商业营销发布制作人 | OpenAI",
+          "link": "https://openai.com/careers/launch-producer-business-marketing-us-remote",
+          "snippet": "[OpenAI招聘商业营销发布制作人，介绍其作为AI研究与部署公司的使命，以及该岗位的职责、要求、团队背景与申请方式。]",
+          "index": 6
+        },
+        {
+          "title": "2026年人工智能产品管理指南 | Soreno",
+          "link": "https://soreno.ai/articles/artificial-intelligence-product-management",
+          "snippet": "[2026版AI产品管理指南，解析招聘面试中的结构化问题框架、跨职能协作能力考察，并提供职业规划与面试准备建议。]",
+          "index": 7
+        },
+        {
+          "title": "Worldwide Placement Limited创始应用AI工程师 | aijobs.com",
+          "link": "https://www.aijobs.com/jobs/823320270-founding-applied-ai-engineer",
+          "snippet": "[aijobs.com发布旧金山现场办公的创始应用AI工程师职位，加入早期团队，负责构建并落地企业级AI解决方案与产品。]",
+          "index": 8
+        },
+        {
+          "title": "AI邮件应用产品负责人 | Dice",
+          "link": "https://www.dice.com/job-detail/cf3842dd-0a92-4748-930c-81660c00de4a",
+          "snippet": "[Dice招聘AI邮件应用产品负责人，聚焦AI/ML技术创新、用户体验优化及邮件场景中的产品落地与商业化路径。]",
+          "index": 9
+        },
+        {
+          "title": "人工智能 I 咨询服务 | Roland Berger",
+          "link": "https://www.rolandberger.com/en/locations/greater-china/insights/global-topics/artificial-intelligence/consulting-services",
+          "snippet": "[罗兰贝格提供AI咨询服务，探讨人工智能如何从根本上重塑企业运营、战略决策与商业模式，助力数字化转型。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,184 +1,264 @@
 {
-  "date": "2026-11-24",
-  "count": 21,
+  "date": "2026-11-25",
+  "count": 31,
   "items": [
     {
-      "title": "Databricks 以约 2229 亿美元估值寻求新一轮融资，企业级 AI 投资热潮持续",
-      "link": "https://finance.biggo.com/news/4a06c5b2-1877-48b2-a122-264f1efed242",
-      "snippet": "美国数据与 AI 公司 Databricks 正寻求新融资，估值约 2229 亿美元，反映企业 AI 投资热情不减。",
-      "raw_snippet": "Databricks, the U.S. data and artificial intelligence (AI) software company, is negotiating to raise several billion dollars in new funding on the premise of a $225 billion (~300 trillion won) valuation. The Wall Street Journal reported the talks, citing sources familiar with the matter, adding that the discussions are still at an early stage and that both the size of the raise and the final valuation could be adjusted. [...] Founded in 2013, Databricks provides a platform that lets companies consolidate and analyze their internal data and build and run AI applications on top of it. It is one of Silicon Valley's most prominent private companies and is frequently cited as a future IPO candidate. In August, the company said its annualized revenue had surpassed $7 billion (~9.4 trillion won). [...] Market attention is also fixed on how Anthropic trades following its listing. With the debut viewed as a gauge of demand for AI companies, expectations are building for the next wave of IPO candidates. For Databricks, the new funding would give it the firepower it needs to go after the enterprise AI market.\n\nOnce added, BigGo Finance appears first in Google Search Top Stories, so you get the broadest, most up-to-the-minute, and most comprehensive global financial news first.",
+      "title": "2027年澳大利亚及全球市场展望",
+      "link": "https://www.morningstar.com/en-au/business/insights/research/market-outlook-2027",
+      "snippet": "[分析AI模型在2027年澳大利亚及全球市场预测中的局限，强调人类判断对把握复杂趋势与风险的核心作用及投资决策。]",
+      "raw_snippet": "That is where judgement becomes more valuable. A model can help build the valuation, but deciding what to do about it takes second-level thinking: asking not just what is happening, but what the market already expects, and where it may be wrong. AI is least helpful when there is too little data for the situation at hand, and those are often the moments that matter most. [...] AI is also changing what gives investors an advantage. Information is becoming easier to obtain, which weakens it as an edge, although proprietary data still sets investors apart. When everyone has access to the same facts and the same tools, the only way to outperform the market is to do something different. [...] Artificial intelligence adds a further layer, and it is now the dominant story in markets. It may well transform the economy, but it is also one of the largest investment programmes in modern history, and its capital needs add another claim on global savings. A great deal is being spent, which means a great deal must be earned, and how much of that spending will earn an adequate return is not yet knowable. Growing community resistance to data centres, in Australia as well as the US, is a",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "Anthropic 81.3 亿美元 IPO 成功，预示 AI 市场高速增长",
-      "link": "https://hsecurities.in/blog/anthropic-ipo-raises-record-8-13-billion",
-      "snippet": "Anthropic 成功完成 81.3 亿美元 IPO，标志生成式 AI 市场进入规模化增长阶段。",
-      "raw_snippet": "The successful $8.13 billion IPO of Anthropic is a definitive indicator of the accelerating commercialization and profound market belief surrounding advanced Artificial Intelligence. This monumental listing solidifies AI not merely as a technological trend, but as foundational global infrastructure comparable to the advent of the internet itself. Key takeaways from this event are clear: first, demand for robust, safe, and scalable AI models remains unprecedented; second, the valuation reflects [...] valuation reflects investor confidence in companies that can deliver tangible, enterprise-grade AI solutions; and third, the competitive landscape is rapidly maturing. [...] listing, but a fundamental recalibration of where capital is flowing in the modern tech landscape. Reports indicate that the potential offering size could reach an unprecedented `$8.13 Billion IPO` valuation, marking a significant milestone for private AI innovators.",
+      "title": "人工智能（AI）与IRB：生物医学研究板块（图书馆工作坊）",
+      "link": "https://www.lib.ncsu.edu/workshops/artificial-intelligence-ai-and-irb-biomedical-research-section/2026-11-23",
+      "snippet": "[北卡州立大学图书馆举办工作坊，介绍AI在IRB生物医学研究伦理审查中的角色，说明报名资格、课程内容及适用对象。]",
+      "raw_snippet": "workshop, or have instructor permission to enroll. Non-student faculty are exempt from the training prerequisite. [...] workshop, or have instructor permission to enroll. Non-student faculty are exempt from the training prerequisite. [...] skip to Main Navigation\n skip to Main Content\n skip to Footer\n Accessibility feedback\n\nNC State Home\n\nGive now\n\nNavigation\n\n# Artificial Intelligence (AI) and the IRB: Biomedical Research section\n\nMonday, November 23, 2026  \n 3:00pm to 6:00pm   Online only\n\nRegister for this workshop\n\n## About This Workshop",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "Genius Group 向股东通报 Anthropic 创纪录 IPO 对其 AI 资产的影响",
-      "link": "https://www.nasdaq.com/press-release/genius-group-updates-shareholders-impact-anthropics-record-ipo-its-ai-treasury-2026",
-      "snippet": "Genius Group 说明 Anthropic 5 月 IPO 估值达 9650 亿美元，对其 AI 储备战略产生潜在影响。",
-      "raw_snippet": "Anthropic was subsequently valued at $965 billion at its May 2026 Series H funding round, an increase of 154%, and at approximately $1.5 trillion at its IPO, an increase of 295% on its valuation at the time of the Company’s investment. [...] At the time of the Company’s first AI Treasury investments in June 2026, the most recent reported valuations of Anthropic and SpaceX at the time were $380 billion (February 2026 Series G funding round) and $1.25 trillion (SpaceX and xAI combined, February 2026), as cited in the Company’s August 27, 2026 release\\. [...] SpaceX, which listed on Nasdaq on June 12, 2026 at an IPO valuation of approximately $1.77 trillion, had a market capitalization of approximately $1.95 trillion based on its closing share price on November 18, 2026, more than 50% above the combined SpaceX and xAI valuation at the time of the Company’s investment.",
+      "title": "一日实践课程：利用人工智能生成合成数据",
+      "link": "https://psiweb.org/events/event-item/2026/11/23/default-calendar/regulatory-scientific---health-solutions-(r-s-s)---synthetic-data-generation-through-artificial-intelligence",
+      "snippet": "[本课程为一日动手实践培训，聚焦AI合成数据生成方法、工具与应用场景，并附PSI读书会关于组织变革的推荐书目及讨论。]",
+      "raw_snippet": "### PSI Book Club: Change: How organisations achieve hard-to-imagine results in uncertain and volatile times [...] Organizations have to adapt to the transforming landscape of our industry to ensure they continue to be successful in the future. Many of us are feeling the impact of organizational change. By reading John P Kotter’s book we can understand about organizational change and learn how to thrive, rather than just survive, through change. Change, by John P Kotter (and his team), is a summary of all that he has learned over his decades of research and leading change. His book describes why many [...] describes why many current approaches to change are inadequate and explains why new solutions need to give people a voice and a role in a new, change-embracing organization. Develop your understanding of organisational change and become empowered to be part of your organisation’s change, by reading Change by John P Kotter and joining the Sept-Dec 2025 book club. You will be invited to join facilitated discussions of the concepts and ideas and apply knowledge from the book in-between sessions.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "人工智能 IPO 活动：发行所得并非如此",
-      "link": "https://www.kalkine.co.in/article/us-stocks/why-a-large-ai-listing-pipeline-may-barely-change-a-giant-equity-market",
-      "snippet": "近期科技 IPO 活动显示，尽管有大型 AI 公司上市，实际募资规模与市场预期仍存在落差。",
-      "raw_snippet": "Recent technology flotation activity, including a major AI company debut, has sharpened questions about the size of the wider US equity market.",
+      "title": "埃塞克斯大学人工智能博士项目（PhDportal）",
+      "link": "https://www.phdportal.com/studies/478112/artificial-intelligence.html",
+      "snippet": "[介绍埃塞克斯大学人工智能博士项目，涵盖研究方向、研究资源、导师团队及申请流程，适合有志深造者参考。]",
+      "raw_snippet": "University of Essex\n\n## Overview\n\nThey provide a vibrant research environment so you can publish papers in prestigious international journals and conferences and attract the attention of industry and government.\n\nThey have an international reputation for cutting-edge interdisciplinary work combining AI, health, finance, psychology and life sciences. [...] Other graduates have progressed to a variety of senior positions in industry and academia. Companies and organisations where the former graduates are now employed include: BT Group, BAE systems, Volkswagen Group, Rolls-Royce, and HSBC bank.\n\n## Programme Structure\n\nAs a PhD student, you will become a member of the AI research group. It encompasses five associated special interest groups:\n\n- Analytics and Data Science\n\n<!--THE END-->\n\n- Computational Finance and Economics\n\n<!--THE END--> [...] ### Colchester\n\nThe living costs include the total expenses per month, covering accommodation, public transportation, utilities (electricity, internet), books and groceries.\n\n## Funding\n\nIn order for us to give you accurate scholarship information, we ask that you please confirm a few details and create an account with us.\n\n## Scholarships Information\n\nBelow you will find PhD's scholarship opportunities for Artificial Intelligence.\n\n## Available Scholarships",
       "is_chinese": false,
       "source_type": "funding",
       "index": 4
     },
     {
-      "title": "今日初创融资快讯——最新融资轮与募资",
-      "link": "https://headstart.news/funding",
-      "snippet": "AI 编程初创公司 Cognition AI Inc. 正推进新一轮融资，持续推动智能代码生成赛道热度。",
-      "raw_snippet": "Artificial intelligence coding startup Cognition AI Inc. is in funding talks at a $75 billion valuation, just two months after announcing its most recent funding…\n- ## The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More\n  \n  U.S. startups continued to secure sizable rounds, led by brain-computer interface company Science securing a fresh $400 million.\n- ## Cloud Infrastructure Firm CloudFerro Is Said to Weigh Warsaw IPO [...] Anthropic PBC’s blockbuster IPO is becoming a catalyst for a savage selloff across artificial intelligence stocks.\n- ## Minotaur's Rosenberg: Anthropic IPO Fuels Wider AI Trade\n  \n  Minotaur Capital Co-Founder and Portfolio Manager Armina Rosenberg says Anthropic’s initial public offering supports confidence in the broader artificial intelligence trade despite near-term volatility. (Source…\n- ## Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO [...] - ## Exclusive: Storonsky-backed Aikido seeks €4bn valuation\n- ## Anthropic Is Exposing a Blind Spot in AI ETFs. What Does it Have to Do With Photonics?\n  \n  The artificial intelligence investment boom is creating a potential complication for thematic ETFs . As fund managers broaden their definition of AI opportunities, investors may…\n- ## Palo Alto Networks buys AI startup Applied Compute for $4.5bn in stock",
+      "title": "从试点到规模化：AI如何在物流流程中实现运营效益",
+      "link": "https://logistra.de/en/news/pilot-scaling-how-ai-becomes-operationally-effective-logistics-processes-493935.html",
+      "snippet": "[文章探讨AI在物流IT中从试点到规模化落地的关键路径，分析仓储、运输与供应链运营效率提升策略及实施挑战。]",
+      "raw_snippet": "Gabelstapler , Newsletter Lagerlogistik/Intralogistik , Lagertechnik , Lager und Hallen bzw. Ausstattung , Citylogistik , Ladungssicherung , Antriebsarten, Kraftstoffe und Emissionen , Kommissionierung , Lieferwagen und Transporter , Paletten , Versand, Umschlag und Lieferung , Fuhrpark- und Flottenmanagement , LogiMAT , E-Commerce , Lkw , KEP-Dienste , Automatisierung , Logistik- bzw. Transport-Dienstleistungen , Lastenräder (Cargobikes, Radkutschen etc.) , Intralogistik - Lagerlogistik , [...] Whether in forecasting, monitoring, or decision-making – AI is now more than just a testing ground in logistics companies. It has made the leap into the management of supply chains. Nonetheless, its everyday usefulness often falls short of expectations. This is because in many places, its application is limited to analyses and specific assistance functions, while the actual operational processes remain only partially covered. [...] the planning of transportation options, the scheduling of pickups and deliveries, the validation of shipping documents, and even post-shipment communication.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 5
     },
     {
-      "title": "Anthropic IPO Failure Signals Deeper $4T AI Bubble Burst on Wall Street | Analysis | hSECURITIES",
-      "link": "https://hsecurities.in/blog/anthropic-ipo-bust-ai-wipeout-wall-street",
-      "snippet": "The recent turbulence surrounding Anthropic's IPO, coupled with broader market r...",
-      "raw_snippet": "The recent turbulence surrounding Anthropic's IPO, coupled with broader market reactions, serves as a stark reminder of the volatility inherent in rapidly evolving technological sectors like Artificial Intelligence. This event underscores that while AI promises unprecedented growth, the path to market valuation is fraught with speculative risks, regulatory uncertainty, and intense capital concentration. Investors must look beyond headline hype and conduct deep, technical due diligence on [...] ## Deconstructing the $4 Trillion AI Valuation Bubble Risk\n\nThe concept of a `$4 trillion market cap` valuation for AI-related assets is statistically staggering and requires rigorous deconstruction. Such valuations imply an expected rate of return that assumes perfect, uninterrupted adoption cycles across every industry segment—a scenario rarely sustainable in real-world economic cycles.\n\n### Valuation Metrics Under Strain [...] Major tech company initial public offerings (IPOs) are often closely watched indicators of investor sentiment and perceived future value within their respective sectors. If a highly anticipated AI player like Anthropic struggles, it signals broader investor caution or valuation concerns across the entire AI ecosystem.\n\n### What does a '$4 Trillion AI Wipeout' imply for investors?",
+      "title": "Generative Artificial Intelligence: Benefits and Dangers for the Creative Process and Product | MishMash Centre for AI and Creativity",
+      "link": "https://mishmash.no/events/gai-creative-process",
+      "snippet": "## Bio [...] In just a few years, GAI has made a huge impact on all aspects of o...",
+      "raw_snippet": "## Bio [...] In just a few years, GAI has made a huge impact on all aspects of our lives, from education to business to everyday life. Creativity permeates all of these areas and is no exception; GAI has been used to be creative itself, to be a creative collaborator, to boost creativity, and to help score creative work. Creativity offers numerous rewards and advantages: personal, organizational, and global. Some come from the act of being creative, and others arise from the advances and innovations that [...] # Generative Artificial Intelligence: Benefits and Dangers for the Creative Process and Product\n\n## Description",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Algorithmic Scrutiny and the Pricing of Machine Narratives: An Agent-Based Model of Artificial Intelligence and IPO Outcomes in China's Automotive Industry by Tongji Wen, Lingling Xiao :: SSRN",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7705119",
-      "snippet": "inverted U-shaped relationship with the aftermarket valuation premium, and AI ad...",
-      "raw_snippet": "inverted U-shaped relationship with the aftermarket valuation premium, and AI adoption shifts the turning point toward lower sentiment. Approval-based valuation caps tax AIintensive issuers disproportionately. AI calibration of founder persistence raises the value created by a listing cohort and cuts post-IPO public-to-private reversals, but a novelty penalty in calibration tools screens out viable AI-native ventures. The model integrates signaling, narrative, and imprinting perspectives with a [...] Chinese automakers and intelligent-driving suppliers increasingly go public on the strength of artificial intelligence narratives, while the investors who price these offerings increasingly rely on artificial intelligence to read them. We develop an agent-based model of the initial public offering (IPO) process in which founders decide whether to persist toward listing, institutional investors with human or algorithmic analytics bid in bookbuilding, retail investors respond to media sentiment, [...] perspectives with a view of AI as both an information technology and an entrepreneurial actor.",
+      "title": "Artificial Intelligence Conferences in Barcelona 2026 & 2027 | ACA",
+      "link": "https://www.allconferencealert.com/barcelona/artificial-intelligence",
+      "snippet": "11–12 Dec 2026 · 2 days Barcelona\n\n### Saturday, 12 December 2026\n\n#### Internat...",
+      "raw_snippet": "11–12 Dec 2026 · 2 days Barcelona\n\n### Saturday, 12 December 2026\n\n#### International Conference on Generative AI and Business Leadership\") ICGAIBL\n\n12 Dec 2026Barcelona\n\n### Thursday, 17 December 2026\n\n#### International Conference on Application of Ai in Business Management\") ICAABM\n\n17 Dec 2026Barcelona\n\n### Friday, 18 December 2026\n\n#### International Conference on Advanced Research in Artificial Intelligence and Deep Learning\") ICARAIDL\n\n18 Dec 2026Barcelona\n\n### Sunday, 20 December 2026 [...] #### International Conference on Digital Economy, AI, Business Analytics & Strategic Management\") ICDEAIBSM\n\n23–24 Dec 2026 · 2 days Barcelona\n\n#### International Conference on Agentic AI, Embedded Clinical Workflows, and Automated Diagnostics\") ICAECWAD\n\n23–24 Dec 2026 · 2 days Barcelona\n\n#### International Conference on Robotics, Automation & Intelligent Systems\") ICRAIS\n\n23–24 Dec 2026 · 2 days Barcelona [...] #### International Conference on Circular Economy, Renewable Energy and Sustainable Energy Management\") ICCERSEM\n\n23–24 Dec 2026 · 2 days Barcelona\n\n### Friday, 25 December 2026\n\n#### International Conference on Generative AI and Organizational Decision Making\") ICGAODM\n\n25 Dec 2026Barcelona\n\n### Wednesday, 30 December 2026\n\n#### International Conference on Machine Learning and Chat GPT\") ICMLCG\n\n30 Dec 2026Barcelona\n\n### Sunday, 3 January 2027 3 events",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "AMI Labs Valuation, Funding & Investors | Multiples",
-      "link": "https://multiples.vc/private-comps/ami-labs",
-      "snippet": "AMI Labs, short for Advanced Machine Intelligence, is a Paris-based artificial i...",
-      "raw_snippet": "AMI Labs, short for Advanced Machine Intelligence, is a Paris-based artificial intelligence research laboratory co-founded by Yann LeCun, the former chief AI scientist at Meta. The lab builds world models, systems that learn abstract representations of real-world sensor data and predict outcomes in that representation space, as a basis for agentic systems that can plan actions within safety guardrails. It targets applications in industrial process control, automation, wearable devices, robotics [...] valuation, lead role, or syndicate from another transaction. AMI Labs is a frontier artificial-intelligence research company founded by Yann LeCun and led operationally by Alexandre LeBrun. The company develops world-model systems intended to learn from the physical world, form persistent representations, reason, plan, and predict the consequences of actions. Its approach is positioned as an alternative to language models that primarily learn through token prediction. | [...] | UiPath | Romania | Publicly listed | $1.6B | $70M | $5.7B | 2.6x |\n| Generalist AI | San Francisco, CA | Private | \\- | \\- | $3B | \\- |",
+      "title": "Is Artificial Intelligence humanity… | 24 Nov 2026 | London",
+      "link": "https://aieventslondon.com/events/london-is-artificial-intelligence-humanity-s-hope-or-doom-2026-11-24",
+      "snippet": "Skip to content\n\n← All events\n\n# Is Artificial Intelligence humanity’s hope or d...",
+      "raw_snippet": "Skip to content\n\n← All events\n\n# Is Artificial Intelligence humanity’s hope or doom?\n\n📅\n\n📍 Freshfields · London\n\n🎟️ £16.96\n\nA Next 100 Years evening with Sandra Wachter on how public policy must change to make AI socially beneficial.\n\nRegister ↗   📅 Add to Calendar\n\n Organising this event?\n\nAdd this badge to your event page so attendees can find related AI events in London.\n\n© 2026 AI Events London · Discover · Meet · Build",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "'Anthropic's IPO is likely driven more by fear than faith in the AI future'",
-      "link": "https://www.lemonde.fr/en/opinion/article/2026/11/23/anthropic-s-ipo-is-likely-driven-more-by-fear-than-faith-in-the-ai-future_6787330_23.html",
-      "snippet": "First, the business risk. While corporate AI spending eclipses other capex categ...",
-      "raw_snippet": "First, the business risk. While corporate AI spending eclipses other capex categories, return on investment in AI remains, at best, uncertain. Quantifying its impact on creativity, innovation, productivity, and performance – while accounting for the unintended effects on the workforce, including chronic anxiety, cognitive inertia, worker isolation, and the crowding out of genuine collaboration – will require years-long data and research. Currently, the return on investment on AI is entirely [...] Access to growth capital can't be the rationale. Private capital is abundant and remarkably cheap. Venture, private-equity, institutional, and sovereign-wealth funds plough billions into high-growth startups, even at steep valuations once reserved for Wall Street darlings, as they compete for a stake in the AI revolution. Indeed, the emergence of growth-stage venture financing represents a profound shift in the financing of technology innovation. Looking for proof? Consider Anthropic's $65 [...] on AI is entirely unknowable.",
+      "title": "Artificial Intelligence in Smart Maintenance Training Course in Vienna (Austria) | Training Courses | Scandinavian Academy Training and Development",
+      "link": "https://scandinavianacademy.net/en/training-courses.php/AI-,Data-Analysis-and-Digital-Transformation-Training-Course/Artificial-Intelligence-in-Smart-Maintenance/Vienna-(Austria)/2026-11-23",
+      "snippet": "The maintenance sector is undergoing a significant transformation through the ad...",
+      "raw_snippet": "The maintenance sector is undergoing a significant transformation through the adoption of Artificial Intelligence (AI), which enables organizations to predict failures before they occur, reduce downtime, increase equipment lifespan, and enhance operational performance. This course aims to equip participants with the knowledge and tools needed to implement AI-driven maintenance strategies for improved reliability and efficiency. [...] | Artificial Intelligence in Smart Maintenance | 2027-08-30 2027-09-03 | Class Room Jakarta-(Indonesia) | 4450 € |\n| Artificial Intelligence in Smart Maintenance | 2027-09-05 2027-09-09 | Class Room Sharm-ElShaikh-(Egypt) | 3450 € |\n| Artificial Intelligence in Smart Maintenance | 2027-09-06 2027-09-10 | Class Room Tbilisi-(Georgia) | 5450 € |\n| Artificial Intelligence in Smart Maintenance | 2027-09-12 2027-09-16 | Class Room Cairo-(Egypt) | 3050 € | [...] | Artificial Intelligence in Smart Maintenance | 2027-09-27 2027-09-30 | Class Room Hong-Kong | 5950 € |\n| Artificial Intelligence in Smart Maintenance | 2027-10-04 2027-10-08 | Class Room Warsaw-(Poland) | 5450 € |\n| Artificial Intelligence in Smart Maintenance | 2027-10-10 2027-10-14 | Class Room Amman-(Jordan) | 3450 € |\n| Artificial Intelligence in Smart Maintenance | 2027-10-11 2027-10-15 | Class Room DUBAI-(UAE) | 3950 € |",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "SoundHound AI Completes LivePerson Acquisition | Polaris7 Intelligence",
-      "link": "https://www.polaris7.io/signals/soundhound-ai-completes-liveperson-acquisition-signal",
-      "snippet": "SoundHound AI has finalized its acquisition of LivePerson, a deal first announce...",
-      "raw_snippet": "SoundHound AI has finalized its acquisition of LivePerson, a deal first announced in April 2026 with an implied enterprise value of $250 million, and completed on September 4, 2026. The merger combines SoundHound's voice agentic AI with LivePerson's digital messaging infrastructure to create a unified omnichannel conversational AI platform, integrated into SoundHound's OASYS system. The combined entity now serves 25 of the Fortune 100 and holds over 750 patents. John Collins has been appointed [...] On September 4, 2026, LivePerson, Inc. completed its acquisition by SoundHound AI, Inc., becoming an indirect wholly owned subsidiary of SoundHound. Under the terms of the merger, each share of LivePerson common stock was converted into the right to receive 0.4673 shares of SoundHound Class A common stock, while shares held via the Tel-Aviv Stock Exchange Clearing House were converted into $3.31 in cash per share. Concurrently, LivePerson satisfied its First and Second Lien Secured Notes due [...] SoundHound AI Class A Common Stock plus $3.31 in cash per share of LivePerson common stock. The acquisition consolidates LivePerson's digital customer engagement and conversational AI solutions into SoundHound's voice AI ecosystem, concluding LivePerson's run as an independent public company.",
+      "title": "AI Learning Series: Explore, Create, and Simplify with Artificial Intelligence Virtual & In-person | Cobb County Georgia",
+      "link": "https://www.cobbcounty.gov/events/2026-11-24ai-learning-series-explore-create-simplify-artificial-intelligence-virtual-person",
+      "snippet": "June 24, 2026 | 6:00 – 7:30 PM  \nCurious about AI but not sure where to begin? S...",
+      "raw_snippet": "June 24, 2026 | 6:00 – 7:30 PM  \nCurious about AI but not sure where to begin? Start here! Learn how to interact with tools like ChatGPT to get help with everyday questions, brainstorming ideas, writing, and more. You’ll walk away knowing how to ask better questions and get useful, accurate responses from AI.\n\n### Part 2: Make Sense of Information: AI for Reading, Research & Documents [...] # AI Learning Series: Explore, Create, and Simplify with Artificial Intelligence Virtual & In-person\n\nVinings Library AI Learning Series: Explore, Create, and Simplify with Artificial Intelligence\n\nJoin us for an exciting 4-part AI workshop series designed to help you confidently explore and use artificial intelligence in your everyday life. Whether you're brand new or just curious, no prior knowledge is needed—we’ll guide you every step of the way! [...] November 24, 2026 | 6:00 – 7:30 PM  \nUnleash your creativity! Learn how AI can help you design eye-catching images, create flyers, write social posts, and generate content for personal or community use. No design experience needed—just bring your ideas.\n\n### Part 4: Use AI in Daily Life: Planning, Productivity & Smart Use",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "South African Government on X: \"🎥 WATCH #SAinUSA 🇿🇦🇺🇸 | \"South Africa is looking to establish a R100 million venture capital fund an…\"",
-      "link": "https://x.com/GovernmentZA/status/2124821299092419060",
-      "snippet": "# South African Government on X: \"🎥 WATCH #SAinUSA 🇿🇦🇺🇸 | \"South Africa is looki...",
-      "raw_snippet": "# South African Government on X: \"🎥 WATCH #SAinUSA 🇿🇦🇺🇸 | \"South Africa is looking to establish a R100 million venture capital fund an…\"\n\n🎥 WATCH #SAinUSA 🇿🇦🇺🇸  | \"South Africa is looking to establish a R100 million venture capital fund and a credit guarantee fund to support start-ups in artificial intelligence and the broader technology sector.\" [...] Addressing the media at the conclusion of his working visit to Silicon Valley,  President Cyril Ramaphosa outlined the proposed funding initiative as a key outcome of the engagements with entrepreneurs and venture capital firms. He said government would seek to match commitments from entrepreneurs and invite the private sector to participate in building a funding ecosystem that enables South African technology businesses to grow and compete globally.\n\n#BetterAfricaBetterWorld 🌍 #InvestinSA [...] [Video 1]\n\n- Author: @GovernmentZA (South African Government)\n- Posted: 2026-11-23T11:04:09+00:00\n- Views: 965\n- Likes: 3\n- Reposts: 0\n- Replies: 2\n- Quotes: 0\n- Bookmarks: 0\n- Hashtags: #SAinUSA #BetterAfricaBetterWorld #InvestinSA\n\n## People\n\n- @GovernmentZA (South African Government) — The official South African Government account managed by GCIS, offering easy access to public information and services. Tel: 012 473 0000",
+      "title": "Artificial Intelligence Conferences in Malaysia 2026 & 2027 | ACA",
+      "link": "https://www.allconferencealert.com/malaysia/ai",
+      "snippet": "| Deadline | Conference | Date & place |\n---\n|  | World Conference on Intelligen...",
+      "raw_snippet": "| Deadline | Conference | Date & place |\n---\n|  | World Conference on Intelligent Investment Technologies | 21–22 Dec 2026 · Kuala Lumpur, Malaysia |\n|  | International Conference on 6G Networks, IoT Ecosystems & Cybersecurity Innovation | 2–3 Jan 2027 · Putrajaya, Malaysia |\n|  | International Conference on Advanced Materials, Nanotechnology & Smart Manufacturing | 19–20 Jan 2027 · Kuala Lumpur, Malaysia | [...] |  | Global Summit on Advances in Machine Learning, Explainable AI & Decision Intelligence | 2–3 Feb 2027 · Putrajaya, Malaysia |\n|  | International Conference on Generative AI, Big Data Analytics & Responsible Innovation | 2–3 Feb 2027 · Putrajaya, Malaysia |\n|  | International Conference on Law, Artificial Intelligence, and Digital Governance | 17–18 Feb 2027 · Kuala Lumpur, Malaysia | [...] Many nationalities enter visa-free for short visits; others apply for an eVISA. Foreign visitors must also complete the Malaysia Digital Arrival Card before arrival. Official information: Malaysia eVISA – Immigration Department of Malaysia.\n\n### How do I get free conference alerts for Malaysia?\n\nSubscribe for free, pick Malaysia and Artificial Intelligence, and we will email you new events and deadlines. You can unsubscribe at any time.",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "InsuranceDekho sees 500 employee exits post Renewbuy merger; IPO put on hold - The Economic Times",
-      "link": "https://m.economictimes.com/tech/startups/insurancedekho-lays-off-400-500-employees-after-renewbuy-merger-puts-ipo-on-hold/articleshow/135968437.cms",
-      "snippet": "### Synopsis\n\nThe Gurgaon-based company has also put its planned initial public ...",
-      "raw_snippet": "### Synopsis\n\nThe Gurgaon-based company has also put its planned initial public offering (IPO) on hold as it rethinks its business model over concerns about the impact of the regulator's proposed caps on distribution commissions, these people said. ET had reported in July that InsuranceDekho was preparing for a Rs 2,500-3,000 crore IPO at a valuation of about Rs 9,500 crore, targeting a listing by March.\n\nNow Playing [...] InsuranceDekho has seen 400-500 employees leave the company post its merger with rival RenewBuy in September even as the insurance distribution startup moves to reduce costs ahead of proposed changes by the Insurance Regulatory and Development Authority of India (Irdai), said people aware of the matter.The Gurgaon-based company has also put its planned initial public offering (IPO) on hold as it rethinks its business model over concerns about [...] Business NewsTechStartupsInsuranceDekho sees 500 employee exits post Renewbuy merger; IPO put on hold\n\n# InsuranceDekho sees 500 employee exits post Renewbuy merger; IPO put on hold\n\n### Synopsis",
+      "title": "ICAIML 2026 Phoenix – Artificial Intelligence Conference | 23 Nov",
+      "link": "https://www.conferencealert.com/eventdetail/2375065",
+      "snippet": "in these up-to-date scientific fields in scope. [...] - Genetic algorithms\n- Ind...",
+      "raw_snippet": "in these up-to-date scientific fields in scope. [...] - Genetic algorithms\n- Inductive logic programming\n- Intelligent systems\n- Lambda calculus and types\n- Logic and proof\n- Machine learning\n- Models of computation\n- Object-oriented programming\n- Open-source software\n- Pattern recognition\n- Reinforcement learning\n- Representation learning\n- Similarity and metric learning\n- Sparse dictionary learning\n- Supervised learning\n- Support vector machines\n- Unsupervised learning [...] - Artificial neural networks\n- Association rule learning\n- Automata, logic and games\n- Bayesian networks\n- Clustering\n- Commercial software\n- Commercial software with open-source editions\n- Complex systems\n- Computational complexity\n- Computational learning theory\n- Computational linguistics\n- Computer animation\n- Computer science\n- Computer system\n- Concurrent algorithms and data structures\n- Data mining\n- Decision tree learning\n- Deep Learning\n- Design and analysis of algorithms",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Home Page | Grants & Funding",
-      "link": "https://grants.nih.gov/node/1",
-      "snippet": "### Questions?\n\nFind contacts for all your questions on our help page. [...] ## ...",
-      "raw_snippet": "### Questions?\n\nFind contacts for all your questions on our help page. [...] ## Just Getting Started?\n\n## Policy and Compliance\n\nBy accepting a grant award, recipients agree to comply with the requirements in the NIH Grants Policy Statement unless the notice of award states otherwise. Specific policy topics pages listed below expand upon this resource to provide additional context and resources.\n\n### NIH Grants Policy Statement [...] The National Institutes of Health Grants Policy Statement (NIHGPS) makes available, in a single document, the policy requirements that serve as the terms and conditions of NIH grant awards.\n\n### Notices of Policy Changes\n\nNotices published in the NIH Guide for Grants and Contracts can supersede information in the NIH Grants Policy Statement and/or provide reminders to applicants and recipients. NIH incorporates these notices into the annual update of the NIH Grants Policy Statement.",
+      "title": "2026.11.23-24 | FARI FARI Brussels Local Impact Award 2026 | CAIRNE - Confederation of Laboratories for Artificial Intelligence Research in Europe",
+      "link": "https://cairne.eu/portfolio-items/2026-11-23-24-fari-fari-brussels-local-impact-award-2026",
+      "snippet": "Our Vision\n  + Vision & Mission\n    - A European Vision for AI (2018)\n    - Stat...",
+      "raw_snippet": "Our Vision\n  + Vision & Mission\n    - A European Vision for AI (2018)\n    - Statement on Future of AI in Europe (2023)\n    - CERN for AI\n  + Important Documents\n  + Sign\n Network & Supporters\n  + The Network\n    - Research Network\n    - Innovation Network\n    - Rising Researchers Network\n  + Our Supporters\n    - Individual supporters\n    - Expert supporters\n    - Industry supporters\n    - Governments & Organisations\n  + Testimonials\n AI in a Nutshell\n  + What is AI?\n  + EU AI Act [...] Brussels is at a decisive moment in the development of artificial intelligence and digital technologies. These technologies are playing an increasingly important role in the way cities are governed, public services are delivered, and citizens interact with their environment. The challenge is not only to innovate, but also to ensure that innovation is responsible, inclusive, trustworthy and rooted in local needs. [...] As part of the fifth edition of the FARI Brussels Conference, taking place on 23–24 November 2026 in Brussels, FARI is launching the FARI Brussels Local Impact Award. This new award aims to recognise projects using artificial intelligence, data, robotics or digital technologies to create meaningful public value for Brussels and its communities.\n\n## Recognising initiatives shaping the future of Brussels",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "2026 年印度 AI 律师：何时应当引入",
-      "link": "https://globaladvisoryexperts.com/news/ai-lawyer-india-when-to-hire-2026-guide",
-      "snippet": "印度企业需把握时机引入 AI 律师，以提升合规审查效率并控制法律服务成本。",
-      "raw_snippet": "Knowing when to bring in an ai lawyer india businesses can rely on is now one of the first strategic calls a founder, in-house counsel or product leader has to make. It is no longer a box to tick just before launch. Indian companies are moving from AI pilots to live systems in 2026, and their exposure around personal data, automated decisions, model licensing and platform liability has grown with them. This guide takes a clear position. If your product touches personal data, affects user rights, [...] ------\n| Typical scenarios | Building or launching an AI product; vendor and model licensing; compliance for automated decisions; platform moderation; fundraising diligence | Small feature additions; low-risk data processing; initial seed contracts | Very early prototype with zero users; proof of concept on non-sensitive data | No active users or roadmap; pure R&D | [...] Who this is for: founders, in-house counsel, product and compliance managers at startups and platforms, and investors carrying out diligence. This is general information about the India jurisdiction and is not a substitute for tailored professional advice.\n\n## Regulatory Triggers: When Compliance Alone Justifies a Hire",
+      "title": "ICAIDSQC Nov 2026: Artificial Conference, Barcelona | ACA",
+      "link": "https://www.allconferencealert.com/conference/artificial-intelligence-data-science-and-quantum-computing-barcelona-spain-nov-2026-3135763",
+      "snippet": "Most events by World Research Forum for Engineers and Researchers cover Artifici...",
+      "raw_snippet": "Most events by World Research Forum for Engineers and Researchers cover Artificial Intelligence, Technology and Engineering. It holds events in India, USA, Thailand and Turkey, often in Bangalore, Pune and Chennai. AllConferenceAlert has carried its events since 2026. Its next event after this one is National Conference on Recent Advances in Engineering, AI and Computer Science (NCRAEACS) on 20 Nov 2026 in Pondicherry, India.\n\n## Reviews\n\n## Frequently asked questions [...] Join scholars and professionals at the upcoming international conference focused on Artificial Intelligence, Data Science, and Quantum Computing. This event will feature a rich program of keynotes, technical presentations, and panel discussions that delve into the latest research and trends in these transformative fields. Participants are encouraged to submit original research papers or abstracts for consideration, with selected works published in conference proceedings. Registration is now [...] allconferencealert.com\n\n# International Conference on Artificial Intelligence, Data Science & Quantum Computing\n\n## About ICAIDSQC 2026",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "ICAIML 2026 Portland – Computer Science Conference | 24 Nov",
+      "link": "https://www.conferencealert.com/eventdetail/2375073",
+      "snippet": "# International Conference on Artificial Intelligence and Machine Learning (ICAI...",
+      "raw_snippet": "# International Conference on Artificial Intelligence and Machine Learning (ICAIML 2026)\n\n24th November 2026 · Portland, Oregon, USA\n\nDates\n\n24th November 2026\n\nFormat\n\nIn person\n\nPaper deadline\n\n28th October 2026 (closed)\n\nType\n\nConference\n\n## Verification and trust [...] - Artificial neural networks\n- Association rule learning\n- Automata, logic and games\n- Bayesian networks\n- Clustering\n- Commercial software\n- Commercial software with open-source editions\n- Complex systems\n- Computational complexity\n- Computational learning theory\n- Computational linguistics\n- Computer animation\n- Computer science\n- Computer system\n- Concurrent algorithms and data structures\n- Data mining\n- Decision tree learning\n- Deep Learning\n- Design and analysis of algorithms [...] - Genetic algorithms\n- Inductive logic programming\n- Intelligent systems\n- Lambda calculus and types\n- Logic and proof\n- Machine learning\n- Models of computation\n- Object-oriented programming\n- Open-source software\n- Pattern recognition\n- Reinforcement learning\n- Representation learning\n- Similarity and metric learning\n- Sparse dictionary learning\n- Supervised learning\n- Support vector machines\n- Unsupervised learning",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "商业营销发布制作人 | OpenAI",
+      "link": "https://openai.com/careers/launch-producer-business-marketing-us-remote",
+      "snippet": "[OpenAI招聘商业营销发布制作人，介绍其作为AI研究与部署公司的使命，以及该岗位的职责、要求、团队背景与申请方式。]",
+      "raw_snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum [...] At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.\n\nCompensation\n\n$212K – $236K + Offers Equity [...] More details about our benefits are available to candidates during the hiring process.\n\nThis role is at-will and OpenAI reserves the right to modify base pay and other compensation components at any time based on individual performance, team or company results, or market conditions.",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "AI (Artificial Intelligence) | Arts of Tech",
-      "link": "https://artsoftech.com/ai-artificial-intelligence.html",
-      "snippet": "### AI (Artificial Intelligence)\n\nArtificial Intelligence is no longer a futuris...",
-      "raw_snippet": "### AI (Artificial Intelligence)\n\nArtificial Intelligence is no longer a futuristic idea - it is the engine behind the most competitive businesses of today. From intelligent customer support to forecasting and automation, AI helps organizations make faster decisions, reduce cost and deliver personalized experiences at scale. [...] Businesses generate more data than ever, but data alone creates no value. AI converts that data into decisions - predicting demand, flagging risk, answering customers and automating repetitive work. Organizations that adopt AI early build a durable advantage in speed, cost and customer experience.\n\n#### Our AI solutions help businesses: [...] ### AI Automation\n\nIntelligent workflows that route decisions, extract data and remove manual bottlenecks.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Lotic AI：人工智能 meets 行为科学——专访 CEO William Welser IV",
-      "link": "https://open.spotify.com/episode/45Vf1TTJu4NPvzNvZRVKqY?si=qQIy82VJSWmr3q3JxXwcWw",
-      "snippet": "Lotic AI 结合 AI 与行为科学，创始人 William Welser IV 在 Spotify 播客中探讨其应用前景。",
-      "raw_snippet": "Kuwait Kyrgyz Republic Lao PDR Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao SAR, China Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Mauritania Mauritius Mexico Micronesia, Fed. Sts. Moldova Monaco Mongolia Montenegro Morocco Mozambique Namibia Nauru Nepal Netherlands New Zealand Nicaragua Niger Nigeria North Macedonia Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Republic of the [...] Canada Chad Chile Colombia Comoros Costa Rica Cote d'Ivoire Croatia Curacao Cyprus Czech Republic Democratic Republic of Congo Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Estonia Eswatini Ethiopia Fiji Finland France Gabon Georgia Germany Ghana Greece Grenada Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hong Kong Hungary Iceland India Indonesia Iraq Ireland Israel Italy Jamaica Japan Jordan Kazakhstan Kenya Kiribati Kosovo Kuwait Kyrgyz [...] Republic of the Congo Romania Rwanda Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands South Africa South Korea Spain Sri Lanka St. Kitts and Nevis St. Lucia St. Vincent and the Grenadines Suriname Sweden Switzerland Taiwan Tajikistan Tanzania Thailand The Bahamas The Gambia Timor-Leste Togo Tonga Trinidad and Tobago Tunisia Turkey Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Uruguay",
+      "title": "2026年人工智能产品管理指南 | Soreno",
+      "link": "https://soreno.ai/articles/artificial-intelligence-product-management",
+      "snippet": "[2026版AI产品管理指南，解析招聘面试中的结构化问题框架、跨职能协作能力考察，并提供职业规划与面试准备建议。]",
+      "raw_snippet": "Hiring panels test structured problem framing and cross-functional leadership. Working through consulting case study examples sharpens how you structure build-versus-buy and margin prompts out loud, while practicing behavioral interview questions prepares you to explain model launch tradeoffs. [...] 1. 1\n   \n   You are the product manager for a software company's customer support tools. Leadership asks you to add an artificial intelligence chat feature to answer user tickets. How do you decide whether to build it, and how would you launch it safely? [...] Shipping an AI feature follows an iterative loop where launch day starts production learning. Durable advantage rarely comes from renting the same third-party model API every competitor can call. Defensible data moats come from a proprietary data flywheel where everyday customer actions generate labeled signal, such as support agents editing draft replies or analysts fixing extracted table cells, with clear consent and tenant isolation.",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "Otabek Olimjonov：AI 工程师、Eurosoft 联合创始人兼 CEO",
-      "link": "https://www.eurosoft.uz/otabek-olimjonov",
-      "snippet": "作为 Eurosoft 负责人，他主导 Enterprise RAG 等 AI 产品，推动企业智能化解决方案落地。",
-      "raw_snippet": "At Eurosoft he leads AI products such as the Enterprise RAG Platform (SarhadAI in Uzbekistan), which runs fully on-premise at Samsung and Incheon International Airport, AI Psixolog, a school psychology platform used by 350,000+ users in 250+ schools and colleges in Uzbekistan, and AgroAI, an AI agronomist that he presented to the President of Uzbekistan.\n\nWhat is Otabek Olimjonov's background in AI? [...] Products he leads at Eurosoft:Enterprise RAG Platform, AI Psixolog, AgroAI.\n\n## Questions about Otabek Olimjonov\n\nWho is Otabek Olimjonov?\n\nOtabek Olimjonov is a software and AI engineer from Uzbekistan and the co-founder and CEO of Eurosoft, a software and AI company in Tashkent. He has more than 7 years of experience in generative AI, large language models, computer vision and cloud systems, gained at companies in South Korea and at EPAM Systems.\n\nWhat has Otabek Olimjonov built? [...] # Otabek OlimjonovCo-founder and CEO, Eurosoft.\n\nOtabek Olimjonov is a software and AI engineer from Uzbekistan and the co-founder and CEO of Eurosoft, a software and AI company in Tashkent. He has more than 7 years of experience in generative AI, large language models, computer vision and cloud systems, gained at companies in South Korea and at EPAM Systems.\n\nEducation",
+      "title": "Worldwide Placement Limited创始应用AI工程师 | aijobs.com",
+      "link": "https://www.aijobs.com/jobs/823320270-founding-applied-ai-engineer",
+      "snippet": "[aijobs.com发布旧金山现场办公的创始应用AI工程师职位，加入早期团队，负责构建并落地企业级AI解决方案与产品。]",
+      "raw_snippet": "As a founding team member based on-site in San Francisco, you'll be the company's first senior AI hire, owning the quality and intelligence of our multi-channel marketing agents end to end. Working directly with the founder, you'll shape agent architecture, evaluation systems, and learning loops while building out the AI team from the ground up. This role is critical to scaling the reliability and effectiveness of agents operating across SEO, content, social, and search channels. [...] - Improve agent output and content quality across Reddit, LinkedIn, X, and article writing, with evaluation systems that make quality measurable.\n- Improve SEO and generative engine optimization (GEO) performance.\n- Design feedback loops that enable agents to learn from real-world results and performance signals at scale.\n- Improve AI infrastructure, agent architecture, model strategy, and the data pipelines that power them.\n- Hire and lead the AI team as the organization grows. [...] • Work arrangement: San Francisco, California, United States; on-site\n\n• Work authorization: Visa sponsorship is not available; US work authorization is required.\n\n• Education: No explicit degree requirement in the public JD\n\n• Equity: Not specified\n\nWhy this employer is a great company\n\nStartup building AI marketing agents. Hiring a Founding Applied AI Engineer for the\n\nresponsibilities described in this role.\n\nWorldwide Placement Limited\n\nWorldwide Placement Limited\n\n## Related AI Jobs",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
     },
     {
-      "title": "2026 年顶级人工智能咨询公司——AI 战略",
-      "link": "https://mncdo.com/feeds/service/artificial-intelligence-consultant",
-      "snippet": "Arvind Mozumdar 创立的 CDO On-Demand 入选领先 AI 咨询公司，聚焦数据与 AI 战略咨询。",
-      "raw_snippet": "Arvind Mozumdar is the Founder and Principal of CDO On-Demand, bringing twenty years of experience delivering data and AI outcomes for large organizations. Trained as a statistician at the Indian Statistical Institute, he built a career combining deep technical expertise with practical business leadership. After the consulting firm he worked for was acquired and reorganized, Mozumdar launched CDO On-Demand in April 2025 to make experienced data and AI leadership accessible to mid-market [...] Experienced leadership without the complexity or cost of a permanent executive structure.\n\nFounder brings twenty years delivering data and AI outcomes for large organizations and mid-market clients.\n\nAccess fractional executive guidance through a flexible monthly retainer that can scale with organizational needs.\n\nCombine business understanding, technical depth, and program leadership in one accountable consulting relationship. [...] Engagements focus on practical results, including clearer reporting, less manual work, and AI projects reaching production.\n\nExperienced data and AI leadership for organizations ready to act.\n\nFounder & Principal",
+      "title": "AI邮件应用产品负责人 | Dice",
+      "link": "https://www.dice.com/job-detail/cf3842dd-0a92-4748-930c-81660c00de4a",
+      "snippet": "[Dice招聘AI邮件应用产品负责人，聚焦AI/ML技术创新、用户体验优化及邮件场景中的产品落地与商业化路径。]",
+      "raw_snippet": "Artificial Intelligence (AI) and Machine Learning (ML) are required for this opportunity. This position is 100% Remote and ONLY open for",
       "is_chinese": false,
       "source_type": "people",
       "index": 9
     },
     {
-      "title": "Artificial Intelligence | Page 104 | Financial IT",
-      "link": "https://financialit.net/news/artificial-intelligence/2897-weekly-fintech-recap?page=103",
-      "snippet": "Businesses that successfully apply artificial intelligence (AI) could increase p...",
-      "raw_snippet": "Businesses that successfully apply artificial intelligence (AI) could increase profitability by an average of 38 percent by 2035, according to a new report from Accenture. The introduction of AI could lead to an economic boost of US$14 trillion in additional gross value added (GVA) across 16 industries in 12 economies. To capitalize on the opportunity, the report identifies eight key strategies for successfully implementing AI that focus on... more [...] - 9 years 5 months ago\n- Artificial Intelligence [...] #### Accenture: AI May Increase Corporate Profitability by 38%\n\n- 9 years 5 months ago\n- Artificial Intelligence",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Artificial Intelligence | Page 7 | Financial IT",
-      "link": "https://financialit.net/news/artificial-intelligence/2889-weekly-fintech-recap?page=6",
-      "snippet": "Narmi, a leading provider of digital banking technology, today announced the lau...",
-      "raw_snippet": "Narmi, a leading provider of digital banking technology, today announced the launch of the Narmi AI Marketplace, a centralized destination for practical and innovative AI capabilities built for community financial institutions. The AI Marketplace brings together Narmi’s powerful lineup of homegrown AI features, available today and continuously evolving, to help financial institutions move faster, serve smarter, and act with confidence. [...] - 1 month 3 weeks ago\n- Artificial Intelligence [...] - 1 month 3 weeks ago\n- Artificial Intelligence\n\nNatWest Group is set to trial an industry-first fully generative audio-visual Spending Insights tool, becoming the first bank to test a real time voice-to-voice conversational AI experience that allows customers to discuss their finances naturally.\n\n#### Narmi Launches AI Marketplace to Bring Practical AI Directly into Financial Institution Workflows\n\n- 1 month 3 weeks ago\n- Artificial Intelligence",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "AI 拟人化——人工智能",
-      "link": "https://webiano.digital/knowledge-base/artificial-intelligence/ai-ethics/ai-anthropomorphism",
-      "snippet": "AI 拟人化指将人类特质、情感或意图赋予人工智能系统的倾向，对人机交互设计具有重要影响。",
-      "raw_snippet": "AI anthropomorphism is the tendency to attribute human qualities such as emotions, intentions, beliefs, consciousness or moral character to artificial intelligence systems, and the design practice of encouraging that attribution. In AI ethics, it matters because perceived humanness changes how much people trust, disclose to and depend on a system, often beyond what its actual capabilities justify. [...] People humanize AI systems because human social cognition is triggered by surface cues, not by an assessment of what is actually inside the machine. Psychologists describe a default stance in which any agent that produces language or goal-directed behavior is treated as having a mind. This is sometimes called the intentional stance: predicting behavior by assuming beliefs and desires. [...] - Humanlike output is not evidence of experience. Fluent emotional language reflects training data patterns, not demonstrated feelings.",
+      "title": "人工智能 I 咨询服务 | Roland Berger",
+      "link": "https://www.rolandberger.com/en/locations/greater-china/insights/global-topics/artificial-intelligence/consulting-services",
+      "snippet": "[罗兰贝格提供AI咨询服务，探讨人工智能如何从根本上重塑企业运营、战略决策与商业模式，助力数字化转型。]",
+      "raw_snippet": "Artificial Intelligence (AI) is fundamentally reshaping how businesses generate value and operate, presenting both a challenge and an opportunity for leadership. To succeed, organizations must go beyond adopting technology — they need clear strategies, integrated approaches, and measurable outcomes. We work alongside business leaders to turn AI’s potential into lasting impact, combining expertise in strategy, people, technology, and transformation. Whether at the beginning or scaling advanced [...] or scaling advanced efforts, we enable holistic, executable AI transformation. [...] - AI Strategy  \n  Craft a clear, organization-wide roadmap for AI, aligned with your business priorities, market positioning, and innovation goals. We help define where and how AI delivers the greatest strategic value across your company.\n- Data Integration  \n  Lay the foundation for scalable AI by connecting the right data, systems, and infrastructure. We align data strategy with business needs, enabling intelligent use of company data and unlocking AI-powered insights.\n- AI Agents",
       "is_chinese": false,
       "source_type": "people",
       "index": 10
+    },
+    {
+      "title": "Artificial Intelligence Co-Founder / Head of Engineering (100 ...",
+      "link": "https://job-boards.eu.greenhouse.io/ewor/jobs/5045146101",
+      "snippet": "Artificial Intelligence Co-Founder / Head of Engineering (100 % remote) (m/f/d) ...",
+      "raw_snippet": "Artificial Intelligence Co-Founder / Head of Engineering (100 % remote) (m/f/d) · A salary while you build your startup as you will directly be employed by us.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Senior AI Product Owner M/F - Jobs - 9am | Freelancer",
+      "link": "https://www.9am.works/jobs/senior-ai-product-owner-m-f-job_collective-work_cmwuhr8du0j3e01c1ad6u0clo",
+      "snippet": "Our client, a major player in digital services for a regulated profession, is la...",
+      "raw_snippet": "Our client, a major player in digital services for a regulated profession, is launching innovative projects based on artificial intelligence.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Hire AI Developers | Panth Softech",
+      "link": "https://www.panthsoftech.com/hire-ai-developers",
+      "snippet": "Hire AI developers from Panth Softech for custom AI solutions, machine learning,...",
+      "raw_snippet": "Hire AI developers from Panth Softech for custom AI solutions, machine learning, generative AI, and AI automation. Get a customized quote today.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Before AI makes the call, decide who answers for it - Executive Board",
+      "link": "https://board.fastcompany.com/fast-company-executive-board/before-ai-makes-the-call-decide-who-answers-for-it/91643677",
+      "snippet": "Before asking employees to put their names behind AI's work, leaders should be p...",
+      "raw_snippet": "Before asking employees to put their names behind AI's work, leaders should be prepared to put their names behind the conditions that made it",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "How propane companies can onboard and train an AI tool like any new hire - LP Gas",
+      "link": "https://www.lpgasmagazine.com/how-propane-companies-can-onboard-and-train-an-ai-tool-like-any-new-hire",
+      "snippet": "# How propane companies can onboard and train an AI tool like any new hire\n\nJust...",
+      "raw_snippet": "# How propane companies can onboard and train an AI tool like any new hire\n\nJust like a new human hire, AI needs training to learn how your business operates. (Photo: tadamichI/iStock / Getty Images Plus/Getty Images)\n\nMy last column compared building an artificial intelligence (AI) knowledge base to following a Julia Child recipe. Now it’s time to leave the kitchen and step into the familiar surroundings of a propane operation to onboard and train your newest hire: AI. [...] New AI hires, like new human hires, take time to become productive. Checking and correcting the output takes time, too. Measure the time saved after that review and expand AI’s responsibilities only when it meets your accuracy and productivity goals. [...] Give AI permission to flag missing or conflicting information and refer questions beyond its assignment to a person. In fact, like any new employee, make sure that AI understands that guessing is not part of your company’s job description.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Pricing Work by Outcomes in the AI Era With Decision Alpha | The Tech Talks Network | Enterprise Tech Podcasts",
+      "link": "https://techtalksnetwork.com/podcast/ai-at-work/episode/decision-alpha-ai-outcome-pricing",
+      "snippet": "In this episode of AI at Work, I speak with Etinosa Agbonlahor, a behavioral eco...",
+      "raw_snippet": "In this episode of AI at Work, I speak with Etinosa Agbonlahor, a behavioral economist and the founder and CEO of Decision Alpha, about how artificial intelligence is changing the economics and psychology of pricing. The conversation begins with a question facing accountants, consultants, agencies and other professional services firms: if customers have traditionally paid for time, what happens when AI removes a meaningful share of that time? [...] \\[00:01:27] \\[SPEAKER\\_01] Thank you for having me, Neil. I'm excited for the conversation. My name is Etiosa Abunlahor. I am a behavioural economist and I'm the founder and CEO of Decision Alpha. And so as a behavioural economist, I essentially have a team that studies the psychology behind how people make financial decisions. And at Decision Alpha, we're using that to help improve pricing, packaging, monetisation, and general financial well-being for the companies that we work with. [...] Useful Links\n\n\\[00:00:06] \\[SPEAKER\\_00] What happens to pricing when AI completes hours of work in minutes? Because if a customer is paying for effort, faster delivery can make an old model very difficult to defend. If they are paying for an outcome, the conversation changes completely. So today I'm joined by behavioural economist and founder and CEO of a company called Decision Alpha.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Senior Product Manager - AI Call Intelligence at Litify | Working Nomads",
+      "link": "https://www.workingnomads.com/jobs/senior-product-manager-ai-call-intelligence-litify-2044327",
+      "snippet": "Profile Summary We're looking for a Senior PM with 5+ years of product managemen...",
+      "raw_snippet": "Profile Summary We're looking for a Senior PM with 5+ years of product management experience, including 2+ years building or managing AI-powered products. The ideal candidate combines strategic thinking with strong operational discipline, thrives in cross-functional settings, and can confidently engage with clients, partners, and internal teams to drive AI initiatives from concept through launch. Experience with voice, conversational, or agentic AI is a strong plus, as is a background in legal [...] Profile Summary We're looking for a Senior PM with 5+ years of product management experience, including 2+ years building or managing AI-powered products. The ideal candidate combines strategic thinking with strong operational discipline, thrives in cross-functional settings, and can confidently engage with clients, partners, and internal teams to drive AI initiatives from concept through launch. Experience with voice, conversational, or agentic AI is a strong plus, as is a background in legal [...] conversational or agentic AI — voice or chat agents, tool-calling and orchestration, dialog design, or evaluating autonomous systems in production.\n- Experience translating business goals into technical execution.\n- Excellent communication and stakeholder management skills.\n- Strong organizational discipline and ability to handle multiple priorities in parallel.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Member of Founder's Office - Jobs",
+      "link": "https://jobs.ashbyhq.com/aiuc/a1a845f7-d7b6-4de4-ba40-928d33f2338b",
+      "snippet": "We've raised $55m from Ribbit, First Harmonic and Nat Friedman to audit frontier...",
+      "raw_snippet": "We've raised $55m from Ribbit, First Harmonic and Nat Friedman to audit frontier AI. Our team comes from METR, Anthropic, McKinsey, and OpenAI. Come join us.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "TRM Labs | Business Development Executive, NA Private Sector",
+      "link": "https://www.trmlabs.com/careers/5aaf200b-7964-48fe-bc5e-dd359d95215b",
+      "snippet": "- What you hear in the field reaches Product, Marketing, and Policy quickly, bec...",
+      "raw_snippet": "- What you hear in the field reaches Product, Marketing, and Policy quickly, because you summarize market and regulatory signal with AI and share it as short, structured notes. [...] If you send your resume directly to someone at TRM, we can’t guarantee it will reach the appropriate hiring team. Applying directly is the best way to ensure your application will be considered.\n\n## Interviewing with TRM\n\nOur process is designed to understand how you think, solve problems, and deliver impact, while allowing you to evaluate TRM. Most interview processes include a case study, an AI skills assessment, and a Leadership Principles interview. [...] TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Business Lead, AI-Native Discovery Program Intelligence at Takeda Pharmaceutical",
+      "link": "https://jobs.takeda.com/job/boston/business-lead-ai-native-discovery-program-intelligence/1113/103720307632",
+      "snippet": "<!--THE END-->\n\n- Demonstrated ownership of a product, platform, capability port...",
+      "raw_snippet": "<!--THE END-->\n\n- Demonstrated ownership of a product, platform, capability portfolio, transformation initiative, or major cross-functional Program end to end, including roadmap, delivery, adoption, and measurable outcomes.\n\n<!--THE END-->\n\n- Demonstrated ability to set strategic direction, drive cross-functional alignment, and translate scientific ambition into executable product, workflow, adoption, and value-realization strategies in partnership with technology and product teams. [...] The Business Lead, AI-Native Discovery Program Intelligence is central to realizing this vision. This leader will be responsible for Takeda's next-generation Program intelligence and endpoint generation AI-native capabilities: owning the scientific vision, customer experience, product strategy, roadmap, adoption, and ultimately the value they create for drug discovery. The Business Lead will define what the discovery Program experience should be in a future where AI agents, predictive models, [...] <!--THE END-->\n\n- Deliver against that vision by providing business leadership, partnering with technical leads and development squads on scope, sequencing, and priority, and holding product teams accountable for outcomes, adoption, and measurable scientific and business impact.\n\n<!--THE END-->",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Director, AI Enablement & Business Process Engineering, São Paulo | Johnson & Johnson Careers",
+      "link": "https://www.careers.jnj.com/en/jobs/r-112809/director-ai-enablement-business-process-engineering",
+      "snippet": "This leader will reimagine how work happens across the Hire-to-Retire lifecycle,...",
+      "raw_snippet": "This leader will reimagine how work happens across the Hire-to-Retire lifecycle, connecting HR process, Workday and the broader HR technology ecosystem, data, AI, and employee experience into simpler, smarter ways of working.\n\nThe opportunity goes beyond implementing technology. You will help determine how HR work should happen in the future, redesigning workflows before they are digitized, automated, or AI-enabled. [...] - Experience with responsible AI, product-led operating models, service design, process mining, journey mapping, or business architecture.\n- Experience leading teams and complex cross-functional initiatives from strategy and design through adoption and measurable outcomes.\n- Ability to navigate ambiguity, influence senior stakeholders, and connect business, technology, data, experience, and risk considerations.\n- Strong communication effectiveness for influencing and directing teams [...] Leading a global team, you will partner across HR, Product, Technology, Data & Intelligence, and Operations to turn those designs into scalable experiences, embed responsible AI and appropriate controls from the start, and measure whether transformation is improving employee experience, productivity, service quality, and business outcomes.\n\nWhat You'll Bring",
+      "is_chinese": false,
+      "source_type": "people"
     }
   ]
 }
