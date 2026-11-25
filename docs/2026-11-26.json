@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-26",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "RF Acquisition Corp III完成1亿美元SPAC IPO并提交RFAM 8-K文件",
+      "link": "https://www.stocktitan.net/sec-filings/RFAM/8-k-rf-acquisition-corp-iii-reports-material-event-38d820931287.html",
+      "snippet": "该公司计划通过此次SPAC IPO募资，在亚洲deep technology领域寻找潜在并购目标。",
+      "raw_snippet": "The company plans to seek targets in Asia’s deep technology sector, including artificial intelligence, quantum computing, and biotechnology. Actual outcomes will depend on identifying and negotiating a suitable transaction within the stated 21–24 month period and on shareholder approval mechanics described in the charter provisions.\n\n### 8-K Event Classification\n\n## FAQ\n\nAI-generated questions and answers. How Rhea-AI works. Not financial advice. [...] AI-generated analysis. How Rhea-AI works. Not financial advice. [...] # RF Acquisition Corp III completes $100M SPAC IPO\n\nLearn about SEC filing dates\n\nSentiment and the balance of points\n\nRhea-AI Sentiment reads the wording of the document, how positive or negative its language is on a 1 to 5 scale. The balance of points shown with the takes weighs what the document actually discloses, so the two can disagree, for example when a trial that missed its main goal is described in upbeat language.\n\n## Rhea-AI Filing Summary",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "BlackSky收购EpochGeo，扩展AI赋能的RF、信号及多源实时情报分析能力",
+      "link": "https://blacksky.com/press-releases/blacksky-acquires-epochgeo-to-expand-real-time-intelligence-capabilities-with-ai-enabled-rf-signals-and-multi-source-analytics",
+      "snippet": "BlackSky宣布收购EpochGeo，以AI赋能RF、信号及多源分析提升实时情报能力。",
+      "raw_snippet": "HERNDON, Va. (November 24, 2026) — BlackSky Technology Inc. (NYSE: BKSY) today announced the acquisition of EpochGeo, a geospatial data science firm that specializes in artificial intelligence and machine learning (AI/ML) solutions that fuse multiple data sources, including RF and signals intelligence, for mission-critical defense applications. The acquisition advances BlackSky’s strategy to deliver comprehensive solutions for real-time intelligence on the most important locations and events [...] Acquisition brings new U.S. and International defense customers and advanced multi-source analytics and fusion technology to expand the company’s real-time intelligence solutions [...] BlackSky is a real-time, space-based intelligence company that delivers on-demand, high frequency imagery, analytics, and high-frequency monitoring of the most critical and strategic locations, economic assets, and events in the world. BlackSky owns and operates one of the industry’s most advanced, purpose-built commercial, real-time intelligence systems that combines the power of the BlackSky Spectra® tasking and analytics software platform and our proprietary low earth orbit satellite",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "Radiology Partners完成对Everlight Radiology的收购",
+      "link": "https://www.radpartners.com/2026/11/radiology-partners-completes-acquisition-of-everlight-radiology",
+      "snippet": "通过RP Clinical Services完成收购，扩展放射学服务网络与全球布局。",
+      "raw_snippet": "Radiology Partners, Inc., through RP Clinical Services and our managed practices, together with Mosaic Clinical Technologies, Inc., our technology and artificial intelligence division, is the leading global provider of radiology services, as well as related advanced technology and AI. Our network of approximately 4,700 radiologists, based in over 40 countries, interprets more than 57 million imaging studies each year for 3,700 hospitals and other healthcare facilities in six countries. Learn [...] ### Combination creates a global leader in teleradiology, extending 24/7/365 subspecialty coverage for hospitals, health systems and imaging providers across the United Kingdom, Ireland, Australia, New Zealand and South Africa [...] Everlight now operates as part of RP’s global teleradiology business, alongside RP Clinical Services’ vRad unit, the largest teleradiology platform in the U.S. The combination brings together Everlight’s international radiologist network and vRad’s U.S. teleradiology capabilities, expanding RP’s ability to support hospitals, health systems and imaging providers with 24/7/365 coverage across major international markets.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "Goodwin就Unconventional AI收购NeuReality提供法律咨询",
+      "link": "https://www.goodwinlaw.com/en/news-and-events/news/2026/11/announcements-otherindustries-goodwin-advises-unconventional-ai-acquisition-neureality",
+      "snippet": "Goodwin为Unconventional AI收购NeuReality的交易提供全程法律咨询服务。",
+      "raw_snippet": "# Goodwin Advises Unconventional AI on Acquisition of NeuReality\n\nThe Technology M&A team advised Unconventional AI on its acquisition of NeuReality, a pioneer in purpose-built AI inference infrastructure and silicon. This acquisition brings together NeuReality’s experienced development team, which specializes in systems architecture, chip design, and indifference systems development for artificial intelligence, to Unconventional AI. The transaction closed on November 19, 2026. [...] Unconventional AI is founded by experts in AI systems, analog circuits, computing theory, and neuroscience. Unconventional AI is rethinking the foundations of computing to bring biology-scale efficiency to artificial intelligence. The company is targeting a 1000x improvement in AI to compute efficiency over conventional systems by redesigning AI infrastructure from first principles. [...] The Goodwin team was led by Nate Hagler, Andrew Schipper, Hayden Kursh, Joyce Chang, Kelsey Lemaster, Kate Blansett, Kevin Liu, Mina Matsumoto, Jacqueline Klosek, Daniel Berrick, April Sun, Laura Conway, Cisco Palao-Ricketts, Nate Cunningham, Sofia Polishchuk, Ai Tajima, and Alexandra Bargoot.\n\nFor more information on the deal, please read the press release.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "AI辅助对腹部超声效率、人体工学及测量一致性的影响（medRxiv）",
+      "link": "https://www.medrxiv.org/content/10.64898/2026.11.23.26368613v1",
+      "snippet": "本研究评估AI辅助腹部超声在检查效率、操作人体工学及测量一致性方面的表现，为临床应用提供参考。",
+      "raw_snippet": "hand were acquired. Movements of the non-scanning hand were recorded during a subset of examinations (N=17) to evaluate distance traveled with and without AI. An offline measurement exercise (N=32) using standardized image datasets assessed agreement between AI-generated and manual measurements and the effect of AI assistance on the consistency of measurements across users. Results: AI assistance reduced mean exam time by 2.23 minutes (SD 0.44 minutes) (95% CI: -3.10, -1.36; P&lt;0.001); [...] OObjectives: Evaluate how the addition of AI-assisted image acquisition and measurements affects the efficiency, ergonomics, accuracy, and consistency of abdominal ultrasound examination. Methods: Randomized, crossover study utilizing an abdominal ultrasound system with integrated AI features. Experienced sonographers (N=33) performed standardized examinations with and without AI-assisted features enabled. Metrics of timing and control interactions by the non-scanning hand were acquired. [...] -1.36; P&lt;0.001); independent of participants age, experience, or the sequence of AI-assisted vs manual scans. AI assistance reduced mean distance traveled by the non-scanning hand by 49.2% (P&lt;0.001). AI assistance also reduced overall control interactions by the non-scanning hand by 36%, touchscreen reaches by 41.5%, interactions with the control panel by 23.4%, and mouse movements and clicks by 54.2% and 61.1%, respectively (P&lt;0.001 for all). During offline measurement, users accepted",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "UTMB关于我们：以人工智能推动医疗进步",
+      "link": "https://www.utmb.edu/ai/home/about-us",
+      "snippet": "UTMB致力于借助人工智能等前沿技术推动医疗创新，提升医疗服务质量与患者护理水平。",
+      "raw_snippet": "At UTMB, we are committed to advancing healthcare through the power of artificial intelligence. As part of our ongoing mission to innovate and improve patient care, research, and operational efficiency, we are excited to announce two groundbreaking developments: the launch of the UTMB Artificial Intelligence Council and the appointment of Dr. Peter McCaffrey as our inaugural Chief AI Officer. These initiatives represent a significant step forward in integrating AI across our clinical, research, [...] ## AI Leadership\n\nDr. Peter McCaffrey, VP, Chief Digital & AI Officer [...] clinical, research, educational, and operational efforts. By fostering collaboration and innovation, we aim to harness the transformative potential of AI to drive improvements in healthcare delivery, accelerate research breakthroughs, and enhance our overall institutional performance. Join us on this exciting journey as we embrace the future of AI-driven healthcare innovation.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "EWOR招聘AI联合创始人/销售负责人（全职）",
+      "link": "https://jobs.lever.co/ewor/1a54e35e-cf4f-42d6-9d46-2a9f73bd8738",
+      "snippet": "EWOR正在招聘AI联合创始人兼销售负责人（全职），负责推动公司人工智能产品的商业化与增长。",
+      "raw_snippet": "Artificial Intelligence Co-Founder / Head of Sales (100 % remote) (m/f/d) ... We are looking to hire ambitious entrepreneurs to start and scale their own startups",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "Roland Berger人工智能咨询服务",
+      "link": "https://www.rolandberger.com/en/locations/greater-china/insights/global-topics/artificial-intelligence/consulting-services",
+      "snippet": "罗兰贝格提供AI战略咨询，助力企业利用人工智能重塑业务运营、决策模式与竞争优势。",
+      "raw_snippet": "Artificial Intelligence (AI) is fundamentally reshaping how businesses generate value and operate, presenting both a challenge and an opportunity for leadership. To succeed, organizations must go beyond adopting technology — they need clear strategies, integrated approaches, and measurable outcomes. We work alongside business leaders to turn AI’s potential into lasting impact, combining expertise in strategy, people, technology, and transformation. Whether at the beginning or scaling advanced [...] or scaling advanced efforts, we enable holistic, executable AI transformation. [...] - AI Strategy  \n  Craft a clear, organization-wide roadmap for AI, aligned with your business priorities, market positioning, and innovation goals. We help define where and how AI delivers the greatest strategic value across your company.\n- Data Integration  \n  Lay the foundation for scalable AI by connecting the right data, systems, and infrastructure. We align data strategy with business needs, enabling intelligent use of company data and unlocking AI-powered insights.\n- AI Agents",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "Actively AI招聘联合创始人首席助理（纽约）",
+      "link": "https://www.builtinnyc.com/job/chief-staff-co-founder/9201327",
+      "snippet": "Actively AI在纽约招聘首席助理，协助联合创始人推进公司战略、日常运营与业务增长。",
+      "raw_snippet": "Actively AI is hiring for a Chief of Staff to Co-Founder in New York City, NY, USA. Find more details about the job and how to apply at",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "BCG AI产品开发咨询服务",
+      "link": "https://www.bcg.com/capabilities/artificial-intelligence/ai-product-development-consulting",
+      "snippet": "BCG提供AI产品开发咨询，帮助企业加速构建并部署生成式AI解决方案，实现业务价值。",
+      "raw_snippet": "BCG Answer))BCG Answer   Image 39 BCG AnswerDiscover the answer to your most important business challenges. BCG Answer delivers integrated insights powered by our latest cross-functional expertise. Ask us a question    \n       The CEO Agenda))The CEO Agenda   Image 40: THE-CEO-AGENDA-static.jpg The CEO AgendaA forward-thinking CEO agenda has never been more crucial. Our insights give you greater clarity on what lies ahead, helping you lead with confidence. Visit Page [...] Within Careers \n       Search Jobs\n       Early Careers\n       Culture, Values, and Inclusion\n       Experienced Professionals\n       Locations\n       Events\n\nArtificial Intelligence\n\n# AI Product Development\n\nAI is changing what companies can afford to build. BCG's AI product development services help organizations accelerate innovation, bring new products to market more quickly, and develop the engineering capabilities needed to deliver lasting customer value.\n\nImage 50 [...] )Artificial Intelligence   \n\nImage 17: AI V2 Hero Video Artificial IntelligenceScaling artificial intelligence can create a massive competitive advantage. Learn how our AI-driven initiatives have helped clients extract value. Visit Page  \n\n  \n\nWithin Artificial Intelligence \n               AI Agents\n               AI Product Development\n               Generative AI\n               Responsible AI",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-26",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "RF Acquisition Corp III完成1亿美元SPAC IPO并提交RFAM 8-K文件",
+          "link": "https://www.stocktitan.net/sec-filings/RFAM/8-k-rf-acquisition-corp-iii-reports-material-event-38d820931287.html",
+          "snippet": "该公司计划通过此次SPAC IPO募资，在亚洲deep technology领域寻找潜在并购目标。",
+          "index": 1
+        },
+        {
+          "title": "BlackSky收购EpochGeo，扩展AI赋能的RF、信号及多源实时情报分析能力",
+          "link": "https://blacksky.com/press-releases/blacksky-acquires-epochgeo-to-expand-real-time-intelligence-capabilities-with-ai-enabled-rf-signals-and-multi-source-analytics",
+          "snippet": "BlackSky宣布收购EpochGeo，以AI赋能RF、信号及多源分析提升实时情报能力。",
+          "index": 2
+        },
+        {
+          "title": "Radiology Partners完成对Everlight Radiology的收购",
+          "link": "https://www.radpartners.com/2026/11/radiology-partners-completes-acquisition-of-everlight-radiology",
+          "snippet": "通过RP Clinical Services完成收购，扩展放射学服务网络与全球布局。",
+          "index": 3
+        },
+        {
+          "title": "Goodwin就Unconventional AI收购NeuReality提供法律咨询",
+          "link": "https://www.goodwinlaw.com/en/news-and-events/news/2026/11/announcements-otherindustries-goodwin-advises-unconventional-ai-acquisition-neureality",
+          "snippet": "Goodwin为Unconventional AI收购NeuReality的交易提供全程法律咨询服务。",
+          "index": 4
+        },
+        {
+          "title": "AI辅助对腹部超声效率、人体工学及测量一致性的影响（medRxiv）",
+          "link": "https://www.medrxiv.org/content/10.64898/2026.11.23.26368613v1",
+          "snippet": "本研究评估AI辅助腹部超声在检查效率、操作人体工学及测量一致性方面的表现，为临床应用提供参考。",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "UTMB关于我们：以人工智能推动医疗进步",
+          "link": "https://www.utmb.edu/ai/home/about-us",
+          "snippet": "UTMB致力于借助人工智能等前沿技术推动医疗创新，提升医疗服务质量与患者护理水平。",
+          "index": 6
+        },
+        {
+          "title": "EWOR招聘AI联合创始人/销售负责人（全职）",
+          "link": "https://jobs.lever.co/ewor/1a54e35e-cf4f-42d6-9d46-2a9f73bd8738",
+          "snippet": "EWOR正在招聘AI联合创始人兼销售负责人（全职），负责推动公司人工智能产品的商业化与增长。",
+          "index": 7
+        },
+        {
+          "title": "Roland Berger人工智能咨询服务",
+          "link": "https://www.rolandberger.com/en/locations/greater-china/insights/global-topics/artificial-intelligence/consulting-services",
+          "snippet": "罗兰贝格提供AI战略咨询，助力企业利用人工智能重塑业务运营、决策模式与竞争优势。",
+          "index": 8
+        },
+        {
+          "title": "Actively AI招聘联合创始人首席助理（纽约）",
+          "link": "https://www.builtinnyc.com/job/chief-staff-co-founder/9201327",
+          "snippet": "Actively AI在纽约招聘首席助理，协助联合创始人推进公司战略、日常运营与业务增长。",
+          "index": 9
+        },
+        {
+          "title": "BCG AI产品开发咨询服务",
+          "link": "https://www.bcg.com/capabilities/artificial-intelligence/ai-product-development-consulting",
+          "snippet": "BCG提供AI产品开发咨询，帮助企业加速构建并部署生成式AI解决方案，实现业务价值。",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
