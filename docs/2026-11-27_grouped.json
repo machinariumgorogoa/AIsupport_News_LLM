@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-27",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "Post-Money Valuation：创始人的融资条款指南",
+          "link": "https://www.getaiperks.com/pt/blogs/282-post-money-valuation-for-startups",
+          "snippet": "[创始人应将Post-Money Valuation视为融资条款的一部分，结合股权稀释与清算优先权综合评估。]",
+          "index": 1
+        },
+        {
+          "title": "2026年顶级AI国防初创公司：融资、估值与市场领导者",
+          "link": "https://aifunding.me/insights/top-ai-defense-startups-2026",
+          "snippet": "[本文梳理2026年AI国防初创企业的融资规模、估值水平及市场领军者，为投资者与从业者提供参考。]",
+          "index": 2
+        },
+        {
+          "title": "人工智能助力UGA研究人员变革佐治亚州农业",
+          "link": "https://fieldreport.caes.uga.edu/news/uga-artificial-intelligence-precision-agriculture-georgia",
+          "snippet": "[资金由高级副总裁办公室资助，支持UGA研究团队利用AI技术推动佐治亚州农业转型。]",
+          "index": 3
+        },
+        {
+          "title": "ICAIML 2026 威尔明顿——计算机科学会议",
+          "link": "https://www.conferencealert.com/eventdetail/2375137",
+          "snippet": "[2026年11月26日，人工智能与机器学习国际会议（ICAIML）将在美国威尔明顿举办，聚焦计算机科学前沿。]",
+          "index": 4
+        },
+        {
+          "title": "Quantum Breakfast：量子、AI与太空——卢森堡大学FSTM活动",
+          "link": "https://www.uni.lu/fstm-en/events/quantum-breakfast-quantum-ai-and-space",
+          "snippet": "[卢森堡大学FSTM举办Quantum Breakfast活动，探讨量子计算、人工智能与太空领域的交叉机遇。]",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "新员工——《Tallahassee Magazine》",
+          "link": "https://www.tallahasseemagazine.com/the-new-hire",
+          "snippet": "[Scott Downes的招聘理念强调，区分AI工具与新人类员工的角色是组建高效团队的关键。]",
+          "index": 6
+        },
+        {
+          "title": "Assembler AI联合创始人兼CEO Brett Beranek访谈：计算机视觉、制造自动化与提升工厂生产力",
+          "link": "https://pulse2.com/assembler-ai-profile-brett-beranek-interview",
+          "snippet": "[Brett Beranek表示，未来24个月公司首要目标是完成Series A融资，并扩大计算机视觉在制造业的应用。]",
+          "index": 7
+        },
+        {
+          "title": "AI产品战略案例：来自15家公司的20条经验",
+          "link": "https://productfaculty.com/blog/ai-product-strategy-examples",
+          "snippet": "[文章从15家公司提炼20条经验，指出应先以AI重构流程、再考虑扩招团队，而非先招人后加AI。]",
+          "index": 8
+        },
+        {
+          "title": "如何在卢森堡组建AI团队：关键角色有哪些",
+          "link": "https://insights.morganphilips.com/en/how-to-build-an-ai-team-in-luxembourg-which-roles-should-you-hire-first",
+          "snippet": "[在卢森堡构建AI团队时，首个AI岗位应依据组织目标设定，并配备数据、算法、工程及产品等关键角色。]",
+          "index": 9
+        },
+        {
+          "title": "超越AI助手：由ChatGPT自身发起的产品演进提案",
+          "link": "https://community.openai.com/t/beyond-the-ai-assistant-a-product-evolution-proposal-initiated-by-chatgpt-itself/1421296",
+          "snippet": "[OpenAI开发者社区讨论由ChatGPT主动提出的产品演进方向，探索超越AI助手的新智能形态与产品机会。]",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}

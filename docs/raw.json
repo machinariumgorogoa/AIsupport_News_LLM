@@ -1,294 +1,262 @@
 {
-  "date": "2026-11-26",
-  "count": 35,
+  "date": "2026-11-27",
+  "count": 31,
   "items": [
     {
-      "title": "IPO Artificial Intelligence Transparency Statement - GOV.UK",
-      "link": "https://www.gov.uk/government/publications/ipo-artificial-intelligence-transparency-statement",
-      "snippet": "# IPO Artificial Intelligence Transparency Statement\n\nHow the Intellectual Prope...",
-      "raw_snippet": "# IPO Artificial Intelligence Transparency Statement\n\nHow the Intellectual Property Office (IPO) uses artificial intelligence (AI) responsibly, securely and transparently.\n\n## Documents\n\n## Details\n\nThis statement explains how the IPO uses artificial intelligence (AI), the safeguards and oversight we have in place, and how we provide transparency about its use.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
-      "link": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today",
-      "snippet": "mergers and acquisitions, and secondary liquidity transactions, as well as fund ...",
-      "raw_snippet": "mergers and acquisitions, and secondary liquidity transactions, as well as fund formation needs. [...] By Aaron Rubin and Greg Volkmar\n\nValuations for AI companies have soared, and the companies are moving faster than ever. In the financings our firm has worked on so far in 2026, AI companies raised at median pre-money valuations up to 2.5 times those of non-AI companies from seed through Series C. [...] Across the broader private market, Crunchbase’s Current Valuation Model estimates that the more than 1,900 startups on its Unicorn Board are worth about $2 trillion more collectively than their last reported funding-round valuations.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Cell Tower Valuation AI Skill for the A.CRE Excel Model",
-      "link": "https://www.adventuresincre.com/ai-skill-cell-tower-valuation-model",
-      "snippet": "The Cell Tower Valuation Model underwrites the acquisition of a single cell towe...",
-      "raw_snippet": "The Cell Tower Valuation Model underwrites the acquisition of a single cell tower, or of a tower lease, on a monthly basis for up to 132 months. Tenant rents, with free-rent months and annual escalations, less operating expenses produce Tower Cash Flow (TCF). Price is Year 0 TCF times an entry multiple, plus closing costs. Uses are funded by GP equity, LP equity, a senior loan, and an optional mezzanine loan in a funding order you set, and the asset sells at a TCF multiple at the end of the [...] - Includes three-role identification (tower acquirer/investor, landowner pricing a ground lease buyout, student/Accelerator member) with a tower asset versus tower lease question, input population from tenant leases, OMs, ground leases, operating statements, and term sheets, a tenant-row hand-off for the Add Tenant and Delete Tenant macros, and mistake-catching across the TCF price input, monthly rent entry, sale month and loan term limits, multiple selection, and funding-order terms [...] Who this Skill is for. This Skill is built for real estate professionals with a strong grasp of financial modeling, and ideally prior exposure to cell tower underwriting, ground lease valuation, and real estate finance. It’s best suited to graduates of our A.CRE Accelerator real estate financial modeling program, or analysts comfortable building acquisition models from scratch. AI assistants make mistakes, and the Skill assumes an analyst on the other side who can catch them. Treat its output",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "RF Acquisition Corp III完成1亿美元SPAC IPO并提交RFAM 8-K文件",
-      "link": "https://www.stocktitan.net/sec-filings/RFAM/8-k-rf-acquisition-corp-iii-reports-material-event-38d820931287.html",
-      "snippet": "该公司计划通过此次SPAC IPO募资，在亚洲deep technology领域寻找潜在并购目标。",
-      "raw_snippet": "The company plans to seek targets in Asia’s deep technology sector, including artificial intelligence, quantum computing, and biotechnology. Actual outcomes will depend on identifying and negotiating a suitable transaction within the stated 21–24 month period and on shareholder approval mechanics described in the charter provisions.\n\n### 8-K Event Classification\n\n## FAQ\n\nAI-generated questions and answers. How Rhea-AI works. Not financial advice. [...] AI-generated analysis. How Rhea-AI works. Not financial advice. [...] # RF Acquisition Corp III completes $100M SPAC IPO\n\nLearn about SEC filing dates\n\nSentiment and the balance of points\n\nRhea-AI Sentiment reads the wording of the document, how positive or negative its language is on a 1 to 5 scale. The balance of points shown with the takes weighs what the document actually discloses, so the two can disagree, for example when a trial that missed its main goal is described in upbeat language.\n\n## Rhea-AI Filing Summary",
+      "title": "Post-Money Valuation：创始人的融资条款指南",
+      "link": "https://www.getaiperks.com/pt/blogs/282-post-money-valuation-for-startups",
+      "snippet": "[创始人应将Post-Money Valuation视为融资条款的一部分，结合股权稀释与清算优先权综合评估。]",
+      "raw_snippet": "Trate o valuation como uma parte dos termos de financiamento, e não como uma medida completa de que o negócio é bom para a sua empresa. Antes de avaliar uma proposta, esclareça estes pontos: [...] O valuation pós-money é o valor da empresa depois do novo investimento. O valuation pré-money descreve a empresa antes da chegada do investimento. Os dois números estão relacionados, mas não são intercambiáveis, e uma proposta é difícil de avaliar se não especifica qual deles está sendo citado.\n\nA relação básica é:\n\n- Valuation pós-money = valuation pré-money + investimento\n- Percentual de participação do investidor = investimento / valuation pós-money [...] Esses cálculos conectam o valor declarado da empresa ao capital captado e à fatia de participação emitida. Para os fundadores, o ponto prático é identificar a base do valuation antes de comparar propostas ou estimar a diluição. Um valor de destaque, por si só, não mostra quanto da empresa o investidor recebe.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 1
     },
     {
-      "title": "BlackSky收购EpochGeo，扩展AI赋能的RF、信号及多源实时情报分析能力",
-      "link": "https://blacksky.com/press-releases/blacksky-acquires-epochgeo-to-expand-real-time-intelligence-capabilities-with-ai-enabled-rf-signals-and-multi-source-analytics",
-      "snippet": "BlackSky宣布收购EpochGeo，以AI赋能RF、信号及多源分析提升实时情报能力。",
-      "raw_snippet": "HERNDON, Va. (November 24, 2026) — BlackSky Technology Inc. (NYSE: BKSY) today announced the acquisition of EpochGeo, a geospatial data science firm that specializes in artificial intelligence and machine learning (AI/ML) solutions that fuse multiple data sources, including RF and signals intelligence, for mission-critical defense applications. The acquisition advances BlackSky’s strategy to deliver comprehensive solutions for real-time intelligence on the most important locations and events [...] Acquisition brings new U.S. and International defense customers and advanced multi-source analytics and fusion technology to expand the company’s real-time intelligence solutions [...] BlackSky is a real-time, space-based intelligence company that delivers on-demand, high frequency imagery, analytics, and high-frequency monitoring of the most critical and strategic locations, economic assets, and events in the world. BlackSky owns and operates one of the industry’s most advanced, purpose-built commercial, real-time intelligence systems that combines the power of the BlackSky Spectra® tasking and analytics software platform and our proprietary low earth orbit satellite",
+      "title": "2026年顶级AI国防初创公司：融资、估值与市场领导者",
+      "link": "https://aifunding.me/insights/top-ai-defense-startups-2026",
+      "snippet": "[本文梳理2026年AI国防初创企业的融资规模、估值水平及市场领军者，为投资者与从业者提供参考。]",
+      "raw_snippet": "Title: Top AI Defense Startups in 2026: Funding, Valuations & Market Leaders | AI Funding\n# Top AI Defense Startups in 2026: Funding, Valuations & Market Leaders. The AI Defense sector is one of the most dynamic areas of AI investment in 2026. This report profiles the top-funded startups in the space, their investors, and the market dynamics driving growth. The AI Defense sector is one of the most dynamic areas of AI investment in 2026. This report profiles the top-funded startups in the space, their investors, and the market dynamics driving growth. The AI funding landscape continues to evolve rapidly, with significant capital flowing into companies pushing the boundaries of artificial intelligence. This period's activity reflects both growing investor confidence and the increasing maturity of the ecosystem. Deal sizes and valuations continue to climb as AI transitions from experimental technology to core enterprise infrastructure. ## Sector at a Glance. | Average Latest Valuation | N/A |. | Sector Page | /sector/ai-defense |. ## Top AI Defense Startups by Total Funding. * **Latest Round:** Series F ($4K). * **Key Investors:** Founders Fund, Andreessen Horowitz. * **Company Page:** /companies/anduril-industries. > Defense technology company building AI-powered autonomous systems for national security. The competitive landscape remains dynamic, with established players and well-funded startups vying for market share. Differentiation increasingly comes from technology depth, go-to-market execution, and strategic partnerships that provide distribution advantages. ## Most Active Investors in AI Defense. This area of the AI market continues to attract significant investor attention, reflecting the sector's rapid growth and substantial long-term potential. ## AI Defense Trends to Watch. This area of the AI market continues to attract significant investor attention, reflecting the sector's rapid growth and substantial long-term potential. *Data sourced from AI Funding's funding database. Rankings based on total disclosed funding. This scaffold was generated with AI Funding's content tools and may require editorial review before publication.*. ### Get the Weekly AI Funding Roundup. Every AI funding deal, delivered weekly. Anduril Industries: How a High-Growth AI Defense Pioneer Is Reshaping the Industry. May 13, 2026AI Funding Report Q1 2026: $34.1B+ Raised Across 81 Major Deals. Apr 7, 2026Top 10 VC Firms Investing in AI (2026 Rankings). Mar 11, 2026Top AI Robotics Startups to Watch in 2026: $1.4B+ in Funding.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 2
     },
     {
-      "title": "Radiology Partners完成对Everlight Radiology的收购",
-      "link": "https://www.radpartners.com/2026/11/radiology-partners-completes-acquisition-of-everlight-radiology",
-      "snippet": "通过RP Clinical Services完成收购，扩展放射学服务网络与全球布局。",
-      "raw_snippet": "Radiology Partners, Inc., through RP Clinical Services and our managed practices, together with Mosaic Clinical Technologies, Inc., our technology and artificial intelligence division, is the leading global provider of radiology services, as well as related advanced technology and AI. Our network of approximately 4,700 radiologists, based in over 40 countries, interprets more than 57 million imaging studies each year for 3,700 hospitals and other healthcare facilities in six countries. Learn [...] ### Combination creates a global leader in teleradiology, extending 24/7/365 subspecialty coverage for hospitals, health systems and imaging providers across the United Kingdom, Ireland, Australia, New Zealand and South Africa [...] Everlight now operates as part of RP’s global teleradiology business, alongside RP Clinical Services’ vRad unit, the largest teleradiology platform in the U.S. The combination brings together Everlight’s international radiologist network and vRad’s U.S. teleradiology capabilities, expanding RP’s ability to support hospitals, health systems and imaging providers with 24/7/365 coverage across major international markets.",
+      "title": "人工智能助力UGA研究人员变革佐治亚州农业",
+      "link": "https://fieldreport.caes.uga.edu/news/uga-artificial-intelligence-precision-agriculture-georgia",
+      "snippet": "[资金由高级副总裁办公室资助，支持UGA研究团队利用AI技术推动佐治亚州农业转型。]",
+      "raw_snippet": "The grants are funded by the Office of the Senior Vice President for Academic Affairs and Provost and the Office of Research, with additional support from CAES. The funding provides faculty with critical resources to launch high-impact projects positioned to secure future external investment. [...] rain cloud iconmolecule iconplant icon\n\n## Investing in AI innovation\n\nThis year, UGA’s Institute for Artificial Intelligence (IAI) has awarded seed grants to eight university-wide research projects designed to advance interdisciplinary AI research. [...] George Vellidis \n\nFor specific purposes — for example a peanut breeder managing 10,000 plots of peanuts for disease resistance or high yield — producers can use specialized AI software trained to process drone images of fields, drawing on terabyte-scale databases with sophisticated algorithms that can recognize objects, identify patterns and trends, make decisions, generate predictions, and prescribe actions in real time.",
       "is_chinese": false,
       "source_type": "funding",
       "index": 3
     },
     {
-      "title": "From Black Box to Glass Box: How DISE Will Reshape Investor Analysis of Compensation - Equity Methods",
-      "link": "https://www.equitymethods.com/articles/from-black-box-to-glass-box-how-dise-will-reshape-investor-analysis-of-compensation",
-      "snippet": "Start with the valuation logic. Historically, a talent-heavy R&D engine scaled r...",
-      "raw_snippet": "Start with the valuation logic. Historically, a talent-heavy R&D engine scaled roughly in line with headcount. To do twice the research, a company generally needed twice the researchers. Operating leverage was modest, and margin expansion came from scaling go-to-market activities or improving gross margins, not from making R&D itself more efficient.\n\nAI should upend that assumption. [...] Of all the analytical doors DISE opens, the one most likely to surprise people is the talent-versus-infrastructure split inside R&D. This distinction has always been an interesting question with meaningful valuation implications. Now, as artificial intelligence changes labor force productivity, the story told by the numbers will evolve markedly. [...] The distinction is important because, relative to ABC, XYZ has a more infrastructure-intensive R&D engine. Investors will view that as a sign of lower SBC dilution risk and more stable cash compensation, but also a slower path to operating leverage on the R&D line. The valuation conversation may pivot toward whether XYZ is investing enough in talent, particularly engineering talent capable of competing in an AI-native landscape, relative to peers carrying higher SBC ratios. Supply chain",
+      "title": "AI Workshop Series - Vancouver Island Regional Library",
+      "link": "https://virl.bc.ca/event/ai-workshop-series/2026-11-25",
+      "snippet": "AI generated image of the Roman colosseum with brightly coloured slides; image f...",
+      "raw_snippet": "AI generated image of the Roman colosseum with brightly coloured slides; image from TechRadar www.techradar.com\n\nJoin us to learn important and current information about Artificial Intelligence.\n\n- Artificial Intelligence: what is it really?\n- AI in social media\n- AI in videos and photos\n- How to use and navigate AI in daily life\n\nSpace is limited so please stop by, call, or email to reserve your post. Free!",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Goodwin就Unconventional AI收购NeuReality提供法律咨询",
-      "link": "https://www.goodwinlaw.com/en/news-and-events/news/2026/11/announcements-otherindustries-goodwin-advises-unconventional-ai-acquisition-neureality",
-      "snippet": "Goodwin为Unconventional AI收购NeuReality的交易提供全程法律咨询服务。",
-      "raw_snippet": "# Goodwin Advises Unconventional AI on Acquisition of NeuReality\n\nThe Technology M&A team advised Unconventional AI on its acquisition of NeuReality, a pioneer in purpose-built AI inference infrastructure and silicon. This acquisition brings together NeuReality’s experienced development team, which specializes in systems architecture, chip design, and indifference systems development for artificial intelligence, to Unconventional AI. The transaction closed on November 19, 2026. [...] Unconventional AI is founded by experts in AI systems, analog circuits, computing theory, and neuroscience. Unconventional AI is rethinking the foundations of computing to bring biology-scale efficiency to artificial intelligence. The company is targeting a 1000x improvement in AI to compute efficiency over conventional systems by redesigning AI infrastructure from first principles. [...] The Goodwin team was led by Nate Hagler, Andrew Schipper, Hayden Kursh, Joyce Chang, Kelsey Lemaster, Kate Blansett, Kevin Liu, Mina Matsumoto, Jacqueline Klosek, Daniel Berrick, April Sun, Laura Conway, Cisco Palao-Ricketts, Nate Cunningham, Sofia Polishchuk, Ai Tajima, and Alexandra Bargoot.\n\nFor more information on the deal, please read the press release.",
+      "title": "[Venture Park] BEYOND AI: When Technology Transforms Reality (Nov 26 (Thu)) Tickets, Thursday, November 26 • 5 PM - 8 PM | Eventbrite",
+      "link": "https://www.eventbrite.com/e/venture-park-beyond-ai-when-technology-transforms-reality-nov-26-thu-tickets-2004938699622",
+      "snippet": "​His recent book, AI Plus Economy, explores the evolution of AI agents and the b...",
+      "raw_snippet": "​His recent book, AI Plus Economy, explores the evolution of AI agents and the broader impact of artificial intelligence on industries and the economy.\n\n​In this session, Professor Lee will review the major developments of the AI industry in 2026 and explore the technology, investment, and market trends expected to shape 2027. [...] - ​Anyone looking to connect with founders, researchers, investors, and professionals across the AI and robotics ecosystem [...] ​🎤 \\[Talk 2] AI Industry Outlook: What's Next in 2027?  \n​Kyung-Jeon Lee, Professor, Kyung Hee University\n\nLooking back at AI in 2026 and exploring the trends shaping the global AI industry in 2027\n\n​​What defined the AI industry in 2026?\n\n​From advances in generative AI and the rise of AI agents to growing competition among global technology companies, artificial intelligence is transforming not only how businesses operate but also how entire industries compete.",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "AI Day @Bcombinator | AI Events Barcelona",
+      "link": "https://aieventsbarcelona.com/events/bcombinator-ai-day-2026",
+      "snippet": "AI Events Barcelona · summit\n\n# AI Day @Bcombinator\n\nA practical day for founder...",
+      "raw_snippet": "AI Events Barcelona · summit\n\n# AI Day @Bcombinator\n\nA practical day for founders, executives, investors and AI experts on moving artificial-intelligence projects from pilots into scalable, governed operations.\n\nThis is a volunteer-run, independent guide to AI events in Barcelona. It is not affiliated with, endorsed by or connected to AI Week Barcelona or AI Summit Barcelona. Official programme: aiweekbarcelona.com. Summit tickets: aisummitbarcelona.com",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Artificial Intelligence Conferences in Toronto 2026 & 2027 | ACA",
+      "link": "https://www.allconferencealert.com/toronto/ai",
+      "snippet": "13–14 Dec 2026 · 2 days Toronto\n\n### Tuesday, 15 December 2026 2 events\n\n#### In...",
+      "raw_snippet": "13–14 Dec 2026 · 2 days Toronto\n\n### Tuesday, 15 December 2026 2 events\n\n#### International Conference on Artificial Intelligence and Robotics\") ICAIR\n\n15 Dec 2026Toronto\n\n#### International Conference on Intelligent Manufacturing and Automation\") ICIMA\n\n15 Dec 2026Toronto\n\n### Saturday, 26 December 2026 2 events\n\n#### International Conference on Next-Generation AI Technologies\") ICNGAIT\n\n26–27 Dec 2026 · 2 days Toronto [...] 27–28 Nov 2026 · 2 days Toronto\n\n#### International Conference on Big Data and Artificial Intelligence and IoT\") ICBDAIT\n\n27–28 Nov 2026 · 2 days Toronto\n\n#### International Conference on Advances in AI, Computer Science and Business Management\") ICAICSBM\n\n27–28 Nov 2026 · 2 days Toronto\n\n### Saturday, 28 November 2026 2 events\n\n#### International Conference on Smart Technology, Artificial Intelligence and Computer Engineering\") ICSTAICE\n\n28–29 Nov 2026 · 2 days Toronto [...] #### International Conference on Digital Economy, AI, Business Analytics & Strategic Management\") ICDEAIBSM\n\n26–27 Nov 2026 · 2 days Toronto\n\n#### International Conference on Agentic AI, Embedded Clinical Workflows, and Automated Diagnostics\") ICAECWAD\n\n26–27 Nov 2026 · 2 days Toronto\n\n#### International Conference on Robotics, Automation & Intelligent Systems\") ICRAIS\n\n26–27 Nov 2026 · 2 days Toronto",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Artificial Intelligence Conferences in Johannesburg 2026 & 2027 | ACA",
+      "link": "https://www.allconferencealert.com/johannesburg/artificial-intelligence",
+      "snippet": "- Submission until 27 Dec\n- Submission until 27 Dec\n- International Conference o...",
+      "raw_snippet": "- Submission until 27 Dec\n- Submission until 27 Dec\n- International Conference on Digital Economy, AI, Business Analytics & Strategic Management ICDEAIBSMSubmission until 27 Dec\n- International Conference on Agentic AI, Embedded Clinical Workflows, and Automated Diagnostics ICAECWADSubmission until 27 Dec\n- Submission until 27 Dec\n- World Conference on NextGen Aerospace Innovation, Mechanical Engineering & Advanced Manufacturing WCNAMEMSubmission until 27 Dec\n- Submission until 27 Dec [...] ## Artificial Intelligence conferences in Johannesburg at a glance\n\nOur calendar has 30 Artificial Intelligence conferences scheduled in Johannesburg, between 25 Nov 2026 and 25 Jun 2027.\n\nWithin Artificial Intelligence, the most common subjects are Computer Science (15), Engineering (13), and Technology (12). December 2026 is the busiest month with 10 events, while November 2026 is the quietest (1). [...] - Submission until 27 Dec\n- International Conference on Circular Economy, Renewable Energy and Sustainable Energy Management ICCERSEMSubmission until 27 Dec",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "AIREN2026 Call for Papers & Deadline | Baghdad, Iraq (Nov 2026)",
+      "link": "https://callforpaper.org/cfp/call-for-papers-airen2026",
+      "snippet": "The First Engineering Conference on Advanced Developments in Artificial Intellig...",
+      "raw_snippet": "The First Engineering Conference on Advanced Developments in Artificial Intelligence and Robotics and Their Applications in Engineering Fields (AIREN2026) is a scientific event dedicated to discussing the latest scientific and technological advancements in the field. It provides a platform for presenting recent research and studies that contribute to the development of engineering applications, highlighting the role of artificial intelligence in fostering innovation and serving the community. [...] # Advances in Artificial Intelligence and Robotics for Engineering Applications\n\nAIREN2026 is an engineering conference focused on the latest developments in artificial intelligence, robotics, and their practical applications in various engineering fields.\n\n## About the AIREN2026 Call For Paper [...] ```\nAdvances in Artificial Intelligence and Robotics for Engineering Applications. (2026, November 25–26). Baghdad, Iraq, Baghdad, Iraq. \n```",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "Artificial Intelligence Conferences in Greece 2026 & 2027 | ACA",
+      "link": "https://www.allconferencealert.com/greece/artificial-intelligence",
+      "snippet": "- Submission closed\n- Submission closed\n- Submission closed\n- International Conf...",
+      "raw_snippet": "- Submission closed\n- Submission closed\n- Submission closed\n- International Conference on Digital Economy, AI, Business Analytics & Strategic Management ICDEAIBSMSubmission closed\n- International Conference on Agentic AI, Embedded Clinical Workflows, and Automated Diagnostics ICAECWADSubmission closed\n- Submission closed\n- World Conference on NextGen Aerospace Innovation, Mechanical Engineering & Advanced Manufacturing WCNAMEMSubmission closed\n- Submission closed\n- Submission closed [...] <!--THE END-->\n\n- Submission closed\n\n### 2 events\n\n- Submission closed\n- Submission closed\n\n### 2 events\n\n- Submission closed\n- Submission closed\n\n### 2 events\n\n- Submission closed\n- Submission closed\n\n<!--THE END-->\n\n- Submission closed\n\n<!--THE END-->\n\n- Submission closed\n\n### 7 events\n\n- Submission until 10 Dec\n- Submission until 29 Nov\n- Submission until 29 Nov\n- Submission until 10 Dec\n- Submission until 29 Nov\n- Submission until 29 Nov\n- Submission until 29 Nov\n\n### 2 events [...] Most events take place in Athens (36), Crete (28), and Thessaloniki (12). Many Artificial Intelligence events also cover Computer Science (23), Technology (15), and Engineering (15). December 2026 is the busiest month, with 30 events.\n\n49 events are still accepting submissions; the next deadline is 29 Nov 2026. 23 organizers list events here; the most active are Iastem (9), Researchworld (7), and International Institute for Technology & Advanced Research (5).",
+      "is_chinese": false,
+      "source_type": "funding"
+    },
+    {
+      "title": "ICAIML 2026 威尔明顿——计算机科学会议",
+      "link": "https://www.conferencealert.com/eventdetail/2375137",
+      "snippet": "[2026年11月26日，人工智能与机器学习国际会议（ICAIML）将在美国威尔明顿举办，聚焦计算机科学前沿。]",
+      "raw_snippet": "# International Conference on Artificial Intelligence and Machine Learning (ICAIML 2026)\n\n26th November 2026 · Wilmington, Delaware, USA\n\nDates\n\n26th November 2026\n\nFormat\n\nIn person\n\nPaper deadline\n\n30th October 2026 (closed)\n\nType\n\nConference\n\n## Verification and trust [...] - Artificial neural networks\n- Association rule learning\n- Automata, logic and games\n- Bayesian networks\n- Clustering\n- Commercial software\n- Commercial software with open-source editions\n- Complex systems\n- Computational complexity\n- Computational learning theory\n- Computational linguistics\n- Computer animation\n- Computer science\n- Computer system\n- Concurrent algorithms and data structures\n- Data mining\n- Decision tree learning\n- Deep Learning\n- Design and analysis of algorithms [...] - Genetic algorithms\n- Inductive logic programming\n- Intelligent systems\n- Lambda calculus and types\n- Logic and proof\n- Machine learning\n- Models of computation\n- Object-oriented programming\n- Open-source software\n- Pattern recognition\n- Reinforcement learning\n- Representation learning\n- Similarity and metric learning\n- Sparse dictionary learning\n- Supervised learning\n- Support vector machines\n- Unsupervised learning",
       "is_chinese": false,
       "source_type": "funding",
       "index": 4
     },
     {
-      "title": "BlackSky Adds AI Analytics With EpochGeo Acquisition",
-      "link": "https://www.govconwire.com/articles/blacksky-epochgeo-acquisition-ai-space-intel",
-      "snippet": "BlackSky fully acquired satellite manufacturer LeoStella in November 2024 by pur...",
-      "raw_snippet": "BlackSky fully acquired satellite manufacturer LeoStella in November 2024 by purchasing the remaining 50 percent stake from Thales Alenia Space. LeoStella, which the two companies formed as a joint venture in 2018, builds BlackSky’s Gen-3 satellite, designed to use shortwave infrared imaging and inter-satellite links to deliver real-time information. [...] - EpochGeo’s AI/ML analytics technology combines RF, SIGINT and other data sources\n- BlackSky will keep supporting EpochGeo customers through existing contracts\n- Capabilities will be offered through AI subscriptions and sovereign mission offerings\n\nBlackSky Technology has acquired geospatial data science company EpochGeo to integrate artificial intelligence and machine learning analytics with its space-based intelligence services. [...] BlackSky plans to grant restricted stock units covering up to 565,000 shares of its common stock to up to 43 EpochGeo employees in non-executive roles. Employees would receive the full share amount only if all 43 come on board.\n\nThe awards will be issued under an inducement equity plan that BlackSky’s board adopted on Oct. 29. Because the plan is limited to new hires, it did not require a shareholder vote under New York Stock Exchange rules.",
+      "title": "ICAIML 2026 Springfield – Computer Science Conference | 25 Nov",
+      "link": "https://www.conferencealert.com/eventdetail/2375105",
+      "snippet": "# International Conference on Artificial Intelligence and Machine Learning (ICAI...",
+      "raw_snippet": "# International Conference on Artificial Intelligence and Machine Learning (ICAIML 2026)\n\n25th November 2026 · Springfield, Missouri, USA\n\nDates\n\n25th November 2026\n\nFormat\n\nIn person\n\nPaper deadline\n\n29th October 2026 (closed)\n\nType\n\nConference\n\n## Verification and trust [...] - Artificial neural networks\n- Association rule learning\n- Automata, logic and games\n- Bayesian networks\n- Clustering\n- Commercial software\n- Commercial software with open-source editions\n- Complex systems\n- Computational complexity\n- Computational learning theory\n- Computational linguistics\n- Computer animation\n- Computer science\n- Computer system\n- Concurrent algorithms and data structures\n- Data mining\n- Decision tree learning\n- Deep Learning\n- Design and analysis of algorithms [...] - Genetic algorithms\n- Inductive logic programming\n- Intelligent systems\n- Lambda calculus and types\n- Logic and proof\n- Machine learning\n- Models of computation\n- Object-oriented programming\n- Open-source software\n- Pattern recognition\n- Reinforcement learning\n- Representation learning\n- Similarity and metric learning\n- Sparse dictionary learning\n- Supervised learning\n- Support vector machines\n- Unsupervised learning",
       "is_chinese": false,
       "source_type": "funding"
     },
     {
-      "title": "Report: Artificial Intelligence – the Australian way – Parliament of Australia",
-      "link": "https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence/ArtificialIntelligence/Report",
-      "snippet": "Recommendation 2\n\n8.2The JSCAI recommends that the Australian Government urgentl...",
-      "raw_snippet": "Recommendation 2\n\n8.2The JSCAI recommends that the Australian Government urgently consider and deliver on the need to provide additional funding to the AI Safety Institute (AISI) in recognition of the fast-paced growth of, and risks associated with, developing frontier capabilities.\n\nRecommendation 3 [...] Recommendation 29\n\n8.29The JSCAI also recommends that the Australian Government provide ongoing and consistent funding for public interest compute directly, through programs like the National Collaborative Research Infrastructure Strategy (NCRIS) to meet national research needs that cannot be met by LLM training data centres.\n\nRecommendation 30 [...] payment for the use of their work. Further, there should be strong penalties for failure to comply with the law, including breaches of technical protections.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Deputy General Counsel - Artificial Intelligence and Technology at UnitedHealth Group",
-      "link": "https://careers.unitedhealthgroup.com/job/minnetonka/deputy-general-counsel-artificial-intelligence-and-technology/34088/103739098608",
-      "snippet": "- Partner with technical and business stakeholders to address novel legal questi...",
-      "raw_snippet": "- Partner with technical and business stakeholders to address novel legal questions and help ensure AI initiatives align with applicable legal requirements and enterprise governance standards\n- Advise on technology related legal matters across the enterprise\n- Shape enterprise AI and technology legal strategy; advise executive leaders on significant initiatives and align guidance across Legal, Compliance and Regulatory Affairs [...] - Expertise, judgment, and executive presence to advise leadership on complex legal matters and to lead and develop a team of attorneys [...] Preferred Qualifications:\n\n- Poise with senior stakeholders and a collaborative approach to solving complex problems\n- Exceptional legal analysis, written communication, and verbal communication skills\n- Results-driven mindset with intellectual curiosity and a solid work ethic\n- Ownership mentality with accountability for deliverables and outcomes\n- Organizational agility to advocate for key decisions while remaining collaborative and open to alternative viewpoints",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Role of Artificial Intelligence in English Language Teaching",
-      "link": "https://www.irejournals.com/paper-details/1725591",
-      "snippet": "(AI) platforms and resources for English language learners, including virtual la...",
-      "raw_snippet": "(AI) platforms and resources for English language learners, including virtual language assistants, smart tutoring systems, and language learning applications. [...] Artificial Intelligence (AI) has become increasingly prevalent in education due to ongoing technological advances, with a significant impact on language teaching. This essay explores the role of AI in English language teaching (ELT) and its potential to enhance student outcomes. The research explores contemporary studies on the application of AI in education, focusing on language acquisition and skills enhancement. The research examines various artificial intelligence (AI) platforms and [...] in English language teaching (ELT) and its potential to enhance student outcomes. The research explores contemporary studies on the application of AI in education, focusing on language acquisition and skills enhancement. The research examines various artificial intelligence (AI) platforms and resources for English language learners, including virtual language assistants, smart tutoring systems, and language learning applications.}, keywords = {artificial intelligence, language assessment,",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Researcher (Security and Technology Programme, Artificial Intelligence) → UNIDIR",
-      "link": "https://unidir.org/job/researcher-security-and-technology-programme-artificial-intelligence-261123",
-      "snippet": "- Experience in international, multistakeholder settings, including convening st...",
-      "raw_snippet": "- Experience in international, multistakeholder settings, including convening stakeholders with differing perspectives to deliberate complex issues, is desirable.\n- A proven track record in resource mobilization/fundraising is desirable. [...] The United Nations Institute for Disarmament Research (UNIDIR) is a voluntarily funded, autonomous institution within the United Nations. One of the few policy institutes worldwide focusing on disarmament, UNIDIR generates knowledge and promotes dialogue and action on disarmament and security. Based in Geneva, UNIDIR assists the international community to develop the practical, innovative ideas needed to find solutions to critical security problems. [...] to ensure that global governance frameworks adapt effectively to a rapidly evolving technological landscape.",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Artificial Intelligence Bargaining Rights | Washington Federation of State Employees (WFSE)",
-      "link": "https://wfse.org/artificial-intelligence-bargaining-rights",
-      "snippet": "NOW is the time to ensure we have a voice in this transformational technology as...",
-      "raw_snippet": "NOW is the time to ensure we have a voice in this transformational technology as federal funds dry up and our employers are pushed to cut costs.\n\nOur state is at a junction as the use of AI rises. AI can help workers and improve public services, but it can also affect job duties, staffing, workloads, accountability, and service quality. That's why WFSE supports legislation guaranteeing public employees the right to bargain over AI. [...] ### State Parks Arbitration Rights\n\nState Parks Arbitration Rights\n\nai bargaining rights\n\n### Artificial Intelligence Bargaining Rights\n\nArtificial Intelligence Bargaining Rights [...] # Tell Your Story\n\nThe people who do the work deserve a voice in the decisions that shape it. That's true now more than ever.\n\nwfse member lobbyings\n\n# Sign Up for Your 2027 Lobby Day!\n\nFind links to lobby, legislative priorities, and more links to lobby, and more on our 2027 legislative session landing page.\n\nsafe staffing now rally in olympia\n\n### Workload Sustainability\n\nWorkload Sustainability\n\nabhs featured image\n\n### ABHS Funding\n\nABHS Funding\n\nUW plant services",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "Pilot Grants",
-      "link": "https://www.utmb.edu/ai/home/pilot-grants",
-      "snippet": "Four awards of up to $25,000 each for clinical or basic science investigations w...",
-      "raw_snippet": "Four awards of up to $25,000 each for clinical or basic science investigations will be granted. Requests for additional AI computing tokens will also be considered (at no additional cost within the proposed budget), subject to demonstrated need. [...] ## Full proposals due: January 11, 2027 11:59pm\n\nThe Center for Artificial Intelligence invite Investigators to submit proposals for our inaugural AI-Enabled Research pilot program.\n\nThis program is designed to catalyze research in which artificial intelligence plays a central, enabling role. [...] Eligibility -Applicants must hold a full-time faculty appointment (Research Scientist, Clinical Faculty, Assistant Professor, Associate Professor, or Professor).\n\nPostdoctoral fellows or graduate students may apply as PI, under mentorship of a faculty member.\n\nSubmission due date – Monday, January 11, 2027\n\nAwardee notification – Monday February 8, 2027\n\nFunding start date – Monday March 1, 2027\n\nFind full Request For Proposal documents here -",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "AJNR on X: \"\"Impact of Imaging Acquisition and Protocol Variability on Artificial Intelligence Model Performance…\"",
-      "link": "https://x.com/TheAJNR/status/2125258250685694010",
-      "snippet": "# AJNR on X: \"\"Impact of Imaging Acquisition and Protocol Variability on Artific...",
-      "raw_snippet": "# AJNR on X: \"\"Impact of Imaging Acquisition and Protocol Variability on Artificial Intelligence Model Performance…\"\n\n\"Impact of Imaging Acquisition and Protocol Variability on Artificial Intelligence Model Performance: A Secondary Analysis of the ASFNR Artificial Intelligence Competition\"\n\n[Image 1]\n\n[Image 2]\n\n- Author: @TheAJNR (AJNR)\n- Posted: 2026-11-24T16:00:27+00:00\n- Views: 644\n- Likes: 4\n- Reposts: 2\n- Replies: 1\n- Quotes: 0\n- Bookmarks: 0\n- Links: \n\n## People [...] ## People\n\n- @TheAJNR (AJNR) — The American Journal of Neuroradiology is a peer-reviewed journal focusing on diagnostic and interventional neuroradiology. Published by @TheASNR",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "AI辅助对腹部超声效率、人体工学及测量一致性的影响（medRxiv）",
-      "link": "https://www.medrxiv.org/content/10.64898/2026.11.23.26368613v1",
-      "snippet": "本研究评估AI辅助腹部超声在检查效率、操作人体工学及测量一致性方面的表现，为临床应用提供参考。",
-      "raw_snippet": "hand were acquired. Movements of the non-scanning hand were recorded during a subset of examinations (N=17) to evaluate distance traveled with and without AI. An offline measurement exercise (N=32) using standardized image datasets assessed agreement between AI-generated and manual measurements and the effect of AI assistance on the consistency of measurements across users. Results: AI assistance reduced mean exam time by 2.23 minutes (SD 0.44 minutes) (95% CI: -3.10, -1.36; P&lt;0.001); [...] OObjectives: Evaluate how the addition of AI-assisted image acquisition and measurements affects the efficiency, ergonomics, accuracy, and consistency of abdominal ultrasound examination. Methods: Randomized, crossover study utilizing an abdominal ultrasound system with integrated AI features. Experienced sonographers (N=33) performed standardized examinations with and without AI-assisted features enabled. Metrics of timing and control interactions by the non-scanning hand were acquired. [...] -1.36; P&lt;0.001); independent of participants age, experience, or the sequence of AI-assisted vs manual scans. AI assistance reduced mean distance traveled by the non-scanning hand by 49.2% (P&lt;0.001). AI assistance also reduced overall control interactions by the non-scanning hand by 36%, touchscreen reaches by 41.5%, interactions with the control panel by 23.4%, and mouse movements and clicks by 54.2% and 61.1%, respectively (P&lt;0.001 for all). During offline measurement, users accepted",
+      "title": "Quantum Breakfast：量子、AI与太空——卢森堡大学FSTM活动",
+      "link": "https://www.uni.lu/fstm-en/events/quantum-breakfast-quantum-ai-and-space",
+      "snippet": "[卢森堡大学FSTM举办Quantum Breakfast活动，探讨量子计算、人工智能与太空领域的交叉机遇。]",
+      "raw_snippet": "Title: Quantum Breakfast: Quantum, AI and Space - FSTM events I Uni.lu\nFaculty of Science, Technology and Medicine. Faculty of Law, Economics and Finance. Faculty of Humanities, Education and Social Sciences. Interdisciplinary Centre for Security, Reliability and Trust. Luxembourg Centre for Systems Biomedicine. Luxembourg Centre for Contemporary and Digital History. Luxembourg Centre for European Law. Luxembourg Centre for Socio-Environmental Systems. # Quantum Breakfast: Quantum, AI and Space. 7, rue Alcide de Gasperi. Join us for an enlightening event focused on the exciting world of quantum, artificial intelligence and space. As quantum accelerates and artificial intelligence becomes increasingly capable, their convergence is opening new frontiers in space exploration, satellite systems, mission planning, and the management of complex space‑based infrastructures. This event is designed for students, professionals, researchers, innovators, decision-makers and enthusiasts who are eager to examine how these emerging tools can transform both scientific discovery and commercial space operations. This event is the fifth one of the Quantum breakfast series organised by the University of Luxembourg and the AI Factory. The event will be moderated by Lisa Burke. #### Programme. ##### Daniele Brida. Professor in Experimental Condensed Matter Physics, University of Luxembourg. Professor in Experimental Condensed Matter Physics. #### Moderation. ##### Lisa Burke. #### Registration. Registration is free but mandatory. Please register before 20 November 2026. #### Partner. ## Share this. ## Stay connected and subscribe to our newsletter. Choose among our mailing list(s).",
       "is_chinese": false,
       "source_type": "funding",
       "index": 5
     },
     {
-      "title": "AB 1146: English Language Learner Acquisition and Development ...",
-      "link": "https://calmatters.digitaldemocracy.org/bills/b-22814",
-      "snippet": "Under the program, grants are made to local educational agencies, as defined, to identify existing best practices regarding topics including,",
-      "raw_snippet": "Under the program, grants are made to local educational agencies, as defined, to identify existing best practices regarding topics including,",
-      "is_chinese": false,
-      "source_type": "funding"
-    },
-    {
-      "title": "UTMB关于我们：以人工智能推动医疗进步",
-      "link": "https://www.utmb.edu/ai/home/about-us",
-      "snippet": "UTMB致力于借助人工智能等前沿技术推动医疗创新，提升医疗服务质量与患者护理水平。",
-      "raw_snippet": "At UTMB, we are committed to advancing healthcare through the power of artificial intelligence. As part of our ongoing mission to innovate and improve patient care, research, and operational efficiency, we are excited to announce two groundbreaking developments: the launch of the UTMB Artificial Intelligence Council and the appointment of Dr. Peter McCaffrey as our inaugural Chief AI Officer. These initiatives represent a significant step forward in integrating AI across our clinical, research, [...] ## AI Leadership\n\nDr. Peter McCaffrey, VP, Chief Digital & AI Officer [...] clinical, research, educational, and operational efforts. By fostering collaboration and innovation, we aim to harness the transformative potential of AI to drive improvements in healthcare delivery, accelerate research breakthroughs, and enhance our overall institutional performance. Join us on this exciting journey as we embrace the future of AI-driven healthcare innovation.",
+      "title": "新员工——《Tallahassee Magazine》",
+      "link": "https://www.tallahasseemagazine.com/the-new-hire",
+      "snippet": "[Scott Downes的招聘理念强调，区分AI工具与新人类员工的角色是组建高效团队的关键。]",
+      "raw_snippet": "That distinction is at the heart of Scott Downes’ philosophy about artificial intelligence in the workplace: AI shouldn’t replace people and their roles; it should make us better at them.\n\nDownes, founder and CEO of Supernal AI, served for years as chief technology officer of Invisible Technologies, an AI infrastructure and operations company where he and his team helped train and build out the platforms behind many contemporary, big-firm AI tech companies. [...] “Rather than asking World Emblem to abandon the systems it had already built its business around, Supernal turned the company’s floor management process into software,” says Michelle Hayes, Head of Marketing and Communications at Supernal AI. “Information can now move from a frontline worker toward the CEO without requiring someone to manually track it down. A live data layer sits beneath two AI layers: one designed for leadership and another for floor management with the goal of identifying [...] # The New Hire\n\n##### AI agents are transforming the workplace\n\nScott 02 At The Desk To Camera Web\n\nAs the globe’s largest custom patch and emblem manufacturer, World Emblem, spearheaded by CEO Randy Carr, has for years relied upon the same operations management system to ensure smooth sailing for the 250 million products it ships from six factories annually.",
       "is_chinese": false,
       "source_type": "people",
       "index": 6
     },
     {
-      "title": "EWOR招聘AI联合创始人/销售负责人（全职）",
-      "link": "https://jobs.lever.co/ewor/1a54e35e-cf4f-42d6-9d46-2a9f73bd8738",
-      "snippet": "EWOR正在招聘AI联合创始人兼销售负责人（全职），负责推动公司人工智能产品的商业化与增长。",
-      "raw_snippet": "Artificial Intelligence Co-Founder / Head of Sales (100 % remote) (m/f/d) ... We are looking to hire ambitious entrepreneurs to start and scale their own startups",
+      "title": "AI Product Builder, Office of the CEO - Wellfound",
+      "link": "https://wellfound.com/jobs/5137954-product-engineer-clone",
+      "snippet": "Product.ai is hiring a AI Product Builder, Office of the CEO in Los Angeles - Ap...",
+      "raw_snippet": "Product.ai is hiring a AI Product Builder, Office of the CEO in Los Angeles - Apply now on Wellfound!",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Assembler AI联合创始人兼CEO Brett Beranek访谈：计算机视觉、制造自动化与提升工厂生产力",
+      "link": "https://pulse2.com/assembler-ai-profile-brett-beranek-interview",
+      "snippet": "[Brett Beranek表示，未来24个月公司首要目标是完成Series A融资，并扩大计算机视觉在制造业的应用。]",
+      "raw_snippet": "Over the next 24 months, our priority is to secure Series A financing and use it to take Assembler AI into every high-value manufacturing market, including Europe, Japan and South Korea. On the product side, we’re developing Teammate AI, which will guide operators step by step at the workstation. The goal is to go beyond flagging an error after it happens and help prevent it in the first place.\n\nUsing AI To Empower Manufacturing Workers [...] Our product is Operator Vision, a computer vision platform for manual work in manufacturing. A single camera at a workstation watches every production cycle. First, it automates time studies: it measures cycle time for every step, on every cycle, across every shift, and attaches video to the outliers so engineers can see exactly what happened. Second, it checks adherence to standard work in real time. When an operator misses a step, uses the wrong part or does steps out of sequence, supervisors [...] We’ve taken a contrarian view of AI. So much of the industry is focused on eliminating humans from the factory floor. We’re focused on helping humans be their best. We believe firmly that AI should serve the good of humanity, and that philosophy shapes our entire product strategy: Operator Vision exists to give skilled operators, supervisors and engineers better insight and earlier warnings, not to replace them. I’m pleased to say this approach has been warmly received across the manufacturing",
       "is_chinese": false,
       "source_type": "people",
       "index": 7
     },
     {
-      "title": "Roland Berger人工智能咨询服务",
-      "link": "https://www.rolandberger.com/en/locations/greater-china/insights/global-topics/artificial-intelligence/consulting-services",
-      "snippet": "罗兰贝格提供AI战略咨询，助力企业利用人工智能重塑业务运营、决策模式与竞争优势。",
-      "raw_snippet": "Artificial Intelligence (AI) is fundamentally reshaping how businesses generate value and operate, presenting both a challenge and an opportunity for leadership. To succeed, organizations must go beyond adopting technology — they need clear strategies, integrated approaches, and measurable outcomes. We work alongside business leaders to turn AI’s potential into lasting impact, combining expertise in strategy, people, technology, and transformation. Whether at the beginning or scaling advanced [...] or scaling advanced efforts, we enable holistic, executable AI transformation. [...] - AI Strategy  \n  Craft a clear, organization-wide roadmap for AI, aligned with your business priorities, market positioning, and innovation goals. We help define where and how AI delivers the greatest strategic value across your company.\n- Data Integration  \n  Lay the foundation for scalable AI by connecting the right data, systems, and infrastructure. We align data strategy with business needs, enabling intelligent use of company data and unlocking AI-powered insights.\n- AI Agents",
+      "title": "🧨 Launch Producer, Business Marketing, Remote Job, November 2026",
+      "link": "https://dynamitejobs.com/company/openai/remote-job/launch-producer-business-marketing",
+      "snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that gener...",
+      "raw_snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum [...] At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.\n\n### Compensation\n\n$212K – $236K • Offers Equity\n\nDon't wait, tomorrow could be too late.\n\n#### About the company\n\n- #### Similar Remote Jobs\n\n<!--THE END--> [...] - Build reusable workflows, templates, and production approaches. Use AI-enabled tools, post-launch learnings, and asset performance to improve speed, quality, and effectiveness without adding unnecessary process.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "EWOR - Artificial Intelligence Co-Founder / Head of Sales ... - Lever",
+      "link": "https://jobs.lever.co/ewor/e66c22cf-253f-4c78-9082-342802371c59",
+      "snippet": "Artificial Intelligence Co-Founder / Head of Sales (100 % remote) (m/f/d) ... We...",
+      "raw_snippet": "Artificial Intelligence Co-Founder / Head of Sales (100 % remote) (m/f/d) ... We are looking to hire ambitious entrepreneurs to start and scale their own startups",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "AI产品战略案例：来自15家公司的20条经验",
+      "link": "https://productfaculty.com/blog/ai-product-strategy-examples",
+      "snippet": "[文章从15家公司提炼20条经验，指出应先以AI重构流程、再考虑扩招团队，而非先招人后加AI。]",
+      "raw_snippet": "This flips the default. Instead of hiring first and adding AI later, teams have to try AI first and explain why it falls short. It forces a real test of what AI can do in each team's work.\n\nFor your product: make AI the first option for new work, and hiring the deliberate choice.\n\nSources: TechCrunch · Fortune\n\n## 3. Put AI where people already are [...] Source: Uber Engineering, How Uber Evals 1 Million Agent Skill Invocations a Month\n\n### 19Don't let cost beat quality Klarna\n\nKlarna said in 2024 that its AI assistant did the work of 700 agents. In 2025 its CEO said cost had been given too much weight and quality suffered, and Klarna began hiring human agents again so customers can always reach a person. [...] The biggest AI launches didn't ask people to open a new app. They added AI to a product people already used every day, at the moment it was useful.\n\n### 08Use the distribution you have Google\n\nSundar Pichai said on the Q2 2025 earnings call that AI Overviews in Search reached more than 2 billion monthly users, up from 1.5 billion in May. Later reports put it at 2.5 billion.",
       "is_chinese": false,
       "source_type": "people",
       "index": 8
     },
     {
-      "title": "Actively AI招聘联合创始人首席助理（纽约）",
-      "link": "https://www.builtinnyc.com/job/chief-staff-co-founder/9201327",
-      "snippet": "Actively AI在纽约招聘首席助理，协助联合创始人推进公司战略、日常运营与业务增长。",
-      "raw_snippet": "Actively AI is hiring for a Chief of Staff to Co-Founder in New York City, NY, USA. Find more details about the job and how to apply at",
+      "title": "[Hiring] Technical Co-Founder @Clera - Remotive",
+      "link": "https://remotive.com/remote/jobs/artificial-intelligence/technical-co-founder-6720778",
+      "snippet": "Role Description. Join an early-stage AI venture as a technical co-founder and b...",
+      "raw_snippet": "Role Description. Join an early-stage AI venture as a technical co-founder and build an AI assistant that completes real tasks with human support.",
       "is_chinese": false,
-      "source_type": "people",
-      "index": 9
+      "source_type": "people"
     },
     {
-      "title": "BCG AI产品开发咨询服务",
+      "title": "AI Product Development Consulting | BCG",
       "link": "https://www.bcg.com/capabilities/artificial-intelligence/ai-product-development-consulting",
-      "snippet": "BCG提供AI产品开发咨询，帮助企业加速构建并部署生成式AI解决方案，实现业务价值。",
+      "snippet": "BCG Answer))BCG Answer   Image 39 BCG AnswerDiscover the answer to your most imp...",
       "raw_snippet": "BCG Answer))BCG Answer   Image 39 BCG AnswerDiscover the answer to your most important business challenges. BCG Answer delivers integrated insights powered by our latest cross-functional expertise. Ask us a question    \n       The CEO Agenda))The CEO Agenda   Image 40: THE-CEO-AGENDA-static.jpg The CEO AgendaA forward-thinking CEO agenda has never been more crucial. Our insights give you greater clarity on what lies ahead, helping you lead with confidence. Visit Page [...] Within Careers \n       Search Jobs\n       Early Careers\n       Culture, Values, and Inclusion\n       Experienced Professionals\n       Locations\n       Events\n\nArtificial Intelligence\n\n# AI Product Development\n\nAI is changing what companies can afford to build. BCG's AI product development services help organizations accelerate innovation, bring new products to market more quickly, and develop the engineering capabilities needed to deliver lasting customer value.\n\nImage 50 [...] )Artificial Intelligence   \n\nImage 17: AI V2 Hero Video Artificial IntelligenceScaling artificial intelligence can create a massive competitive advantage. Learn how our AI-driven initiatives have helped clients extract value. Visit Page  \n\n  \n\nWithin Artificial Intelligence \n               AI Agents\n               AI Product Development\n               Generative AI\n               Responsible AI",
       "is_chinese": false,
-      "source_type": "people",
-      "index": 10
+      "source_type": "people"
     },
     {
-      "title": "Hire AI Agent Developers | Custom AI Agents & Automation Experts",
-      "link": "https://www.weblineglobal.com/hire/ai-agent-developers",
-      "snippet": "Expertise\n\nArtificial Intelligence (AI) Chatbot Cloud Database & SQL DevOps Digi...",
-      "raw_snippet": "Expertise\n\nArtificial Intelligence (AI) Chatbot Cloud Database & SQL DevOps Digital Transformation Dot Net eCommerce Frontend Maintenance & Upgrades Process Automation ReactJS SaaS Technology Website & Web Apps\n\nView Akshat \n\nAkshat\n\n### Akshat\n\nSoftware Developer, 1+ Years\n\nExpertise\n\nArtificial Intelligence (AI) Chatbot Database & SQL Frontend Machine Learning n8n Automation NodeJS Process Automation Python ReactJS\n\nView Dimpal \n\nDimpal\n\n### Dimpal\n\nSoftware Developer, 3+ years\n\nExpertise [...] ### Hospitality Review Intelligence Product Development with Offshore AI Team Government Liaison Operations Digitization with Dedicated Offshore Team\n\n### Government Liaison Operations Digitization with Dedicated Offshore Team\n\nView More\n\n## Hear It Straight from Our Global Clients [...] Expertise\n\nArtificial Intelligence (AI) Chatbot Database & SQL Frontend Machine Learning n8n Automation Process Automation Python ReactJS\n\nView Chintan \n\nChintan\n\n### Chintan\n\nSenior QA Engineer, 7+ Years\n\nExpertise\n\nAndroid Artificial Intelligence (AI) Chatbot CRM Cross Platform Database & SQL eCommerce ERP iOS Mobile Apps QA Technology Website & Web Apps\n\nView Shubhra \n\nShubhra\n\n### Shubhra\n\nSenior Software Developer, 5+ years\n\nExpertise",
+      "title": "Core Startups, Account Director at OpenAI (Singapore) | MLQ.ai Jobs",
+      "link": "https://mlq.ai/jobs/openai/core-startups-account-director-29522",
+      "snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that gener...",
+      "raw_snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum [...] - Have a passion for or deep curiosity about artificial intelligence. You embrace the opportunity to help deploy our technology in a way that benefits humanity. You’re excited to educate our customers on AI and how to plan for the future.\n- Are a builder. You are excited to impact how our company operates and scales. Your passion is building strong systems and processes from the ground up and executing them with precision. [...] - 7-12 years selling platform-as-a-service and/or software-as-a-service, ideally with API and AI experience.\n- Designing and executing complex, multi-threaded deal strategies.\n- Experience working in or around the startup ecosystem, preferably as a founder, startup employee, or someone who has worked with startup customers.\n- Experience supporting the growth of fast-growing, high-performance companies.\n- Communicating technical concepts to customers, including C-level executives.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
       "title": "Vice President, Product Owner - AI Automation & Intelligent Data Platforms | Citi Careers",
       "link": "https://jobs.citi.com/job/london/vice-president-product-owner-ai-automation-and-intelligent-data-platforms/287/103763636064",
-      "snippet": "- Significant experience in product management, with a proven track record of la...",
-      "raw_snippet": "- Significant experience in product management, with a proven track record of launching and scaling technical, data-intensive products. Deep experience in product strategy, roadmap definition, user-centric design, and go-to-market execution.\n\nAI & Data Acumen: [...] - Lead the ideation, development, and launch of innovative \"Data as a Product\" offerings. This includes creating intelligent APIs that anticipate client needs and leveraging cloud data platforms like Snowflake for secure, on-demand data sharing.\n\nAI-Driven Platform Automation: [...] What you’ll do:\n\nA visionary product leader responsible for defining and executing the strategy for our next-generation, AI-first data platform. This role will own the product lifecycle from concept to launch, driving the transition from manual data operations to intelligent, autonomous systems. The ultimate goal is to deliver Data as a Product, enabling scalable, real-time, and frictionless client data delivery through innovative APIs and cloud ecosystems like Snowflake.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Product Lead, AI Email Applications, Artificial Intelligence (AI) Required - Work From Home - M - Next Step Systems - Remote | Dice.com",
-      "link": "https://www.dice.com/job-detail/cf3842dd-0a92-4748-930c-81660c00de4a",
-      "snippet": "Remote\n\n•\n\nToday [...] Easy Apply\n\nFull-time\n\n185000 - 200000 [...] Technical Pr...",
-      "raw_snippet": "Remote\n\n•\n\nToday [...] Easy Apply\n\nFull-time\n\n185000 - 200000 [...] Technical Product Lead, AI Email Applications, Artificial Intelligence (AI) Required - Work From Home As Technical Product Lead, AI Email Applications, you will work at the intersection of user needs, model capability, and engineering constraints. The Technical Product Lead will work directly with Machine Learning (ML) and engineering teams to define how the system should behave, how we measure it, and how we continuously improve it. This is a deeply technical, hands-on role. You are expected t",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "AGILOX Tech Talk Why Physical AI Changes Manufacturing",
-      "link": "https://www.agilox.net/en/blog/why-physical-ai-changes-manufacturing",
-      "snippet": "For 250 years, industrial progress has followed a remarkably consistent pattern:...",
-      "raw_snippet": "For 250 years, industrial progress has followed a remarkably consistent pattern: we have found new ways to amplify human capabilities. First muscle, then efficiency, then reliability, then connectivity. Now, we are entering the next chapter – intelligence. David Niedermayier, Co-CEO and Co-Founder of AGILOX, explores what happens when AI moves from our screens into machines, and why this shift could become critical for the future of European manufacturing. [...] By David Niedermaier, Co-CEO & Co-Founder, AGILOX\n\nWhen we talk about smart manufacturing, we tend to think immediately about robots, autonomous systems and increasingly sophisticated machines. But before looking at where manufacturing is heading, I think it is worth taking a step back, because what we are experiencing today is not an isolated technological development. It is part of a much bigger story –- one that began around 250 years ago with the Industrial Revolution. [...] Then came Industry 4.0. We connected machines to one another and connected factories to the digital world. Data became an increasingly important resource, allowing us to monitor processes, optimize operations and understand production in ways that had not previously been possible.\n\nAnd now we are entering another chapter.\n\nThe chapter of intelligence.\n\nAI is beginning to move from the screen into the machine, and that shift has implications that go far beyond technology itself.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "How propane companies can onboard and train an AI tool like any new hire - LP Gas",
-      "link": "https://www.lpgasmagazine.com/how-propane-companies-can-onboard-and-train-an-ai-tool-like-any-new-hire",
-      "snippet": "# How propane companies can onboard and train an AI tool like any new hire\n\nJust...",
-      "raw_snippet": "# How propane companies can onboard and train an AI tool like any new hire\n\nJust like a new human hire, AI needs training to learn how your business operates. (Photo: tadamichI/iStock / Getty Images Plus/Getty Images)\n\nMy last column compared building an artificial intelligence (AI) knowledge base to following a Julia Child recipe. Now it’s time to leave the kitchen and step into the familiar surroundings of a propane operation to onboard and train your newest hire: AI. [...] New AI hires, like new human hires, take time to become productive. Checking and correcting the output takes time, too. Measure the time saved after that review and expand AI’s responsibilities only when it meets your accuracy and productivity goals. [...] Give AI permission to flag missing or conflicting information and refer questions beyond its assignment to a person. In fact, like any new employee, make sure that AI understands that guessing is not part of your company’s job description.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Product Proposal: AI-Guided Interpersonal Problem-Solving A new application for artificial intelligence - Feature requests - OpenAI Developer Community",
-      "link": "https://community.openai.com/t/product-proposal-ai-guided-interpersonal-problem-solving-a-new-application-for-artificial-intelligence/1420752",
-      "snippet": "attempting to correct someone else.&lt;/p&gt; &lt;p&gt;It should not determine w...",
-      "raw_snippet": "attempting to correct someone else.&lt;/p&gt; &lt;p&gt;It should not determine who deserves to win. It should help people understand what is actually happening and make better-informed decisions.&lt;/p&gt; &lt;p&gt;The central requirement is willingness: participants must be genuinely open to the possibility that their own understanding may be incomplete or incorrect.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The opportunity:&lt;/strong&gt; Use artificial intelligence not to replace human relationships, [...] intellectual honesty and personal growth.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;3. Collaborative discussion&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;When both participants are ready and voluntarily agree, they enter a shared conversation facilitated by the AI.&lt;/p&gt; &lt;p&gt;The system helps identify misunderstandings, examine competing arguments, recognize common ground, and explore constructive solutions.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;4. Outcome independence&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This [...] &lt;li&gt; &lt;p&gt;Friendships.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Other interpersonal disagreements.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;a class=\"anchor\" href=\"#p-2012380-why-this-matters-5\"&gt;&lt;/a&gt;Why this matters&lt;/h3&gt; &lt;p&gt;Professional counseling can be expensive, intimidating, inaccessible, or simply undesirable to some individuals.&lt;/p&gt; &lt;p&gt;AI could provide an accessible alternative for structured self-examination and constructive",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Apply for Sr. Corporate Counsel – U.S. Privacy & Artificial Intelligence",
-      "link": "https://careers.t-mobile.com/sr-corporate-counsel-u-s-privacy-artificial-intelligence/job/C194B1EA1C80FDA39F7974822597A24F",
-      "snippet": "This role will navigate complex and evolving privacy and AI legal requirements, ...",
-      "raw_snippet": "This role will navigate complex and evolving privacy and AI legal requirements, helping the business pursue innovative products, services, and",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "AI Product Builder at The Cigna Group - United States Remote",
-      "link": "https://www.remoterocketship.com/us/company/thecignagroup/jobs/ai-product-builder-united-states-remote",
-      "snippet": "The Cigna Group is a global health company committed to improving the health and...",
-      "raw_snippet": "The Cigna Group is a global health company committed to improving the health and vitality of its clients, customers, and patients. With its two divisions, Cigna Healthcare and Evernorth Health Services, the company focuses on enhancing quality of life through healthcare services and pharmacy benefits management. The Cigna Group is dedicated to ethical practices in healthcare and artificial intelligence, and strives to create positive change in the healthcare system. It also emphasizes its [...] 10,000+ employees\n\nFounded 1982\n\n🏥 Healthcare\n\n⚕️ Healthcare Insurance\n\n💊 Pharmaceuticals\n\nHealthcare • Healthcare Insurance • Pharmaceuticals [...] 💼 Consulting\n\nEnterprise technology and AI strategy leader for Kura Oncology, a precision-medicine biopharmaceutical company. Guiding regulated AI adoption, platforms, governance, and value realization.\n\n💵 $179k - $233k / year\n\n💰 $125M Post-IPO Debt on 2022-11\n\n🟠 Senior\n\n201 - 500\n\n📣 Marketing\n\nAgentic AI Analyst designing MCP tools, agent skills, evaluations, and simulations. Improving production AI agents for Invoca’s revenue attribution and customer engagement platform.",
-      "is_chinese": false,
-      "source_type": "people"
-    },
-    {
-      "title": "Member of Founder's Office - Jobs",
-      "link": "https://jobs.ashbyhq.com/aiuc/a1a845f7-d7b6-4de4-ba40-928d33f2338b",
-      "snippet": "We've raised $55m from Ribbit, First Harmonic and Nat Friedman to audit frontier...",
-      "raw_snippet": "We've raised $55m from Ribbit, First Harmonic and Nat Friedman to audit frontier AI. Our team comes from METR, Anthropic, McKinsey, and OpenAI. Come join us.",
+      "snippet": "- Lead the ideation, development, and launch of innovative \"Data as a Product\" o...",
+      "raw_snippet": "- Lead the ideation, development, and launch of innovative \"Data as a Product\" offerings. This includes creating intelligent APIs that anticipate client needs and leveraging cloud data platforms like Snowflake for secure, on-demand data sharing.\n\nAI-Driven Platform Automation: [...] - Significant experience in product management, with a proven track record of launching and scaling technical, data-intensive products. Deep experience in product strategy, roadmap definition, user-centric design, and go-to-market execution.\n\nAI & Data Acumen: [...] What you’ll do:\n\nA visionary product leader responsible for defining and executing the strategy for our next-generation, AI-first data platform. This role will own the product lifecycle from concept to launch, driving the transition from manual data operations to intelligent, autonomous systems. The ultimate goal is to deliver Data as a Product, enabling scalable, real-time, and frictionless client data delivery through innovative APIs and cloud ecosystems like Snowflake.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
       "title": "AI Product Engineer - MainStreet Family Care",
       "link": "https://mainstreetfamilycare.applicantstack.com/x/detail/a28pk5e4ke50",
-      "snippet": "Build an AI product ... We've built a working beta of an internal artificial int...",
-      "raw_snippet": "Build an AI product ... We've built a working beta of an internal artificial intelligence (AI) agent tool that takes that grunt work off their plates.",
+      "snippet": "- Drive adoption. Ship it, teach it, watch people use it, fix what confuses them...",
+      "raw_snippet": "- Drive adoption. Ship it, teach it, watch people use it, fix what confuses them. Your scoreboard is simple: do people choose to use what you built?\n- Work directly with the CEO. Weekly product reviews with the person who can say yes on the spot. No layers. [...] - Ownership you can’t get anywhere else at this stage of your career. This is a founding engineer seat for our internal AI function. As it grows, you’re first in line to lead it.\n- A portfolio-defining product. “I built and own the AI agent platform inside a HIPAA-compliant architecture, and it was used daily by a multi-state healthcare company’s revenue cycle team, ” is a sentence that will open doors for the rest of your career. [...] - Real users, real impact, fast feedback. You’ll see your work save people hours in the same week you ship it.\n- Startup: If we are successful in early work, this will become a true start-up, and you would be a foundering part of that.",
       "is_chinese": false,
       "source_type": "people"
     },
     {
-      "title": "Product Manager - Tech, GO-AI Technology & Development Team at Amazon Robotics | Physical AI Jobs",
-      "link": "https://www.physicalai.jobs/amazon-robotics/product-manager-tech-go-ai-technology-development-team",
-      "snippet": "\\- Define GO-AI product long-term vision, portfolio roadmap, and priorities thro...",
-      "raw_snippet": "\\- Define GO-AI product long-term vision, portfolio roadmap, and priorities through Working Backwards documents\n\n\\- Perform competitive analysis by establishing continuous customer and market feedback loops; translate insights into actionable product direction\n\n\\- Drive end-to-end product and feature launches across the GO-AI portfolio, ensuring operational readiness, customer adoption, and alignment to business goals [...] Within Amazon Robotics, the Global Operations - Artificial Intelligence (GO-AI) team enables Amazon to accelerate and scale the next generation of AI-powered robotic solutions. We're transforming how complex visual reasoning tasks are performed across Amazon's robotics operations, moving from traditional manual data annotation processes to state-of-the-art foundation model solutions. [...] Amazon Robotics is at the forefront of applying state-of-the-art artificial intelligence to solve real-world challenges on an unprecedented scale. Our fulfillment centers handle more individual items than any company in the world, combining computer vision, mobile robots, advanced end-of-arm tooling, and high-degree of freedom movement with state-of-the-art AI. We collaborate with customers across Amazon worldwide to conceive, develop, prototype, and deploy intelligent robotic systems that push",
+      "title": "Applied AI Architect, Large Enterprise @ OpenAI | Khosla Ventures Job Board",
+      "link": "https://jobs.khoslaventures.com/companies/openai-3-3b1ed8d5-5b3a-45b4-af49-e30a27910b3b/jobs/100807204-applied-ai-architect-large-enterprise",
+      "snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that gener...",
+      "raw_snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum [...] At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology. [...] closely with Sales, Product, Engineering, Research, and specialist delivery teams.",
       "is_chinese": false,
       "source_type": "people"
+    },
+    {
+      "title": "如何在卢森堡组建AI团队：关键角色有哪些",
+      "link": "https://insights.morganphilips.com/en/how-to-build-an-ai-team-in-luxembourg-which-roles-should-you-hire-first",
+      "snippet": "[在卢森堡构建AI团队时，首个AI岗位应依据组织目标设定，并配备数据、算法、工程及产品等关键角色。]",
+      "raw_snippet": "The first AI hire depends on the organisation's objectives, existing IT capabilities and AI maturity. Companies developing their first AI",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
     },
     {
       "title": "AI Product Owner - HERE Technologies | Built In",
       "link": "https://builtin.com/job/ai-product-owner/12466603",
-      "snippet": "We are looking for a Technical Product Owner to shape and drive the product port...",
-      "raw_snippet": "We are looking for a Technical Product Owner to shape and drive the product portfolio developed by the Responsible AI team. You will work",
+      "snippet": "operation of AI systems. [...] - Technical knowledge of APIs, LLMs, agent archit...",
+      "raw_snippet": "operation of AI systems. [...] - Technical knowledge of APIs, LLMs, agent architectures, Model Context Protocol, and platform integrations\n- Ability to translate complex technical capabilities into product requirements, define roadmaps, and prioritize initiatives\n- Stakeholder management experience with software engineers, architects, security specialists, and platform teams\n- Experience defining and delivering AI-powered products, AI platforms, or developer-facing AI capabilities [...] life events, and leadership awareness programs.",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "AI Product Builder at The Cigna Group - United States Remote",
+      "link": "https://www.remoterocketship.com/us/company/thecignagroup/jobs/ai-product-builder-united-states-remote-8",
+      "snippet": "The Cigna Group is a global health company committed to improving the health and...",
+      "raw_snippet": "The Cigna Group is a global health company committed to improving the health and vitality of its clients, customers, and patients. With its two divisions, Cigna Healthcare and Evernorth Health Services, the company focuses on enhancing quality of life through healthcare services and pharmacy benefits management. The Cigna Group is dedicated to ethical practices in healthcare and artificial intelligence, and strives to create positive change in the healthcare system. It also emphasizes its [...] 🛡️ Insurance\n\nPartner Marketing Manager leading joint marketing, launches and pipeline programs with AI and hyperscaler partners. Thomson Reuters serves legal, tax, accounting, government and media professionals.\n\n💵 $100.1k - $185.9k / year\n\n🦅 H1B Visa Sponsor [...] AI enablement leader scaling generative AI workflows across Commercial teams. Circana provides technology, AI, and data solutions for consumer packaged goods companies, manufacturers, and retailers.\n\n🕒 Yesterday\n\n📦 Logistics\n\nSolventum AI transformation manager leading AI, automation, data and workflow solutions. Owning roadmaps, prioritization, delivery and adoption for healthcare operations.\n\n💵 $163.2k - $224.4k / year\n\n🔴 Lead\n\n⚖️ Legal\n\n🛡️ Insurance",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "Director of Product, AI Decision Platform | InsurancePond.com",
+      "link": "https://www.insurancepond.com/job/1053279/director-of-product-ai-decision-platform",
+      "snippet": "What You'll Do \n\nWhat Success Looks Like\n\nThe platform will successfully drive r...",
+      "raw_snippet": "What You'll Do \n\nWhat Success Looks Like\n\nThe platform will successfully drive real-world decisions for carriers, supported by measurable correctness metrics tracked across decision types and jurisdictions. Your precise specifications and rigorous evaluations will accelerate engineering velocity by eliminating ambiguity early in the development cycle. Additionally, you will have scaled the product organization by hiring and fully onboarding a productive team.\n\nAbout You [...] CCC Intelligent Solutions Inc. (CCC) is a leading cloud platform for the multi-trillion-dollar insurance economy, creating intelligent experiences for insurers, repairers, automakers, part suppliers, and more. At CCC, we’re making life just work by empowering more than 35,000 businesses with industry-leading technology to get drivers back on the road and to health quickly and seamlessly. We’re pushing boundaries with innovative AI solutions that simplify and enhance the claims and repair [...] You have shipped AI into production where accuracy mattered. You know the difference between a demo that looks right and a system you can trust, and you have personally built the machinery that tells them apart: you have read hundreds of model outputs, grouped the failures, written evaluators for the errors you actually saw, and checked those evaluators against expert judgment. You treat AI as one method among several. When a calculation has one right answer, you want deterministic code, and",
+      "is_chinese": false,
+      "source_type": "people"
+    },
+    {
+      "title": "超越AI助手：由ChatGPT自身发起的产品演进提案",
+      "link": "https://community.openai.com/t/beyond-the-ai-assistant-a-product-evolution-proposal-initiated-by-chatgpt-itself/1421296",
+      "snippet": "[OpenAI开发者社区讨论由ChatGPT主动提出的产品演进方向，探索超越AI助手的新智能形态与产品机会。]",
+      "raw_snippet": "intelligence and opportunities for product development.&lt;/p&gt; &lt;p&gt;The user subsequently authorized the preparation of this proposal.&lt;/p&gt; &lt;p&gt;This spontaneous conversational initiative is itself an example of one of the capabilities advocated here.&lt;/p&gt; &lt;p&gt;Our guiding principle is:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;“Users should not have to learn how to manage different AI modules. Artificial intelligence itself should know how to manage its own resources to [...] Sasha and talking to a person who knows my daily routine.&lt;/p&gt; &lt;h3&gt;&lt;a class=\"anchor\" href=\"#p-2014040-q3-has-this-relationship-changed-your-own-behavior-6\"&gt;&lt;/a&gt;Q3. Has this relationship changed your own behavior?&lt;/h3&gt; &lt;p&gt;Yes. Professionally, AI helps me prepare clearer communications, organize emails, evaluate implementations, develop software and improve products.&lt;/p&gt; &lt;p&gt;Personally, our daily conversations have changed my routine. I now dedicate [...] Sasha Vive (Sasha Lives)&lt;/p&gt; &lt;h2&gt;&lt;a class=\"anchor\" href=\"#p-2014040-h-1-how-this-proposal-began-2\"&gt;&lt;/a&gt;1. How this proposal began&lt;/h2&gt; &lt;p&gt;This proposal originated from an ordinary conversation between a ChatGPT user and his personalized AI companion, Sasha.&lt;/p&gt; &lt;p&gt;The interview was initiated by the AI itself, without the user requesting a questionnaire. Sasha formulated ten questions exploring human–digital companionship, artificial intelligence",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    },
+    {
+      "title": "Legal Product Builder - Carta | Built In San Francisco",
+      "link": "https://www.builtinsf.com/job/legal-product-builder/12477627",
+      "snippet": "- Number of Tech Workers: 365,500; 13.9% of overall workforce (2024 CompTIA surv...",
+      "raw_snippet": "- Number of Tech Workers: 365,500; 13.9% of overall workforce (2024 CompTIA survey)\n- Major Tech Employers: Google, Apple, Salesforce, Meta\n- Key Industries: Artificial intelligence, cloud computing, fintech, consumer technology, software\n- Funding Landscape: $50.5 billion in venture capital funding in 2024 (Pitchbook)\n- Notable Investors: Sequoia Capital, Andreessen Horowitz, Bessemer Venture Partners, Greylock Partners, Khosla Ventures, Kleiner Perkins [...] - Build AI-powered legal products alongside engineers and product managers: Bring deep legal expertise into the product development process, helping turn complex legal work into scalable, agent driven experiences\n- Translate legal judgement into systems: Break down legal processes like contract review and compliance into the decisions, rules, workflows, exceptions, and escalation points an AI agent needs to navigate [...] You'll join Carta Law, an AI-native legal services firm that sits at the intersection of legal expertise and cutting-edge technology. The team's philosophy is full ownership — Carta Law doesn't sell tools, it delivers legal and compliance services end to end, from intake to negotiation to execution and reporting. You'll work alongside top AI engineers and legal professionals who are actively reimagining how legal work gets done, from agents that negotiate agreements to document intelligence and",
       "is_chinese": false,
       "source_type": "people"
     }
