@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-28",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "news": [
+    {
+      "title": "OpenAI Pre-IPO Trading: Trade OpenAI CFDs | Plus500",
+      "link": "https://www.plus500.com/en-cy/newsandmarketinsights/openai-pre-ipo-cfd-trading-guide",
+      "snippet": "For OpenAI, developments in the AI industry, funding announcements, financial pe...",
+      "raw_snippet": "For OpenAI, developments in the AI industry, funding announcements, financial performance and IPO-related news may influence expectations surrounding the company's valuation. [...] ### 2. Competition in the AI industry\n\nOpenAI operates in a competitive market alongside companies developing large language models, AI infrastructure and enterprise AI applications.\n\nNew model releases, technological advances and changes in market share could affect sentiment towards the company.\n\n### 3. Funding rounds and company valuations\n\nPrivate funding rounds and secondary-market transactions can provide indications of how investors value OpenAI. [...] The appropriate instrument depends on an individual's objectives, risk tolerance and understanding of the relevant financial product.\n\n## Conclusion\n\nOpenAI's role in artificial intelligence and the prospect of a future IPO have generated interest in its potential public-market valuation.\n\nThrough pre-IPO CFDs, Plus500 provides eligible traders with a way to gain exposure to OpenAI's market capitalisation or valuation before its IPO without purchasing shares in the company.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 1
+    },
+    {
+      "title": "EBS Investment Club – Hands-On Stock Valuation with AI - Fienta",
+      "link": "https://fienta.com/214212",
+      "snippet": "During the workshop, we'll explore how AI can be used to analyse companies, evaluate stocks, and support investment decisions. Rather than just",
+      "raw_snippet": "During the workshop, we'll explore how AI can be used to analyse companies, evaluate stocks, and support investment decisions. Rather than just",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 2
+    },
+    {
+      "title": "AI trade round-up: what data providers are saying – Finadium",
+      "link": "https://finadium.com/ai-trade-round-up-what-data-providers-are-saying",
+      "snippet": "S&P Global: Anthropic IPO reshaped both cash and secfinance\n\nFew IPOs arrive wit...",
+      "raw_snippet": "S&P Global: Anthropic IPO reshaped both cash and secfinance\n\nFew IPOs arrive with enough scale to reshape both the cash and securities finance markets almost immediately. Anthropic has done exactly that. After the artificial intelligence company listed on Nasdaq under the ANT ticker, securities lending data already shows a sizeable pool of borrow developing, while the next phase of the story could increasingly be driven by ETFs and index inclusion. [...] Investor demand translated into remarkable secondary market activity. ANT opened at $111.50 on November 19, briefly pushing the company’s valuation above $2 trillion, before closing its first session at $97.17, 17% above the IPO price. More than 846 million shares changed hands on the first day, exceeding the 522 million shares traded during SpaceX’s debut. [...] Long and short positions in Nvidia were colliding with record moves: down 28% in seven sessions, then up 31% in one. Nasdaq shorts made $83 billion on the way down and lost $39 billion on Monday November 23. Some investors may be sitting on massive losses: short at the bottom, long on the way down, or both.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 3
+    },
+    {
+      "title": "From Data Room to Report: End-to-End AI Support for M&A Legal Due Diligence",
+      "link": "https://arxiv.org/html/2611.34120v1",
+      "snippet": "Legal due diligence in mergers and acquisitions requires lawyers to organize het...",
+      "raw_snippet": "Legal due diligence in mergers and acquisitions requires lawyers to organize heterogeneous virtual data room documents, extract transaction-relevant information and consolidate reviewed findings into a due diligence report. We present LEXI (Legal Extraction and Intelligence), a work-in-progress system that demonstrates how large language models can support this process from document ingestion to report preparation. LEXI classifies documents under a configurable due diligence taxonomy, assigns [...] varies considerably across datasets from different languages and legal systems \\. Roegiest et al. \\ formulate due-diligence passage retrieval as information retrieval, Jang and Stikkel \\ examine LLM support for due diligence, Berger et al. \\ study regulatory-compliance verification and Yang et al. \\ examine generative AI in legal document review. In financial auditing, recommender systems match text passages of financial reports to the legal requirements of accounting standards \\[9, 10]. A [...] evaluations of the classification and extraction components provide preliminary evidence that the approach is feasible. LEXI illustrates how AI can be integrated across the legal due diligence workflow while preserving lawyer control over substantive legal judgment.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 4
+    },
+    {
+      "title": "Medium",
+      "link": "https://medium.com/@francescodeliva/can-ai-price-a-secondaries-fund-8ba1f516275a",
+      "snippet": "- About 85% of teams see no single source of truth. What the fund reports and wh...",
+      "raw_snippet": "- About 85% of teams see no single source of truth. What the fund reports and what the firm already knows sit in different places.\n- About 70% say the work is getting more complex. More data, more modelling, the same small pool of experts. Up to three days of senior time to collect and reconcile one fund.\n- About 55% want AI but have no clear roadmap. What to build, what to buy, and in which order. [...] Between August and November 2026 my team and I spoke with more than 50 secondaries teams, representing about 60% of global secondaries AUM: deal teams, heads of data, portfolio teams and advisors. We asked a simple question: how do you underwrite a fund today, and where does AI help or fail?\n\nWe wrote everything in a 24 page whitepaper. Please trust me, it is a good read. But if you have a data room open in the other tab, here are the five lessons. [...] 1. In secondaries, the discount is the return: a small error in the inputs is a big error in the price.\n2. The information is already inside your firm. The problem is connecting it before the bid.\n3. General AI is excellent for a memo, but a fluent answer is not a correct answer. Check the structure first.\n4. Data is what you store. Memory is that data connected, and it is the one asset nobody else has.",
+      "is_chinese": false,
+      "source_type": "funding",
+      "index": 5
+    },
+    {
+      "title": "Eric Vaughan Featured in Chief Executive’s “Talent Strategy in the New World” - GFI Software",
+      "link": "https://gfi.ai/chief-executive-talent-strategy-new-world",
+      "snippet": "“The hardest hires are people who have actually run AI in production—engineers w...",
+      "raw_snippet": "“The hardest hires are people who have actually run AI in production—engineers who’ve had a model in front of real users, at real volume, with real consequences when it gets something wrong,” says Shay Levi, CEO of Unframe, whose managed AI platform serves global enterprises. [...] The distinction matters because CEOs are now confronting a talent challenge that reaches well beyond the shortage of AI engineers and data scientists that has become familiar. Artificial intelligence is rapidly changing the task mix inside thousands of jobs, from software development and finance to customer service and sales. Among companies that reduced frontline headcount in 2025, 31 percent cited AI as a factor, according to Chief Executive’s Financial Performance Benchmarks survey earlier [...] In a crisis, for example, a communications leader might use AI for analysis or a first draft, but the final call still requires a human reading of stakeholder expectations, culture, trust and risk. “Some of that is culture, some of it is instinct, some of that is AI-generated insight, some of it is debate with the right people in the room and looking at the analysis,” says Janice Kapner, founder and CEO of Kapner Perspective Group and former chief communications and corporate responsibility",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 6
+    },
+    {
+      "title": "AI Product Development Consulting | BCG",
+      "link": "https://www.bcg.com/capabilities/artificial-intelligence/ai-product-development-consulting",
+      "snippet": "BCG Answer))BCG Answer   Image 39 BCG AnswerDiscover the answer to your most imp...",
+      "raw_snippet": "BCG Answer))BCG Answer   Image 39 BCG AnswerDiscover the answer to your most important business challenges. BCG Answer delivers integrated insights powered by our latest cross-functional expertise. Ask us a question    \n       The CEO Agenda))The CEO Agenda   Image 40: THE-CEO-AGENDA-static.jpg The CEO AgendaA forward-thinking CEO agenda has never been more crucial. Our insights give you greater clarity on what lies ahead, helping you lead with confidence. Visit Page [...] Within Careers \n       Search Jobs\n       Early Careers\n       Culture, Values, and Inclusion\n       Experienced Professionals\n       Locations\n       Events\n\nArtificial Intelligence\n\n# AI Product Development\n\nAI is changing what companies can afford to build. BCG's AI product development services help organizations accelerate innovation, bring new products to market more quickly, and develop the engineering capabilities needed to deliver lasting customer value.\n\nImage 50 [...] )Artificial Intelligence   \n\nImage 17: AI V2 Hero Video Artificial IntelligenceScaling artificial intelligence can create a massive competitive advantage. Learn how our AI-driven initiatives have helped clients extract value. Visit Page  \n\n  \n\nWithin Artificial Intelligence \n               AI Agents\n               AI Product Development\n               Generative AI\n               Responsible AI",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 7
+    },
+    {
+      "title": "Applied AI Architect, Large Enterprise @ OpenAI | Khosla Ventures Job Board",
+      "link": "https://jobs.khoslaventures.com/companies/openai-3-3b1ed8d5-5b3a-45b4-af49-e30a27910b3b/jobs/100807204-applied-ai-architect-large-enterprise",
+      "snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that gener...",
+      "raw_snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum [...] At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology. [...] closely with Sales, Product, Engineering, Research, and specialist delivery teams.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 8
+    },
+    {
+      "title": "Dunzo founder's AI startup M raises $9M to automate the home | Dealroom News",
+      "link": "https://dealroom.co/news/176438-dunzo-founder-s-ai-startup-m-raises-9m-to-automate-the-home",
+      "snippet": "# Dunzo founder's AI startup M raises $9M to automate the home\n\nWhat's the deal?...",
+      "raw_snippet": "# Dunzo founder's AI startup M raises $9M to automate the home\n\nWhat's the deal? M, the artificial intelligence startup founded by Dunzo co-founder Kabeer Biswas, has raised $9 million in a seed extension led by US venture firm RTP Global. RTP Global contributed $5 million, with existing investors adding the remaining $4 million, according to a November report by Moneycontrol. [...] The money trail: The round takes M's total funding to roughly $20 million. It follows an $11 million seed round in April 2026 backed by Peak XV Partners, Blume Ventures, and CRED.\n\nWhat's the endgame? M is building an AI-powered household concierge that aims to automate the decisions and coordination involved in running a home. It is starting with kitchen management — meal planning, tracking grocery needs, and coordinating with domestic staff. [...] Read more: lapaasvoice.com\n\nImage credit: Generated with Gemini",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 9
+    },
+    {
+      "title": "Entrepreneur Abigail Horne Says AI Needs a Human Layer on ...",
+      "link": "https://www.desmoinesregister.com/press-release/story/158698/entrepreneur-abigail-horne-says-ai-needs-a-human-layer-on-tomorrow-today",
+      "snippet": "Abigail Horne discusses trust in artificial intelligence, human dignity in autom...",
+      "raw_snippet": "Abigail Horne discusses trust in artificial intelligence, human dignity in automated decisions and the values that should guide AI.",
+      "is_chinese": false,
+      "source_type": "people",
+      "index": 10
+    }
+  ]
+}

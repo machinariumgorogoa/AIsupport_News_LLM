@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-28",
+  "header": {
+    "title": "🤖 AI业界动态早报",
+    "subtitle": "machinariumAIsupport | 每日早8点自动推送"
+  },
+  "categories": [
+    {
+      "name": "融资速报",
+      "items": [
+        {
+          "title": "OpenAI Pre-IPO Trading: Trade OpenAI CFDs | Plus500",
+          "link": "https://www.plus500.com/en-cy/newsandmarketinsights/openai-pre-ipo-cfd-trading-guide",
+          "snippet": "For OpenAI, developments in the AI industry, funding announcements, financial pe...",
+          "index": 1
+        },
+        {
+          "title": "EBS Investment Club – Hands-On Stock Valuation with AI - Fienta",
+          "link": "https://fienta.com/214212",
+          "snippet": "During the workshop, we'll explore how AI can be used to analyse companies, evaluate stocks, and support investment decisions. Rather than just",
+          "index": 2
+        },
+        {
+          "title": "AI trade round-up: what data providers are saying – Finadium",
+          "link": "https://finadium.com/ai-trade-round-up-what-data-providers-are-saying",
+          "snippet": "S&P Global: Anthropic IPO reshaped both cash and secfinance\n\nFew IPOs arrive wit...",
+          "index": 3
+        },
+        {
+          "title": "From Data Room to Report: End-to-End AI Support for M&A Legal Due Diligence",
+          "link": "https://arxiv.org/html/2611.34120v1",
+          "snippet": "Legal due diligence in mergers and acquisitions requires lawyers to organize het...",
+          "index": 4
+        },
+        {
+          "title": "Medium",
+          "link": "https://medium.com/@francescodeliva/can-ai-price-a-secondaries-fund-8ba1f516275a",
+          "snippet": "- About 85% of teams see no single source of truth. What the fund reports and wh...",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "行业动态-大模型",
+      "items": [
+        {
+          "title": "Eric Vaughan Featured in Chief Executive’s “Talent Strategy in the New World” - GFI Software",
+          "link": "https://gfi.ai/chief-executive-talent-strategy-new-world",
+          "snippet": "“The hardest hires are people who have actually run AI in production—engineers w...",
+          "index": 6
+        },
+        {
+          "title": "AI Product Development Consulting | BCG",
+          "link": "https://www.bcg.com/capabilities/artificial-intelligence/ai-product-development-consulting",
+          "snippet": "BCG Answer))BCG Answer   Image 39 BCG AnswerDiscover the answer to your most imp...",
+          "index": 7
+        },
+        {
+          "title": "Applied AI Architect, Large Enterprise @ OpenAI | Khosla Ventures Job Board",
+          "link": "https://jobs.khoslaventures.com/companies/openai-3-3b1ed8d5-5b3a-45b4-af49-e30a27910b3b/jobs/100807204-applied-ai-architect-large-enterprise",
+          "snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that gener...",
+          "index": 8
+        },
+        {
+          "title": "Dunzo founder's AI startup M raises $9M to automate the home | Dealroom News",
+          "link": "https://dealroom.co/news/176438-dunzo-founder-s-ai-startup-m-raises-9m-to-automate-the-home",
+          "snippet": "# Dunzo founder's AI startup M raises $9M to automate the home\n\nWhat's the deal?...",
+          "index": 9
+        },
+        {
+          "title": "Entrepreneur Abigail Horne Says AI Needs a Human Layer on ...",
+          "link": "https://www.desmoinesregister.com/press-release/story/158698/entrepreneur-abigail-horne-says-ai-needs-a-human-layer-on-tomorrow-today",
+          "snippet": "Abigail Horne discusses trust in artificial intelligence, human dignity in autom...",
+          "index": 10
+        }
+      ]
+    }
+  ]
+}
