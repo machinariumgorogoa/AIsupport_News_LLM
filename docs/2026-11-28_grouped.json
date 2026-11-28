@@ -9,33 +9,33 @@
       "name": "融资速报",
       "items": [
         {
-          "title": "OpenAI Pre-IPO Trading: Trade OpenAI CFDs | Plus500",
-          "link": "https://www.plus500.com/en-cy/newsandmarketinsights/openai-pre-ipo-cfd-trading-guide",
-          "snippet": "For OpenAI, developments in the AI industry, funding announcements, financial pe...",
+          "title": "AI今年主导IPO市场",
+          "link": "https://private-wealth.us.cibc.com/insights/articles/weekly-market-perspective-11302026",
+          "snippet": "[今年以来，人工智能（AI）在股权IPO市场表现突出，新股发行格局也呈现类似趋势。]",
           "index": 1
         },
         {
-          "title": "EBS Investment Club – Hands-On Stock Valuation with AI - Fienta",
-          "link": "https://fienta.com/214212",
-          "snippet": "During the workshop, we'll explore how AI can be used to analyse companies, evaluate stocks, and support investment decisions. Rather than just",
+          "title": "Anthropic IPO之后，两家可能接棒的AI公司",
+          "link": "https://forgeglobal.com/insights/startup-trends-after-anthropic-ipo-2-ai-companies-next",
+          "snippet": "[Anthropic亮相将AI IPO叙事带入新阶段，市场关注接下来可能上市的两家公司。]",
           "index": 2
         },
         {
-          "title": "AI trade round-up: what data providers are saying – Finadium",
-          "link": "https://finadium.com/ai-trade-round-up-what-data-providers-are-saying",
-          "snippet": "S&P Global: Anthropic IPO reshaped both cash and secfinance\n\nFew IPOs arrive wit...",
+          "title": "Withum私募股权投资服务",
+          "link": "https://www.withum.com/industries/private-equity-services",
+          "snippet": "[Withum发布私募股权投资洞察，展示专业人士如何借助相关服务提升价值。]",
           "index": 3
         },
         {
-          "title": "From Data Room to Report: End-to-End AI Support for M&A Legal Due Diligence",
-          "link": "https://arxiv.org/html/2611.34120v1",
-          "snippet": "Legal due diligence in mergers and acquisitions requires lawyers to organize het...",
+          "title": "AI评估技术采纳的驱动因素与障碍",
+          "link": "https://www.planningmalaysia.org/index.php/pmj/article/view/2420",
+          "snippet": "[人工智能正深刻改变评估行业，研究系统分析推动与制约AI评估技术采纳的关键因素。]",
           "index": 4
         },
         {
-          "title": "Medium",
-          "link": "https://medium.com/@francescodeliva/can-ai-price-a-secondaries-fund-8ba1f516275a",
-          "snippet": "- About 85% of teams see no single source of truth. What the fund reports and wh...",
+          "title": "前沿AI公司的收入与估值",
+          "link": "https://www.ijfmr.com/research-paper.php?id=92776",
+          "snippet": "[本文探讨前沿AI公司的收入模式、增长指标及其对公司估值的影响、挑战与评估方法。]",
           "index": 5
         }
       ]
@@ -44,33 +44,33 @@
       "name": "行业动态-大模型",
       "items": [
         {
-          "title": "Eric Vaughan Featured in Chief Executive’s “Talent Strategy in the New World” - GFI Software",
-          "link": "https://gfi.ai/chief-executive-talent-strategy-new-world",
-          "snippet": "“The hardest hires are people who have actually run AI in production—engineers w...",
+          "title": "BCG AI产品开发咨询",
+          "link": "https://www.bcg.com/capabilities/artificial-intelligence/ai-product-development-consulting",
+          "snippet": "[BCG提供AI产品开发咨询服务，依托BCG Answer等工具助力企业发掘并落地创新方案。]",
           "index": 6
         },
         {
-          "title": "AI Product Development Consulting | BCG",
-          "link": "https://www.bcg.com/capabilities/artificial-intelligence/ai-product-development-consulting",
-          "snippet": "BCG Answer))BCG Answer   Image 39 BCG AnswerDiscover the answer to your most imp...",
+          "title": "Conduct CEO谈为企业IT团队打造AI操作系统",
+          "link": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams",
+          "snippet": "[Conduct CEO表示公司并非迁移软件，而是为大型企业IT团队构建AI原生操作系统。]",
           "index": 7
         },
         {
-          "title": "Applied AI Architect, Large Enterprise @ OpenAI | Khosla Ventures Job Board",
-          "link": "https://jobs.khoslaventures.com/companies/openai-3-3b1ed8d5-5b3a-45b4-af49-e30a27910b3b/jobs/100807204-applied-ai-architect-large-enterprise",
-          "snippet": "OpenAI is an AI research and deployment company dedicated to ensuring that gener...",
+          "title": "Dunzo创始人的AI初创公司M获900万美元融资",
+          "link": "https://dealroom.co/news/176438-dunzo-founder-s-ai-startup-m-raises-9m-to-automate-the-home",
+          "snippet": "[Dunzo创始人创立AI初创公司M，融资900万美元，旨在实现家庭场景自动化。]",
           "index": 8
         },
         {
-          "title": "Dunzo founder's AI startup M raises $9M to automate the home | Dealroom News",
-          "link": "https://dealroom.co/news/176438-dunzo-founder-s-ai-startup-m-raises-9m-to-automate-the-home",
-          "snippet": "# Dunzo founder's AI startup M raises $9M to automate the home\n\nWhat's the deal?...",
+          "title": "企业家Abigail Horne称AI需保留“人的一层”",
+          "link": "https://www.desmoinesregister.com/press-release/story/158698/entrepreneur-abigail-horne-says-ai-needs-a-human-layer-on-tomorrow-today",
+          "snippet": "[Abigail Horne认为，AI系统应加入人类监督层，确保人与AI代理共同决策时的问责机制。]",
           "index": 9
         },
         {
-          "title": "Entrepreneur Abigail Horne Says AI Needs a Human Layer on ...",
-          "link": "https://www.desmoinesregister.com/press-release/story/158698/entrepreneur-abigail-horne-says-ai-needs-a-human-layer-on-tomorrow-today",
-          "snippet": "Abigail Horne discusses trust in artificial intelligence, human dignity in autom...",
+          "title": "Harvey合同智能：AI合同审查与洞察",
+          "link": "https://www.harvey.ai/platform/contract-intelligence",
+          "snippet": "[Harvey提供AI合同审查与洞察服务，满足SOC2 II、CCPA、GDPR及AIUC-1等合规要求。]",
           "index": 10
         }
       ]
